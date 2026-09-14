@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "vc-investment-memory"
+version = "0.1.0"
+description = "Source-grounded investor investment wikis generated with Sol"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+investor-memory = "wiki_build.__main__:main"
+
+[tool.setuptools]
+packages = ["wiki_build"]
+
+[tool.setuptools.package-data]
+wiki_build = ["taxonomy.json", "AGENT.md"]

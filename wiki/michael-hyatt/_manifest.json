@@ -1,0 +1,65 @@
+{
+  "vc_slug": "michael-hyatt",
+  "corpus_chars": 50103,
+  "thin_corpus": true,
+  "no_pitch_sources": true,
+  "sources_consumed": [
+    "source:7585556183e5792852752e211c49e13a11bd3b7f22c0f6cdad0e84f59962aae4",
+    "source:c18858396c3a1a61b806ecf4ee95d75f07b0033cad4ee65722af78ac89f41520",
+    "source:5780bf347be121d46f3cf7664acd0e18aebbc8afaa7f6da52576213f160b39e7"
+  ],
+  "evidence_count": 32,
+  "persona_tokens": 2849,
+  "persona_tokens_method": "ceil_characters_divided_by_4_estimate",
+  "taxonomy_version": "v_final",
+  "generated_at": "2026-09-14T18:52:42.470076+00:00",
+  "schema_version": "1.0",
+  "generation": {
+    "model": "gpt-5.6-sol",
+    "revision": "investor-memory-v1",
+    "calls": [
+      {
+        "key": "eb7afe1717a9c4cd721ef25aed96a96de3b6170603fef9954e8935ef6471f523",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.0
+      },
+      {
+        "key": "ac0d14ab985b4a4142f71958191df0817aa0397843056050523e62c23b964c15",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.0
+      },
+      {
+        "key": "0502256905152b478b758b849e1f8c56df064517f2a46f6d5dcae59b782cbaa5",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.0
+      },
+      {
+        "key": "c13f631d72a0f29042ffac603756d1f42ac41988513dccb1815d8fca57be095c",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.0
+      },
+      {
+        "key": "79fc5a7bef279562c96dcf1ea36290defed5fd859e6b57f8623e84b6007fb98c",
+        "cached": false,
+        "repaired": true,
+        "seconds": 76.85
+      }
+    ],
+    "source_chunks": 4
+  },
+  "warnings": [
+    "Thin corpus: fewer than 600,000 characters; avoid extrapolating hard investment rules.",
+    "No admissible verified portfolio records; holdings and mandate are unknown.",
+    "Some source publication dates are unknown; historical statements are not current facts.",
+    "Some documents have low search identity confidence; admission relies on accepted speaker attribution."
+  ],
+  "input_hashes": {
+    "corpus/all_documents.jsonl": "91a5c682d811ae1884910affdfc67a90bebe5b07d57666a83581a3bb19e4c446",
+    "identity/resolved_identity.json": "5fc66de63f901553107c2e17866a4e173def5dcbeb7da48e7c49d047b151f392",
+    "portfolio/portfolio.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
+}

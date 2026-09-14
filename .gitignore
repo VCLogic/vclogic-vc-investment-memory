@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+build/
+dist/
+.wiki-cache/
+# Source exports contain large media/raw artifacts; kept locally, not auto-committed.
+data/
