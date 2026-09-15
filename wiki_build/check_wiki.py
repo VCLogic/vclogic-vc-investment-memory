@@ -40,26 +40,36 @@ def validate_evidence(entries, prepared):
     return errors
 
 
-def validate_synthesis(synthesis, entries, portfolio=None):
+def validate_synthesis(synthesis, entries, portfolio=None, context=None):
     errors = []
     if not isinstance(synthesis, dict):
         return ['synthesis must be an object']
     holdings = {r['record_id']: r for r in (portfolio or [])}
     ids = {e['id'] for e in entries}
+    context_ids = {c['id'] for c in (context or [])}
     for key in ('persona', 'theses', 'portfolio_and_constraints'):
         text = synthesis.get(key)
         if not isinstance(text, str) or not text.strip():
             errors.append(f'missing or empty {key}'); continue
+        for c in set(re.findall(r'\[ctx:([^\]\s]+)\]', text)) - context_ids:
+            errors.append(f'{key}: unresolved context citation [ctx:{c}]')
         for c in set(CITATION.findall(text)) - ids:
             errors.append(f'{key}: unresolved citation [ev:{c}]')
-        for number, line in enumerate(text.splitlines(), 1):
+        lines=text.splitlines()
+        for number, line in enumerate(lines, 1):
+            if key=='portfolio_and_constraints' and context is not None:
+                cited=bool(CITATION.search(line) or re.search(r'\[(?:ctx|portfolio):[^\]]+\]',line))
+                if re.match(r'^\s*[-*]\s',line) and not cited: errors.append(f'{key}:{number}: uncited portfolio list item')
+                if line.strip().startswith('|') and not re.fullmatch(r'[\s|:-]+',line):
+                    is_header=number<len(lines) and bool(re.fullmatch(r'[\s|:-]+',lines[number]))
+                    if not is_header and not cited:errors.append(f'{key}:{number}: uncited portfolio table row')
             for ref in re.findall(r'\[(portfolio:[^\]\s]+)\]', line):
                 if ref not in holdings:
                     errors.append(f'{key}: unresolved portfolio citation [{ref}]')
                 elif holdings[ref]['source_url'] not in line:
                     errors.append(f'{key}: portfolio citation [{ref}] missing its source URL on the same line')
             # Unknowns are prose; every policy/thesis list item must carry evidence.
-            if key in ('persona', 'theses') and re.match(r'^\s*(?:[-*]|\d+\.)\s', line) and not CITATION.search(line):
+            if key in ('persona', 'theses') and re.match(r'^\s*(?:[-*]|\d+\.)\s', line) and not (CITATION.search(line) or re.search(r'\[ctx:[^\]]+\]', line)):
                 errors.append(f'{key}:{number}: uncited policy or thesis bullet')
     persona = synthesis.get('persona', '')
     for dimension in DIMENSIONS:
@@ -96,7 +106,8 @@ def validate(wiki_dir, codebook_labels=None):
         synthesis = {key: (path / filename).read_text(encoding='utf-8') if (path / filename).exists() else ''
                      for key, filename in [('persona', 'persona.md'), ('theses', 'theses.md'),
                                             ('portfolio_and_constraints', 'portfolio_and_constraints.md')]}
-        errors.extend(validate_synthesis(synthesis, entries, prepared.get('portfolio', [])))
+        context = json.loads((path / 'context.json').read_text()) if (path / 'context.json').exists() else []
+        errors.extend(validate_synthesis(synthesis, entries, prepared.get('portfolio', []), context))
         if codebook_labels:
             errors.extend(f'{e["id"]}: label not in supplied codebook' for e in entries if e['label'] not in codebook_labels)
         if not evidence_errors:
@@ -109,7 +120,12 @@ def validate(wiki_dir, codebook_labels=None):
                 page = path / 'evidence' / f'{dimension}.md'
                 if page.exists() and page.read_text(encoding='utf-8') != evidence_page(dimension, entries):
                     errors.append(f'{dimension}: evidence page differs from verified evidence.json')
-        if manifest.get('no_pitch_sources') is not True or prepared.get('no_pitch_sources') is not True:
+        if prepared.get('source_policy') == 'full_investor_export':
+            from .full_build import validate_full_artifacts
+            errors.extend(validate_full_artifacts(path, prepared, entries, context))
+            if manifest.get('source_policy') != 'full_investor_export' or manifest.get('no_pitch_sources') != prepared.get('no_pitch_sources'):
+                errors.append('full source policy manifest mismatch')
+        elif manifest.get('no_pitch_sources') is not True or prepared.get('no_pitch_sources') is not True:
             errors.append('manifest no_pitch_sources is not true')
         if manifest.get('evidence_count') != len(entries):
             errors.append('manifest evidence_count mismatch')
@@ -117,6 +133,6 @@ def validate(wiki_dir, codebook_labels=None):
             errors.append('manifest sources_consumed mismatch')
         if manifest.get('corpus_chars') != sum(len(d['text']) for d in prepared['documents']):
             errors.append('manifest corpus_chars mismatch')
-    except (KeyError, TypeError, AttributeError) as exc:
+    except (KeyError, TypeError, AttributeError, OSError, ValueError) as exc:
         errors.append(f'invalid wiki data structure: {exc}')
     return errors

@@ -1,75 +1,54 @@
 # Investor investment memory
 
-Generate an investor-specific, cited Markdown wiki from a curated source export. Python prepares and validates the evidence; **gpt-5.6-sol** extracts quotations and writes the synthesis through the authenticated Codex CLI.
+Build a cited investor wiki from an entire collected investor directory. **gpt-5.6-sol** reviews every source packet, separates the intended investor from namesakes, extracts exact quotations, and synthesizes the investment memory. Python inventories the files and validates evidence, attribution, citations, and coverage before publishing.
 
-Start with the [Michael Hyatt trial wiki](wiki/michael-hyatt/README.md), its [decision policy](wiki/michael-hyatt/persona.md), [build report](wiki/michael-hyatt/BUILD_REPORT.md), and [trial results](docs/hyatt-trial.md).
+Read [Michael Hyatt’s memory](wiki/michael-hyatt/README.md), [decision policy](wiki/michael-hyatt/persona.md), [company relationships](wiki/michael-hyatt/portfolio_and_constraints.md), and [coverage ledger](wiki/michael-hyatt/coverage.md). The [complete-run report](docs/hyatt-full-run.md) records scope, attribution repairs, and limitations.
 
-## Run
+## Run the complete collection
 
-Requires Python 3.10+ and an installed, authenticated `codex` CLI supporting `exec`, `--ignore-user-config`, and `--output-schema`. No Python runtime dependencies and no separate API SDK/key setup are needed when the CLI is already authenticated. Generation uses model calls under that CLI account. Preparation and validation are offline.
-
-From this repository:
+Requires Python 3.10+, `pip install -e '.[full]'`, and an authenticated Codex CLI supporting `exec`, `--ignore-user-config`, and `--output-schema`. Model calls use that CLI account. Inventory and validation run offline.
 
 ```bash
-# Inspect what will be admitted; no model calls.
-python -m wiki_build prepare data/michael-hyatt
+# Inspect all collected files without model calls.
+python -m wiki_build inventory data/michael-hyatt --output /tmp/hyatt-inventory.json
 
-# Generate into a NEW directory. Default model: gpt-5.6-sol.
-python -m wiki_build build data/michael-hyatt --output wiki/michael-hyatt
+# Review every extracted source and publish into a NEW directory.
+python -m wiki_build full-build data/michael-hyatt \
+  --output wiki/michael-hyatt-rebuild \
+  --supplements supplements/michael-hyatt.json \
+  --identity-resolutions supplements/michael-hyatt-identity.json
 
-# Independently validate a built wiki, without model calls.
-python -m wiki_build check wiki/michael-hyatt
-
-# Offline regression suite.
+python -m wiki_build check wiki/michael-hyatt-rebuild
 python -m unittest discover -s tests -v
 ```
 
-The committed Hyatt wiki already occupies that output path. To reproduce locally, choose `--output wiki/michael-hyatt-rebuild`. Successful cached model calls are reused if their complete prompts, model, schemas, and generator revision match. New model output is not guaranteed to be identical when cache is absent. An optional `pip install -e .` exposes the `investor-memory` command.
+Pass one investor folder with a confirmed `identity/resolved_identity.json`. The full pipeline reads canonical and processed documents, full diarized transcripts, cached transcripts, saved HTML/PDF pages, and portfolio source reports. It deduplicates text while preserving provenance. Discovery snippets and metadata support inventory and identity; they are not investment evidence. Every input file receives a disposition, including duplicates, media represented by transcripts, and unusable material. Namesakes and uncertain identities receive explicit source review decisions.
 
-## Input contract
+The Hyatt supplements recover a downloaded Tank Talk interview that lacked a transcript and document source-backed identity links. Its transcript was generated with Whisper turbo and attributed against the collection’s reference voice. A separate E55 interview uses explicitly documented textual speaker attribution; its acoustic result remains recorded as uncertain. Supplements do not alter the original collection. These are Hyatt-specific receipts, not requirements for other investors.
 
-Pass one investor directory, not the parent `data` directory. The directory name is the investor slug.
+## Output and evidence
 
-```text
-data/<investor>/
-  identity/resolved_identity.json
-  corpus/all_documents.jsonl      # preferred canonical input
-  portfolio/portfolio.jsonl       # optional verified structured records
-```
+- `persona.md`, `theses.md`, `portfolio_and_constraints.md`: the investment memory, preserving the original nine-dimension wiki contract.
+- `evidence/*.md`, `evidence.json`: investor statements with taxonomy labels, attribution, source IDs, and exact quote offsets.
+- `context.md`, `context.json`: source-reported biography, company relationships, and dated events, kept distinct from investor statements.
+- `sources.md`, `prepared.json`: admitted source index and full text snapshot.
+- `inventory.json`, `source_reviews.json`, `coverage.json`, `coverage.md`: complete inventory, every packet’s decision, and coverage accounting, including rejected source texts.
+- `_manifest.json`, `BUILD_REPORT.md`, `validation.json`: model provenance and validation results.
 
-Canonical rows need `source_item_id` (or `doc_id`), nonempty `text`, matching `investor_slug`, included status, and `material_role` of `spoken_by_target` or `authored_by_target`. Spoken material needs an accepted speaker-attribution status. Explicit exclusions, duplicates and identifiable Pitch Show sources are rejected. A present resolved-identity file must be confirmed and match the slug. Missing identity is disclosed as a warning. Full provenance, URLs, dates, input line numbers, attribution metadata and input SHA-256 hashes are retained.
+Company founding, employment, advisory work, board seats, ownership, and investments are distinct relationships. A cited company association does not establish a current holding or personal investment. Historical predictions remain attributed opinions. Complete collection processing does not imply that every fact about the investor or every holding is known.
 
-If canonical input is absent, the tool accepts `corpus/{blog,talks}.jsonl` or root `{blog,talks}.jsonl` only with the corresponding `_manifest.json` explicitly asserting `no_pitch_sources: true`. Legacy exports lack independently checkable speaker metadata; that limitation is recorded. An empty canonical corpus never falls back to raw files. The tool never traverses `processed/`, `raw/`, `discovery/`, `audit/`, or episode transcripts.
+## Resuming and reproducing
 
-The v1 optional portfolio adapter admits flat records with `verification_status: "verified"`, `identity_match: "supported"`, and `source_url`, excluding Pitch sources. Include `company` and any verified relationship/date fields in those records. Unrecognized/unverified rows are counted and excluded, not guessed. Hyatt's actual portfolio file is empty. Empty/missing holdings do **not** imply no investments, and affiliations/cofounder history do not establish holdings. Future nonempty exporter schemas may need an explicit adapter.
+Full runs default to three concurrent Sol calls (`--workers`), 22,000-character source packets, and 1,200 seconds per call (`--timeout`). Prompts, schemas, event logs, raw responses, and validated responses are cached under `.wiki-cache/full-review`. A failed call gets one bounded repair attempt. Accepted batches survive failures. Repeating an identical invocation reuses accepted cache entries.
 
-## Output
+`--inventory saved.json` reuses a specific inventory snapshot instead of scanning the current folder. `--reviews reviews.json` reuses prior packet reviews only when their identity, attribution, source packet, taxonomy, and review-instruction fingerprint still matches, then revalidates their receipts. Older reviews without fingerprints are reprocessed. The cache directory stores consolidated `inventory.json` and, after review succeeds, `reviews.json`. Use the same supplements and identity resolutions when resuming. A changed identity policy may require deliberately omitting prior uncertain decisions so Sol reconsiders them. Cache keys include full prompts, schemas, model, and generator revision.
 
-The existing downstream wiki contract is preserved:
+The full pipeline synthesizes all accepted evidence and context. Large synthesis inputs omit repeated quote text while retaining every interpretation and context claim; exact receipts remain in the artifacts. Inputs exceeding the supported synthesis bound fail explicitly. Output is staged, validated, and published only into an absent destination.
 
-- `persona.md`: cited policy across the nine original dimensions; inferred preferences marked explicitly.
-- `theses.md`: recurring themes with evidence references and uncertainty.
-- `portfolio_and_constraints.md`: verified holdings when available, with unknowns stated.
-- `evidence/<dimension>.md`: original `[ev:ID] label=... direction=... source=...` format and exact transcript excerpts.
-- `_manifest.json`: source IDs, evidence count, thin-corpus flag, timestamp, model and call provenance. `persona_tokens` is a labeled character-based estimate.
+The earlier curated-only `prepare` and `build` commands remain available. Their narrower admission policy excludes Pitch sources and does not traverse raw or processed material. Full mode intentionally lifts that study-specific exclusion and records its different source policy. See [pipeline components](wiki_build/README.md) and the historical [three-talk pilot](docs/hyatt-trial.md).
 
-Additional review artifacts: `README.md`, `BUILD_REPORT.md`, `sources.md`, `prepared.json` (full admitted source snapshot), `evidence.json` (normalized quote offsets), and `validation.json`. Generated artifacts contain source text; share them under the same conditions as the source corpus.
+## Validation limits
 
-## How generation works
+Checks enforce complete source-packet accounting, valid taxonomy, exact quotes, accepted transcript speaker turns, source hashes and offsets, rendered evidence consistency, resolvable citations, and receipts on portfolio table rows. They do not prove a claim’s logical entailment or the accuracy of automated transcription. Source-reported facts and uncertain identity decisions remain reviewable. Generated snapshots contain collected source text and should be handled under the same conditions as the inputs.
 
-1. Deterministic preparation selects curated input, filters inadmissible rows, deduplicates normalized text and records omissions.
-2. Each source is split into bounded chunks (default 30,000 characters). Sol receives only the chunk and taxonomy in its prompt and extracts evidence as structured JSON. Every quotation must be a contiguous source match after whitespace normalization.
-3. Python assigns evidence IDs and deduplicates identical quotations. IDs are stable for identical ordered extraction results; they are not promised stable across corpus or model changes. Sol synthesizes the three wiki pages from verified evidence and supplied identity/portfolio metadata.
-4. Python renders the evidence pages and manifests, checks them, then publishes a staged build into an absent destination. An existing output is never overwritten.
-
-[Generator instructions](wiki_build/AGENT.md) define evidence selection, attribution and synthesis. [Design](docs/superpowers/specs/2026-09-14-investor-memory-design.md) explains the tradeoffs. The bundled taxonomy retains the 44 labels and nine dimensions from the previous `vc-digital-twins/taxonomy/codebook_v_final.json`, omitting study support metadata. No old-repository paths are needed at runtime.
-
-The agent runs in a temporary working directory with a read-only Codex sandbox, no user config, and instructions to use no tools or external knowledge. This is an input and instruction boundary, not an OS-level guarantee that model tools cannot read other files. Model event logs make unexpected tool use reviewable.
-
-## Reliability and limits
-
-Each call keeps its prompt, schema, invocation, event log and raw response under `.wiki-cache/<content-hash>/`. Only accepted responses become reusable `response.json` entries. A rejected response receives one bounded Sol repair attempt with the validation errors; unsuccessful repairs still fail the build. Interrupted raw responses are revalidated before reuse. The default timeout is 900 seconds per call; override with `--timeout`. `--cache-dir`, `--batch-chars`, and `--model` are configurable. Source text travels over stdin without shell interpolation. Repair attempts are retained in their own subdirectories. On failure the command exits nonzero; inspect the reported cache directory, fix the issue and rerun. Valid prior calls are reused.
-
-Validation checks required files/sections, allowed labels/directions, unique evidence IDs, source IDs, snapshot text hashes, quote offsets, verbatim quotations, every policy/thesis bullet's citation, evidence citation resolution across all three pages, portfolio IDs and their source URLs, evidence-page integrity and manifest counts. It does not prove logical entailment or accurate audio transcription. A cited claim can still overstate a source: manual semantic review remains necessary. Historical forecasts with unknown dates remain attributed opinions, not current facts. The initial thin-corpus threshold (600,000 characters) is inherited from the previous pipeline and is a coverage flag, not a statistical confidence score.
-
-V1 processes source chunks sequentially. It fails explicitly if the evidence synthesis input exceeds 240,000 characters rather than silently dropping evidence. It does not discover new sources, infer portfolio records, repair transcript text or evaluate investment outcomes.
+Sol runs in a temporary read-only Codex workspace with user configuration disabled and instructions not to use tools or outside knowledge. Event logs allow tool-use auditing; this is not an operating-system guarantee that model tools cannot access other files.

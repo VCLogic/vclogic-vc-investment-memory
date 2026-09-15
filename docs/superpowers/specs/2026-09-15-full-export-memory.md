@@ -1,0 +1,11 @@
+# Full investor export memory
+
+The user clarified that the deliverable must process the full Hyatt material, not just the legacy curated subset. Push the prior version first, then build and push a complete full-export run.
+
+Inventory every local file. Extract saved web/podcast HTML and PDF documents from provenance sidecars, portfolio source reports, canonical and processed documents, and full saved audiovisual transcripts. Use authoritative artifact/candidate metadata to connect media to transcripts; account for metadata, duplicate derivatives, failed collection records and raw media without silently counting them as new evidence. Preserve a per-source disposition and full-file coverage ledger.
+
+Use Sol to review the full text of every unique collected text source in bounded batches, identifying the correct investor, same-name people, irrelevant/unusable pages and unresolved attribution. Extract decision evidence only when statements belong to the investor. Extract distinct source-reported context facts for company relationships, biography and historical activity. These facts are not independently verified holdings. Preserve exact source passages and their attribution. No inferred ownership from a founder/adviser role.
+
+Retain the v1 curated command. Add full-export prepare/build commands, defaulting to all local investor materials including profile sources previously blocked by the old study firewall. Preserve true source flags rather than asserting no_pitch_sources unconditionally. Use a new source-policy field to make this mode explicit. Never browse for new documents or treat discovery search snippets as collected evidence.
+
+Generate the same nine-dimension wiki plus context, coverage and source review artifacts. Bound parallel model calls, persist accepted review results, validate full batch/source coverage and exact passages, and perform a global synthesis from all admitted evidence/context. Publish to a new output, compare with v1, then update the main Hyatt output after validation while retaining v1 in git history. Test mixed identities, unresolved speakers, raw provenance, duplicates, coverage completeness, third-party citations, model errors and cache replay. Review and push the finished full-memory version.

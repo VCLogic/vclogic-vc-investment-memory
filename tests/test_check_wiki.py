@@ -102,3 +102,14 @@ class ValidationTests(unittest.TestCase):
         errors = validate(self.path)
         self.assertTrue(any('hash' in e for e in errors))
         self.assertTrue(any('offset' in e for e in errors))
+
+    def test_context_citations_resolve_only_to_supplied_context(self):
+        from wiki_build.check_wiki import validate_synthesis
+        s=synthesis();s['portfolio_and_constraints']='Source reports a board role. [ctx:test-1]'
+        self.assertTrue(any('context' in e for e in validate_synthesis(s,evidence())))
+        self.assertEqual(validate_synthesis(s,evidence(),context=[{'id':'test-1'}]),[])
+
+    def test_full_portfolio_table_needs_receipts(self):
+        from wiki_build.check_wiki import validate_synthesis
+        s=synthesis();s['portfolio_and_constraints']='| Entity | Role |\n|---|---|\n| Acme | Personal investor |'
+        self.assertTrue(any('table' in e for e in validate_synthesis(s,evidence(),context=[])))
