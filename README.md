@@ -4,6 +4,26 @@ Build a cited investor wiki from an entire collected investor directory. **gpt-5
 
 Read [Michael Hyatt’s memory](wiki/michael-hyatt/README.md), [decision policy](wiki/michael-hyatt/persona.md), [company relationships](wiki/michael-hyatt/portfolio_and_constraints.md), and [coverage ledger](wiki/michael-hyatt/coverage.md). The [complete-run report](docs/hyatt-full-run.md) records scope, attribution repairs, and limitations.
 
+## Use the agent skill
+
+The repository includes the shared [investor-memory skill](.agents/skills/investor-memory/SKILL.md). Open the cloned repository in Codex or Claude Code and supply the collector data folder:
+
+**Codex**
+
+```text
+$investor-memory Generate a complete wiki from data/michael-hyatt. No date cutoff.
+```
+
+**Claude Code**
+
+```text
+/investor-memory Generate a complete wiki from data/michael-hyatt. No date cutoff.
+```
+
+The skill inventories the full export, selects a fresh output directory, uses the Sol pipeline, checks coverage and citations, reviews the synthesis, and reports unresolved material. Both harnesses require the same installed, authenticated Codex CLI for Sol generation. The skill does not bundle the collector data, automatically transcribe raw media, or replace the engine with the calling harness's model.
+
+Codex discovers the canonical `.agents/skills/investor-memory/` folder; `.claude/skills/investor-memory` is a relative symlink to that same folder for Claude Code. This follows the documented [Codex repository skill layout](https://developers.openai.com/codex/skills/) and [Claude Code project skills and symlink support](https://code.claude.com/docs/en/skills). Start a new session after cloning if the skill does not appear. On systems that check out symlinks as plain text, copy the canonical folder into `.claude/skills/investor-memory/` in place of the link. Keep the whole repository available: copying the skill alone does not install the Python engine.
+
 ## Run the complete collection
 
 Requires Python 3.10+, `pip install -e '.[full]'`, and an authenticated Codex CLI supporting `exec`, `--ignore-user-config`, and `--output-schema`. Model calls use that CLI account. Inventory and validation run offline.

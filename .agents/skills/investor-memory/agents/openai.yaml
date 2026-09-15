@@ -1,0 +1,4 @@
+interface:
+  display_name: "Investor Investment Memory"
+  short_description: "Build a cited wiki from a full investor data export"
+  default_prompt: "Use $investor-memory to process the supplied investor data folder into a complete cited wiki with Sol, without a date cutoff."
