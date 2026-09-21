@@ -1,0 +1,8755 @@
+# Source-reported context
+
+These are attributed source reports, not independently verified holdings or verbatim investor policy.
+
+## [ctx:mac-conwell-0001]
+
+Kind: biography · Source: full:e71abdf7ba03f7c3384c1f92
+
+Conwell says he is from Baltimore, studied computer science, worked as a cleared Department of Defense contractor, and started his first company in 2010.
+
+> I'm from Baltimore. study computer science was a government contractor with the top-secret clearance supporting the Department of Defense here Did that for several years. 2010 started my first company.
+
+## [ctx:mac-conwell-0002]
+
+Kind: biography · Source: full:e71abdf7ba03f7c3384c1f92
+
+Conwell says his first startup's IP was sold to a Fortune 100 division and that a subsequent company failed.
+
+> four and a half years, two accelerators in the pivot later. We sold that IP to a division of a Fortune 100 company, which was really cool. I started another company after that, put a new team together. That company didn't work out, so I had a win and a loss.
+
+## [ctx:mac-conwell-0003]
+
+Kind: company_relationship · Source: full:e71abdf7ba03f7c3384c1f92
+
+Conwell says he worked at the Maryland Technology Development Corporation, TEDCO, for approximately three years and eleven months.
+
+> Yes, I was working for the Maryland Technology Development Corporation at TEDCO. I worked there for almost four years. Like it was like three years and 11 months.
+
+## [ctx:mac-conwell-0004]
+
+Kind: investment_approach · Source: full:e71abdf7ba03f7c3384c1f92
+
+Conwell says his initial TEDCO work involved $100,000–$200,000 seed investments in Maryland technology companies.
+
+> I started off doing seed investments, very traditional seed investments, $100,000 to $200,000 and just like anything tech. As long as you were in Maryland and you were a tech company. you could fit into our thesis
+
+## [ctx:mac-conwell-0005]
+
+Kind: company_relationship · Source: full:e71abdf7ba03f7c3384c1f92
+
+Conwell says he led the creation of, and ran for two and a half years, a state-backed pre-seed fund for underestimated founders, while also performing portfolio management.
+
+> I ended up leading the initiative to create a pre-seed fund for underestimated founders. It's the only state-backed pre-seed fund for estimated founders here in the States. And I ended up running that for two and a half years. And then I also did portfolio management for you.
+
+## [ctx:mac-conwell-0006]
+
+Kind: company_relationship · Source: full:e71abdf7ba03f7c3384c1f92
+
+Conwell says Rare Breed invested in Monad Dating and involved Gen Z venture fellows and friends of the fund in sourcing and evaluation.
+
+> even for us a rare breed i have a few venture fellows and some friends of the fun who are all gen zers they're super young they get to see all the coolest stuff and one of the companies we invested in is a company called monad dating and it's a gen z dating app
+
+## [ctx:mac-conwell-0007]
+
+Kind: investment_approach · Source: full:e71abdf7ba03f7c3384c1f92
+
+Conwell says Rare Breed's nine-point manifesto and thesis draw on his experience managing a Maryland fund for underrepresented founders.
+
+> Yeah, so the manifesto is these nine key points that... really are where our thesis comes from and from key learnings I had, having built and managed to fund specifically for underrepresented founders in the state of Maryland.
+
+## [ctx:mac-conwell-0008]
+
+Kind: investment_approach · Source: full:e71abdf7ba03f7c3384c1f92
+
+Conwell advocates combining direct community engagement with network referrals instead of relying on a single deal-sourcing channel.
+
+> One came from me being out in the community, talking to people, meeting people. The other one came from a network. And that shows how VCs should do it, where it's not just relying on your network. You should have multiple strategies on the way you source deals.
+
+## [ctx:mac-conwell-0009]
+
+Kind: dated_event · Source: full:e71abdf7ba03f7c3384c1f92
+
+Conwell says Rare Breed was at $7 million toward a $10 million fundraising goal and was raising under Rule 506(c).
+
+> We're at $7 million, so we got three more to go to get to a goal of 10. We're also raising on the 506C, everybody, so we can publicly solicit.
+
+## [ctx:mac-conwell-0010]
+
+Kind: investment_approach · Source: full:e71abdf7ba03f7c3384c1f92
+
+Conwell says emerging fund managers often discover during fundraising that their proposed thesis is less differentiated than expected.
+
+> Every new fund thinks they have this amazing new... differentiated thesis until you start like getting out there and pitching is almost like being a founder You think you're so differentiated until you realize you're not.
+
+## [ctx:mac-conwell-0011]
+
+Kind: investment_approach · Source: full:e71abdf7ba03f7c3384c1f92
+
+Conwell says deployment experience and changing markets led the fund to maintain flexibility in its strategy.
+
+> And three was to be a little flexible in our strategy. Like day one, when we were launching, this is the strategy we're going to do. You Yeah. And once you get into it, start deploying capital, the actual... ebbs and flows in the market. They force you to reconsider some things in your strategy
+
+## [ctx:mac-conwell-0012]
+
+Kind: company_relationship · Source: full:e71abdf7ba03f7c3384c1f92
+
+Conwell describes his long-term aim as building a large, Baltimore-based multistage venture firm that supports a new generation of entrepreneurs, VCs, and fund managers.
+
+> I want my legacy to be that we built a large multi-stage venture firm based here in Baltimore, Maryland that helped propel a new generation of entrepreneurs. and VCs and fund managers. that look and think differently than those who came before me.
+
+## [ctx:mac-conwell-0013]
+
+Kind: investment_approach · Source: full:e71abdf7ba03f7c3384c1f92
+
+Conwell says his firm is investing in multiple beauty and hair companies, without naming them in this passage.
+
+> We have some really cool beauty and hair companies that we're investing in.
+
+## [ctx:mac-conwell-0014]
+
+Kind: biography · Source: full:e71abdf7ba03f7c3384c1f92
+
+Conwell says earlier network-building with global GPs and VCs would have helped him enter venture and start a fund sooner.
+
+> I should have spent more time building my network. with other GPs and other VCs all across the globe. and having more conversations earlier. about what the process was and what it looked like. one to break in the venture and two to start a fund.
+
+## [ctx:mac-conwell-0015]
+
+Kind: company_relationship · Source: full:e71abdf7ba03f7c3384c1f92
+
+Conwell directs accredited investors to Rare Breed's website to inquire about becoming limited partners.
+
+> If you want to invest, go to rarebreed.vc. There's a button you can click to become an LP. You must be an accredited investor.
+
+## [ctx:mac-conwell-0016]
+
+Kind: biography · Source: full:077254d1fbd1853c5654e3f7
+
+Conwell says he was raised in Baltimore and had lived there for most of his life.
+
+> I'm from Baltimore, Maryland. I wasn't born here, but I was raised here. I've been here pretty much all my life.
+
+## [ctx:mac-conwell-0017]
+
+Kind: biography · Source: full:077254d1fbd1853c5654e3f7
+
+Conwell says he attended Morgan State University, an HBCU in Baltimore.
+
+> Education-wise, I went to Morgan State University, a local HBCU.
+
+## [ctx:mac-conwell-0018]
+
+Kind: dated_event · Source: full:077254d1fbd1853c5654e3f7
+
+Conwell says he left college during his junior year for a full-time position at Northrop Grumman.
+
+> And a year later, my junior year, I actually dropped out of school and got a full-time job working for Northrop Grumman.
+
+## [ctx:mac-conwell-0019]
+
+Kind: biography · Source: full:077254d1fbd1853c5654e3f7
+
+The host introduces Conwell as a Baltimore software developer and entrepreneur who participated in the NUMI Accelerator and was later named entrepreneur in residence.
+
+> So I want to introduce our guest this week on the show, on our podcast, McKeever Conwell. McKeever is a software developer and an entrepreneur out of Baltimore. He was part of the NUMI Accelerator and he was later named Entrepreneur in Residence.
+
+## [ctx:mac-conwell-0020]
+
+Kind: dated_event · Source: full:077254d1fbd1853c5654e3f7
+
+Conwell says he participated in the third cohort of the NewME accelerator.
+
+> No, I was in the third cohort.
+
+## [ctx:mac-conwell-0021]
+
+Kind: company_relationship · Source: full:077254d1fbd1853c5654e3f7
+
+Conwell says his startup was originally named NoBadGift.com and was renamed Given To.
+
+> The first thing we did was... So the name at the time was NoBadGift.com. Angela hated it. So we end up changing the name to Given To.
+
+## [ctx:mac-conwell-0022]
+
+Kind: company_relationship · Source: full:077254d1fbd1853c5654e3f7
+
+Conwell reports participating in three accelerators: two for his first company and Electric Dream Adventures for his second company; the accelerator names are imperfectly transcribed.
+
+> To this point, I've now gone through three accelerators. I've done a XRA Baltimore and a new made XRA for my first company. And for my second company, Electric Dream Adventures.
+
+## [ctx:mac-conwell-0023]
+
+Kind: company_relationship · Source: full:077254d1fbd1853c5654e3f7
+
+Conwell describes Given To as his first company and says it began as a crowdfunded gift-registry service.
+
+> All right, so my first company, Given to started off as this. Registry site right so you can create a registry for any day or event you know the list of all the things you wanted And your friends and family to crowdfund the money towards the item.
+
+## [ctx:mac-conwell-0024]
+
+Kind: company_relationship · Source: full:077254d1fbd1853c5654e3f7
+
+Conwell says his team operated the company for approximately four to four and a half years before selling its technology to a Fortune 100 company.
+
+> And we were running that company for about four, four and a half years. And we basically ended up selling off our technology to a Fortune 100 company.
+
+## [ctx:mac-conwell-0025]
+
+Kind: company_relationship · Source: full:077254d1fbd1853c5654e3f7
+
+Conwell identifies Sam Henry and Michael Washington as co-founders of his first company and names Mark Campbell, Kendrick Williams, and Brandon Williams as co-founders of a second company transcribed here as Redberry.
+
+> Real quick, let me shout out my two co-founders from my first company. Oh. Sam Henry. and Michael Washington. And my co-founders for my second company, Redberry. Mark Campbell. Kendrick Williams and Brandon Williams.
+
+## [ctx:mac-conwell-0026]
+
+Kind: company_relationship · Source: full:077254d1fbd1853c5654e3f7
+
+The host reports that Conwell was serving as a deal team coordinator at the organization transcribed as Tetco at the time of the interview.
+
+> And so now you're at Tetco. as a deal team coordinator.
+
+## [ctx:mac-conwell-0027]
+
+Kind: company_relationship · Source: full:077254d1fbd1853c5654e3f7
+
+Conwell identifies the organization transcribed as TECO as the Maryland Technology Development Corporation.
+
+> So TECO stands for the Maryland Technology Development Corporation.
+
+## [ctx:mac-conwell-0028]
+
+Kind: investment_approach · Source: full:077254d1fbd1853c5654e3f7
+
+Conwell describes his organization as a major funder of early-stage technology companies and reports that it completed roughly 40 to 50 seed deals annually; the geographic wording is imperfectly transcribed.
+
+> It is the largest funder of early stage tech companies in the state of America. We do about 40 to 50 seed deals every year.
+
+## [ctx:mac-conwell-0029]
+
+Kind: company_relationship · Source: full:077254d1fbd1853c5654e3f7
+
+Conwell said he worked in TEDCO’s seed investment fund, which covered general technology, cybersecurity, and life sciences.
+
+> We also have our seed investment fund. which is where I work. which has three funds, one's a general technology fund, a cybersecurity and a life sciences fund.
+
+## [ctx:mac-conwell-0030]
+
+Kind: investment_approach · Source: full:077254d1fbd1853c5654e3f7
+
+Conwell described TEDCO funding as restricted to companies principally based in Maryland and serving both investment-return and job-creation goals.
+
+> The one thing though is To get funding from Tyco, your principal place of business has to be the state of Maryland. Because first and foremost, while we do investing, we care about ROI. We are economic development corporation, which means We care about jobs. Our overarching goal is to create jobs as well as making good investments.
+
+## [ctx:mac-conwell-0031]
+
+Kind: company_relationship · Source: full:077254d1fbd1853c5654e3f7
+
+Conwell said his then-current role was on TEDCO’s seed investment team, participating in sourcing, interviews, and due diligence.
+
+> Now I'm just a member of the overall seed investment team where we all kind of work together. to go out and sort deals and manage the company interviewing. due to due diligence on the companies coming in.
+
+## [ctx:mac-conwell-0032]
+
+Kind: biography · Source: full:077254d1fbd1853c5654e3f7
+
+Conwell said he had no college degree, had started two startups, and had experience with multiple accelerators.
+
+> I don't even have a college degree. And, you know, the only thing I have to my name is I help. I started two startups in the You know, I've gone through a bunch of accelerators and how work with one.
+
+## [ctx:mac-conwell-0033]
+
+Kind: investment_approach · Source: full:077254d1fbd1853c5654e3f7
+
+Conwell described a program intended to fund ten African-American-led startups with $40,000 each from idea through prototype stage over one year.
+
+> We basically created a program where we were going to take over the course of a year. 10. African-American led startups. and give them $40,000 as early as the idea stage, all the way up to the prototype stage.
+
+## [ctx:mac-conwell-0034]
+
+Kind: company_relationship · Source: full:077254d1fbd1853c5654e3f7
+
+Conwell said he managed the minority-focused pre-seed program he described.
+
+> And I manage him on that program.
+
+## [ctx:mac-conwell-0035]
+
+Kind: investment_approach · Source: full:077254d1fbd1853c5654e3f7
+
+Conwell used the historical music-industry model as an analogy for an earlier venture market in which capital providers assumed more initial risk.
+
+> And what I mean is, It used to be in the music industry, and this thing with venture capital in the tech world, where somebody would come out and be this amazing artist, right? You would hear somebody, they have this talented voice, a talented rapping. and This major company would bring them on. put all this money behind them, put this machine behind them, pump them up and put them out to the market. Wait. And it would take on a lot of risk to do that.
+
+## [ctx:mac-conwell-0036]
+
+Kind: company_relationship · Source: full:077254d1fbd1853c5654e3f7
+
+Conwell described Redberry as his second startup and as an Instagram-like ecommerce platform centered on purchasable products.
+
+> My second startup. Redberry, this is it was a concept around e-commerce platform. whatever, whatever, whatever, um, Instagram had a buy button on every product. I wanted to build a platform. I looked and felt like Instagram, but it was just nothing but products and every single product had a buy button.
+
+## [ctx:mac-conwell-0037]
+
+Kind: dated_event · Source: full:077254d1fbd1853c5654e3f7
+
+Conwell reported signing more than 180 vendors for his startup in under two weeks.
+
+> I was able to sign up. over 180 different vendors. in less than two weeks.
+
+## [ctx:mac-conwell-0038]
+
+Kind: company_relationship · Source: full:077254d1fbd1853c5654e3f7
+
+Conwell said he was a mentor in the HBCU.VC-related virtual university program discussed in the interview.
+
+> I am lucky enough to be... Part of that program is one of the mentors so Any. I think I've got more work coming my way soon.
+
+## [ctx:mac-conwell-0039]
+
+Kind: company_relationship · Source: full:077254d1fbd1853c5654e3f7
+
+Conwell said he planned to continue his TEDCO work and grow the minority business pre-seed program he was operating.
+
+> And really what's next for me is continuing to do my work I do at TEDCO. continue to you know Be supportive and be somebody out here who's doing what I can for the culture. and to really prove out and grow this minority business pre-seed program that I'm doing.
+
+## [ctx:mac-conwell-0040]
+
+Kind: investment_approach · Source: full:077254d1fbd1853c5654e3f7
+
+Conwell described a personal thesis of building pipelines both for minority-led startups seeking venture capital and for the next generation of minority venture capitalists.
+
+> I really do have this thesis. around I want to be a pipeline builder. And. to that end. You know, at Tedco, I'm trying to help increase the pipeline of start of minority led startups. to have the ability to raise. venture capital. But, you know, looking at HBCU.vc, I'm also trying to help create the pipeline of the next. set of the next generation. a minority venture capitalist.
+
+## [ctx:mac-conwell-0041]
+
+Kind: biography · Source: full:077254d1fbd1853c5654e3f7
+
+Conwell confirmed that he had previously run a video blog about venture capital and startup entrepreneurship.
+
+> Yeah, that was me. I had a video blog. I ran for a little bit.
+
+## [ctx:mac-conwell-0042]
+
+Kind: biography · Source: full:722ad222e1d0e8a64b03a9e8
+
+Conwell says he is a software engineer by training and studied computer science.
+
+> So I'm a software engineer by trade. I went to school for computer science.
+
+## [ctx:mac-conwell-0043]
+
+Kind: biography · Source: full:722ad222e1d0e8a64b03a9e8
+
+Conwell says he spent seven years as a government contractor and that his last such position was at Booz Allen Hamilton.
+
+> So I spent seven years as a government contractor after that. My last set was at Booz Allen Hamilton.
+
+## [ctx:mac-conwell-0044]
+
+Kind: company_relationship · Source: full:722ad222e1d0e8a64b03a9e8
+
+Conwell says his first startup attended accelerators in Baltimore and San Francisco, pivoted, and ultimately sold its technology to a Fortune 100 company's division.
+
+> We went through two accelerators, one in Baltimore, one in San Francisco. had a pivot and then eventually sold that technology off to a division of a fortune 100 company
+
+## [ctx:mac-conwell-0045]
+
+Kind: company_relationship · Source: full:722ad222e1d0e8a64b03a9e8
+
+Conwell says he founded Redberry, raised money, entered a Philadelphia accelerator, and then experienced the team's collapse.
+
+> After that, I started my second company, which was Redberry. put a team together, raised some money, got into an accelerator this time in Philadelphia, and my team fell apart.
+
+## [ctx:mac-conwell-0046]
+
+Kind: company_relationship · Source: full:722ad222e1d0e8a64b03a9e8
+
+Conwell says his initial TEDCO responsibilities included deal sourcing, due diligence, and participation in the seed investment committee.
+
+> When I got there, I was originally on the seed investment team, sourcing deals, doing due diligence as part of the investment committee.
+
+## [ctx:mac-conwell-0047]
+
+Kind: dated_event · Source: full:722ad222e1d0e8a64b03a9e8
+
+Conwell says he started a TEDCO pre-seed fund in 2017 for Black-led startups that made $40,000 investments intended to bridge the friends-and-family stage toward seed funding.
+
+> in 2017 I actually started a pre-seeds fund. there at the organization specifically for black-led startups to help try to institutionalize the friends and family realm. doing $40,000 investments to kind of help companies get the seed.
+
+## [ctx:mac-conwell-0048]
+
+Kind: dated_event · Source: full:722ad222e1d0e8a64b03a9e8
+
+Conwell says Maryland added $1 million to the program's annual budget in 2019 to establish it on a longer-term basis.
+
+> And then in 2019, The state of Maryland added a million dollars to the annual budget to make it a long term frontier in state.
+
+## [ctx:mac-conwell-0049]
+
+Kind: company_relationship · Source: full:722ad222e1d0e8a64b03a9e8
+
+At the time of the interview, Conwell said he was starting the pre-seed fund Rare Breed VC.
+
+> Now, I'm starting my own pre-seed fund, Rare Breed VC.
+
+## [ctx:mac-conwell-0050]
+
+Kind: investment_approach · Source: full:722ad222e1d0e8a64b03a9e8
+
+Conwell says his public activity on Twitter had roughly quadrupled his connected VC network over the preceding two months.
+
+> It also gets other investors to follow you. So the really cool thing about what's happening with me on Twitter is My network of VCs who I'm connected to now has grown like quadrupled over the last two months.
+
+## [ctx:mac-conwell-0051]
+
+Kind: investment_approach · Source: full:722ad222e1d0e8a64b03a9e8
+
+Conwell describes investor networking through Twitter as a successful fundraising and syndication tool that produced a network of more than 400 co-investors, while noting that most contacts were not prospective LPs.
+
+> I continued that going and it's been a really successful tool for me. There is a lot of noise like the majority of people you meet won't have any chance to be investors in you. But what they will do is they're all most of the people I mean with our VCs or angel investors. So now I have a network of over 400 co investors.
+
+## [ctx:mac-conwell-0052]
+
+Kind: investment_approach · Source: full:722ad222e1d0e8a64b03a9e8
+
+Conwell described an intention to develop the firm into a multistage investor by combining his pre-seed and seed experience with a partner’s Series A experience.
+
+> So now as we start to build out a market multi-stage firm going forward. We have the skill sets to fit it.
+
+## [ctx:mac-conwell-0053]
+
+Kind: investment_approach · Source: full:722ad222e1d0e8a64b03a9e8
+
+Conwell said his deal flow comes from his network, including prominent, local, and overlooked state schools.
+
+> You know, I get deal flow for my network. So, you know, top schools, local schools. um schools that other VCs don't typically think about like every state has their big state school
+
+## [ctx:mac-conwell-0054]
+
+Kind: investment_approach · Source: full:722ad222e1d0e8a64b03a9e8
+
+Conwell described complementary deal access as an important consideration when selecting an investment partner.
+
+> You want to make sure you have a partner that also has access to deals that you might not have access to. Right. So you want to make sure who's ever on your team, you're not all fishing in the same pond.
+
+## [ctx:mac-conwell-0055]
+
+Kind: investment_approach · Source: full:722ad222e1d0e8a64b03a9e8
+
+Conwell described accelerator mentorship as a way to see companies before public demo days.
+
+> Going to the accelerators and like becoming a mentor and accelerator just means you get the first look at all the companies there Right. So you get to see them before their demo days.
+
+## [ctx:mac-conwell-0056]
+
+Kind: biography · Source: full:722ad222e1d0e8a64b03a9e8
+
+In the transcript, the accepted speaker identifies himself as Mac Conwell and gives the social handle MacConwell and moniker “Mac the VC.”
+
+> So it's at MacConwell. or if you look up Mac the VC. you'll find me, but Mac Conwell. That's, that's my name.
+
+## [ctx:mac-conwell-0057]
+
+Kind: investment_approach · Source: full:722ad222e1d0e8a64b03a9e8
+
+Using a $10 million fund example, Conwell explained that 20% carry may arrive roughly 13 years later while a 2% annual management fee supplies $200,000 for current operations.
+
+> You get 20% of carried interest. that comes like 13 years later. Right. um and so then you got you're working off your two percent management fee. 2% management fee is $200,000 a year.
+
+## [ctx:mac-conwell-0058]
+
+Kind: investment_approach · Source: full:722ad222e1d0e8a64b03a9e8
+
+Conwell said fund documents may permit certain back-office costs to be paid from fund capital.
+
+> But now, in cases, you can negotiate for some of those back office stuff to be paid for out of the fund.
+
+## [ctx:mac-conwell-0059]
+
+Kind: investment_approach · Source: full:722ad222e1d0e8a64b03a9e8
+
+Conwell said the economics of emerging micro-funds help explain why many managers are independently wealthy enough to sustain themselves during the first three or four years.
+
+> And like understanding that's really like, and that's why you've realized a lot of people making these starting these micro funds are already independently wealthy and have the ability to sustain themselves for the first three four years
+
+## [ctx:mac-conwell-0060]
+
+Kind: dated_event · Source: full:722ad222e1d0e8a64b03a9e8
+
+Conwell reported that a VC Unlocked classmate supplied the first check into his fund and that classmates accounted for a substantial portion of his first $2 million raised.
+
+> My first check written into my phone came from one of my classmates. you know, a good portion of my first $2 million raise. It's coming from classmates from VC Unlocked.
+
+## [ctx:mac-conwell-0061]
+
+Kind: dated_event · Source: full:722ad222e1d0e8a64b03a9e8
+
+Conwell reported closing some limited partners through Zoom-based fundraising during the pandemic conditions discussed in the interview.
+
+> I've been able to close on some LPs with like just over Zoom calls.
+
+## [ctx:mac-conwell-0062]
+
+Kind: investment_approach · Source: full:722ad222e1d0e8a64b03a9e8
+
+Conwell said he has backed founders who lacked networks and then served as their connection to a network.
+
+> You know, several of the founders I backed didn't have networks. And so I was their network. I made the investment and I gave them a net.
+
+## [ctx:mac-conwell-0063]
+
+Kind: biography · Source: full:1ee381face2e69931d0d73d2
+
+Conwell said he began his career as a software engineer supporting the US Department of Defense while holding a top-secret clearance.
+
+> For those who don't know, I started my career as a software engineer. supporting the Department of Defense with a top secret clearance out of college.
+
+## [ctx:mac-conwell-0064]
+
+Kind: biography · Source: full:1ee381face2e69931d0d73d2
+
+Conwell said he left college during his junior year to work at Northrop Grumman.
+
+> I actually dropped out of college to take a job in Northrop Grumman my junior year.
+
+## [ctx:mac-conwell-0065]
+
+Kind: dated_event · Source: full:1ee381face2e69931d0d73d2
+
+Conwell said his first company operated for four and a half years, attended two accelerators, pivoted, and ultimately sold its intellectual property to a Fortune 100 company.
+
+> Ran that company for four and a half years. Two accelerators, a pivot, and eventually sell the IP to a Fortune 100 company.
+
+## [ctx:mac-conwell-0066]
+
+Kind: biography · Source: full:1ee381face2e69931d0d73d2
+
+Conwell said he subsequently started an unsuccessful second company and characterized his entrepreneurial record as one win and one loss.
+
+> started another company after that that doesn't work out so i've had two companies one one win one loss
+
+## [ctx:mac-conwell-0067]
+
+Kind: biography · Source: full:244db43258deeb1f1137a0a5
+
+Conwell says he was trained as a software engineer, worked as a government contractor, and started his first startup in 2010.
+
+> I'm a software engineer by trade. I was a government contractor. 2010 I started my first startup a tool my best friends.
+
+## [ctx:mac-conwell-0068]
+
+Kind: dated_event · Source: full:244db43258deeb1f1137a0a5
+
+Conwell says his first startup journey eventually resulted in the sale of its intellectual property to a Fortune 100 company.
+
+> eventually sell the IP to a Fortune 100 company.
+
+## [ctx:mac-conwell-0069]
+
+Kind: dated_event · Source: full:244db43258deeb1f1137a0a5
+
+Conwell says he entered venture investing for the state of Maryland in October 2016.
+
+> That's in October of 2016. I do see investments for the state of Maryland.
+
+## [ctx:mac-conwell-0070]
+
+Kind: dated_event · Source: full:244db43258deeb1f1137a0a5
+
+Conwell says he proposed a pre-seed fund for underrepresented Maryland founders and that it was added to the state's annual budget in 2019.
+
+> less than six months on the job. I put out a proposal to start a pre-C fund. for underrepresented founders here in the state. which in 2019, got added to the annual budget for the state of Maryland and became the first and only state-backed. Pre-C Fund for Women and High Norities in the country.
+
+## [ctx:mac-conwell-0071]
+
+Kind: dated_event · Source: full:244db43258deeb1f1137a0a5
+
+Conwell says he decided to establish his own venture operation in 2020.
+
+> 2020, I decided to start my own thing.
+
+## [ctx:mac-conwell-0072]
+
+Kind: dated_event · Source: full:244db43258deeb1f1137a0a5
+
+Conwell reports holding 1,120 meetings and soft-circling his first $3 million from mid-June through mid-September 2020, with 80% of his fund's LPs originating through Twitter interactions.
+
+> from the middle of June 2020 to the middle of September 2020. I have 1,120 meetings. And from that, I saw circle my first 3 million. 80% of all my LPs and my fund came from interaction on Twitter.
+
+## [ctx:mac-conwell-0073]
+
+Kind: dated_event · Source: full:244db43258deeb1f1137a0a5
+
+Conwell says that by April 2022 Rare Breed had built a 35-company portfolio after beginning capital deployment in January 2021.
+
+> We've only been. Deploying capital since January 2021. It's April of 2022. We have A portfolio of 35 companies.
+
+## [ctx:mac-conwell-0074]
+
+Kind: company_relationship · Source: full:244db43258deeb1f1137a0a5
+
+Conwell identifies Rare Breed as an investor in Rares, a fractional-ownership platform for exclusive sneakers.
+
+> We're an investor in a company called Rares. We allow you to buy fractional ownership. and really exclusive sneakers
+
+## [ctx:mac-conwell-0075]
+
+Kind: company_relationship · Source: full:244db43258deeb1f1137a0a5
+
+Conwell identifies Rare Breed as an investor in alternative-milk company Good Milk.
+
+> We're also invested in a company called Good Milk that makes alternative milks.
+
+## [ctx:mac-conwell-0076]
+
+Kind: company_relationship · Source: full:244db43258deeb1f1137a0a5
+
+Conwell identifies Rare Breed as an investor in Rebundle, which makes braiding hair from plant fibers.
+
+> We're also invested in a company called Rebundle, which makes... synthetic braiding hair out of plant fibers.
+
+## [ctx:mac-conwell-0077]
+
+Kind: investment_approach · Source: full:244db43258deeb1f1137a0a5
+
+Conwell says he asks portfolio founders to treat him like an employee so they will actively involve him when help is needed.
+
+> But I tell founders to treat me as an employee because out of sight, out of mind is a thing.
+
+## [ctx:mac-conwell-0078]
+
+Kind: investment_approach · Source: full:244db43258deeb1f1137a0a5
+
+Conwell describes his portfolio-support approach as founder-initiated communication that enables him to provide more help.
+
+> Treat me like an employee. Because I can't guarantee you I'm always going to remember. What's going on? I'm not always going to pick up on everything that's happening. So let me know. The more you let me know, the more I can help.
+
+## [ctx:mac-conwell-0079]
+
+Kind: investment_approach · Source: full:244db43258deeb1f1137a0a5
+
+Conwell says periodic unsolicited check-ins are part of his portfolio-management practice.
+
+> one of the easiest tricks in portfolio management. Random text message. randomly message one of the founders in your portfolio every so often though.
+
+## [ctx:mac-conwell-0080]
+
+Kind: investment_approach · Source: full:244db43258deeb1f1137a0a5
+
+Conwell says he has sent founders $100 care packages intended to encourage personal rest or wellness.
+
+> I'll cash out them a hundred bucks and call it a founder care package, but Hey. take the day off early today and go get yourself a massage.
+
+## [ctx:mac-conwell-0081]
+
+Kind: investment_approach · Source: full:244db43258deeb1f1137a0a5
+
+Conwell advises aspiring venture investors to build relationships with investors, learn their theses, and meet many founders.
+
+> You should be trying to meet with as many investors as you humanly possibly can. so that you can get on their radar. And so you can understand their investment thesis and what they're looking for. And then you want to meet as many founders as you can.
+
+## [ctx:mac-conwell-0082]
+
+Kind: investment_approach · Source: full:244db43258deeb1f1137a0a5
+
+Conwell describes forming an angel syndicate and sourcing its investments as a way for an aspiring investor to establish a personal track record without supplying most of the capital.
+
+> if you start your own angel syndicate where you might not even have any. But if you can get a group of folks who do. who you are going to be funneling companies to. Well, for the companies that they back are invested in. that still acts as your personal track record because you did the sourcing.
+
+## [ctx:mac-conwell-0083]
+
+Kind: dated_event · Source: full:244db43258deeb1f1137a0a5
+
+Conwell says changed market conditions had made the previously announced size of Rare Breed's second fund uncertain.
+
+> The market's changed. We announced that in January, and the market's changed a lot since January. So we'll see. The market's changed. Thank you. Fun 2 will be fun, though. We'll figure it out.
+
+## [ctx:mac-conwell-0084]
+
+Kind: company_relationship · Source: full:da58cdbe5ff43c58dab7c472
+
+The host introduces Conwell as founder and managing partner of Baltimore-based RareBreed Ventures and describes it as a pre-seed fund focused beyond major technology hubs.
+
+> The second is the founder and managing partner for Baltimore based rare breed ventures, a pre-seed fund aimed at founders working outside of the most known and most cash rich tech hubs.
+
+## [ctx:mac-conwell-0085]
+
+Kind: biography · Source: full:da58cdbe5ff43c58dab7c472
+
+The host reports that Conwell studied computer science at Morgan State, worked as a government contractor, and had previously founded two companies with one successful and one failed exit.
+
+> He attended an HBCU, majoring in computer science at Morgan state was a government contractor for multiple companies, including Northrop Grumman and Booz Allen Hamilton is a two-time founder with both a successful and a failed exit.
+
+## [ctx:mac-conwell-0086]
+
+Kind: biography · Source: full:da58cdbe5ff43c58dab7c472
+
+The host reports that Conwell spent four years supporting seed-stage investments at Maryland-backed TEDCO before starting his fund.
+
+> And before starting his own fund spent four years at Tedco, the state of Maryland back investment firm, um, to support their seed stage investments.
+
+## [ctx:mac-conwell-0087]
+
+Kind: company_relationship · Source: full:da58cdbe5ff43c58dab7c472
+
+Conwell says RareBreed’s first fund had 194 investors, including 162 who committed $50,000 or less, with most fundraising originating through Twitter.
+
+> The majority of that was raised off of Twitter. I have 194 investors in rare breed. Of those, 162 put in 50K or less.
+
+## [ctx:mac-conwell-0088]
+
+Kind: investment_approach · Source: full:da58cdbe5ff43c58dab7c472
+
+Conwell says he allowed eligible investors to commit $25,000 to his fund over two years.
+
+> right i told so i told people hey you can put in 25 000 into my fund and you can split that up over two years Well, you know, if you're like, again, in order to invest in the fund into my fund, you had to be an accredited investor.
+
+## [ctx:mac-conwell-0089]
+
+Kind: biography · Source: full:da58cdbe5ff43c58dab7c472
+
+Conwell says he attended Morgan State University and had been expected to graduate with the class of 2008.
+
+> I matriculated at Morgan State University and I was supposed to be in class of 08.
+
+## [ctx:mac-conwell-0090]
+
+Kind: company_relationship · Source: full:da58cdbe5ff43c58dab7c472
+
+Conwell says his inability to secure sufficient help for founder Shauna motivated him to start his own venture fund.
+
+> She's the reason why I started my venture fund. Like, I didn't get into this to have a venture fund.
+
+## [ctx:mac-conwell-0091]
+
+Kind: investment_approach · Source: full:da58cdbe5ff43c58dab7c472
+
+Conwell says he directly messaged new investor followers to request meetings while building his limited-partner network.
+
+> I would send them a DM telling them a little bit about myself and asking them if they were willing to take a meeting.
+
+## [ctx:mac-conwell-0092]
+
+Kind: dated_event · Source: full:da58cdbe5ff43c58dab7c472
+
+Conwell says he conducted 1,128 meetings in 90 days during RareBreed’s fundraising effort, although the final phrase is incomplete in the transcript.
+
+> I have 1,128 meetings in 90 days, the soft circle of the first.
+
+## [ctx:mac-conwell-0093]
+
+Kind: dated_event · Source: full:da58cdbe5ff43c58dab7c472
+
+Conwell says he quit his job at the end of August and began pursuing the fund in earnest in September; the surrounding dialogue identifies the year as 2020.
+
+> so I'm doing all this. I quit my job at the end of August. I'm doing this in earnest in September.
+
+## [ctx:mac-conwell-0094]
+
+Kind: investment_approach · Source: full:da58cdbe5ff43c58dab7c472
+
+Conwell says he marketed the fund to prospective limited partners through twice-weekly emails describing companies he wanted to back.
+
+> Every Tuesday and Thursday, I sent out an email. telling the story of one of the companies I wanted to invest in.
+
+## [ctx:mac-conwell-0095]
+
+Kind: dated_event · Source: full:da58cdbe5ff43c58dab7c472
+
+Conwell says $1.3 million reached the fund’s bank account on January 3, 2021, which he regarded as establishing RareBreed’s viability.
+
+> got to January 3rd of 2021. and 1.3 million hit the bank account. I was like, all right, it's go time. Even if I want to raise another dime, this rare breed is here.
+
+## [ctx:mac-conwell-0096]
+
+Kind: company_relationship · Source: full:da58cdbe5ff43c58dab7c472
+
+Conwell says he founded RareBreed to support founders like Shauna and to build an investment firm from Baltimore.
+
+> I mean, I started Rare Breed because I wanted to help Shauna and founders like her. I wanted to prove that I could be a good investor. and build the next great firm and do it from Baltimore.
+
+## [ctx:mac-conwell-0097]
+
+Kind: investment_approach · Source: full:da58cdbe5ff43c58dab7c472
+
+Conwell states that venture funding is heavily concentrated in California, Massachusetts, and New York as part of his rationale for investing elsewhere.
+
+> look 75 of all vc funding goes to three states California. massachusetts and new york and 75 of that goes to california
+
+## [ctx:mac-conwell-0098]
+
+Kind: company_relationship · Source: full:da58cdbe5ff43c58dab7c472
+
+Conwell describes two St. Louis founders of Rebundle among the companies associated with his investment discussion, though this sentence alone does not specify the exact legal investment relationship.
+
+> I got two amazing young black women out of St. Louis with a company called Rebundle.
+
+## [ctx:mac-conwell-0099]
+
+Kind: biography · Source: full:dd34154aad28939ebc5e4420
+
+Conwell says he was a government-contracting software engineer and a two-time founder whose first company sold its IP to a Fortune 100 company and whose second company failed.
+
+> Software engineer was a government contractor for a long time. Two-time founder in my first company, we sold the IP to a Fortune 100 company. The second one was a failure.
+
+## [ctx:mac-conwell-0100]
+
+Kind: company_relationship · Source: full:dd34154aad28939ebc5e4420
+
+Conwell says that while at TEDCO he led the creation of a state-backed pre-seed fund for underrepresented founders.
+
+> I then led an initiative to create a pre-seed fund to invest in underrepresented founders. is the first and only state-backed pre-seed fund for underrepresented founders in the country.
+
+## [ctx:mac-conwell-0101]
+
+Kind: company_relationship · Source: full:dd34154aad28939ebc5e4420
+
+Conwell says he launched Rare Breed Ventures after four years working within another investment firm; the source gives only the relative timing 'last September.'
+
+> Within a firm for four years, I decided to start my own. So last September. I launched Rare Breed Ventures and that's how we get here.
+
+## [ctx:mac-conwell-0102]
+
+Kind: company_relationship · Source: full:dd34154aad28939ebc5e4420
+
+Conwell identifies ScalarMe, a company helping students plan to pay for college, as one of his best investments.
+
+> I mean, one of the best companies I ever invested in is this company. And ScalarMe, they help students plan to pay for college.
+
+## [ctx:mac-conwell-0103]
+
+Kind: company_relationship · Source: full:dd34154aad28939ebc5e4420
+
+Conwell says his team made the ScalarMe investment on behalf of the state of Maryland when its founder was 17.
+
+> I mean, I, my team made that investment for the state of Maryland. He was 17.
+
+## [ctx:mac-conwell-0104]
+
+Kind: investment_approach · Source: full:dd34154aad28939ebc5e4420
+
+Conwell says Rare Breed's LP outreach was expanding from individuals toward family offices and institutions at the time of the interview.
+
+> we have a lot of LPs or individuals. We're now starting to talk to more family offices. And now we're just at the beginning of talking to institutions.
+
+## [ctx:mac-conwell-0105]
+
+Kind: investment_approach · Source: full:dd34154aad28939ebc5e4420
+
+Conwell says Rare Breed's long-term objective is to become a large multistage investment firm based in Baltimore.
+
+> The goal at the end of the day is to be a large multi stage firm based here in Baltimore, Maryland, right?
+
+## [ctx:mac-conwell-0106]
+
+Kind: investment_approach · Source: full:dd34154aad28939ebc5e4420
+
+Conwell says Rare Breed ultimately intends to combine direct company investments with fund-to-fund investments.
+
+> That's the goal to be a large multi-stage firm that does both direct investments and fund to fund investments.
+
+## [ctx:mac-conwell-0107]
+
+Kind: investment_approach · Source: full:dd34154aad28939ebc5e4420
+
+Conwell directs prospective Rare Breed LPs to the firm's website and states that its minimum LP commitment was $10,000 at the time of the interview.
+
+> You can also check us out at rarebreed.vc. Anybody interested in becoming an LP or minimum check size is 10K.
+
+## [ctx:mac-conwell-0108]
+
+Kind: company_relationship · Source: full:dd34154aad28939ebc5e4420
+
+Conwell says he had joined the Inside team for a weekly podcast offering practical advice to entrepreneurs.
+
+> I am now. a member of the inside team on the newest podcast. InsideBusinessPod.com It's the weekly show where we give practical advice to entrepreneurs, me and my teammate Liam.
+
+## [ctx:mac-conwell-0109]
+
+Kind: company_relationship · Source: full:dd34154aad28939ebc5e4420
+
+Conwell says he worked under Jason Calacanis in connection with the Inside podcast role discussed by the interviewer.
+
+> Yes, I now work under Jason, which is... another whole another interesting story in all of this.
+
+## [ctx:mac-conwell-0110]
+
+Kind: company_relationship · Source: full:2b6fdcfb5fb8d0e7d4f8af85
+
+In this first-person account, Conwell described Redberry as his current project.
+
+> But as far as consistency for my business, my current project, Redberry, with three R's.
+
+## [ctx:mac-conwell-0111]
+
+Kind: company_relationship · Source: full:2b6fdcfb5fb8d0e7d4f8af85
+
+Conwell described his first company as a registry site through which people could contribute money toward registry items.
+
+> The same thing was true for my first company when we were just a registry site that allowed people to make donations to items on your registry.
+
+## [ctx:mac-conwell-0112]
+
+Kind: investment_approach · Source: full:2b6fdcfb5fb8d0e7d4f8af85
+
+Conwell said he personally used targeted Twitter outreach to attract users to Given.2.
+
+> what I first did was I would go on Twitter and I would find people talking about what they wanted for their birthday and I would insert myself into their conversation and tell them, hey that's really cool if you really want the iPhone you should put it on your wish list on Given.2 and tell all your friends that you contribute money towards it.
+
+## [ctx:mac-conwell-0113]
+
+Kind: company_relationship · Source: full:67340a07dcb8dd4dc825a689
+
+The podcast host introduced Mac Conwell as the founder and managing partner of Rare Breed Ventures.
+
+> He's the founder and managing partner of Rare Breed Ventures. I'm talking about Mac Conwell.
+
+## [ctx:mac-conwell-0114]
+
+Kind: biography · Source: full:67340a07dcb8dd4dc825a689
+
+Conwell said he left his Maryland state job and started his own venture firm after his prior podcast appearance.
+
+> Um, I'm pretty sure during the last episode, I was still at my job working for the state of Maryland. So since then. quit my job and started my own venture firm.
+
+## [ctx:mac-conwell-0115]
+
+Kind: dated_event · Source: full:67340a07dcb8dd4dc825a689
+
+Conwell said he had spent almost a year fundraising a $10 million fund.
+
+> So I've spent the last, almost the last year. fundraising a $10 million fund, which has been a very unique and challenging experience.
+
+## [ctx:mac-conwell-0116]
+
+Kind: dated_event · Source: full:67340a07dcb8dd4dc825a689
+
+At the time of the interview, Conwell reported that the fund had made 20 investments since January; the transcript does not supply a reliable calendar date for the statement.
+
+> We're currently up to 20 investments. So we've made 20 investments since January.
+
+## [ctx:mac-conwell-0117]
+
+Kind: investment_approach · Source: full:67340a07dcb8dd4dc825a689
+
+Conwell reported portfolio diversity and geographic statistics at the end of the second quarter, though the transcript appears imperfect and does not establish a calendar year independently.
+
+> you know 72 of our companies had underrepresented founder 61% of them were outside of major tech hubs, outside of Silicon Valley, New York, and Boston. 50% of them had a person of color as an executive. And 40% of them had a female executor, right?
+
+## [ctx:mac-conwell-0118]
+
+Kind: investment_approach · Source: full:67340a07dcb8dd4dc825a689
+
+Conwell said his deal sourcing includes direct messages, email, investor referrals, events, and accelerators selected intentionally.
+
+> You know, some of them DM me, some of them just email me, some of them I get from other investors, some of them I meet speaking at events or speaking at accelerators and I try to be very intentional about what events and what accelerators I speak at.
+
+## [ctx:mac-conwell-0119]
+
+Kind: investment_approach · Source: full:67340a07dcb8dd4dc825a689
+
+Conwell described an intentionally broad geographic and community-based sourcing approach.
+
+> So I'm very intentional about looking everywhere. You know, we've been able to see some pretty cool companies.
+
+## [ctx:mac-conwell-0120]
+
+Kind: dated_event · Source: full:67340a07dcb8dd4dc825a689
+
+At the interview's unspecified date, Conwell reported $8.8 million in fund commitments toward a $10 million target.
+
+> As of today, we are technically at 8.8 million. and commitments towards our fund. We have another 1.2 million to go.
+
+## [ctx:mac-conwell-0121]
+
+Kind: investment_approach · Source: full:67340a07dcb8dd4dc825a689
+
+Conwell stated that the minimum limited-partner commitment to RareBreed's fund was $25,000.
+
+> Our minimum check size is 25K.
+
+## [ctx:mac-conwell-0122]
+
+Kind: investment_approach · Source: full:67340a07dcb8dd4dc825a689
+
+Conwell said his fund pitch to limited partners centers on his ability to source high-quality companies.
+
+> And so I'm really selling them on my ability to find amazing companies.
+
+## [ctx:mac-conwell-0123]
+
+Kind: company_relationship · Source: full:67340a07dcb8dd4dc825a689
+
+Conwell says his investment organization entered an investment in Main Street.
+
+> one of the companies we got into is a company called Main Street.
+
+## [ctx:mac-conwell-0124]
+
+Kind: investment_approach · Source: full:67340a07dcb8dd4dc825a689
+
+Conwell says the fund sought capital from high-net-worth individuals, corporations, and selected fund-of-funds investors.
+
+> Like those are the people we go to for money. as well as corporations and then specific fund to fund.
+
+## [ctx:mac-conwell-0125]
+
+Kind: investment_approach · Source: full:67340a07dcb8dd4dc825a689
+
+Conwell describes individuals as the principal LP channel for a small first fund, with pension and insurance capital becoming relevant at greater scale.
+
+> but before first line, especially a small fund. you know, you go through individuals. Once you start getting bigger, then you gotta go through. pension funds and insurance funds and stuff like that real institutional lps but We ain't there yet. We'll get there.
+
+## [ctx:mac-conwell-0126]
+
+Kind: investment_approach · Source: full:67340a07dcb8dd4dc825a689
+
+Conwell says the first fund's target is $10 million and describes raising successor funds approximately every two to three years as the expected firm-building cadence.
+
+> The 10 million is the goal for fund one, but typically as you build out a venture firm, you're going to raise a new fund every call it two to three years.
+
+## [ctx:mac-conwell-0127]
+
+Kind: investment_approach · Source: full:67340a07dcb8dd4dc825a689
+
+Conwell states a goal of building a large multistage venture firm based in Baltimore, Maryland.
+
+> my larger goal is to build a large multi-stage venture firm based here in baltimore maryland
+
+## [ctx:mac-conwell-0128]
+
+Kind: investment_approach · Source: full:67340a07dcb8dd4dc825a689
+
+Conwell states an aspirational goal of exceeding $1 billion under management within 10 to 15 years.
+
+> You know, I'm going to have a fun that's going to have. over a billion dollars under management sometime in the next 10 to 15 years that's the goal
+
+## [ctx:mac-conwell-0129]
+
+Kind: dated_event · Source: full:67340a07dcb8dd4dc825a689
+
+Conwell recalls first discussing the fund around 2018, before it had a name.
+
+> So I started it all. It didn't have a name. and then This isn't like 2018 when I was first talking about this.
+
+## [ctx:mac-conwell-0130]
+
+Kind: company_relationship · Source: full:67340a07dcb8dd4dc825a689
+
+Conwell says the organization that became Rare Breed was originally going to be named Greenwood.
+
+> We were originally going to call it Greenwood.
+
+## [ctx:mac-conwell-0131]
+
+Kind: biography · Source: full:eea1c4f1b0a7232a80c79e38
+
+Conwell says he started his first startup in 2010, operated it for four and a half years, attended two accelerators, and sold its IP to a Fortune 100 division.
+
+> Then 2010 started my first startup, ran that for four and a half years with two of my best friends. Went through two accelerators, one in Baltimore, one in San Francisco. and eventually sold the IP off to a division of a Fortune 100 company.
+
+## [ctx:mac-conwell-0132]
+
+Kind: biography · Source: full:eea1c4f1b0a7232a80c79e38
+
+Conwell says his second company raised angel funding and failed.
+
+> I started another company right after that, raised some angel money, that company failed.
+
+## [ctx:mac-conwell-0133]
+
+Kind: company_relationship · Source: full:eea1c4f1b0a7232a80c79e38
+
+Conwell says that while at the Maryland Technology Development Corporation he started what became the Builder Fund, which he characterizes as a state-backed pre-seed fund for women and minorities.
+
+> While there, I started what's now known as the Builder Fund, which is the first and only state-backed pre-C fund for women and minorities in the country.
+
+## [ctx:mac-conwell-0134]
+
+Kind: dated_event · Source: full:eea1c4f1b0a7232a80c79e38
+
+Conwell says he left the Maryland state investment organization in the September preceding the interview to start Rare Breed Ventures.
+
+> And then last September, I left there to start my own firm Rare Breed Ventures.
+
+## [ctx:mac-conwell-0135]
+
+Kind: investment_approach · Source: full:eea1c4f1b0a7232a80c79e38
+
+Conwell describes supporting companies and expanding employment opportunity for people underrepresented in high-tech firms as part of his motivation for working in venture capital.
+
+> the kind of companies I get to support, the companies we back. the potential they have in the market, the industries they support. The impact I can make in a one to many kind of uh industry where i can find these amazing entrepreneurs and watch them all create these amazing companies that are going to then hire you know, amazing individuals that may not look like who you typically see.
+
+## [ctx:mac-conwell-0136]
+
+Kind: investment_approach · Source: full:eea1c4f1b0a7232a80c79e38
+
+Conwell describes his fiduciary role as investing other people's capital in companies expected to return it.
+
+> at the end of the day, what my job is, is I'm investing other people's money. So my actual job is to take their money. and put it into companies that are going to return the money.
+
+## [ctx:mac-conwell-0137]
+
+Kind: dated_event · Source: full:eea1c4f1b0a7232a80c79e38
+
+Conwell says Rare Breed was still fundraising and that its website was directed toward prospective limited partners.
+
+> We're still in the process of raising our fund. That's why it's so minimalist to speaking towards those who are interested in putting money in our fund.
+
+## [ctx:mac-conwell-0138]
+
+Kind: company_relationship · Source: full:eea1c4f1b0a7232a80c79e38
+
+Conwell explicitly says Rare Breed had not invested in Rebundle.co, although he was watching and liked the company.
+
+> We haven't made an investment in this company, but it's a company I'm watching. It's something I really like. It's a company called Rebundle.co.
+
+## [ctx:mac-conwell-0139]
+
+Kind: investment_approach · Source: full:eea1c4f1b0a7232a80c79e38
+
+Conwell says Rare Breed invests at pre-seed and prefers comparatively large checks of about $250,000.
+
+> we do pre-seed but even for pre-seed investments we like to do larger checks you know 250 000 it's a little you know, lower, a little higher than what you typically see a pre-seed.
+
+## [ctx:mac-conwell-0140]
+
+Kind: dated_event · Source: full:eea1c4f1b0a7232a80c79e38
+
+Conwell says outbound messages to VCs produced more than 1,100 meetings from mid-June to mid-September and soft-circled the first $2 million of his fund.
+
+> So if I saw you were a VC, you followed me. I would send you a DM and ask you if you were down for a meeting. So from the middle of June to the middle of September, I had over 1100 meetings. Those 1,100 meetings led to me soft circling the first 2 million for my fund.
+
+## [ctx:mac-conwell-0141]
+
+Kind: company_relationship · Source: full:eea1c4f1b0a7232a80c79e38
+
+Conwell says Rare Breed invests capital supplied by its limited partners.
+
+> yeah so lp stands for limited partners they are the individuals that invest money into our funds for us to invest their money right so the money that i invest out of rare breed is my limited partner's money
+
+## [ctx:mac-conwell-0142]
+
+Kind: dated_event · Source: full:eea1c4f1b0a7232a80c79e38
+
+Conwell says he expected the Rare Breed fundraise to last approximately 18–24 months.
+
+> I'm going to be raising this fund for like 18 to 24 months.
+
+## [ctx:mac-conwell-0143]
+
+Kind: biography · Source: full:eea1c4f1b0a7232a80c79e38
+
+Conwell says his second company failed after raising capital, assembling a team, and entering an accelerator within roughly six weeks.
+
+> like that company failed because we moved too fast Like we raise capital. put a team together and got into an accelerator. all in the span of like six weeks.
+
+## [ctx:mac-conwell-0144]
+
+Kind: investment_approach · Source: full:eea1c4f1b0a7232a80c79e38
+
+Conwell describes his long-term plan to build Rare Breed into a large, multi-stage venture fund based in Baltimore.
+
+> We're going to build a large multi-stage venture fund based out of Baltimore, Maryland.
+
+## [ctx:mac-conwell-0145]
+
+Kind: investment_approach · Source: full:eea1c4f1b0a7232a80c79e38
+
+Conwell says Rare Breed intends to invest globally.
+
+> And we're going to make investments all across the globe.
+
+## [ctx:mac-conwell-0146]
+
+Kind: dated_event · Source: full:eea1c4f1b0a7232a80c79e38
+
+At the time of the interview, Conwell says Rare Breed was raising a $10 million fund, had slightly more than 30% committed, and accepted a minimum LP commitment of $20,000.
+
+> Yeah, so we're raising $10 million. We've gotten a little more than 30% of that already committed. The minimum check size right now is 20K.
+
+## [ctx:mac-conwell-0147]
+
+Kind: investment_approach · Source: full:eea1c4f1b0a7232a80c79e38
+
+Conwell says Rare Breed allowed its then-current $20,000 minimum LP commitment to be paid as $10,000 per year over two years.
+
+> 20K, you can split that over two years. So 10K a year for two years.
+
+## [ctx:mac-conwell-0148]
+
+Kind: company_relationship · Source: full:b0ca3af3293939f58fb056f7
+
+In this first-person account, Conwell describes working on a gifting startup called Giving.
+
+> So people start to know, like, oh, that's Mac. He's working on giving. He's got a start-up. It's a gifting start-up.
+
+## [ctx:mac-conwell-0149]
+
+Kind: biography · Source: full:b0ca3af3293939f58fb056f7
+
+Conwell describes the pitch-practice event and subsequent TechBreakfast appearance as early interactions with his local technology community.
+
+> And this is one of my first and early interactions with the local tech scene. So I immediately got put on the front page of the tech scene, and everybody's like, who is this guy I want to know more. And then that same month, I went to the tech breakfast.
+
+## [ctx:mac-conwell-0150]
+
+Kind: dated_event · Source: full:b0ca3af3293939f58fb056f7
+
+Conwell reports that a demonstration of Giving attracted interest from several investors present in the room.
+
+> where I did a show and tell of giving at the time and it got a lot of interest and there were a few investors in the room who became interested.
+
+## [ctx:mac-conwell-0151]
+
+Kind: company_relationship · Source: full:b0ca3af3293939f58fb056f7
+
+Conwell reports having a local investor as an adviser during his startup-operator period.
+
+> I had a local investor who's an advisor of mine.
+
+## [ctx:mac-conwell-0152]
+
+Kind: company_relationship · Source: full:b0ca3af3293939f58fb056f7
+
+Conwell describes managing a current product team that included a developer and a designer and encouraging them to establish subject-matter expertise.
+
+> especially for me on my current team, I've told my developer, my designer, like, hey, start doing blogs, start telling people about the stuff you're working on start to position yourself as a subject matter expert and whatever you're working on, especially since we're working with the new technology
+
+## [ctx:mac-conwell-0153]
+
+Kind: company_relationship · Source: full:b0ca3af3293939f58fb056f7
+
+Conwell identifies Rayberry as the company he was working on and links his personal visibility to opportunities independent of its outcome.
+
+> I'm going to get opportunities whether Rayberry does great or not because so many people see me and are going to respect what I'm doing with the company.
+
+## [ctx:mac-conwell-0154]
+
+Kind: biography · Source: full:795bebeb25631d03cfa6ec69
+
+The host reports that Mac Conwell is affiliated with RareBreed VC, previously presented a company through the Startup of the Year community in Baltimore, and later returned as a venture capitalist.
+
+> mac conwell who's from rarebead vc he's actually an alumni of the start of the year program and community um he he came in uh in baltimore and showed his company off years ago and now he's back as a vc and doing great work
+
+## [ctx:mac-conwell-0155]
+
+Kind: biography · Source: full:a1ee70875e8c80b3d4b20e00
+
+Conwell says he previously worked as a software engineer and government contractor.
+
+> so for me so i'm i was a software engineer I was a government contractor.
+
+## [ctx:mac-conwell-0156]
+
+Kind: biography · Source: full:a1ee70875e8c80b3d4b20e00
+
+Conwell says he left college after receiving an opportunity to work for Northrop Grumman using his security clearance.
+
+> And I'm a college dropout. Like I dropped out of school because I had a security clearance. Northrop Grumman told me come work.
+
+## [ctx:mac-conwell-0157]
+
+Kind: investment_approach · Source: full:a1ee70875e8c80b3d4b20e00
+
+Conwell says that while working for Maryland's state investment organization, he led an initiative intended to institutionalize friends-and-family-style funding for women- and minority-led companies.
+
+> I led an initiative to create a pre-C fund. for women and minority-led companies. um basically try to institutionalize the friends and family around
+
+## [ctx:mac-conwell-0158]
+
+Kind: dated_event · Source: full:a1ee70875e8c80b3d4b20e00
+
+Conwell dates the advice that prompted him to start a fund to June 2020, shortly after George Floyd's killing.
+
+> This is in June of 2020. So this is right after George Floyd.
+
+## [ctx:mac-conwell-0159]
+
+Kind: dated_event · Source: full:a1ee70875e8c80b3d4b20e00
+
+At the time of the interview, Conwell reported that Rare Breed was raising a $10 million fund and had raised $7 million.
+
+> at Rare Breed, we're in the process of raising a $10 million fund. We've raised $7 million to date.
+
+## [ctx:mac-conwell-0160]
+
+Kind: investment_approach · Source: full:a1ee70875e8c80b3d4b20e00
+
+Conwell says every institutional investor then participating in Rare Breed's fund invested through a diversity initiative.
+
+> And every institutional investor who's invested in our funds is invested out of a diversity initiative.
+
+## [ctx:mac-conwell-0161]
+
+Kind: company_relationship · Source: full:a1ee70875e8c80b3d4b20e00
+
+Conwell says he was the first investor in Sierra May's St. Louis-based company Rebundle.
+
+> Another founder I'm the first investor in is a company called Rebundle. It's a company based out of St. Louis. The founder's name is Sierra May.
+
+## [ctx:mac-conwell-0162]
+
+Kind: investment_approach · Source: full:a1ee70875e8c80b3d4b20e00
+
+Conwell said that he could see at least 500 companies in a three-month period.
+
+> any given quarter, so in a three-month time span on the low end, I'm going to see 500 companies.
+
+## [ctx:mac-conwell-0163]
+
+Kind: investment_approach · Source: full:a1ee70875e8c80b3d4b20e00
+
+Conwell said that his team collectively could review roughly 750 companies in a quarter and generally invest in zero to five.
+
+> That's on the low end. if i add in my team members all together we'll see 750 companies together of those 750 We'll invest in. zero to five. Generally speaking.
+
+## [ctx:mac-conwell-0164]
+
+Kind: biography · Source: full:a1ee70875e8c80b3d4b20e00
+
+Conwell said his first company acquired its first few hundred customers through daily cold outreach on Twitter.
+
+> So for my first company, the way we got our first couple hundred customers. Well, I just tweeted at people. I literally, we just cold tweet people every day.
+
+## [ctx:mac-conwell-0165]
+
+Kind: dated_event · Source: full:a1ee70875e8c80b3d4b20e00
+
+Conwell said investor conversations about his first company changed after it obtained customers and began generating revenue.
+
+> Once I started getting customers and we started making money, like my conversations with investors started changing.
+
+## [ctx:mac-conwell-0166]
+
+Kind: dated_event · Source: full:a1ee70875e8c80b3d4b20e00
+
+At the time of the recording, Conwell said Rare Breed had removed its submission form, temporarily stopped making new investments, and was focused on raising its own fund.
+
+> We did have a form up. We took it down because we're not making any new investments at the moment. So, you know, we're focused on our own fundraise, you know, I got a fundraise too.
+
+## [ctx:mac-conwell-0167]
+
+Kind: company_relationship · Source: full:a1ee70875e8c80b3d4b20e00
+
+Conwell described an unnamed adviser who declined to invest in either of his first two companies but later mentored him.
+
+> One of my advisors. a gentleman who sold the company. to PayPal for a billion dollars years ago. Really well off gentlemen. met me when I had my first company. Did not invest in my first company. As a mentor of mine for my second company. Did not invest in my second company. He watched me grow over time.
+
+## [ctx:mac-conwell-0168]
+
+Kind: company_relationship · Source: full:a1ee70875e8c80b3d4b20e00
+
+Conwell said the same adviser later invested in his fund and sponsored his participation in a fellowship after an eight-year relationship.
+
+> And then came time for my fun. He did put money into my fund. And then he sponsored me. to go through a fellowship program that I couldn't afford. That was a relationship that's eight years in the making.
+
+## [ctx:mac-conwell-0169]
+
+Kind: investment_approach · Source: full:a1ee70875e8c80b3d4b20e00
+
+Conwell stated that the venture industry needs substantially more diversity among check writers.
+
+> There needs to be... far more diversity of Czech writers in the venture world.
+
+## [ctx:mac-conwell-0170]
+
+Kind: investment_approach · Source: full:a1ee70875e8c80b3d4b20e00
+
+Conwell linked greater diversity among investment decision-makers to investment in a broader range of companies and to stronger cultural competencies.
+
+> because that leads to far more diversity of the kind of companies we invested. And I go back to the cultural competencies, right? Thank you. I go.
+
+## [ctx:mac-conwell-0171]
+
+Kind: biography · Source: full:234845ee9a3f696158015726
+
+Conwell described himself as a software engineer by trade who had served as CEO of two startups.
+
+> I'm a software engineer by trade. I happen to be the CEO of two startups.
+
+## [ctx:mac-conwell-0172]
+
+Kind: biography · Source: full:234845ee9a3f696158015726
+
+Conwell said his first company had modest success and his second failed before he joined a marketing firm.
+
+> my first company was a mild success. My second company fails and I get a job. at a marketing firm.
+
+## [ctx:mac-conwell-0173]
+
+Kind: biography · Source: full:234845ee9a3f696158015726
+
+Conwell said he entered venture through a conventional application process and was hired four and a half months later.
+
+> And four and a half months later, they hired me. And so I was like, I literally broke into venture by sending my resume and writing a cover letter for the first time in response to an email.
+
+## [ctx:mac-conwell-0174]
+
+Kind: investment_approach · Source: full:234845ee9a3f696158015726
+
+Conwell said his fundraising pitch emphasized prospective LPs' belief in his deal sourcing, selection, and return-generating ability more than his limited track record.
+
+> I have a bit of a track record. And does it matter? A bit. But what matters more is like their belief in me. and my ability to source deals, pick the right ones and make money.
+
+## [ctx:mac-conwell-0175]
+
+Kind: company_relationship · Source: full:234845ee9a3f696158015726
+
+Conwell said he had a team but was its only full-time member at the time of the interview.
+
+> So I have a team, but I'm the only full-time person, right?
+
+## [ctx:mac-conwell-0176]
+
+Kind: investment_approach · Source: full:234845ee9a3f696158015726
+
+Conwell described helping founders with subsequent rounds, specific problems, and introductions as recurring portfolio-support work.
+
+> inevitably like during a week, I'm gonna have a founder call me or text me. Thank you. want to talk through the next round or they need some help with something or they need an introduction
+
+## [ctx:mac-conwell-0177]
+
+Kind: company_relationship · Source: full:234845ee9a3f696158015726
+
+Conwell identified Wove Made, a jewelry company, as a portfolio company.
+
+> there's a company in our portfolio called wove wove made it's a jewelry company
+
+## [ctx:mac-conwell-0178]
+
+Kind: company_relationship · Source: full:234845ee9a3f696158015726
+
+Conwell described Wove Made as an engagement-ring and wedding-band company that sends customers three replicas based on submitted inspiration images.
+
+> They make engagement rings and wedding bands and such but what they do is They have you send them pictures. of rings that you like, typically from Instagram or Pinterest or somewhere. And then they take it and within a week or two, they send you a box of three replicas.
+
+## [ctx:mac-conwell-0179]
+
+Kind: company_relationship · Source: full:234845ee9a3f696158015726
+
+Conwell reported that Wove's unsolicited shipment of replica rings to a Bullish partner led to a meeting and working relationship with Bullish.
+
+> They were like, well, you know, we figured out. Um, one of the addresses to one of the partners there. And we just ship them. are boxed with the replica rings in it. Just on a whim. That led them to getting a meeting and that led them to working with Bullish.
+
+## [ctx:mac-conwell-0180]
+
+Kind: company_relationship · Source: full:234845ee9a3f696158015726
+
+Conwell identified Jonathan Kroll as his partner and intended co-GP for the second fund.
+
+> shout out to my partner, Jonathan Kroll. Jonathan, I love you. He's going to be my co-GP for fun too.
+
+## [ctx:mac-conwell-0181]
+
+Kind: investment_approach · Source: full:234845ee9a3f696158015726
+
+Conwell said RareBreed expected to favor internal candidates when a larger fund enabled hiring.
+
+> As we look to raise a bigger fund and be able to hire folks, we will most likely hire from within.
+
+## [ctx:mac-conwell-0182]
+
+Kind: biography · Source: full:6a330d4218b0bf8a7845bca1
+
+The host describes Mac Conwell as Rare Breed Ventures’ founder and managing director, a former US Department of Defense software engineer, and a two-time founder with one exit.
+
+> Mac Conwell is the founder and managing director of Rare Breed Ventures. He started his career as a software engineer. for the US Department of Defense and is a two time founder. with one successful exit.
+
+## [ctx:mac-conwell-0183]
+
+Kind: biography · Source: full:6a330d4218b0bf8a7845bca1
+
+Conwell says his second company failed and that he later left a marketing firm over an ethical disagreement concerning a client.
+
+> And so after my second company didn't work out, I was working at a marketing firm. And after being at that firm for a year, they got a client I didn't agree with ethically. So I quit.
+
+## [ctx:mac-conwell-0184]
+
+Kind: company_relationship · Source: full:6a330d4218b0bf8a7845bca1
+
+Conwell says he ran the Maryland program now known as the Builder Fund.
+
+> I ended up running what is now known as the Builder Fund here in the state of Maryland.
+
+## [ctx:mac-conwell-0185]
+
+Kind: dated_event · Source: full:6a330d4218b0bf8a7845bca1
+
+Conwell says that after three years running the program, his team secured a recurring one-million-dollar state-budget allocation.
+
+> After three years of running that, my team and I went before the governor and state legislators and got them to put a million dollars in the annual budget to make it a long term frontier in the state.
+
+## [ctx:mac-conwell-0186]
+
+Kind: dated_event · Source: full:6a330d4218b0bf8a7845bca1
+
+Conwell says he left his job in September 2020 to pursue Rare Breed Ventures.
+
+> In September of 2020, I quit my job to really go do it.
+
+## [ctx:mac-conwell-0187]
+
+Kind: investment_approach · Source: full:6a330d4218b0bf8a7845bca1
+
+Conwell reports that Rare Breed reviewed more than 4,500 deals and made 32 investments in the year preceding the interview.
+
+> last year we saw a little more than 4,500 deals. we made 32 investments.
+
+## [ctx:mac-conwell-0188]
+
+Kind: investment_approach · Source: full:6a330d4218b0bf8a7845bca1
+
+Conwell reports Rare Breed’s average check size as “100 to 250,” although the transcript does not preserve the unit.
+
+> Our average check size is 100 to 250, by the way.
+
+## [ctx:mac-conwell-0189]
+
+Kind: investment_approach · Source: full:6a330d4218b0bf8a7845bca1
+
+Conwell describes a Rare Breed process involving an initial meeting, a team meeting with at least him and his partner Jonathan, and then a likely yes-or-no decision.
+
+> If we like you, we bring you to a team meeting. It's going to be at least... um myself and my partner jonathan at a minimum. And if we still like it from there. We'll come back and we can we pretty much get to a yes or no after that.
+
+## [ctx:mac-conwell-0190]
+
+Kind: investment_approach · Source: full:6a330d4218b0bf8a7845bca1
+
+Conwell says an affirmative decision is followed by data-room access, light diligence, documents, and funding.
+
+> And if it's a yes, then we'll ask for access to your data room. And we'll do some more light due diligence. And then from there, Well, send the docs and wire money.
+
+## [ctx:mac-conwell-0191]
+
+Kind: company_relationship · Source: full:6a330d4218b0bf8a7845bca1
+
+Conwell characterizes Rare Breed as directly supplying investment documents and wiring funds after approval and diligence.
+
+> Well, send the docs and wire money.
+
+## [ctx:mac-conwell-0192]
+
+Kind: investment_approach · Source: full:6a330d4218b0bf8a7845bca1
+
+Conwell says Rare Breed tends to identify founders before their rounds become highly competitive.
+
+> We tend to find founders before they get to that point.
+
+## [ctx:mac-conwell-0193]
+
+Kind: biography · Source: full:6a330d4218b0bf8a7845bca1
+
+Conwell describes his second company as an e-commerce platform for Instagram sellers, while the automated transcript imperfectly renders “buy button.”
+
+> For my second company, It was... e-commerce platform. supporting folks who were selling on instagram so think about instagram with a bob button before instagram had a bob Like six years before I have to grab my Bible.
+
+## [ctx:mac-conwell-0194]
+
+Kind: dated_event · Source: full:6a330d4218b0bf8a7845bca1
+
+Conwell says his second company signed 120 prospective sellers in two weeks at $20 per month before product launch, which he then used to raise $250,000.
+
+> And I ended up signing up 120 sellers in two weeks, all willing to pay $20 a month pre-product. And I use that then go raise a quarter of a million dollars.
+
+## [ctx:mac-conwell-0195]
+
+Kind: investment_approach · Source: full:6a330d4218b0bf8a7845bca1
+
+Conwell describes a ten-year fund life as the time horizon underlying venture investment decisions.
+
+> The average life of a venture fund is 10 years.
+
+## [ctx:mac-conwell-0196]
+
+Kind: company_relationship · Source: full:6a330d4218b0bf8a7845bca1
+
+Conwell identifies Devineering Labs as one of his personally meaningful investments.
+
+> One is Devineering Labs.
+
+## [ctx:mac-conwell-0197]
+
+Kind: company_relationship · Source: full:6a330d4218b0bf8a7845bca1
+
+Conwell identifies Path, formerly ScalarBee, as another personally meaningful investment.
+
+> Another one is in the company called Path, used to be called ScalarBee.
+
+## [ctx:mac-conwell-0198]
+
+Kind: dated_event · Source: full:6a330d4218b0bf8a7845bca1
+
+Conwell says he met Path’s founder at age 16 and made the investment when the founder was 17.
+
+> The founder, when I met him, was a 16 year old kid in high school. made the investment when he was 17. basically gave them money to drop out of college.
+
+## [ctx:mac-conwell-0199]
+
+Kind: company_relationship · Source: full:6a330d4218b0bf8a7845bca1
+
+Conwell says he supplied the founder’s first $40,000 check while Conwell was still working for the state; the transcript truncates the final jurisdiction reference.
+
+> doesn't start that company if i don't give him his first 40k check when i'm still working for the state of
+
+## [ctx:mac-conwell-0200]
+
+Kind: company_relationship · Source: full:6a330d4218b0bf8a7845bca1
+
+Conwell says he found replacement investors for an unnamed pregnant founder and helped her obtain more capital than originally sought.
+
+> I later found her. uh other investors to replace that leave and got her more money that she was originally looking for so worked out.
+
+## [ctx:mac-conwell-0201]
+
+Kind: investment_approach · Source: full:6a330d4218b0bf8a7845bca1
+
+Conwell reports investments across Toronto, Portland, Memphis, Dallas, Maryland, Orlando, Atlanta, and Cincinnati, including two Toronto companies and three Maryland companies.
+
+> We. Toronto, we got two companies in Toronto. Portland. company in Memphis, Dallas, Texas. three companies in maryland Orlando, Atlanta. Cincinnati, Ohio.
+
+## [ctx:mac-conwell-0202]
+
+Kind: biography · Source: full:e559daff577a26a92f1d22a6
+
+Conwell says Morgan helped him develop the network and relationships that launched his entrepreneurial path.
+
+> So Morgan helped me build the network and have the relationships to start on my entrepreneurial path.
+
+## [ctx:mac-conwell-0203]
+
+Kind: company_relationship · Source: full:e559daff577a26a92f1d22a6
+
+Conwell says he and a friend from Morgan started his first business together.
+
+> So me and. one of my best friends from Morgan decided to start our first business.
+
+## [ctx:mac-conwell-0204]
+
+Kind: biography · Source: full:4e88c79e71694e7a34a3fef1
+
+In this first-person introduction, Conwell describes himself as a serial startup entrepreneur, software engineer by trade, and startup CEO for the preceding four years.
+
+> and just to do a quick introduction I am a star serial startup entrepreneur four years and I'm also software engineer by trade but for the last four years doing the startup thing I've been a CEO so I like to call myself a hacker turned hustler
+
+## [ctx:mac-conwell-0205]
+
+Kind: biography · Source: full:4e88c79e71694e7a34a3fef1
+
+Conwell says that during two or three years of a four-year startup period, he simultaneously held a job; the startup name is rendered as “giving” in the transcript.
+
+> over the span of four years, two, maybe three of those years, I had a job while working giving.
+
+## [ctx:mac-conwell-0206]
+
+Kind: biography · Source: full:4e88c79e71694e7a34a3fef1
+
+In this first-person account, Conwell says he spent seven years in industry before beginning his entrepreneurial work.
+
+> But I will say I can't discredit the seven years I had in industry before I started.
+
+## [ctx:mac-conwell-0207]
+
+Kind: biography · Source: full:debe34ef79f4b1602f30cb3c
+
+Conwell says he is an engineer and previously worked at Northrop Grumman and Booz Allen Hamilton, rendered in the transcript as “Bulls Allen Hamilton.”
+
+> you know, I'm an engineer, so I. been an engineer and I've had a position where I was being known back when I worked at Northrop Grumman and Bulls Allen Hamilton.
+
+## [ctx:mac-conwell-0208]
+
+Kind: investment_approach · Source: full:debe34ef79f4b1602f30cb3c
+
+Conwell says he recognized early in fundraising that he lacked a network of LPs.
+
+> Fundraising for me was interesting just in the fact of... Early on in the fundraising process, I recognized I didn't have a network of LPs.
+
+## [ctx:mac-conwell-0209]
+
+Kind: investment_approach · Source: full:debe34ef79f4b1602f30cb3c
+
+Conwell says he used Twitter commentary about venture and entrepreneurship, followed by direct meeting outreach to VCs who followed him, to grow his network.
+
+> And so my way to grow that network was through my Twitter presence. I noticed that the more I tweeted about venture and entrepreneurship, the more other VCs will follow me. And so I just made it a point that if I saw there was a VC who followed me, I would send them a message to have a meeting.
+
+## [ctx:mac-conwell-0210]
+
+Kind: company_relationship · Source: full:debe34ef79f4b1602f30cb3c
+
+Conwell says his fund was $10 million and that other GPs and funds supplied the majority of its first $2–3 million.
+
+> And the one that I wasn't expecting but was most important was a lot of these GPs and other funds started committing capital to my fund. And so like the first two to three million in my fund. which is a $10 million fund. all came from the majority came from other gps other funds
+
+## [ctx:mac-conwell-0211]
+
+Kind: dated_event · Source: full:debe34ef79f4b1602f30cb3c
+
+Conwell reports holding more than 1,100 meetings from June through September 2020 and nearly 4,000 from June 2020 through June 2021 during his fundraising and networking effort.
+
+> From June 2020 to September 2020, I had over 1,100 meetings, right? from like june 2020 to june of 2021 I had close to 4,000 meeting.
+
+## [ctx:mac-conwell-0212]
+
+Kind: investment_approach · Source: full:debe34ef79f4b1602f30cb3c
+
+Conwell says his fund had no GP capital commitment because he could not personally afford one.
+
+> My fundraise is very untraditional. My fund structure is untraditional. I don't have a GP commit, which, you know, other GPs can be mad at me about. I'm sorry. I just. I'm broke. I couldn't do it.
+
+## [ctx:mac-conwell-0213]
+
+Kind: investment_approach · Source: full:debe34ef79f4b1602f30cb3c
+
+Conwell says the fund used rolling closes every three weeks, enabling it to receive and deploy capital during the fundraising process.
+
+> And then we do rolling closes every three weeks. So as LPs commit. We would send them to Carta and Batches and every three weeks we would close. on a group of LPs which allowed us to get capital. as we were going. So we were able to deploy a lot more capital.
+
+## [ctx:mac-conwell-0214]
+
+Kind: investment_approach · Source: full:debe34ef79f4b1602f30cb3c
+
+Conwell says LPs were offered three capital-payment schedules, subject to a $10,000-per-year minimum.
+
+> They can do 100% upfront. 50% over 2 years or 33% each year for 3 years. with the minimum being 10K per year.
+
+## [ctx:mac-conwell-0215]
+
+Kind: investment_approach · Source: full:debe34ef79f4b1602f30cb3c
+
+Conwell states that he intends to build a large multistage investment firm based in Baltimore.
+
+> I'm going to build the next large multi-stage farm based out of Baltimore.
+
+## [ctx:mac-conwell-0216]
+
+Kind: dated_event · Source: full:debe34ef79f4b1602f30cb3c
+
+Conwell reports that Fund I had closed and that he was considering Fund II at the time of the interview.
+
+> And as I think about, you know, I close my Fund 1 and I'm looking at my Fund 2.
+
+## [ctx:mac-conwell-0217]
+
+Kind: dated_event · Source: full:debe34ef79f4b1602f30cb3c
+
+Conwell reports that the Earlybird investment was announced on the day of the interview.
+
+> Early bird is an amazing one that just got announced today, which is awesome.
+
+## [ctx:mac-conwell-0218]
+
+Kind: company_relationship · Source: full:debe34ef79f4b1602f30cb3c
+
+Conwell says that while working for Maryland he wrote Femi his first check.
+
+> So when I worked for the state of Maryland, I wrote him his very first check.
+
+## [ctx:mac-conwell-0219]
+
+Kind: investment_approach · Source: full:debe34ef79f4b1602f30cb3c
+
+Conwell says he started a pre-seed fund initially focused on Black founders and later encompassing other underrepresented and women founders.
+
+> And so I started a pre-seed fund. to invest in. black founders and then eventually underrepresented founders and women and women founders.
+
+## [ctx:mac-conwell-0220]
+
+Kind: dated_event · Source: full:debe34ef79f4b1602f30cb3c
+
+Conwell reports that the state-backed pre-seed initiative launched in 2017, that he ran it for three years, and that Maryland later allocated $1 million annually to sustain it.
+
+> So it was the first. and at the time only state-backed pre-C fund for women minorities in the country. We launched that. in 2017 i ran that for three years and eventually We were able to get the state of Maryland to put a million dollars in the annual budget to make it a long-term frontier, which is something like I'm truly proud of.
+
+## [ctx:mac-conwell-0221]
+
+Kind: company_relationship · Source: full:debe34ef79f4b1602f30cb3c
+
+Conwell says ScholarMe was among the first nine investments in the Maryland fund's pilot year.
+
+> And so Femi's company scholar me. was actually in The pilot year, the very first year we did it. where we made our first nine investments.
+
+## [ctx:mac-conwell-0222]
+
+Kind: dated_event · Source: full:debe34ef79f4b1602f30cb3c
+
+Conwell reports that after closing Fund I, Rare Breed was using the fourth quarter to prepare Fund II's strategy and materials.
+
+> So honestly. Now the fun one's closed. We're actually spending Q4 working on the strategy and putting materials for fun too together.
+
+## [ctx:mac-conwell-0223]
+
+Kind: biography · Source: full:debe34ef79f4b1602f30cb3c
+
+Conwell identifies himself as a Kauffman fellow at the time of the interview.
+
+> Famously for me, I'm currently a Kaufman fellow, which is amazing.
+
+## [ctx:mac-conwell-0224]
+
+Kind: investment_approach · Source: full:debe34ef79f4b1602f30cb3c
+
+Conwell reports that his fundraise proceeded without a personal GP capital commitment and that most of his LPs accepted the arrangement.
+
+> But even raising my fund, I don't have money for a GP to commit. Most of my old peas have been okay with that.
+
+## [ctx:mac-conwell-0225]
+
+Kind: biography · Source: full:debe34ef79f4b1602f30cb3c
+
+Conwell identifies Charles Hudson and Marlon Nichols as instrumental members of his investor support network.
+
+> Charles Hudson has been really instrumental and somebody I can go to for things. Marlon Nichols as well.
+
+## [ctx:mac-conwell-0226]
+
+Kind: company_relationship · Source: full:debe34ef79f4b1602f30cb3c
+
+Conwell reports that Elizabeth Nguyen was among the first GPs to commit capital to his fund.
+
+> Elizabeth Nguyen from Hustle Cline. who was one of the first GPs to commit money to my fund on our first call ever.
+
+## [ctx:mac-conwell-0227]
+
+Kind: company_relationship · Source: full:debe34ef79f4b1602f30cb3c
+
+Conwell reports that Zach Silverman selected Rare Breed for his single available emerging-manager investment.
+
+> He loves to tell the story that he literally had the ability to make an investment in one emerging fund manager. He had enough money to make. One investment. He made it a rare breed.
+
+## [ctx:mac-conwell-0228]
+
+Kind: investment_approach · Source: full:debe34ef79f4b1602f30cb3c
+
+Conwell describes network building as central to working in venture and cites Twitter, LinkedIn, and events as possible channels.
+
+> Network is key. However, you build your network. You know, I use Twitter. You can use LinkedIn. You can go to events, whatever. But this is a network industry.
+
+## [ctx:mac-conwell-0229]
+
+Kind: company_relationship · Source: full:6edf80620a257e6e23722f7c
+
+The host introduces Mac Conwell as a founder and managing partner of Rarebreed Ventures.
+
+> Mac Conwell, who's a founder and managing partner of Rarebreed Ventures.
+
+## [ctx:mac-conwell-0230]
+
+Kind: biography · Source: full:6edf80620a257e6e23722f7c
+
+The host reports that Conwell is a former software engineer and two-time founder whose companies included one failure and one successful exit.
+
+> Mac is a former software engineer and two-time founder. One of Mac companies failed and the other went on to have a successful exit.
+
+## [ctx:mac-conwell-0231]
+
+Kind: biography · Source: full:6edf80620a257e6e23722f7c
+
+Conwell says his first startup produced a small exit and his second startup failed.
+
+> So... After my, so my first startup was the one that we had a small exit for. My second one's the one that failed.
+
+## [ctx:mac-conwell-0232]
+
+Kind: company_relationship · Source: full:6edf80620a257e6e23722f7c
+
+Conwell reports that RareBreed invested in a Main Street growth round, which he describes as probably the highest-valuation investment the firm will make.
+
+> You know, we are an investor in a company called Main Street. They're, you know, we were in a growth around of theirs, you know. probably the largest valuation will ever invest in.
+
+## [ctx:mac-conwell-0233]
+
+Kind: investment_approach · Source: full:6edf80620a257e6e23722f7c
+
+Conwell describes RareBreed as sector agnostic, primarily focused on pre-seed and seed with occasional later-stage exceptions.
+
+> So we are sector agnostic. The stages we tend to invest in are pre-seed and seed. every now and then we'll do something a slightly later stage just you know, for the right founder, right company.
+
+## [ctx:mac-conwell-0234]
+
+Kind: investment_approach · Source: full:6edf80620a257e6e23722f7c
+
+Conwell states that RareBreed's target check is $250,000.
+
+> So our target check is $250,000.
+
+## [ctx:mac-conwell-0235]
+
+Kind: investment_approach · Source: full:6edf80620a257e6e23722f7c
+
+Conwell says RareBreed requires pro-rata rights, seeks information rights, and does not necessarily require a board seat.
+
+> I'm sorry, we do require a pro rata. that is big for us. We don't necessarily need to be on the board. We'll ask for information rights, you know.
+
+## [ctx:mac-conwell-0236]
+
+Kind: biography · Source: full:6edf80620a257e6e23722f7c
+
+Conwell said an overlooked Dallas founder with customers and a strong channel partner was one of the experiences that shaped Rare Breed's creation.
+
+> And the other one was a founder in Dallas, Texas, a Latin gentleman. who had customers, had amazing channel partner. was doing all the right things and trending in the right direction. and yet couldn't get funding from anybody and nobody was paying attention to them.
+
+## [ctx:mac-conwell-0237]
+
+Kind: company_relationship · Source: full:6edf80620a257e6e23722f7c
+
+Conwell said the Buffalo Market relationship originated through a Twitter direct message from cofounder Sean months before fundraising began.
+
+> So it's funny, the way Buffalo market happened was Adam's partner Sean. sent me a dm on twitter uh months before they started fundraising he's like hey i like what you're talking about want to meet you like we should talk.
+
+## [ctx:mac-conwell-0238]
+
+Kind: dated_event · Source: full:6edf80620a257e6e23722f7c
+
+Conwell reported that he and his team decided in January to invest in Buffalo Market.
+
+> You know, when it came to January, when he was deciding to raise capital. You know, me and the team talked about it. It was pretty easy for us to get to a yes.
+
+## [ctx:mac-conwell-0239]
+
+Kind: investment_approach · Source: full:6edf80620a257e6e23722f7c
+
+Conwell described accelerator speaking and direct engagement with local innovation communities as parts of his sourcing approach.
+
+> I speak at a lot of accelerators and incubators all across the country. and now internationally. I like to go into communities and get to know the innovation and small business community and places.
+
+## [ctx:mac-conwell-0240]
+
+Kind: investment_approach · Source: full:6edf80620a257e6e23722f7c
+
+Conwell said referrals from a large network of other investors contribute to his deal flow.
+
+> And then, you know, I have a huge network of other investors who send me stuff all the time.
+
+## [ctx:mac-conwell-0241]
+
+Kind: company_relationship · Source: full:6edf80620a257e6e23722f7c
+
+Conwell disclosed that he was an angel investor in Bevy.
+
+> um bevy um full disclosure i'm an angel investor bevy
+
+## [ctx:mac-conwell-0242]
+
+Kind: investment_approach · Source: full:6edf80620a257e6e23722f7c
+
+Conwell said Rare Breed's minimum LP check was $25,000 and could be paid over two years.
+
+> Our minimum check size is $25,000. You can pay that over two years if you so choose.
+
+## [ctx:mac-conwell-0243]
+
+Kind: company_relationship · Source: full:f34d2ebfc36df2df11f5fb2b
+
+In this first-person transcript, Conwell reports that his company was participating in Accelerated Dream Adventures in Philadelphia.
+
+> currently my company, as part of the Accelerated Dream Adventures here in Philadelphia.
+
+## [ctx:mac-conwell-0244]
+
+Kind: company_relationship · Source: full:f34d2ebfc36df2df11f5fb2b
+
+Conwell introduces Mark Campbell as his co-founder and CTO, although the automated transcript renders the name imperfectly.
+
+> This week I have a special guest, my co-founder and CTO. market mark campbell and my usual co-host.
+
+## [ctx:mac-conwell-0245]
+
+Kind: biography · Source: full:bb856f1f1273b98453b70637
+
+Conwell described himself as a computer-science-trained software engineer, former DoD contractor, two-time founder with one exit, and former Maryland state investment-arm employee who made seed investments and launched a pre-seed fund for underrepresented founders.
+
+> So software engineer by trade, studied computer science. I was a government contractor supporting the DoD with the top secret clearance. went on to have two startups one was the exit one not so much worked for the investment arm of the state of Maryland for four years where I did seed investments and launched a pre-seed fund specifically for underrepresented founders and now currently raising a fund of my own.
+
+## [ctx:mac-conwell-0246]
+
+Kind: investment_approach · Source: full:bb856f1f1273b98453b70637
+
+Conwell said his Maryland sourcing work taught him to find founders through small-business organizations and economic-development networks.
+
+> I spent my time going everywhere. I went to every small business meeting. I went to every organization, every economic development corps. everywhere and what I learned was business owners no business owners
+
+## [ctx:mac-conwell-0247]
+
+Kind: investment_approach · Source: full:bb856f1f1273b98453b70637
+
+Conwell described off-the-beaten-path accelerators, incubators, direct messages, and cold emails as components of Rare Breed's sourcing strategy.
+
+> It's you know, speaking at all the accelerators and incubators, especially the off the beaten path lines. being accessible, looking at DMs and and cold emails.
+
+## [ctx:mac-conwell-0248]
+
+Kind: dated_event · Source: full:bb856f1f1273b98453b70637
+
+Conwell reported that he began LP meetings in mid-June, soft-circled money in July, officially launched the fund in September 2020, and by July 2021 had commitments for $8 million of a $10 million goal.
+
+> I started soft circling. I started meeting people like mid June. I started soft circling money in July and I officially launched the fund in September. from september 2020 till now we're in july of 2021 I've... I've got commitments for 8 million of the 10, for the 10, that's the goal.
+
+## [ctx:mac-conwell-0249]
+
+Kind: investment_approach · Source: full:bb856f1f1273b98453b70637
+
+Conwell said the fund was being raised under Rule 506(c), allowing public solicitation.
+
+> We're raising under 506C, so I'm allowed to publicly solicit for anybody listening.
+
+## [ctx:mac-conwell-0250]
+
+Kind: investment_approach · Source: full:bb856f1f1273b98453b70637
+
+Conwell reported that Rare Breed had made four investments in the beauty and hair space and anticipated making several more.
+
+> we've made for investments in that space so far and we'll probably make you know several more
+
+## [ctx:mac-conwell-0251]
+
+Kind: investment_approach · Source: full:bb856f1f1273b98453b70637
+
+Conwell cited St. Louis company Rebundle and its plant-based biodegradable braiding hair as an example of innovation in beauty and hair; the passage does not independently establish that Rare Breed invested in it.
+
+> Great examples, a company out of St. Louis Rebundle. They make plant-based biodegradable braiding hair.
+
+## [ctx:mac-conwell-0252]
+
+Kind: company_relationship · Source: full:bb856f1f1273b98453b70637
+
+Conwell disclosed that he had invested in a dating app, without naming the company or specifying whether the investment was personal or through Rare Breed.
+
+> I did actually invest in a dating app
+
+## [ctx:mac-conwell-0253]
+
+Kind: company_relationship · Source: full:53650d82abc17e9efc751693
+
+The host introduces Mac Conwell as an investor with Baltimore-based Rare Breed Ventures.
+
+> we still have our investor talks at 930. with Mac Conwell from Rare Breed Ventures, a Baltimore-based VC, one of the newest Baltimore venture capital firms.
+
+## [ctx:mac-conwell-0254]
+
+Kind: biography · Source: full:53650d82abc17e9efc751693
+
+In this first-person introduction, Conwell says his full name is McKeever Conwell, that he is known as Mac, and that he is from Baltimore.
+
+> My name is McKeever Conwell. Most people know me as Mac. I am from Baltimore.
+
+## [ctx:mac-conwell-0255]
+
+Kind: dated_event · Source: full:53650d82abc17e9efc751693
+
+Conwell says he started his first startup with two friends in 2010.
+
+> then 2010 I started my first startup with two of my best friends.
+
+## [ctx:mac-conwell-0256]
+
+Kind: company_relationship · Source: full:53650d82abc17e9efc751693
+
+Conwell says his first startup ran for four and a half years, attended accelerators in Baltimore and San Francisco, pivoted, and sold its intellectual property to a Fortune 100 division.
+
+> Ended up running that company for four and a half years. Went through two accelerators, one in Baltimore, one in San Francisco. Had a pivot. and eventually sold the IP off to a division of a Fortune 100 company.
+
+## [ctx:mac-conwell-0257]
+
+Kind: company_relationship · Source: full:53650d82abc17e9efc751693
+
+Conwell says that while at TEDCO he led the initiative that became the Builder Fund.
+
+> So I ended up leading an initiative to create a pre-steed fund. which is now known as the Builder Fund.
+
+## [ctx:mac-conwell-0258]
+
+Kind: dated_event · Source: full:53650d82abc17e9efc751693
+
+Conwell says he left his TEDCO role in August of the preceding year to start Rare Breed Ventures; the source does not provide an absolute publication date.
+
+> And then... In August of last year, I left that job to start Rare Breed Ventures.
+
+## [ctx:mac-conwell-0259]
+
+Kind: investment_approach · Source: full:53650d82abc17e9efc751693
+
+Conwell describes Rare Breed as raising a $10 million pre-seed-to-seed fund that prefers companies below a $10 million post-money valuation, with an upper bound of $20 million.
+
+> So Rare Breed, we are raising a $10 million pre-seed to seed venture fund. Investing in companies sub 10 million post money valuation will go as high as 20, but sub 10 is where we like to be.
+
+## [ctx:mac-conwell-0260]
+
+Kind: investment_approach · Source: full:53650d82abc17e9efc751693
+
+Conwell says Rare Breed primarily invests outside Silicon Valley, New York, Massachusetts, and other major technology hubs.
+
+> rare primarily investing in companies outside the major tech hubs outside of silicon valley new york and massachusetts
+
+## [ctx:mac-conwell-0261]
+
+Kind: dated_event · Source: full:53650d82abc17e9efc751693
+
+At the time of the interview, Conwell reports that Rare Breed had closed more than 25% of its fund and was actively investing from it.
+
+> we've closed on over 25% of the fund at this point. So we're actively investing out of that.
+
+## [ctx:mac-conwell-0262]
+
+Kind: company_relationship · Source: full:53650d82abc17e9efc751693
+
+Conwell attributes the failure of his second startup to poor team construction.
+
+> But my second company, Balm. And it bombed because of poor team construction, right?
+
+## [ctx:mac-conwell-0263]
+
+Kind: biography · Source: full:53650d82abc17e9efc751693
+
+Conwell says he withdrew for what he calls a six-month sabbatical after his second company failed.
+
+> That's what happened to me when I had my second company fail. You know, my second company failed. I basically, I tell people I took a six month sabbatical.
+
+## [ctx:mac-conwell-0264]
+
+Kind: investment_approach · Source: full:53650d82abc17e9efc751693
+
+Conwell reports having a global network of more than 1,000 venture capital investors that can assist portfolio fundraising.
+
+> I have a network of over 1000 VCs all over the globe.
+
+## [ctx:mac-conwell-0265]
+
+Kind: investment_approach · Source: full:53650d82abc17e9efc751693
+
+Conwell says Rare Breed draws on limited partners' specialized skills and strategic advantages to assist entrepreneurs.
+
+> We have a lot of LPs and limited partners in our fund. And almost all of our LPs have some kind of... strategic advantage or skill set, the idea to offer, you know, entrepreneurs.
+
+## [ctx:mac-conwell-0266]
+
+Kind: company_relationship · Source: full:53650d82abc17e9efc751693
+
+Conwell says he had spent almost four years trying to support the Baltimore founder developing a wig dryer.
+
+> I've been trying to support her for almost four years.
+
+## [ctx:mac-conwell-0267]
+
+Kind: company_relationship · Source: full:53650d82abc17e9efc751693
+
+Conwell says the TEDCO Builder Fund he built was intended to help founders like the wig-dryer entrepreneur but was unable to finance her.
+
+> The program I built in Tedco, the Builder Fund was supposed to help individuals like her, and we still couldn't get her money.
+
+## [ctx:mac-conwell-0268]
+
+Kind: company_relationship · Source: full:76395e26c45e9422353722c1
+
+The host introduces Conwell as founder and managing partner of Baltimore-based RareBreed Ventures, described as a pre-seed fund focused on founders outside major, capital-rich technology hubs.
+
+> The second is the founder and managing partner for Baltimore based rare breed ventures, a pre-seed fund aimed at founders working outside of the most known and most cash rich tech hubs.
+
+## [ctx:mac-conwell-0269]
+
+Kind: biography · Source: full:76395e26c45e9422353722c1
+
+The host reports that Conwell was a two-time founder with one successful and one failed exit and subsequently spent four years supporting seed-stage investments at TEDCO.
+
+> is a two-time founder with both a successful and a failed exit. And before starting his own fund, spent four years at Tedco, the state of Maryland back investment firm, um, to support their seed stage investments.
+
+## [ctx:mac-conwell-0270]
+
+Kind: dated_event · Source: full:76395e26c45e9422353722c1
+
+Conwell says Silicon Valley Bank provided banking support to his first company in 2010.
+
+> That's what they did for me for my first company back in 2010.
+
+## [ctx:mac-conwell-0271]
+
+Kind: investment_approach · Source: full:76395e26c45e9422353722c1
+
+Conwell says Rare Breed advises its founders to diversify their banking relationships.
+
+> So this is what we've been telling our founders of Rare Breed. need to diversify your banking position.
+
+## [ctx:mac-conwell-0272]
+
+Kind: dated_event · Source: full:76395e26c45e9422353722c1
+
+Conwell says congressional staff asked him to testify in support of the Improving Allocations for Newcomers Act.
+
+> the staff reached out to me and ask for me to testify. uh which is a wild thing in his own right um and what i was there was in support of Um, the the icone act uh the um improving uh the proving of allocations for newcomers act
+
+## [ctx:mac-conwell-0273]
+
+Kind: company_relationship · Source: full:76395e26c45e9422353722c1
+
+Conwell says his first fund raised $10 million, largely through Twitter, and that 162 of Rare Breed’s 194 investors committed $50,000 or less.
+
+> So you take me, my first fund, I raised 10 million. Right. The majority of that was raised off of Twitter. I have 194 investors in rare breed. Of those, 162 put in 50K or less.
+
+## [ctx:mac-conwell-0274]
+
+Kind: investment_approach · Source: full:76395e26c45e9422353722c1
+
+Conwell says he offered investors a $25,000 fund commitment payable over two years.
+
+> I told so I told people, hey, you can put in twenty five thousand dollars into my fund and you can split that up over two years.
+
+## [ctx:mac-conwell-0275]
+
+Kind: investment_approach · Source: full:76395e26c45e9422353722c1
+
+Conwell said RareBreed's first fund had 162 investors and that those investors would not be able to participate in its second fund under the constraint he was discussing.
+
+> I got 162 investors in my fund one that will not be able to invest in my fund two.
+
+## [ctx:mac-conwell-0276]
+
+Kind: company_relationship · Source: full:76395e26c45e9422353722c1
+
+Conwell said Shauna was the reason he started his venture fund.
+
+> I will say that Shauna is my North Star. She's the reason why I started my venture fund.
+
+## [ctx:mac-conwell-0277]
+
+Kind: biography · Source: full:76395e26c45e9422353722c1
+
+Conwell said he studied computer science at Morgan and obtained an internship or co-op with the National Security Agency.
+
+> So I'm at Morgan studying computer science and I get an internship or I get a co-op with the National Security Agency.
+
+## [ctx:mac-conwell-0278]
+
+Kind: biography · Source: full:76395e26c45e9422353722c1
+
+Conwell said he and several friends began their first company by trying to build a revenue-generating website.
+
+> And eventually. decided to start our first company, not even recognizing it was a company. We were trying to build a website that would make money while we slept.
+
+## [ctx:mac-conwell-0279]
+
+Kind: investment_approach · Source: full:76395e26c45e9422353722c1
+
+Conwell said he prospectively contacted investor followers through direct messages to request fundraising meetings.
+
+> And if I saw a new follower who was the investor. I would send them a DM telling them a little bit about myself and asking them if they were willing to take a meeting.
+
+## [ctx:mac-conwell-0280]
+
+Kind: dated_event · Source: full:76395e26c45e9422353722c1
+
+Conwell recounted telling Elizabeth Yin that his fund's initial minimum commitment would be $10,000 and receiving her agreement.
+
+> My initial minimum is going to be 10,000. She's like, I can do that.
+
+## [ctx:mac-conwell-0281]
+
+Kind: dated_event · Source: full:76395e26c45e9422353722c1
+
+Conwell confirmed that the job-departure and early fund-raising period under discussion was August 2020.
+
+> This is August 2020.
+
+## [ctx:mac-conwell-0282]
+
+Kind: dated_event · Source: full:76395e26c45e9422353722c1
+
+Conwell said $1.3 million reached the fund's bank account on January 3, 2021.
+
+> got to January 3rd of 2021. and 1.3 million hit the bank account.
+
+## [ctx:mac-conwell-0283]
+
+Kind: biography · Source: full:76395e26c45e9422353722c1
+
+Conwell described quitting his job to raise capital and start his fund while learning the process in real time.
+
+> I'm now at this inflection point where I'm quitting my job and I'm going to raise this money and start this fund, which I'm like trying to figure out on the fly.
+
+## [ctx:mac-conwell-0284]
+
+Kind: company_relationship · Source: full:76395e26c45e9422353722c1
+
+Conwell said he founded RareBreed to help Shauna and founders like her.
+
+> I mean, I started Rare Breed because I wanted to help Shauna and founders like her.
+
+## [ctx:mac-conwell-0285]
+
+Kind: biography · Source: full:76395e26c45e9422353722c1
+
+Conwell described Baltimore as his hometown and said he intended to build his investment firm there.
+
+> I wanted to prove that I could be a good investor. and build the next great firm and do it from Baltimore. It's my hometown.
+
+## [ctx:mac-conwell-0286]
+
+Kind: investment_approach · Source: full:76395e26c45e9422353722c1
+
+Conwell cited the geographic concentration of venture funding as the premise for RareBreed's focus on opportunities beyond California, Massachusetts, and New York.
+
+> 75 of all vc funding goes to three states California massachusetts and new york and 75 of that goes to california instead
+
+## [ctx:mac-conwell-0287]
+
+Kind: investment_approach · Source: full:76395e26c45e9422353722c1
+
+Conwell said his investment scope includes founders of all racial backgrounds.
+
+> I invest in everybody. I don't just invest in black and brown founders. I invest in all founders because I like money.
+
+## [ctx:mac-conwell-0288]
+
+Kind: company_relationship · Source: full:f06d9156d17948e580a8f072
+
+In this third-party account, Frank Gruber reports that Mac Conwell launched a new fund called Rare Breed VC.
+
+> And now he's spun out and he's got a new fund he just launched called Rare Breed VC. Mac Conwell is out there and he's making a huge name for himself right now.
+
+## [ctx:mac-conwell-0289]
+
+Kind: investment_approach · Source: full:f06d9156d17948e580a8f072
+
+Frank Gruber reports that Conwell's new fund invests in startups without a narrowly stated geographic restriction.
+
+> He's got this new fund and he's investing in startups everywhere.
+
+## [ctx:mac-conwell-0290]
+
+Kind: biography · Source: full:f06d9156d17948e580a8f072
+
+Frank Gruber describes Conwell as an alumnus of the former Startup of the Year program in Baltimore.
+
+> he was also an alumni of our old Start of the Year program back in the day in Baltimore.
+
+## [ctx:mac-conwell-0291]
+
+Kind: biography · Source: full:ff89a155dcedbbf9e2fe2958
+
+Conwell says his first company operated for four and a half years, went through two accelerators and a pivot, and ultimately sold its IP to a Fortune 100 company.
+
+> So we ran it for four and a half years, went through two accelerators, had a pivot. And eventually, Um, in a moment of burnout and tiredness and frustration. We were close to the end of the road on it and one of our customers started poking around. and show some interest And so we ended up. selling the company and really To be transparent. we sold the ip of the company to a Fortune 100 company that gave us a bit of a soft landing as we moved on to what the next thing was going to be.
+
+## [ctx:mac-conwell-0292]
+
+Kind: biography · Source: full:ff89a155dcedbbf9e2fe2958
+
+Conwell says he raised money for his second company, which did not work out.
+
+> My second company. I am actually able to raise money for that company doesn't work out.
+
+## [ctx:mac-conwell-0293]
+
+Kind: dated_event · Source: full:ff89a155dcedbbf9e2fe2958
+
+Conwell says he accepted a junior position at TEDCO as an opportunity to enter venture capital.
+
+> Just because I knew it would be my one opportunity to break into venture capital.
+
+## [ctx:mac-conwell-0294]
+
+Kind: biography · Source: full:ff89a155dcedbbf9e2fe2958
+
+Conwell says working at TEDCO made him realize that he loved venture investing work.
+
+> It was once I started doing the job I realized how much I truly loved the job.
+
+## [ctx:mac-conwell-0295]
+
+Kind: investment_approach · Source: full:ff89a155dcedbbf9e2fe2958
+
+Conwell says most of his investments are in companies already generating revenue and growing well, while he aims to commit before other investors.
+
+> most of companies i invest in already making money and growing pretty well i just happen to be the person's willing to say yes before everybody else
+
+## [ctx:mac-conwell-0296]
+
+Kind: company_relationship · Source: full:ff89a155dcedbbf9e2fe2958
+
+Conwell identifies Woe, a custom-jewelry company, as a Rare Breed portfolio company; the automated transcript renders its name and product description imperfectly.
+
+> so we have a company in our portfolio called whoa Woe they make our joy. right they make custom jewelry
+
+## [ctx:mac-conwell-0297]
+
+Kind: dated_event · Source: full:ff89a155dcedbbf9e2fe2958
+
+Conwell reports that the portfolio company experienced a viral moment in the prior year involving a custom charm friendship bracelet associated with Taylor Swift and Travis Kelsey.
+
+> And they had a viral moment last year because Taylor Swift. who got a custom a charm friendship bracelet. From Travis Kelsey.
+
+## [ctx:mac-conwell-0298]
+
+Kind: biography · Source: full:c140ebad9201653db8f4c44f
+
+In this first-person interview, Conwell describes himself as a college dropout, a seven-year government-contract software engineer, a two-time founder with one exit and one failure, and an investor.
+
+> I am a college dropout. a former government contractor as a software engineer for seven years. two-time startup founder with one exit and one failure, and now I do investing.
+
+## [ctx:mac-conwell-0299]
+
+Kind: company_relationship · Source: full:c140ebad9201653db8f4c44f
+
+Conwell says a Fortune 100 division acquired the technology from his first startup after four and a half years.
+
+> And so after four and a half years of that, a fortune 100 company, a division of a fortune 100 company ended up buying the technology from us, which is really cool.
+
+## [ctx:mac-conwell-0300]
+
+Kind: company_relationship · Source: full:c140ebad9201653db8f4c44f
+
+Conwell identifies Redberry as his second company and describes it as an e-commerce platform.
+
+> My second company, Redberry, was on my e-commerce platform
+
+## [ctx:mac-conwell-0301]
+
+Kind: company_relationship · Source: full:c140ebad9201653db8f4c44f
+
+Conwell says Redberry raised an angel round, entered an accelerator, and subsequently failed after its team fell apart.
+
+> I was able to raise an angel round. I went to another accelerator. And while I was in the accelerator, my team fell apart. So that company failed.
+
+## [ctx:mac-conwell-0302]
+
+Kind: company_relationship · Source: full:c140ebad9201653db8f4c44f
+
+Conwell refers to the subsequently described fintech startup as one of the top-performing companies in his employer's portfolio, without claiming it as a personal holding.
+
+> one of my top performing companies in the portfolio of the firm I work at.
+
+## [ctx:mac-conwell-0303]
+
+Kind: company_relationship · Source: full:c140ebad9201653db8f4c44f
+
+Conwell says his firm provided the described founder an early check of approximately $40,000.
+
+> like all of that happened because we gave him a really early small check. getting 40k check in like the beginning
+
+## [ctx:mac-conwell-0304]
+
+Kind: company_relationship · Source: full:c140ebad9201653db8f4c44f
+
+Conwell identifies ScholarMe as a fintech company in his portfolio that helps students plan and pay for college.
+
+> ScholarMe, ScholarMe.co, they're amazing. They're a fintech company to help students plan and pay for college.
+
+## [ctx:mac-conwell-0305]
+
+Kind: company_relationship · Source: full:c140ebad9201653db8f4c44f
+
+Conwell identifies Remodelmate as one of the three companies in his portfolio that he is particularly excited about.
+
+> Remodel, mate, get a new kitchen or bathroom in the click of a button.
+
+## [ctx:mac-conwell-0306]
+
+Kind: company_relationship · Source: full:c140ebad9201653db8f4c44f
+
+Conwell identifies Elite Gaming Live, an after-school esports program incorporating STEM education, as one of his portfolio companies.
+
+> And then Elite Gaming Live. after-school eSports program that incorporates STEM education.
+
+## [ctx:mac-conwell-0307]
+
+Kind: biography · Source: full:c140ebad9201653db8f4c44f
+
+Conwell identifies his Twitter presence as MacTheVC and spells his displayed name as Mac Conwell.
+
+> The easiest way to stay in touch with me and follow me is follow me on Twitter. My handle is MacTheVC. well The title is Mac the VC. My actual handle is Mac Conwell, M-A-C-C-O-N. W-E-L-L.
+
+## [ctx:mac-conwell-0308]
+
+Kind: company_relationship · Source: full:977ca76a086e19d465efa11d
+
+Conwell says his first company, Given.2, participated in Accelerator Baltimore and the NewME Accelerator in San Francisco.
+
+> I myself, my first company, Given.2, was happy to be fortunate enough to participate in two accelerators. One in Baltimore, Maryland. It was the first one in the state of Maryland. A smaller accelerator by the name of Accelerator Baltimore. And our second one was with the new me accelerator which is a larger more well-known accelerator in San Francisco.
+
+## [ctx:mac-conwell-0309]
+
+Kind: company_relationship · Source: full:977ca76a086e19d465efa11d
+
+Conwell describes his company at the time as Baltimore-based and says it sought exposure in San Francisco.
+
+> You know, we're a Baltimore-based company, so we wanted to get the San Francisco exposure.
+
+## [ctx:mac-conwell-0310]
+
+Kind: dated_event · Source: full:977ca76a086e19d465efa11d
+
+Conwell reports that his then-current company had just applied to an accelerator.
+
+> My current company that I have right now, we just supply it to an accelerator.
+
+## [ctx:mac-conwell-0311]
+
+Kind: dated_event · Source: full:977ca76a086e19d465efa11d
+
+Conwell says a managing director encouraged his then-current company to apply after seeing its demonstration at an event.
+
+> My current company that I have right now, we just supply it to an accelerator. And the reason we applied to Accelerator is because we did a demo and the event and one of the managing directors of that accelerator walked up to me afterwards and said, hey, have you thought about our accelerator? I think you should apply.
+
+## [ctx:mac-conwell-0312]
+
+Kind: company_relationship · Source: full:977ca76a086e19d465efa11d
+
+Conwell says his first company was accepted by an accelerator but chose not to attend it.
+
+> we apply for an accelerator with our first company that we actually didn't accept to go to. We decided to go somewhere else.
+
+## [ctx:mac-conwell-0313]
+
+Kind: biography · Source: full:977ca76a086e19d465efa11d
+
+Conwell says his team had built its product and had software-engineering experience in another industry, but initially lacked entrepreneurship and startup experience.
+
+> We have the product built, right. But we didn't have experience as entrepreneurs. We didn't have experience with startups. We have experience as software engineers in a completely different industry.
+
+## [ctx:mac-conwell-0314]
+
+Kind: company_relationship · Source: full:48bce036bdf0d09de57453f2
+
+The host introduces McKeever Conwell as the founder and managing partner of Rare Breed Ventures.
+
+> got mckee riconnell the founder and managing partner at rare breed ventures
+
+## [ctx:mac-conwell-0315]
+
+Kind: biography · Source: full:48bce036bdf0d09de57453f2
+
+Conwell says he began as an NSA software engineer, then worked as a Department of Defense contractor before founding his first company.
+
+> I started out my first job working for the NSA as a software engineer. um went on to be uh government contractor working with the dod for a few years before starting my first company had been started the startup journey.
+
+## [ctx:mac-conwell-0316]
+
+Kind: biography · Source: full:48bce036bdf0d09de57453f2
+
+Conwell reports having had two companies, with one exit and one failure.
+
+> So they had two companies, one exit, one failure.
+
+## [ctx:mac-conwell-0317]
+
+Kind: company_relationship · Source: full:48bce036bdf0d09de57453f2
+
+Conwell says Maryland's investment organization created a junior role for him and that he was the first person of color on its investment team in its 20-year history.
+
+> They tell me I'm not qualified for the position. And then they literally create a junior position to bring me on staff because I was the first person of color they had ever had on their investment team. in the 20-year history.
+
+## [ctx:mac-conwell-0318]
+
+Kind: dated_event · Source: full:48bce036bdf0d09de57453f2
+
+Conwell says he spent four years with the State of Maryland and decided in 2020 to raise an early-stage fund.
+
+> I spent four years with the state of Maryland and then in 2020 I decided to raise my own fund. focusing on early stage, very similar to Eric.
+
+## [ctx:mac-conwell-0319]
+
+Kind: investment_approach · Source: full:48bce036bdf0d09de57453f2
+
+Conwell says he raised his first fund mainly through Twitter and did so publicly under a new regulation.
+
+> In my claim, the fame is I raised my first fund mainly off of Twitter. So I was one of the VCs who was raising his money in public. using a new regulation.
+
+## [ctx:mac-conwell-0320]
+
+Kind: company_relationship · Source: full:48bce036bdf0d09de57453f2
+
+Conwell says he invested in Elite Gaming Live while working for the State of Maryland and later reinvested through Rare Breed.
+
+> I'm an investor in a company. Elite Gaming Live was one of the first investors in that company while I'm still working for the state of Maryland and reinvested out of my funded rare breed.
+
+## [ctx:mac-conwell-0321]
+
+Kind: company_relationship · Source: full:48bce036bdf0d09de57453f2
+
+Conwell describes Elite Gaming Live as an after-school program combining STEM education with esports.
+
+> is a company that incorporates STEM education and eSports, it's an after-school program. Right. kids learn while playing video games.
+
+## [ctx:mac-conwell-0322]
+
+Kind: investment_approach · Source: full:48bce036bdf0d09de57453f2
+
+Conwell said he had not initially wanted to start a venture fund and instead had wanted a job at a large established fund.
+
+> you know just for me the reason i started my venture fund isn't because i wanted to start a fund I wanted to get a job working at a big name fund making a bunch of money.
+
+## [ctx:mac-conwell-0323]
+
+Kind: biography · Source: full:48bce036bdf0d09de57453f2
+
+Conwell said starting a venture fund required him to forgo financial success earlier in his career.
+
+> I have... uh foregone financial success. earlier in my career. to start a venture fund.
+
+## [ctx:mac-conwell-0324]
+
+Kind: investment_approach · Source: full:48bce036bdf0d09de57453f2
+
+Conwell described observing a female founder spend three years trying to enter funding networks, an experience that informed his decision to create a fund.
+
+> I watched the founder go three years of doing everything she could to meet everybody she could to try and figure out how to break into these networks and learn all these things.
+
+## [ctx:mac-conwell-0325]
+
+Kind: company_relationship · Source: full:48bce036bdf0d09de57453f2
+
+Conwell identified rarebreed.vc as the site for his work and Mac Conwell as his Twitter identity.
+
+> You can find this at rarebreed.vc. Or you can follow me on Twitter. at Mac Conwell.
+
+## [ctx:mac-conwell-0326]
+
+Kind: company_relationship · Source: full:48bce036bdf0d09de57453f2
+
+Conwell described Millennial Media as a Maryland company that had been the leading mobile-phone advertising platform.
+
+> but it's a company called Millennial Media. So it's another Maryland company. And what they were is they used to be the number one. advertising platform for mobile phones.
+
+## [ctx:mac-conwell-0327]
+
+Kind: investment_approach · Source: full:48bce036bdf0d09de57453f2
+
+Conwell used Millennial Media as an example of a company whose market leadership made an acquisition too expensive and led to an IPO its founders had not planned or wanted.
+
+> The problem was because they became the leader in the space, they became too expensive. And so they actually couldn't find anybody who could buy them. And so then they had to IPO. And that was something the founders never actually planned for or wanted.
+
+## [ctx:mac-conwell-0328]
+
+Kind: company_relationship · Source: full:0d3a6cd7f8967027dd393357
+
+The host introduced McKeever “Mac” Conwell II as founder and managing partner of Baltimore-based Rare Breed Ventures, described as a pre-seed fund targeting founders outside the best-known, cash-rich technology hubs.
+
+> So we can go with McKeever, a.k.a. Mac Conwell. The second is the founder and managing partner for Baltimore based Rare Breed Ventures. Pre-seed fund aimed at founders working outside of the most known and most cash rich tech hubs.
+
+## [ctx:mac-conwell-0329]
+
+Kind: biography · Source: full:0d3a6cd7f8967027dd393357
+
+The host reported that Conwell studied computer science at Morgan State and worked as a government contractor for companies including Northrop Grumman and Booz Allen Hamilton.
+
+> He attended an HBCU, majoring in computer science at Morgan State, was a government contractor for multiple companies, including Northrop Grumman and Booz Allen Hamilton.
+
+## [ctx:mac-conwell-0330]
+
+Kind: biography · Source: full:0d3a6cd7f8967027dd393357
+
+The host described Conwell as a two-time founder with successful and failed exits who spent four years supporting seed-stage investments at TEDCO before launching his fund.
+
+> Is a two time founder with both a successful and a failed exit. And before starting his own fund, spent four years at Tedco, the state of Maryland back investment firm to support their seed stage investments.
+
+## [ctx:mac-conwell-0331]
+
+Kind: biography · Source: full:0d3a6cd7f8967027dd393357
+
+Conwell said he attended Morgan State University and had been expected to graduate with the class of 2008.
+
+> I matriculated at Morgan State University, and I was supposed to be in class of 08. So, yeah, class of 08 is when I was supposed to graduate.
+
+## [ctx:mac-conwell-0332]
+
+Kind: investment_approach · Source: full:0d3a6cd7f8967027dd393357
+
+Conwell characterized venture capitalists as managers of outside capital that can include university endowments and state pension-fund money.
+
+> We manage other people's money. So when you start talking about big VCs, you're talking about they manage endowments for universities. They manage pension funds, money from pension funds from different states.
+
+## [ctx:mac-conwell-0333]
+
+Kind: dated_event · Source: full:0d3a6cd7f8967027dd393357
+
+Conwell says Silicon Valley Bank gave his first company an opportunity in 2010.
+
+> That's what they did for me for my first company back in 2010.
+
+## [ctx:mac-conwell-0334]
+
+Kind: investment_approach · Source: full:0d3a6cd7f8967027dd393357
+
+Conwell says RareBreed advised its founders to maintain accounts at two banks at minimum and preferably three.
+
+> So this is what we've been telling our founders at RareBree. need to diversify your banking position. You wanna have a minimum two banks, we suggest three.
+
+## [ctx:mac-conwell-0335]
+
+Kind: company_relationship · Source: full:0d3a6cd7f8967027dd393357
+
+Conwell reports that most of his first fund was raised through Twitter and that RareBreed had 194 investors, including 162 who committed $50,000 or less.
+
+> The majority of that was raised off of Twitter. I have 194 investors in Rare Breed. Of those, 162 put in 50K or less.
+
+## [ctx:mac-conwell-0336]
+
+Kind: investment_approach · Source: full:0d3a6cd7f8967027dd393357
+
+Conwell says he advocated for the proposed rule change because 162 investors in his first fund otherwise could not participate in his second fund.
+
+> But, you know, I was just up there advocating for that because, like, look, I got 162 investors in my fund one that will not be able to invest in my fund two.
+
+## [ctx:mac-conwell-0337]
+
+Kind: company_relationship · Source: full:0d3a6cd7f8967027dd393357
+
+Conwell says Shauna's difficulty obtaining support prompted him to start his venture fund.
+
+> She's the reason why I started my venture fund.
+
+## [ctx:mac-conwell-0338]
+
+Kind: biography · Source: full:0d3a6cd7f8967027dd393357
+
+Conwell says he and friends began their first company by trying to build a revenue-generating website.
+
+> And eventually. decided to start our first company, not even recognizing it was a company. We were trying to build a website that would make money while we slept.
+
+## [ctx:mac-conwell-0339]
+
+Kind: investment_approach · Source: full:0d3a6cd7f8967027dd393357
+
+Conwell says he assembled contacts and introduced them to a Dallas B2B SaaS founder to facilitate an investment.
+
+> I decided I was going to get some folks I knew together and introduce them to them and get them to make an investment in his company.
+
+## [ctx:mac-conwell-0340]
+
+Kind: investment_approach · Source: full:0d3a6cd7f8967027dd393357
+
+Conwell describes directly messaging investor followers as an early LP-sourcing strategy.
+
+> So I just started seeing, I would check my followers every day. And if I saw a new follower who was an investor, I would send them a DM, telling them a little bit about myself and asking them if they were willing to take a meeting.
+
+## [ctx:mac-conwell-0341]
+
+Kind: dated_event · Source: full:0d3a6cd7f8967027dd393357
+
+Conwell says the post-George Floyd fundraising environment benefited his fundraise.
+
+> I was raising money post George Floyd when it was real good to be a black person raising money.
+
+## [ctx:mac-conwell-0342]
+
+Kind: dated_event · Source: full:0d3a6cd7f8967027dd393357
+
+Conwell says $1.3 million reached the account on January 3, 2021, establishing RareBreed's launch viability.
+
+> Got to January 3rd of 2021. And 1.3 million hit the bank account. I was like, all right, it's go time. Even if I want to raise another dime, this is... Rare breed is here.
+
+## [ctx:mac-conwell-0343]
+
+Kind: company_relationship · Source: full:0d3a6cd7f8967027dd393357
+
+Conwell says he founded RareBreed to support Shauna and similarly underserved founders.
+
+> I mean, I started Rare Breed because I wanted to help Shauna and founders like her.
+
+## [ctx:mac-conwell-0344]
+
+Kind: biography · Source: full:0d3a6cd7f8967027dd393357
+
+Conwell says he intended to build RareBreed as a major investment firm from his hometown of Baltimore.
+
+> I wanted to prove that I could be a good investor. and build the next great firm and do it from Baltimore. It's my hometown.
+
+## [ctx:mac-conwell-0345]
+
+Kind: investment_approach · Source: full:0d3a6cd7f8967027dd393357
+
+Conwell cites geographic concentration in venture funding as the basis for RareBreed's focus on opportunities outside the three dominant states.
+
+> 75% of all VC funding goes to three states. California. massachusetts and new york and 75 of that goes to california
+
+## [ctx:mac-conwell-0346]
+
+Kind: company_relationship · Source: full:f166a251d4ed920cd71c70a1
+
+Conwell says RareBreed invested in Monet Dating, a Gen Z dating application.
+
+> And one of the companies we invested in is a company called Monet Dating, and it's a Gen Z dating app.
+
+## [ctx:mac-conwell-0347]
+
+Kind: investment_approach · Source: full:f166a251d4ed920cd71c70a1
+
+Conwell uses Monet Dating to illustrate how team members with different cultural and generational perspectives expand RareBreed's sourcing and evaluation coverage.
+
+> And one of the companies we invested in is a company called Monet Dating, and it's a Gen Z dating app. There is no world in which I would ever find, discover, think about, or want to play with a Gen Z dating app.
+
+## [ctx:mac-conwell-0348]
+
+Kind: biography · Source: full:fddc71f5a7f1b4aeb0c8038c
+
+Conwell identifies himself as being from Baltimore.
+
+> I'm from Baltimore, right?
+
+## [ctx:mac-conwell-0349]
+
+Kind: biography · Source: full:d7e7e51031a40c51da44b89f
+
+Conwell describes himself as a software engineer, two-time founder, and VC who founded and manages Baltimore-based pre-seed and seed fund Rare Breed Ventures.
+
+> Yeah, I'm a software engineer turned two-time founder turned VC. I'm currently the managing partner and founder of Rare Breed Ventures, a pre-seed to seed venture fund based in Baltimore, Maryland.
+
+## [ctx:mac-conwell-0350]
+
+Kind: dated_event · Source: full:d7e7e51031a40c51da44b89f
+
+Conwell says he started his first startup in 2010 without prior familiarity with startups, venture capital, or networking.
+
+> I started my first startup in 2010. And at the time when I started that company, I didn't know what a startup was. I didn't know what a VC was and I didn't even know what networking was.
+
+## [ctx:mac-conwell-0351]
+
+Kind: company_relationship · Source: full:d7e7e51031a40c51da44b89f
+
+Conwell reports that his first company sold its intellectual property to a division of a Fortune 100 company four and a half years after its founding.
+
+> Four and a half years later, we sell the intellectual property of that company to a division of a Fortune 100 company.
+
+## [ctx:mac-conwell-0352]
+
+Kind: biography · Source: full:d7e7e51031a40c51da44b89f
+
+Conwell recounts teaching himself database fundamentals before beginning an unfamiliar database-administration job, an episode relevant to his operating background.
+
+> I got some online tutorial. I actually downloaded some online tutorials. on MySQL. and taught myself databases. over the course of three weeks and just watch all these like every day i'm doing six seven hours of just like video tutorials and practicing to learn so when i stepped onto the job it was doing some oracle stuff so it was some specialty stuff i had to learn but for the base for the basics right down and you know within you know my first six seven weeks on the job they told me like yeah you don't need the training you good you fine and i just from there i ran with it
+
+## [ctx:mac-conwell-0353]
+
+Kind: biography · Source: full:d7e7e51031a40c51da44b89f
+
+Conwell says his first company exited, his second failed, and he subsequently joined a Baltimore marketing firm.
+
+> And so my first company has the exit. My second company failed. I get this job at a marketing firm. Local here in Baltimore.
+
+## [ctx:mac-conwell-0354]
+
+Kind: company_relationship · Source: full:d7e7e51031a40c51da44b89f
+
+Conwell reports entering Maryland's state investment organization through a newly created junior role after a four-and-a-half-month interview process.
+
+> So four and a half months later, After three interviews, they take me to lunch. And they tell me I am not qualified for the position I have. And then they proceeded to tell me that they are creating this new junior position on staff. and asked me if I was willing to take it.
+
+## [ctx:mac-conwell-0355]
+
+Kind: investment_approach · Source: full:d7e7e51031a40c51da44b89f
+
+Conwell says he accepted a substantial pay reduction to obtain his first professional investment opportunity.
+
+> I took a job making less money than I'd ever made in my professional career just for the opportunity to do investments. So that's how I break in.
+
+## [ctx:mac-conwell-0356]
+
+Kind: company_relationship · Source: full:d7e7e51031a40c51da44b89f
+
+Conwell says that while working for a Maryland state organization he started a pre-seed fund, yet still could not secure funding there for the founder he discusses.
+
+> I watched her get nothing but knows for three years, even though I was working at an organization where I literally started a pre-seed fund for the state of Maryland to invest in founders like her and still couldn't get her money.
+
+## [ctx:mac-conwell-0357]
+
+Kind: company_relationship · Source: full:d7e7e51031a40c51da44b89f
+
+Conwell attributes the initial idea for the venture fund that became Rare Breed Ventures to his inability to back an overlooked founder through existing institutions; the transcript renders the name as “Rare Breaks.”
+
+> And so that's where the beginning of the idea of me starting my own venture fund and what will later go on to become Rare Breaks.
+
+## [ctx:mac-conwell-0358]
+
+Kind: biography · Source: full:d7e7e51031a40c51da44b89f
+
+Conwell reports receiving a diversity scholarship to attend VC University as part of his venture-capital training.
+
+> Then I do VC University, which I got a diversity scholarship for that.
+
+## [ctx:mac-conwell-0359]
+
+Kind: dated_event · Source: full:d7e7e51031a40c51da44b89f
+
+Conwell says that in January 2020 he committed to raising a venture fund.
+
+> And then in 2020, I say, I'm going to do this. January 2020, I'm like, I'm going to raise a fund.
+
+## [ctx:mac-conwell-0360]
+
+Kind: investment_approach · Source: full:d7e7e51031a40c51da44b89f
+
+Conwell says a mentor offered capital for a fund intended to invest across the companies Conwell sourced rather than only in RoboAmp.
+
+> So in the process of me trying to help him raise some capital, one of my mentors said, I don't want to invest in that company. I want to invest in every company you find. So here's some money going to raise it.
+
+## [ctx:mac-conwell-0361]
+
+Kind: dated_event · Source: full:d7e7e51031a40c51da44b89f
+
+Conwell describes the mentor's capital commitment as the catalyst that began his practical fund-raising process.
+
+> like okay So that starts the process of me trying to figure out and learn. how to actually raise a fund, but that's kind of like the push over the ledge.
+
+## [ctx:mac-conwell-0362]
+
+Kind: company_relationship · Source: full:d7e7e51031a40c51da44b89f
+
+In the accepted speaker's first-person account, Conwell says he started his own venture fund.
+
+> right and now that i'm here and I've started my own venture fund, there are pathways to me becoming a billionaire.
+
+## [ctx:mac-conwell-0363]
+
+Kind: biography · Source: full:d7e7e51031a40c51da44b89f
+
+Conwell says he began his career as an engineer and was skilled at coding despite disliking it.
+
+> Like I started off as an engineer. I hated coding. I don't actually like coding. I was really good at it.
+
+## [ctx:mac-conwell-0364]
+
+Kind: investment_approach · Source: full:d7e7e51031a40c51da44b89f
+
+Conwell says his investor network exposes him to varied and alternative investment opportunities.
+
+> As I've gotten into this industry as an investor, I now spend my time around other people who are very wealthy. And other people who think about investments. And other people who think about different types of investments and alternative investments. Which leads to just random opportunity.
+
+## [ctx:mac-conwell-0365]
+
+Kind: investment_approach · Source: full:d7e7e51031a40c51da44b89f
+
+Conwell recounts offering informal support to an emerging venture-fund manager without requesting compensation.
+
+> Like, take my cell phone, number down, text me whenever you need some help, and I'm here to support. He's like, you don't want nothing? I'm like, nah, I just want you to make it because we need more folks making it.
+
+## [ctx:mac-conwell-0366]
+
+Kind: biography · Source: full:0e52cf59ee84d8cbbfe76628
+
+The show's introduction describes Mac as a venture-capital guest in a season themed around first-time funds.
+
+> And then the first episode of Angel season six, Mac, the VC joins the show. The season's theme is first time funds.
+
+## [ctx:mac-conwell-0367]
+
+Kind: company_relationship · Source: full:0e52cf59ee84d8cbbfe76628
+
+The host reports that Conwell is a two-time founder, manages Rare Breed VC, and began raising its fund in September 2020.
+
+> And his fund is called Rare Breed VC. He's a two-time founder and he started raising a fund in September of 2020.
+
+## [ctx:mac-conwell-0368]
+
+Kind: investment_approach · Source: full:0e52cf59ee84d8cbbfe76628
+
+The host reports that Conwell closed a $10 million fund in October 2021, had deployed $4.9 million since January 2021, and used check sizes of $100,000 to $250,000.
+
+> He's closed $10 million in October of 2021, deployed $4.9 million since January of 2021. And their check sizes are very similar to my first fund, $100K to $250.
+
+## [ctx:mac-conwell-0369]
+
+Kind: biography · Source: full:0e52cf59ee84d8cbbfe76628
+
+Conwell says his first company sold its intellectual property to a Fortune 100 company, his second company failed, and he subsequently became head of technology at a marketing firm.
+
+> So I had two companies. One, the first one we sold the IP to a Fortune 100 company, the second one failed. And then I ended up being head of technology at a marketing firm.
+
+## [ctx:mac-conwell-0370]
+
+Kind: biography · Source: full:0e52cf59ee84d8cbbfe76628
+
+Conwell describes himself as a college dropout who previously worked as an engineer.
+
+> And I was also a college dropout and engineer before that.
+
+## [ctx:mac-conwell-0371]
+
+Kind: company_relationship · Source: full:0e52cf59ee84d8cbbfe76628
+
+Conwell says a Maryland economic-development investment organization selected him for its senior investment team, where he spent four years.
+
+> But four and a half months later, they picked me and put me on their senior investment team and I spent four years there and I did a lot of cool things.
+
+## [ctx:mac-conwell-0372]
+
+Kind: dated_event · Source: full:0e52cf59ee84d8cbbfe76628
+
+Conwell recounts that a mentor offered $250,000 and urged him to raise a fund rather than an SPV for one company.
+
+> And one of my mentors said, look, I love this company, but I don't want to invest in this one company. I want to invest in every company that you find. So here's 250,000, go raise a fund.
+
+## [ctx:mac-conwell-0373]
+
+Kind: investment_approach · Source: full:0e52cf59ee84d8cbbfe76628
+
+Conwell says he entered fund formation with entrepreneurial fundraising and investing experience but without LP-fundraising experience or an LP network.
+
+> I didn't know how to raise a fund. I knew how to raise money as an entrepreneur. I knew how to be an investor. I didn't know how to raise from LPs. And I didn't have a network of LPs.
+
+## [ctx:mac-conwell-0374]
+
+Kind: investment_approach · Source: full:0e52cf59ee84d8cbbfe76628
+
+Conwell says his personal network supplied roughly $400,000 toward a $10 million fund target.
+
+> My personal network got me to about 400k. And I was like, the goal is 10 million.
+
+## [ctx:mac-conwell-0375]
+
+Kind: investment_approach · Source: full:0e52cf59ee84d8cbbfe76628
+
+Conwell says approaching other general partners as prospective fund investors became his fundraising strategy after Elizabeth Yen indicated she could meet his $10,000 minimum.
+
+> And that became my strategy.
+
+## [ctx:mac-conwell-0376]
+
+Kind: dated_event · Source: full:0e52cf59ee84d8cbbfe76628
+
+Conwell says he held more than 1,100 meetings from mid-June 2020 through mid-September while raising his fund.
+
+> So after them, I mean Elizabeth. That set off this thing where from the middle of June 2020 to the middle of September, I had over 1,100 meetings.
+
+## [ctx:mac-conwell-0377]
+
+Kind: investment_approach · Source: full:0e52cf59ee84d8cbbfe76628
+
+Conwell estimates that the 1,100 meetings produced approximately 35–40 initial LPs and says the fund later had more than 200 LPs.
+
+> Out of that 1,100, I think I got about like 35, 40 LPs that kind of jumpstarted. And- Okay. Jump on. You know, today I have over 200.
+
+## [ctx:mac-conwell-0378]
+
+Kind: investment_approach · Source: full:0e52cf59ee84d8cbbfe76628
+
+Conwell said about 80% of his fund's LPs originated through Twitter interactions.
+
+> So like 80% of my LPs came from interactions on Twitter.
+
+## [ctx:mac-conwell-0379]
+
+Kind: biography · Source: full:0e52cf59ee84d8cbbfe76628
+
+Conwell said he left a State of Maryland job to start the fund with less than $5,000 in his bank account.
+
+> One of the interesting things about when I raised my fund was when I quit my job working for the state of Maryland to go start the fund, I had less than five grand in my bank account.
+
+## [ctx:mac-conwell-0380]
+
+Kind: investment_approach · Source: full:0e52cf59ee84d8cbbfe76628
+
+Conwell said he did not make a GP commitment because he could not afford one.
+
+> Like, you know, I don't have a GP commit because I couldn't afford one.
+
+## [ctx:mac-conwell-0381]
+
+Kind: investment_approach · Source: full:0e52cf59ee84d8cbbfe76628
+
+Conwell said his intended second fund would be substantially larger and more institutional, while he hoped to preserve some access for smaller checks.
+
+> So there's going to be a bunch of people who are Fund 1 that won't be able to be in Fund 2, because the goal for Fund 2 is to be significantly larger. It's going to be more institutional. But hopefully my goal is to set aside a few seats for smaller checks, right?
+
+## [ctx:mac-conwell-0382]
+
+Kind: investment_approach · Source: full:0e52cf59ee84d8cbbfe76628
+
+Conwell described building an organization comparable to NEA or Greenspring as his goal.
+
+> My goal is to be the next NEA, the next Greenspring.
+
+## [ctx:mac-conwell-0383]
+
+Kind: company_relationship · Source: full:0e52cf59ee84d8cbbfe76628
+
+Conwell said his fund invested in Main Street's second round.
+
+> right like we got to invest in main street second round and as you know that was a huge round
+
+## [ctx:mac-conwell-0384]
+
+Kind: company_relationship · Source: full:0e52cf59ee84d8cbbfe76628
+
+Conwell described Main Street founder Doug as one of the most impressive founders he had met.
+
+> The founder Doug is one of the most impressive founders I've ever met.
+
+## [ctx:mac-conwell-0385]
+
+Kind: investment_approach · Source: full:4c62a333785f8365f919a6a7
+
+Conwell described his investment scope as privately held companies that are not listed on stock exchanges.
+
+> I invest in companies that are in the private market. So that means you can't find them on the stock exchange.
+
+## [ctx:mac-conwell-0386]
+
+Kind: dated_event · Source: full:4c62a333785f8365f919a6a7
+
+Conwell said he held 1,128 meetings and soft-circled his first $3 million during the first 90 days of fundraising.
+
+> And the first 90 days of me fundraising, I did 1,128 meetings. So soft circle my first three million.
+
+## [ctx:mac-conwell-0387]
+
+Kind: investment_approach · Source: full:4c62a333785f8365f919a6a7
+
+Conwell said his fundraising effort involved 25 to 28 consecutive meetings per day.
+
+> doing 25 to 28 meetings a day back to back.
+
+## [ctx:mac-conwell-0388]
+
+Kind: biography · Source: full:9f84afd1f8f816cb57ebf527
+
+The program introduces Conwell as associated with Rare Breed Ventures and reports that he runs a $10 million fund investing in underrepresented founders; the first name is transcribed as “Matt.”
+
+> Matt Conwell, Rare Breed Ventures, known as your favorite VCs, favorite VC. An owner of the best VC Twitter in the game, runs a $10 million fund, investing in underrepresented founders.
+
+## [ctx:mac-conwell-0389]
+
+Kind: company_relationship · Source: full:9f84afd1f8f816cb57ebf527
+
+Conwell says his organization participated in Juno Medical's first funding round.
+
+> we're happy to be in their first round of funding
+
+## [ctx:mac-conwell-0390]
+
+Kind: company_relationship · Source: full:9f84afd1f8f816cb57ebf527
+
+Conwell describes himself as a co-investor in Buffalo Market alongside Elizabeth Yin.
+
+> a company that I'm lucky enough to be a co-investor with Elizabeth, a company called Buffalo Market.
+
+## [ctx:mac-conwell-0391]
+
+Kind: investment_approach · Source: full:9f84afd1f8f816cb57ebf527
+
+Conwell says Rare Breed was considering activity involving NFTs, without specifying a completed investment.
+
+> we got some ideas of what we're going to do with nfts over here rare breed
+
+## [ctx:mac-conwell-0392]
+
+Kind: company_relationship · Source: full:9f84afd1f8f816cb57ebf527
+
+Conwell says his organization recently invested in Shana Step Jones's company, Devoneering Labs.
+
+> Look, I have a founder we recently invested in, a woman by the name of Shana Step Jones, creating a company called Devoneering Labs.
+
+## [ctx:mac-conwell-0393]
+
+Kind: company_relationship · Source: full:9f84afd1f8f816cb57ebf527
+
+Conwell describes Devoneering Labs as developing a no-heat tumble dryer intended to dry wigs or hair weaves in 15 minutes.
+
+> She's creating the first tumble dryer for wigs and hair weaves that will be able to dry a wig or hair weave in 15 minutes with no heat.
+
+## [ctx:mac-conwell-0394]
+
+Kind: company_relationship · Source: full:c0cb5aa346cfd9e545131cb9
+
+In this first-party pitch, McKeever Conwell identifies himself as CEO and co-founder of Given2.
+
+> My name is McKeever Conwell. I'm the CEO and co-founder of Given2.
+
+## [ctx:mac-conwell-0395]
+
+Kind: biography · Source: full:c0cb5aa346cfd9e545131cb9
+
+Conwell reports more than ten years of web-development experience and three years running the company as CEO while handling business development.
+
+> I have over 10 years of experience in web development. I've also been running the company as a CEO doing business development for the last three years.
+
+## [ctx:mac-conwell-0396]
+
+Kind: company_relationship · Source: full:c0cb5aa346cfd9e545131cb9
+
+Conwell reports that Given2 had raised funding, completed two accelerators, and obtained business on both US coasts.
+
+> We've raised funds. We've gone through two accelerators. We've gotten business here in both. the East Coast and the West Coast.
+
+## [ctx:mac-conwell-0397]
+
+Kind: company_relationship · Source: full:c0cb5aa346cfd9e545131cb9
+
+Conwell identifies Sam Henry and Michael Washington as his Given2 co-founders and describes the team as web developers and software engineers.
+
+> I have my two co-founders, Sam Henry and Michael Washington. for web developers, software engineers.
+
+## [ctx:mac-conwell-0398]
+
+Kind: biography · Source: full:6a9abcc04d0b25734212df7b
+
+Conwell describes himself as a software engineer and two-time startup CEO with one exit.
+
+> I'm a software engineer by trade, two-time startup CEO, one exit.
+
+## [ctx:mac-conwell-0399]
+
+Kind: biography · Source: full:6a9abcc04d0b25734212df7b
+
+Conwell reports previously working for Maryland's investment arm and starting what he describes as the country's first and only state-backed pre-seed fund for women and minorities.
+
+> We used to work for the investment arm of the state of Maryland where I started the first and only state backed pre-seed fund for women and minorities. in the country
+
+## [ctx:mac-conwell-0400]
+
+Kind: dated_event · Source: full:6a9abcc04d0b25734212df7b
+
+Conwell reports that he was raising a $10 million Rare Breed Ventures pre-seed fund with a $10,000 minimum check; the fund and stage names are imperfectly transcribed in the source.
+
+> now I'm in the process of raising $10 million fund for Rare Breve Ventures, a pre-CEDC venture fund. with a minimum check of 10K
+
+## [ctx:mac-conwell-0401]
+
+Kind: investment_approach · Source: full:6a9abcc04d0b25734212df7b
+
+Conwell describes Rare Breed Ventures as industry-agnostic except for life sciences.
+
+> We specialize in everything. So we're industry agnostic. We do everything but life sciences.
+
+## [ctx:mac-conwell-0402]
+
+Kind: investment_approach · Source: full:6a9abcc04d0b25734212df7b
+
+Conwell says Rare Breed ordinarily uses a conversation rather than a full pitch for its first founder meeting.
+
+> when you first meet me for the first time I'd rather have a conversation than a full pitch and that's just unique to us and our firm, right?
+
+## [ctx:mac-conwell-0403]
+
+Kind: investment_approach · Source: full:6a9abcc04d0b25734212df7b
+
+Conwell says Rare Breed conducts the formal pitch in its second meeting.
+
+> And then the second meeting is where we have the pitch.
+
+## [ctx:mac-conwell-0404]
+
+Kind: investment_approach · Source: full:6a9abcc04d0b25734212df7b
+
+In this imperfect automated transcript, Conwell says he reviews roughly 100–300 companies in a month and 300–900 in a quarter while investing in only a small number, transcribed as zero to an unclear upper bound.
+
+> like in a given month, I'll see a hundred to 300 companies. Right. Some reason given court, I'll see 300 and 900 companies. And I'll invest in zero to... que eu fosse Right.
+
+## [ctx:mac-conwell-0405]
+
+Kind: investment_approach · Source: full:6a9abcc04d0b25734212df7b
+
+Conwell says deferred founders will commonly keep him informed through quarterly or bi-monthly update emails.
+
+> What I would say was more than likely to happen is you're going to put us on like quarterly. or bi-monthly updates. Add us to your update emails.
+
+## [ctx:mac-conwell-0406]
+
+Kind: investment_approach · Source: full:6a9abcc04d0b25734212df7b
+
+Conwell describes his best prior investments as companies that were already growing exceptionally well.
+
+> like the best investments I've ever made were in companies that were just growing so incredibly well that It was like, yeah, I want to be a part of this.
+
+## [ctx:mac-conwell-0407]
+
+Kind: investment_approach · Source: full:6a9abcc04d0b25734212df7b
+
+Conwell characterizes venture investment as a tool for accelerating company growth.
+
+> What we do is we give you a tool to help you grow faster. That's all the money is, it's rocket fuel to grow faster.
+
+## [ctx:mac-conwell-0408]
+
+Kind: company_relationship · Source: full:8d7deca3c21746241af2e3e4
+
+Conwell identifies himself as Mac Conwell and says he is the managing partner and founder of Rare Breed Ventures.
+
+> My name is McKeeva Conwell. Most people know me as Mac. I'm the managing partner and founder of Rare Breed Ventures.
+
+## [ctx:mac-conwell-0409]
+
+Kind: biography · Source: full:8d7deca3c21746241af2e3e4
+
+Conwell describes himself as a software engineer, former government contractor supporting the Department of Defense, and two-time founder with one exit.
+
+> I'm a software engineer by trade, was a government contractor. with a top secret clearance supporting the DoD for a long time, went on to be a two time founder, one exit, one not so much.
+
+## [ctx:mac-conwell-0410]
+
+Kind: biography · Source: full:8d7deca3c21746241af2e3e4
+
+Conwell says he made seed investments for Maryland's investment arm and later led an initiative creating a pre-seed fund for underrepresented founders.
+
+> I ended up getting a job working for the investment arm of the state of Maryland. where I started to cut my teeth doing seed investments and later led an initiative to create a pre-seed fund specifically for underrepresented founders.
+
+## [ctx:mac-conwell-0411]
+
+Kind: investment_approach · Source: full:8d7deca3c21746241af2e3e4
+
+Conwell characterizes the initiative he led as the country's first and only state-backed pre-seed fund for women and minorities.
+
+> It is the first and only state-backed pre-seed fund for women and minorities in the country.
+
+## [ctx:mac-conwell-0412]
+
+Kind: dated_event · Source: full:8d7deca3c21746241af2e3e4
+
+Conwell says he left his Maryland investment role in the September preceding the recording to start Rare Breed.
+
+> And last September, I left that job to start Rare Breed.
+
+## [ctx:mac-conwell-0413]
+
+Kind: investment_approach · Source: full:8d7deca3c21746241af2e3e4
+
+Conwell says Rare Breed was raising a 506(c)-designated fund that permitted public solicitation.
+
+> As part of that raise, we're raising a 506C designated fund so I can probably solicit.
+
+## [ctx:mac-conwell-0414]
+
+Kind: dated_event · Source: full:8d7deca3c21746241af2e3e4
+
+Conwell reports that, at the time of the recording, the fund had secured commitments for $5 million toward a $10 million target.
+
+> And we've crossed the 50% mark today. So we've got commitments for our first 5 million. Got another five to go.
+
+## [ctx:mac-conwell-0415]
+
+Kind: investment_approach · Source: full:8d7deca3c21746241af2e3e4
+
+Conwell attributes his ability to raise the fund to Twitter.
+
+> The only reason I've been able to raise the funds because of Twitter.
+
+## [ctx:mac-conwell-0416]
+
+Kind: investment_approach · Source: full:8d7deca3c21746241af2e3e4
+
+Conwell says he had networks capable of sourcing investment opportunities nationally and globally.
+
+> I could source companies from all over the country, all over the globe. I had networks to source deals.
+
+## [ctx:mac-conwell-0417]
+
+Kind: dated_event · Source: full:8d7deca3c21746241af2e3e4
+
+Conwell reports holding more than 1,100 Twitter-sourced meetings between mid-June and mid-September 2020.
+
+> And so from the middle of June to the middle of September in 2020, I had over 1100 meetings that all came from Twitter.
+
+## [ctx:mac-conwell-0418]
+
+Kind: investment_approach · Source: full:8d7deca3c21746241af2e3e4
+
+Conwell says he learned during the fundraise that other venture capitalists and general partners often serve as limited partners in first funds.
+
+> And that was the first time I recognized that other VCs, other GPs, often will be LPs and fun ones.
+
+## [ctx:mac-conwell-0419]
+
+Kind: dated_event · Source: full:8d7deca3c21746241af2e3e4
+
+Conwell reports that more than 4,000 meetings since the prior June helped him raise the fund's first $5 million and begin deploying capital.
+
+> And so since June of last year, I've had over 4,000. And those 4,000 means have led me to raise the first 5 million in my fund. and you know started deploying capital so for me like it only happened because of social
+
+## [ctx:mac-conwell-0420]
+
+Kind: investment_approach · Source: full:8d7deca3c21746241af2e3e4
+
+Conwell says he uses his social-media reach to solicit answers and support for portfolio founders.
+
+> my social media presence is a value add to my entrepreneurs right. Like if an entrepreneur might need some help, things like this programmability I can put a tweet out and get a bunch of people who can respond to a question or support my founders.
+
+## [ctx:mac-conwell-0421]
+
+Kind: investment_approach · Source: full:8d7deca3c21746241af2e3e4
+
+Conwell states an aspiration to build a large multistage investment firm based in Baltimore.
+
+> My goal is to have a large multi-stage firm based here in Baltimore. like a Greenspring, like an NEA, both Maryland-based firms.
+
+## [ctx:mac-conwell-0422]
+
+Kind: investment_approach · Source: full:8d7deca3c21746241af2e3e4
+
+Conwell says social media can generate visibility and institutional-LP meetings, while investment performance is what he expects to secure commitments.
+
+> the social media strategy helps with visibility but didn't necessarily help me close in the down. or institutional LP, right? It means the institutional LP may have heard of me. Right. So I can get a meeting. But it was going to help me. What's going to get me to close is going to be my performance.
+
+## [ctx:mac-conwell-0423]
+
+Kind: investment_approach · Source: full:8d7deca3c21746241af2e3e4
+
+Conwell says he has developed a limited-partner network capable of introducing him to endowments and institutional investors.
+
+> I'm now getting to the point where I do have a network of LPs who can get me in front of endowments and institutional investors.
+
+## [ctx:mac-conwell-0424]
+
+Kind: investment_approach · Source: full:8d7deca3c21746241af2e3e4
+
+Conwell said emerging fund managers may only recognize how undifferentiated their funds sound after entering the market and comparing themselves with peers.
+
+> You don't know how. non-differentiated you are until you're in marketing. And you start getting friends who are other emerging managers and like. You start looking around like. Why does everybody's fun sound the same? Why does everything look the same?
+
+## [ctx:mac-conwell-0425]
+
+Kind: investment_approach · Source: full:8d7deca3c21746241af2e3e4
+
+Conwell described fund differentiation as important to attracting LP investment.
+
+> And then, and so like really understanding how to be differentiated and then. Also understanding that there are going to be funds that are differentiated. that are gonna get invested.
+
+## [ctx:mac-conwell-0426]
+
+Kind: investment_approach · Source: full:8d7deca3c21746241af2e3e4
+
+Conwell said a prominent LP's willingness to act as a reference or publicly support Rare Breed can matter more than the size of that LP's check.
+
+> And so even if it is. somebody like a Charles Hudson and he puts in the small check. Well, all you need to say is, hey, I don't care about the size of your check, but if I send people you as a reference. Or will you be willing to tweet and say that, hey, I'm really excited for what Max is doing? you know i'm really excited for rare breed That goes a mile.
+
+## [ctx:mac-conwell-0427]
+
+Kind: investment_approach · Source: full:8d7deca3c21746241af2e3e4
+
+Conwell said he looks for value-add LPs who can introduce him to additional prospective LPs.
+
+> You want to look for value-add LPs. I can't tell you how many other LPs has introduced me to.
+
+## [ctx:mac-conwell-0428]
+
+Kind: investment_approach · Source: full:8d7deca3c21746241af2e3e4
+
+Conwell advised assessing an anchor LP by the person's profile and ability to provide LP connections rather than solely by check size.
+
+> when trying to identify the anchor. Don't think about in terms of size. Like people think about anchor LPs, the size of the check. No, think about the profile of the person. and how they can help you get networked into other LPs.
+
+## [ctx:mac-conwell-0429]
+
+Kind: dated_event · Source: full:8d7deca3c21746241af2e3e4
+
+Conwell said he began raising his fund during the COVID period.
+
+> I started raising a fund during COVID
+
+## [ctx:mac-conwell-0430]
+
+Kind: company_relationship · Source: full:5ed8fe0e74454bbeee15085a
+
+Conwell said he managed TEDCO's Minority Business Pre-Seed Fund, a 50-50 funding partnership with Harbor Bank Community Development Corporation for investments in minority-led Maryland startups.
+
+> Just for all the listeners, my name is McKeever Conwell. I go by Mac. I am the person who manages TEDCO's Minority Business Pre-Seed Fund. It's a brand new fund. It's a partnership between us and Harbor Bank Community Development Corporation. We're 50-50 funding partners. to invest in minority-led startups here in the state of Maryland.
+
+## [ctx:mac-conwell-0431]
+
+Kind: biography · Source: full:5ed8fe0e74454bbeee15085a
+
+Conwell described himself as a software engineer by trade who spent about seven years doing government-contract software development.
+
+> So I'm a software engineer by trade. I spent about seven years as a government contractor. Doing software development for the DLD.
+
+## [ctx:mac-conwell-0432]
+
+Kind: biography · Source: full:5ed8fe0e74454bbeee15085a
+
+Conwell said he and two friends started the gift-giving crowdfunding company Given2 in 2010, operated it for four and a half years, attended two accelerators, and sold its technology to a Fortune 100 company.
+
+> In 2010, Me and two of my best friends decided to start a company. It's called Given2. It was a crowdfunding platform for gift giving. We ran that company for four and a half years. We went through two accelerators, one in Baltimore, one in San Francisco. We ended up selling that technology off to a Fortune 100 company.
+
+## [ctx:mac-conwell-0433]
+
+Kind: biography · Source: full:5ed8fe0e74454bbeee15085a
+
+Conwell said he subsequently founded the mobile e-commerce platform Redberry, ran it for about a year and a half, attended a Philadelphia accelerator, and the company did not succeed.
+
+> I then started another company called Redberry, which was an e-commerce platform, a mobile e-commerce platform. I ran that for about a year and a half. Went through another accelerator in Philadelphia. That company didn't work out.
+
+## [ctx:mac-conwell-0434]
+
+Kind: company_relationship · Source: full:5ed8fe0e74454bbeee15085a
+
+Conwell said he served as entrepreneur in residence for the second accelerator he attended in San Francisco.
+
+> I was actually the entrepreneur in residence for the second accelerator I went through in San Francisco.
+
+## [ctx:mac-conwell-0435]
+
+Kind: investment_approach · Source: full:5ed8fe0e74454bbeee15085a
+
+Conwell said his advice to startups draws on his prior operating experience.
+
+> When I talk to these startups and I give them advice, It's coming from a place of where I've been operating before.
+
+## [ctx:mac-conwell-0436]
+
+Kind: investment_approach · Source: full:5ed8fe0e74454bbeee15085a
+
+Conwell said he leveraged his networking skills to help companies in TEDCO's portfolio.
+
+> I'm now able to leverage that for the companies in our portfolio.
+
+## [ctx:mac-conwell-0437]
+
+Kind: biography · Source: full:5ed8fe0e74454bbeee15085a
+
+Conwell says he participated in Accelerate Baltimore and describes it as Baltimore City's first accelerator.
+
+> But what really happened was I got into Accelerate Baltimore, which was the first accelerator in Baltimore City.
+
+## [ctx:mac-conwell-0438]
+
+Kind: biography · Source: full:5ed8fe0e74454bbeee15085a
+
+Conwell reports that persistent cold outreach on Twitter produced roughly the first hundred customers for his startup.
+
+> And so I would do 30 to 40 or 50 of these every day. And so like one or two people would reject me or would block me or say, who the heck are you? Another portion would ignore me. And then like four or five every day would be like, what's this? Tell me more. So I just did that every single day. And that's how we got to like our first hundred customers. . It was just... Cold tweeting people.
+
+## [ctx:mac-conwell-0439]
+
+Kind: biography · Source: full:5ed8fe0e74454bbeee15085a
+
+Conwell says his founder experience taught him the distinction between B2B and B2C sales cycles through direct difficulty.
+
+> I wish I understood customer acquisition better. I wish I understood the difference between doing the b2b and b2c sales cycle I learned that the hard way.
+
+## [ctx:mac-conwell-0440]
+
+Kind: investment_approach · Source: full:5ed8fe0e74454bbeee15085a
+
+The host reports that Mac discusses the importance of creating funding opportunities for underestimated founders.
+
+> Check back this week to listen to Mac on the Founders Mind tangent, where he dives into the importance of creating funding opportunities for, as Arlen Hamilton aptly labeled, underestimated founders.
+
+## [ctx:mac-conwell-0441]
+
+Kind: company_relationship · Source: full:ee895d76ccf8d8d52f2398f7
+
+In this first-person transcript, Conwell describes himself as the solo GP running the transcript-rendered “RareBree Ventures.”
+
+> I am a solo GP running RareBree Ventures.
+
+## [ctx:mac-conwell-0442]
+
+Kind: company_relationship · Source: full:ee895d76ccf8d8d52f2398f7
+
+Conwell says his fund is based in Baltimore.
+
+> The thing that makes our fun unique. One, we're based out of Baltimore.
+
+## [ctx:mac-conwell-0443]
+
+Kind: company_relationship · Source: full:ee895d76ccf8d8d52f2398f7
+
+Conwell identifies Beauty By Me as a company in which his fund invests.
+
+> And we invest in exceptional founders in a company like Beauty By Me.
+
+## [ctx:mac-conwell-0444]
+
+Kind: company_relationship · Source: full:ee895d76ccf8d8d52f2398f7
+
+Conwell states that he is also an investor in the men's makeup brand Faculty World, without specifying whether the investment is personal or through his fund.
+
+> I do subscribe to men wearing makeup because I'm also an investor in a men's makeup brand. called Faculty World.
+
+## [ctx:mac-conwell-0445]
+
+Kind: company_relationship · Source: full:ee895d76ccf8d8d52f2398f7
+
+Conwell identifies ScholarMe, transitioning its name to PATH, as a portfolio company.
+
+> I'll shout out a company in our portfolio. used to be called ScholarMe, now it's going to be transitioning their name to PATH.
+
+## [ctx:mac-conwell-0446]
+
+Kind: company_relationship · Source: full:ee895d76ccf8d8d52f2398f7
+
+Conwell identifies Buffalo Market as the fastest-growing company in his fund's portfolio at the time of the discussion.
+
+> The fastest growing company in our portfolio is a company by the name of Buffalo Market.
+
+## [ctx:mac-conwell-0447]
+
+Kind: dated_event · Source: full:ee895d76ccf8d8d52f2398f7
+
+Conwell reports that Buffalo Market had raised money three times that year and expected another raise; this is a company fundraising statement, not a claim that he invested personally in each round.
+
+> They've raised money three times this year. We'll probably raise a fourth.
+
+## [ctx:mac-conwell-0448]
+
+Kind: company_relationship · Source: full:ee895d76ccf8d8d52f2398f7
+
+Conwell identifies PARA as another portfolio company and reports that it was partnering with Buffalo Market.
+
+> And then they're also partnering with another company in our portfolio called PARA, which helps gig drivers better manage all the different gig work that they do.
+
+## [ctx:mac-conwell-0449]
+
+Kind: investment_approach · Source: full:ee895d76ccf8d8d52f2398f7
+
+Conwell reports a 1.72 TVPI for the transcript-rendered “Rare Breeze Portfolio” in less than nine months.
+
+> all the numbers for Rare Breeze Portfolio is looking great. TVPI at 1.72 in less than nine months.
+
+## [ctx:mac-conwell-0450]
+
+Kind: company_relationship · Source: full:7ce8d970f7fadaf578507716
+
+Conwell described TEDCO as Maryland's economic-development organization.
+
+> So TEDCO is the Maryland Technology Development Corporation. We are essentially economic development firm here in the state of Maryland.
+
+## [ctx:mac-conwell-0451]
+
+Kind: company_relationship · Source: full:7ce8d970f7fadaf578507716
+
+Conwell said he was then serving on TEDCO's advisory-services team.
+
+> Yeah, so I currently sit on the advisory services team.
+
+## [ctx:mac-conwell-0452]
+
+Kind: dated_event · Source: full:7ce8d970f7fadaf578507716
+
+Conwell said that in 2017 he and TEDCO started the Minority Business Pre-Seed Fund, later called the Builder Fund, for entrepreneurs considered socioeconomically disadvantaged in venture capital.
+
+> you know, in 2017, you know, we started. Minority Business Pre-CE Fund, which is now the Builder Fund, which is a pre-CE fund specifically for women and minority like specifically for entrepreneurs who define themselves as socioeconomically disadvantaged in the world of venture capital.
+
+## [ctx:mac-conwell-0453]
+
+Kind: dated_event · Source: full:7ce8d970f7fadaf578507716
+
+Conwell said he started his first company in 2010.
+
+> I started my first company in 2010.
+
+## [ctx:mac-conwell-0454]
+
+Kind: biography · Source: full:7ce8d970f7fadaf578507716
+
+Conwell said he raised money for his second company after learning how startup fundraising worked.
+
+> My second company, I was able to raise money for. because I knew the game. I knew exactly how all this stuff worked.
+
+## [ctx:mac-conwell-0455]
+
+Kind: biography · Source: full:7ce8d970f7fadaf578507716
+
+Conwell said he worked as a software engineer for seven years and left school during his junior year to pursue that career.
+
+> Yeah, so for me... Um, I was a sophomore engineer for seven years. I actually dropped out of school my junior year to pursue my career.
+
+## [ctx:mac-conwell-0456]
+
+Kind: dated_event · Source: full:7ce8d970f7fadaf578507716
+
+Conwell said he and two friends decided to start a company in 2010.
+
+> But in 2010, me and two of my best friends decided we were going to start a company.
+
+## [ctx:mac-conwell-0457]
+
+Kind: biography · Source: full:7ce8d970f7fadaf578507716
+
+Conwell said his first team operated its company for four and a half years, pivoted, and sold its technology to a Fortune 100 company.
+
+> We ran that company for four and a half years. We had a pivot and eventually sold the technology off to a Fortune 100 company.
+
+## [ctx:mac-conwell-0458]
+
+Kind: biography · Source: full:7ce8d970f7fadaf578507716
+
+Conwell said he subsequently founded another company, raised capital, entered an accelerator, and then experienced the team's breakup.
+
+> And then I started another company. I was able to raise money. I got into another accelerator. And then my team fell apart.
+
+## [ctx:mac-conwell-0459]
+
+Kind: investment_approach · Source: full:7ce8d970f7fadaf578507716
+
+Conwell said his investment history included both pre-revenue companies with users and companies already generating substantial revenue.
+
+> I've invested in companies that were pre-revenue. but they already had users. And I've invested in companies that have had a bunch of money coming in.
+
+## [ctx:mac-conwell-0460]
+
+Kind: company_relationship · Source: full:7ce8d970f7fadaf578507716
+
+Conwell identified the venture fund he was starting as Rare Breed Ventures, also called Rare Breed VC.
+
+> Rare breed ventures. Yes. Rare breed VC.
+
+## [ctx:mac-conwell-0461]
+
+Kind: investment_approach · Source: full:7ce8d970f7fadaf578507716
+
+Conwell said his Maryland pre-seed funding work led him to favor pre-seed and early-stage investing and to pursue it at a larger scale.
+
+> having no work and done pre-see funding for the state of Maryland. I fell in love with the pre-c stage and early stage of investing. And so it was just a chance for me to start doing it on a larger scale.
+
+## [ctx:mac-conwell-0462]
+
+Kind: investment_approach · Source: full:7ce8d970f7fadaf578507716
+
+Conwell described Rare Breed as a vehicle for making pre-seed investments on his own terms for the benefit of its investors.
+
+> And so for me, there's just a chance to go about making pre-seed investments and doing it on my own terms. in terms that I believe are going to make all of my investors a whole bunch of money.
+
+## [ctx:mac-conwell-0463]
+
+Kind: investment_approach · Source: full:7ce8d970f7fadaf578507716
+
+Conwell said Rare Breed intended to invest throughout the United States and potentially make some international investments.
+
+> So we look to invest in companies all over. the United States and we'll probably do a few international.
+
+## [ctx:mac-conwell-0464]
+
+Kind: investment_approach · Source: full:7ce8d970f7fadaf578507716
+
+Conwell said Rare Breed reviewed every company submitted through its investment form and was working toward giving those companies feedback.
+
+> We look at every single one of the companies that submit. where you're in the process of getting feedback to all of those companies.
+
+## [ctx:mac-conwell-0465]
+
+Kind: biography · Source: full:b1da6d39995f8f40deac3e52
+
+The host identifies Mac as a venture capitalist when introducing the Silicon Valley Bank discussion.
+
+> with Mac being a venture capitalist, I just thought that he would have a unique perspective in this part of the conversation.
+
+## [ctx:mac-conwell-0466]
+
+Kind: dated_event · Source: full:b1da6d39995f8f40deac3e52
+
+Mac states that Silicon Valley Bank served his first company in 2010 despite its limited resources.
+
+> Silicon Valley bank was like, you ain't got no money, but you starting something. All right, we'll give you a shot. that's what they did for me for my first company back in 2010.
+
+## [ctx:mac-conwell-0467]
+
+Kind: investment_approach · Source: full:b1da6d39995f8f40deac3e52
+
+Mac describes large venture funds as managing institutional capital such as university endowments and state pension-fund money.
+
+> So when you start talking about big VCs, you're talking about they manage endowments for universities. They manage pension funds, money from pension funds from different states.
+
+## [ctx:mac-conwell-0468]
+
+Kind: company_relationship · Source: full:b1da6d39995f8f40deac3e52
+
+Mac says that he and his organization advise Rare Breed founders, supporting an operational or advisory relationship with those founders without specifying his exact title.
+
+> So this is what we've been telling our founders of Rare Breed.
+
+## [ctx:mac-conwell-0469]
+
+Kind: investment_approach · Source: full:b1da6d39995f8f40deac3e52
+
+Mac reports that Rare Breed advises its founders to diversify company banking across at least two, preferably three, banks.
+
+> need to diversify your banking position. You want to have a minimum two banks, we suggest three.
+
+## [ctx:mac-conwell-0470]
+
+Kind: biography · Source: full:f14d28c0033bf6af772c66b1
+
+Conwell says he began as a software engineer working for the US government with a Department of Defense top-secret clearance.
+
+> I became a software engineer. I was working for the government, had top secret clearance in the Department of Defense.
+
+## [ctx:mac-conwell-0471]
+
+Kind: biography · Source: full:f14d28c0033bf6af772c66b1
+
+Conwell says he started his first business in 2010, later sold its IP to a Fortune 100 company, and then founded a second company that raised capital but failed.
+
+> that led me and a couple of my friends starting my first business in 2010. After four and a half years, never raised any money. but went through two accelerators, learned how this all worked. We sold the IP of that company to a Fortune 100 company. Started another company after that, raised some capital. That one didn't work out.
+
+## [ctx:mac-conwell-0472]
+
+Kind: dated_event · Source: full:f14d28c0033bf6af772c66b1
+
+Conwell says a state-run venture fund hired him roughly four and a half months after he applied, marking his entry into venture investing.
+
+> I applied for a job at a venture firm off of the email. And four and a half months later, they hired me. very unusual way to get a job in BC and it was a state-ran fund so that's how I broke it.
+
+## [ctx:mac-conwell-0473]
+
+Kind: company_relationship · Source: full:f14d28c0033bf6af772c66b1
+
+Conwell says he proposed and ran for three years a state-backed pre-seed fund for Black entrepreneurs, with half its capital supplied by a Black-owned Baltimore bank; he characterizes it as the country's first and only state-backed pre-seed fund for women and minorities.
+
+> About four months into that job, I came together. I came to my bosses with a proposal to create a pre-C fund specifically for Black entrepreneurs. And so, and I was able to get a black home bank in Baltimore to put up half the money for that. And they let me do it. And I ran that for three years. It ended up being the first and only state-backed pre-see fund for women and minorities in the country.
+
+## [ctx:mac-conwell-0474]
+
+Kind: biography · Source: full:f14d28c0033bf6af772c66b1
+
+Conwell says he left college for a job at Northrop Grumman and entered venture without a college degree or finance background.
+
+> And the one part of my story is I actually dropped out of college to take my job working for Northrop Grumman. So I don't have a college degree and I don't have a finance background.
+
+## [ctx:mac-conwell-0475]
+
+Kind: dated_event · Source: full:f14d28c0033bf6af772c66b1
+
+Conwell says 1,128 scheduled meetings between mid-June and mid-September 2020 helped him obtain approximately $2 million in initial soft commitments for his fund.
+
+> And so that's how I famously had. 1100 meetings from the middle of September, from the middle of June to the middle of September 2020. The actual number on my calendar, if you count it, was 1,128 meetings. not including phone calls, any impromptu meetings, right? So the number is actually probably higher. But like, that was how I got kickstarted. And those 1,100 meetings got me to the soft circle. My first, let's call it 2 million.
+
+## [ctx:mac-conwell-0476]
+
+Kind: company_relationship · Source: full:f14d28c0033bf6af772c66b1
+
+Conwell says Rare Breed's first, $10 million fund had more than 200 LPs and included several institutional investors.
+
+> I have like over 200 LPs in my fund one. Right. And so that network of them and making introductions to LPs has been strong. Also, I have... several institutions in my fund one, which is actually... You know, unusual thing for not only a fun one, but for such a small fund, a $10 million fund.
+
+## [ctx:mac-conwell-0477]
+
+Kind: dated_event · Source: full:f14d28c0033bf6af772c66b1
+
+Conwell reports that during roughly the first 13 months of deploying Fund 1, Rare Breed made 34 investments and six follow-on investments, with nine reported markup or follow-on opportunities.
+
+> In our first, call it 13 months of deploying capital out fund one. We have done 34 investments with six follow-ups. We've had opportunities now for nine markups, nine follow-on opportunities.
+
+## [ctx:mac-conwell-0478]
+
+Kind: investment_approach · Source: full:f14d28c0033bf6af772c66b1
+
+Conwell says Rare Breed asks portfolio companies to treat the firm like an employee or partner and contact it directly when help is needed.
+
+> We do pretty good helping the company. But what we do at Rare Breed is we ask our companies to treat us like employees. When you need something, tell me. Text me. Email me, call me, let me know when you need some because we're partners.
+
+## [ctx:mac-conwell-0479]
+
+Kind: biography · Source: full:f14d28c0033bf6af772c66b1
+
+Conwell says his experience as a Baltimore founder and investor for Maryland included sourcing early-stage startups generally and then very early-stage startups led by Black founders.
+
+> One, I was a founder coming out of Baltimore, right? And then at one point I worked for the investment arm in the state of Maryland where I had to find the best. early stage startups in the state of Maryland. was transitioned to finding the best. early, early stage startups ran by black founders in the state of Maryland.
+
+## [ctx:mac-conwell-0480]
+
+Kind: investment_approach · Source: full:f14d28c0033bf6af772c66b1
+
+Conwell says his prior sourcing experience shaped his fund's geographically broad view of founder talent.
+
+> And so it was easy for me to recognize the talents everywhere. And so that just kind of permeated as I started the fund.
+
+## [ctx:mac-conwell-0481]
+
+Kind: investment_approach · Source: full:f14d28c0033bf6af772c66b1
+
+Conwell says successful outcomes from founders who historically lacked funding could attract more capital to their locations and communities.
+
+> But, you know, for this moment in time, we're founders who normally wouldn't have gotten funded, they're getting funded now. The more of those founders that we see have success, the more we'll start to see money pour into place.
+
+## [ctx:mac-conwell-0482]
+
+Kind: investment_approach · Source: full:f14d28c0033bf6af772c66b1
+
+Conwell states an aspiration for greater diversity among venture investors, particularly GPs and LPs.
+
+> I hope to see a far more... diverse set of investors and specifically GPs and also LPs in space.
+
+## [ctx:mac-conwell-0483]
+
+Kind: dated_event · Source: full:f14d28c0033bf6af772c66b1
+
+Conwell predicts that the performance of 2020–2022-vintage funds led by Black, brown, and women managers will influence later assessments of diversity-focused capital allocation.
+
+> Like, 2020, 2021, and probably 2022 vintage are going to be. Like, the the marks that people go back to to see like, hey. We talked a lot about diversity back then and gave money to a lot of black and brown and women fund managers. How did they do?
+
+## [ctx:mac-conwell-0484]
+
+Kind: biography · Source: full:e91f3a147339b2e47899e5a2
+
+In his panel introduction, Conwell says he is known as Mac, is from Baltimore, and previously was a software engineer and two-time founder.
+
+> My name is McKeever Conwell. Most people know me as Mac. If you follow me on Twitter, it's MacTheVC. um I'm from Baltimore. I was originally a software engineer and two-time founder.
+
+## [ctx:mac-conwell-0485]
+
+Kind: biography · Source: full:e91f3a147339b2e47899e5a2
+
+Conwell says he exited his first company and raised capital for his second.
+
+> I was able to exit my first company and was able to raise capital for my second company.
+
+## [ctx:mac-conwell-0486]
+
+Kind: company_relationship · Source: full:e91f3a147339b2e47899e5a2
+
+Conwell says that while working for the State of Maryland's investment arm, he started what he describes as the first and only state-backed pre-seed fund for women- and minority-led U.S. startups, based in Maryland.
+
+> And that led me to get a job working for the investment arm of the state of Maryland. where I was able to start the first and only state back. pre-C fund for women and minority led startups here in the United States. based here in Maryland.
+
+## [ctx:mac-conwell-0487]
+
+Kind: investment_approach · Source: full:e91f3a147339b2e47899e5a2
+
+Conwell says the state-backed fund sought to institutionalize the early friends-and-family capital often unavailable to founders from underserved communities.
+
+> Exactly. What we were trying to do with that fund was institutionalize the friends and family around that early capital. to help founders get going.
+
+## [ctx:mac-conwell-0488]
+
+Kind: company_relationship · Source: full:e91f3a147339b2e47899e5a2
+
+Conwell says he left the State of Maryland investment organization to start Rare Breed Ventures, which he describes as a pre-seed-to-seed fund investing primarily outside major U.S. technology hubs.
+
+> I was able to spin out of the investment on the state of Maryland to start Rare Breed Ventures. a pre-C to C venture fund. investing primarily outside the major tech hubs here in the United States.
+
+## [ctx:mac-conwell-0489]
+
+Kind: dated_event · Source: full:e91f3a147339b2e47899e5a2
+
+Conwell says a revenue-generating Latino founder in Dallas contacted him through Twitter in June of the preceding year but was not receiving investor attention.
+
+> Um, is a uh a Latino founder based in Dallas, Texas, who reached out to me. off of Twitter back in June last year, who was building this amazing company. had revenue. But no investors were talking to him because he was... a Latin guy in Dallas.
+
+## [ctx:mac-conwell-0490]
+
+Kind: company_relationship · Source: full:e91f3a147339b2e47899e5a2
+
+Conwell says this opportunity prompted him to start a fund and that he became the founder's lead investor in the first funding round.
+
+> And so because of that, I wanted to make an investment in him. I had no way to do it. And so one of my advisors said, well, start a fund so you can make that investment. And so I did. And I am his lead investor in his first round of funding.
+
+## [ctx:mac-conwell-0491]
+
+Kind: biography · Source: full:e91f3a147339b2e47899e5a2
+
+Conwell says his first pitch was poor and that investors criticized it without showing him how to improve.
+
+> The first time I pitched, it was terrible. I had no clue I was doing and everybody who I pitched to let me know it was terrible, but didn't really push me into the right direction on how to make it better.
+
+## [ctx:mac-conwell-0492]
+
+Kind: investment_approach · Source: full:e91f3a147339b2e47899e5a2
+
+Conwell says his founder-engagement approach emphasizes candidly explaining his reasoning.
+
+> that's one thing that i'm really big on when i meet with founders i'm always going to tell you why And you may not like it. You know, you may get mad at me. But I'm never going to lie to you.
+
+## [ctx:mac-conwell-0493]
+
+Kind: biography · Source: full:e91f3a147339b2e47899e5a2
+
+Conwell says that at age 24 he was one of the youngest hiring managers on the U.S. East Coast for the consulting firm transcribed as “blues allen hamilton.”
+
+> When- At one point in time, I was one of the youngest hiring managers. on the east coast of the united states for blues allen hamilton a large consulting firm. I was 24.
+
+## [ctx:mac-conwell-0494]
+
+Kind: biography · Source: full:e91f3a147339b2e47899e5a2
+
+Conwell recounts being mistaken for a construction or mailroom worker while employed as a hiring manager, which he presents as an experience of racial bias.
+
+> But whenever we had construction going on around the building, Whenever I walked in, I would always get asked, when's the construction going to be done? Or what time are you bringing mail today? because the only other black person or black people in the building were either worked in the mailroom or did construction.
+
+## [ctx:mac-conwell-0495]
+
+Kind: company_relationship · Source: full:eb56c51a149a443a5e4f1220
+
+Conwell says he managed TEDCO's Minority Business Pre-Seed Fund, a 50-50 partnership with Harbor Bank Community Development Corporation investing in minority-led Maryland startups.
+
+> I am the person who manages Tedco's Minority Business Pre-Seed Fund. It's a brand new fund. It's a partnership between us and Harbor Bank Community Development Corporation. We're 50-50 funding partners. to invest in minority led startups here in the state of Maryland.
+
+## [ctx:mac-conwell-0496]
+
+Kind: biography · Source: full:eb56c51a149a443a5e4f1220
+
+Conwell describes himself as a software engineer by trade who spent about seven years developing software as a government contractor for the Department of Defense.
+
+> So I'm a software engineer by trade. I spent about seven years as a government contractor. doing software development for the DoD, doing everything from hardware simulation versus reverse engineering to cold fusion to building apps, to Ruby on Rails, and a whole bunch of other stuff.
+
+## [ctx:mac-conwell-0497]
+
+Kind: biography · Source: full:eb56c51a149a443a5e4f1220
+
+Conwell says he and two friends founded the gift-giving crowdfunding platform Given2 in 2010, operated it for four and a half years, attended two accelerators, and sold its technology to a Fortune 100 company.
+
+> In 2010, Me and two of my best friends decided to start a company. It's called Given2. It was a crowdfunding platform for gift giving. We ran that company for four and a half years. We went through two accelerators, one in Baltimore, one in San Francisco. We ended up selling that technology off to a Fortune 100 company.
+
+## [ctx:mac-conwell-0498]
+
+Kind: biography · Source: full:eb56c51a149a443a5e4f1220
+
+Conwell says he later founded the mobile e-commerce platform Redberry, ran it for about a year and a half, attended a Philadelphia accelerator, and the company did not succeed.
+
+> I then started another company called Redberry, which was an e-commerce platform, a mobile e-commerce platform. I ran that for about a year and a half. Went through another accelerator in Philadelphia. That company didn't work out.
+
+## [ctx:mac-conwell-0499]
+
+Kind: company_relationship · Source: full:eb56c51a149a443a5e4f1220
+
+Conwell says he served as entrepreneur in residence for the second accelerator he attended in San Francisco.
+
+> I was actually the entrepreneur in residence for the second accelerator I went through in San Francisco.
+
+## [ctx:mac-conwell-0500]
+
+Kind: investment_approach · Source: full:eb56c51a149a443a5e4f1220
+
+Conwell says he applies networking skills developed while serving as a startup founder and CEO.
+
+> I'm able to leverage my skills of networking. So being a founder. Being the CEO of a startup, a big part of what you do is networking.
+
+## [ctx:mac-conwell-0501]
+
+Kind: investment_approach · Source: full:eb56c51a149a443a5e4f1220
+
+Conwell says he uses his network to assist TEDCO portfolio companies.
+
+> I'm now able to leverage that for the companies in our portfolio.
+
+## [ctx:mac-conwell-0502]
+
+Kind: biography · Source: full:eb56c51a149a443a5e4f1220
+
+Conwell says he participated in Accelerate Baltimore, which he describes as Baltimore City's first accelerator.
+
+> I got into Accelerate Baltimore, which was the first accelerator in Baltimore City. and he was an advisor to the accelerator.
+
+## [ctx:mac-conwell-0503]
+
+Kind: company_relationship · Source: full:eb56c51a149a443a5e4f1220
+
+Conwell says cold outreach on Twitter produced approximately his company's first hundred customers.
+
+> And that's how we got to like our first hundred customers. was just Cold tweeting people.
+
+## [ctx:mac-conwell-0504]
+
+Kind: biography · Source: full:eb56c51a149a443a5e4f1220
+
+Conwell retrospectively says his founder experience taught him difficult lessons about customer acquisition, B2B versus B2C sales cycles, and networks.
+
+> I wish I understood customer acquisition better. I wish I understood the difference between doing the b2b and b2c sales cycle i learned that the hard way I wish I understood. the importance of a network.
+
+## [ctx:mac-conwell-0505]
+
+Kind: biography · Source: full:eb56c51a149a443a5e4f1220
+
+The accepted speaker self-identifies as McKeever Conwell and spells out a Mac Conwell Twitter handle, providing textual identity support despite the transcript rendering the spoken handle as “Matt Conwell.”
+
+> You're always more than welcome to find me on LinkedIn, McKeever Conwell. My first name is spelled M-C-K-E-E-V-E-R. If you put that in, you'll probably find me. Or follow me on Twitter at Matt Conwell, M-A-C-C-O-N-W-E-L-L.
+
+## [ctx:mac-conwell-0506]
+
+Kind: biography · Source: full:7b8c0a9eb4f45e947f237ef2
+
+Conwell says he was a software engineer and government contractor before becoming a two-time founder whose second company failed.
+
+> I was a software engineer and I was a government contractor for years. I then went on to be a two-time founder, but my second company wasn't a success. It was a failure.
+
+## [ctx:mac-conwell-0507]
+
+Kind: dated_event · Source: full:7b8c0a9eb4f45e947f237ef2
+
+Conwell says Maryland's state investment arm hired him four and a half months after he applied, marking his entry into venture investing.
+
+> Four and a half months later, they hired me. So I broke in.
+
+## [ctx:mac-conwell-0508]
+
+Kind: company_relationship · Source: full:7b8c0a9eb4f45e947f237ef2
+
+Conwell says he encountered RoboAmp founder Roberto in Dallas and believed the founder was being overlooked.
+
+> I met a founder in Dallas, Texas, a gentleman by the name of Roberto who runs a company called RoboAmp doing some really incredible things, but nobody wanted to support him because he was a Latin guy in Texas.
+
+## [ctx:mac-conwell-0509]
+
+Kind: dated_event · Source: full:7b8c0a9eb4f45e947f237ef2
+
+Conwell reports that more than 1,100 meetings from mid-June through September 2020 helped him soft-circle his first $2 million and gave him confidence to leave his job.
+
+> Between the middle of June 2020 to September 2020, I had over 1,100 meetings, which allowed me to soft circle my first two million and kind of gave me the confidence to quit my job and really go do this day.
+
+## [ctx:mac-conwell-0510]
+
+Kind: investment_approach · Source: full:7b8c0a9eb4f45e947f237ef2
+
+Conwell says he used rolling closes every three weeks to bring LPs in batches and gain deployable capital sooner.
+
+> No, I do a rolling close every three weeks. Like I bring my LPs in batches. Like I want to access the capital so I can start deploying.
+
+## [ctx:mac-conwell-0511]
+
+Kind: investment_approach · Source: full:7b8c0a9eb4f45e947f237ef2
+
+Conwell describes offering Rare Breed LPs three contribution schedules, subject to a $10,000 annual minimum.
+
+> You can do a hundred percent upfront, 50% each year over two years, or 33% over each year over three years, with the minimum being 10K per year.
+
+## [ctx:mac-conwell-0512]
+
+Kind: investment_approach · Source: full:7b8c0a9eb4f45e947f237ef2
+
+Conwell says Rare Breed planned a portfolio of approximately 40 to 45 companies.
+
+> Really, we're going to do somewhere between like 40 to 45 companies.
+
+## [ctx:mac-conwell-0513]
+
+Kind: investment_approach · Source: full:7b8c0a9eb4f45e947f237ef2
+
+Conwell says the fund expected roughly six to ten follow-on investments, would emphasize first checks, and allocated about 5% to off-thesis investments.
+
+> So we're going to do somewhere in the neighborhood of like six to 10 follow on, but mostly most first checks. And we'll also do a few off thesis investments. We got about 5% of the fund allocated for off thesis.
+
+## [ctx:mac-conwell-0514]
+
+Kind: company_relationship · Source: full:7b8c0a9eb4f45e947f237ef2
+
+Conwell reports that Rare Breed placed a $100,000 check in Main Street's second round, which he describes as a $60 million financing.
+
+> Well, it just so happens that we got to be a small check in the second round of Main Street. For those who don't know, Main Street second round was a $60 million round. I got to put a 100K check on that round.
+
+## [ctx:mac-conwell-0515]
+
+Kind: company_relationship · Source: full:7b8c0a9eb4f45e947f237ef2
+
+At the time of the interview, Conwell described Memphis-based beautybyme.io as one of his top-performing portfolio companies.
+
+> One of my top performing companies right now is a company based out of Memphis, Tennessee called beautybyme.io
+
+## [ctx:mac-conwell-0516]
+
+Kind: investment_approach · Source: full:7b8c0a9eb4f45e947f237ef2
+
+Conwell says his first three investments at Maryland went to zero, while the next six remained active at the time and three later entered his current portfolio.
+
+> The first three companies we invested in went straight to zero. Like my first three, straight to zero. The next six, all still alive today. Three of them are in my current portfolio.
+
+## [ctx:mac-conwell-0517]
+
+Kind: company_relationship · Source: full:7b8c0a9eb4f45e947f237ef2
+
+Conwell states an ambition to build Rare Breed into a top-tier, multistage firm based in Baltimore.
+
+> You're going to look up 10 years from now and we're going to be building the next top tier multi-stage firm based out of Baltimore.
+
+## [ctx:mac-conwell-0518]
+
+Kind: company_relationship · Source: full:7b8c0a9eb4f45e947f237ef2
+
+In this first-person interview, Conwell described Unspun as his most recently publicly announced investment at the time of recording.
+
+> Most recently publicly announced investment was an investment in a company called Unspun out of Oakland.
+
+## [ctx:mac-conwell-0519]
+
+Kind: investment_approach · Source: full:7b8c0a9eb4f45e947f237ef2
+
+Conwell said Rare Breed venture partner Jonathan Kroll sourced the Unspun opportunity.
+
+> And I should also say that company was sourced by my venture partner, Jonathan Kroll.
+
+## [ctx:mac-conwell-0520]
+
+Kind: investment_approach · Source: full:7b8c0a9eb4f45e947f237ef2
+
+Conwell described starting a venture firm as a roughly 20-year commitment across successive fund cycles.
+
+> And once you decide you're going to start a firm, you're basically making a 20-year commitment, right? Fund one's 10 years. Two, three years later, you're going to raise fund two. That's another 10 years. Two to three years after that, you're going to raise fund three. You're now 17 years in that you're dedicated.
+
+## [ctx:mac-conwell-0521]
+
+Kind: company_relationship · Source: full:aeb07537ecfbae18af4a1577
+
+The event host introduced Mac Conwell as an investor in Rare Breed Ventures based in Baltimore, Maryland.
+
+> All right, and now let's welcome Mac Conwell. He's an investor in his new fund, Rare Breed Ventures, out of Baltimore, Maryland.
+
+## [ctx:mac-conwell-0522]
+
+Kind: biography · Source: full:aeb07537ecfbae18af4a1577
+
+The event host reported that Mac Conwell had previously participated in the event through a featured startup.
+
+> Mac was once part of a startup that was featured at one of our past events. So he's technically an alumni.
+
+## [ctx:mac-conwell-0523]
+
+Kind: biography · Source: full:b777e543d198dbb3695b9661
+
+The committee chair introduced Conwell as Rare Breed Ventures’ founder and managing partner, a former software engineer, and a two-time founder.
+
+> Mr. Conwell is the founder and managing partner of Rare Breed Ventures. an emerging VC fund located in Baltimore, Maryland. Mr. Conwell is a former software engineer and two-time founder.
+
+## [ctx:mac-conwell-0524]
+
+Kind: company_relationship · Source: full:b777e543d198dbb3695b9661
+
+Conwell testified firsthand that his full name is McKeever Edward Conwell II and that he is Rare Breed Ventures’ founder and managing partner.
+
+> My name is McKeever Edward Conwell II, and I am the founder and managing partner of A rare breed ventures a rare breed. which I am representing today.
+
+## [ctx:mac-conwell-0525]
+
+Kind: dated_event · Source: full:b777e543d198dbb3695b9661
+
+Conwell said he launched Rare Breed Ventures in 2020 to address capital-access and cultural-competency gaps affecting founders of color and founders outside major investment hubs.
+
+> In 2020, I launched Rare Breed Ventures as a response to the lack of access to capital for founders of color. and founders outside of major investment hubs. as well as a response to lack of cultural competency.
+
+## [ctx:mac-conwell-0526]
+
+Kind: investment_approach · Source: full:b777e543d198dbb3695b9661
+
+Conwell said Rule 506 enabled him to solicit potential fund investors mainly through Twitter, leading to 1,128 meetings in his first 90 days and more than 4,000 overall.
+
+> The first regulation allowed me to use social media, Twitter mainly. to meet with many potential investors. Thanks to this, I was able to have 1,128 meetings in my first 90 days. and more than 4,000 meetings in total.
+
+## [ctx:mac-conwell-0527]
+
+Kind: investment_approach · Source: full:b777e543d198dbb3695b9661
+
+Conwell said an Investment Company Act amendment enabled a $10,000 minimum and that Rare Breed consequently had 194 investors, 83.5% of whom invested $50,000 or less.
+
+> The second regulation allowed me to offer investors to invest as little as $10,000. compared to 100,000. I would have had to ask them to before the amendment. This led to me having 194 investors. and rare breed. Of these investors, 83.5% invested $50,000 or less.
+
+## [ctx:mac-conwell-0528]
+
+Kind: dated_event · Source: full:b777e543d198dbb3695b9661
+
+In first-person testimony, Conwell says he started his first company in 2010 and initially lacked familiarity with investors.
+
+> When I started my first company in 2010, I didn't know what an investor was.
+
+## [ctx:mac-conwell-0529]
+
+Kind: company_relationship · Source: full:b777e543d198dbb3695b9661
+
+At the hearing, Representative Nunn identified Conwell as the witness he was addressing about capital-access legislation.
+
+> So, Mr. Conwell, I'd like to begin with you.
+
+## [ctx:mac-conwell-0530]
+
+Kind: investment_approach · Source: full:b777e543d198dbb3695b9661
+
+Conwell said that enabling greater angel-investor activity and giving newcomer investors more opportunities to raise capital are important.
+
+> It's so important for the angel investors to have the ability to do more. Then when we talk about the ICANN Act, It allows for more newcomer investors to have more opportunities to raise capital.
+
+## [ctx:mac-conwell-0531]
+
+Kind: investment_approach · Source: full:b777e543d198dbb3695b9661
+
+Conwell said the JOBS Act and 506C designation enabled his fundraising, that his fund has investors from across the country, and that he invests in companies across the country.
+
+> I wouldn't be able to raise capital if it wasn't for the Jobs Act and the 506C designation. And because of that, I now have... investors in my fund from all over the country and I am investing in companies from all over the country.
+
+## [ctx:mac-conwell-0532]
+
+Kind: dated_event · Source: full:6662500f532d81aeb03b7a9a
+
+The newsletter reports that Mac Conwell of RareBreed Ventures had appeared as a founder or investor guest on The VITALIZE Podcast by June 3, 2022.
+
+> Since then, the show has been listened to thousands of times and we’ve featured some amazing Founders and Investors like: Wes Kao of Maven Hunter Walk of Homebrew Ruben Harris of Career Karma Deena Shakir or Lux Capital Alexandra Zatarain of Eight Sleep Mac Conwell of Rarebreed Ventures
+
+## [ctx:mac-conwell-0533]
+
+Kind: investment_approach · Source: full:229a5f68517a328d9a674140
+
+The podcast description reports that Conwell founded Baltimore-based RareBreed Ventures and invested in pre-seed and seed founders outside major technology hubs.
+
+> Mac Conwell joined us on a panel of emerging VCs. He founded Baltimore-based RareBreed Ventures a little more than a year ago to invest in pre-seed and seed founders outside of the major tech hubs.
+
+## [ctx:mac-conwell-0534]
+
+Kind: dated_event · Source: full:229a5f68517a328d9a674140
+
+The publisher reports that the PreMoney 2021 conference took place in Miami on December 2, 2021.
+
+> On December 2, 2021, 500 Global convened the global venture capital community in Miami to its PreMoney 2021 conference for an interactive experience at the nexus of culture, technology, investment and global finance.
+
+## [ctx:mac-conwell-0535]
+
+Kind: investment_approach · Source: full:229a5f68517a328d9a674140
+
+The episode description says Conwell used Twitter to raise his fund and build a venture-capital network.
+
+> On our podcast Rise of the Next, Mac tells us how he raised his fund the most unconventional way–by using Twitter. The social media platform enabled him to build a network in the VC community and learn about the world of venture capital.
+
+## [ctx:mac-conwell-0536]
+
+Kind: biography · Source: full:3810bd3317dbadc5f45b5f9f
+
+Conwell's Threads profile describes him as managing partner of RareBreedVC and references underrepresented founders and the Kauffman Fellows.
+
+> Managing Partner @RareBreedVC | underrepresented founders | Hacker turned Hustler | Entrepreneur | Vampire | Former Gamer | @KauffmanFellows
+
+## [ctx:mac-conwell-0537]
+
+Kind: company_relationship · Source: full:3810bd3317dbadc5f45b5f9f
+
+In a post dated July 18, 2023, Conwell described himself as an investor or partner celebrating Blank Beauty's Walmart partnership; the wording does not distinguish the precise relationship.
+
+> A proud investor/partner moment. Congratulations to Charles and the team @ _blankbeauty for launching their partnership with Walmart today! Such a milestone moment for an incredible company
+
+## [ctx:mac-conwell-0538]
+
+Kind: company_relationship · Source: full:3810bd3317dbadc5f45b5f9f
+
+In a post dated July 12, 2023, Conwell referred to Kathryn Finney as one of his LPs.
+
+> Chicago, the last day and half were all love. Got to run into old friends, meet others IRL, eat great food, and got an opportunity to show love to one of my OGs/LP (she's just an OG in this game period) Kathryn Finney at Genius Guild AMG.Thank you, and I can't wait for next time
+
+## [ctx:mac-conwell-0539]
+
+Kind: company_relationship · Source: full:bbcfba0010c844282ff07eda
+
+RareBreed Ventures' “Companies” page lists firms including Unspun, GigSafe, Mainstreet, Allocate, Blank Beauty, EarlyBird, Levels Health, Breadless, Rollfi, Eisengard AI, Grounded Technologies, Bold, Co:Create, and Triangle; this is firm-level rather than personal investment evidence.
+
+> Unspun ‍ GigSafe ‍ Mainstreet ‍ Allocate ‍ Blank Beauty Bonus Sparen Homes Nectar EarlyBird Semantiks AI Levels Health Breadless Rollfi Eisengard AI Grounded Technologies Bold Co:Create Triangle
+
+## [ctx:mac-conwell-0540]
+
+Kind: company_relationship · Source: full:bbcfba0010c844282ff07eda
+
+The page identifies RareBreed Ventures Management LLC and invites prospective limited partners to invest in RareBreed.
+
+> Invest in RareBreed Become an Lp © 2024 RareBreed Ventures Management LLC
+
+## [ctx:mac-conwell-0541]
+
+Kind: investment_approach · Source: full:a0fa4802bebcf1ff8c6652ff
+
+The November 1, 2021 episode notes describe Conwell as RareBreed Ventures' founder and managing partner and characterize the fund as a concentrated pre-seed investor outside large technology ecosystems that can write the first check up to $250,000.
+
+> McKeever "Mac" Conwell II is the founder and managing partner of RareBreed Ventures , a pre-seed fund that invests outside of large tech ecosystems, with a concentrated portfolio approach being the first check with up to $250K.
+
+## [ctx:mac-conwell-0542]
+
+Kind: biography · Source: full:a0fa4802bebcf1ff8c6652ff
+
+The episode notes report that Conwell moved from homelessness to engineering and company founding before raising RareBreed largely through Twitter.
+
+> Mac's journey into venture is nothing short of inspirational, Mac went from being homeless to being an engineer to founding his own companies to today, raising Rarebreed largely on Twitter.
+
+## [ctx:mac-conwell-0543]
+
+Kind: biography · Source: full:94c06214128ac49dda6f1177
+
+The Mesh profile describes Conwell as founder and managing partner of the Baltimore-based pre-seed fund RareBreed Ventures.
+
+> McKeever (Mac) Conwell II is the Founder and Managing Partner at RareBreed Ventures, a pre-seed venture capital fund based in Baltimore, Maryland.
+
+## [ctx:mac-conwell-0544]
+
+Kind: dated_event · Source: full:94c06214128ac49dda6f1177
+
+The Mesh profile reports that Conwell founded RareBreed Ventures in September 2020 after seed-stage investment work at TEDCO.
+
+> Conwell founded RareBreed Ventures in September 2020 after leaving the Maryland Technology Development Corporation (TEDCO), where he was involved in seed-stage investments.
+
+## [ctx:mac-conwell-0545]
+
+Kind: investment_approach · Source: full:94c06214128ac49dda6f1177
+
+The Mesh profile characterizes RareBreed as focused on exceptional founders, particularly those from underrepresented backgrounds, with typical early-stage investments of $100,000 to $250,000.
+
+> His venture fund focuses on investing in exceptional founders, particularly those from underrepresented backgrounds, aiming to bridge the funding gap that minority entrepreneurs often face. RareBreed Ventures typically invests between $100,000 to $250,000 in early-stage startups.
+
+## [ctx:mac-conwell-0546]
+
+Kind: biography · Source: full:94c06214128ac49dda6f1177
+
+The Mesh profile reports that Conwell launched two startups, one of which sold its intellectual property to a Fortune 100 company while the other closed.
+
+> Conwell is recognized for his dual experience as a founder, having launched two startups—one of which successfully exited by selling its intellectual property to a Fortune 100 company, while the other faced challenges that led to its closure.
+
+## [ctx:mac-conwell-0547]
+
+Kind: biography · Source: full:94c06214128ac49dda6f1177
+
+Mesh expressly cautions that this aggregated profile can contain errors and should be verified.
+
+> Mesh can make mistakes, so please verify responses. Data is from public sources.
+
+## [ctx:mac-conwell-0548]
+
+Kind: dated_event · Source: full:4d4a6da8b07e6bc40eac22f5
+
+Founderland announced Conwell, identified as RareBreed Ventures' founder and managing partner, as a speaker for the inaugural 2022 Compass program.
+
+> We are thrilled to announce the speakers who will be leading sessions in our inaugural run of Compass. Drumroll please... Aparna Aiyar , Managing Director, Growth Equity Investor at Goldman Sachs Growth Liz Tran , Founder & Executive Coach at Reset Mac Conwell , Founder & Managing Partner at RareBreed Ventures
+
+## [ctx:mac-conwell-0549]
+
+Kind: company_relationship · Source: full:4d4a6da8b07e6bc40eac22f5
+
+Founderland describes the program in which Conwell was scheduled to speak as supporting women-of-colour founders with negotiations and pitches affected by bias.
+
+> Compass is a hands-on virtual program helping women of colour founders navigate negotiations and pitches where they might face bias, while building on their confidence and conviction in their ability to raise on great terms.
+
+## [ctx:mac-conwell-0550]
+
+Kind: biography · Source: full:059016c5322bab54ea1e42a5
+
+The research document identifies Conwell as founder and managing partner of RareBreed Ventures.
+
+> McKeever "Mac" Conwell II is the Founder and Managing Partner of RareBreed Ventures.
+
+## [ctx:mac-conwell-0551]
+
+Kind: investment_approach · Source: full:059016c5322bab54ea1e42a5
+
+The research document characterizes RareBreed as a pre-seed and early-seed fund seeking exceptional founders beyond traditional venture hubs.
+
+> RareBreed Ventures is a pre-seed and early-seed fund founded on the conviction that exceptional founders exist everywhere, not just in traditional venture epicenters like Silicon Valley, New York, and Boston.
+
+## [ctx:mac-conwell-0552]
+
+Kind: investment_approach · Source: full:059016c5322bab54ea1e42a5
+
+The research document reports a pre-seed and seed focus with investment checks ranging from $50,000 to $250,000.
+
+> Primary Stage: Pre-Seed ($50K-$250K checks) and Seed ($100K-$250K range). Check Size Range: $50,000 - $250,000 per investment.
+
+## [ctx:mac-conwell-0553]
+
+Kind: investment_approach · Source: full:059016c5322bab54ea1e42a5
+
+The research document reports that RareBreed seeks to be the first or among the first institutional investors in its portfolio companies.
+
+> The fund uses checks as the first or among the first institutional capital for portfolio companies.
+
+## [ctx:mac-conwell-0554]
+
+Kind: investment_approach · Source: full:059016c5322bab54ea1e42a5
+
+The research document reports RareBreed sector interests spanning CPG and D2C, ecommerce, SaaS, Web3 or crypto, and healthcare or digital health.
+
+> Primary Sectors: CPG/D2C (Consumer Packaged Goods, Direct-to-Consumer) with emphasis on underrepresented founders in beauty, food/beverage, household goods; Ecommerce (marketplace and platform businesses, especially serving underrepresented categories); SaaS (business software and tools, particularly vertical SaaS for overlooked industries); Web3/Crypto (blockchain and cryptocurrency applications, especially inclusive finance); Healthcare/Digital Health (medical devices, health tech, telemedicine, health services for underserved communities).
+
+## [ctx:mac-conwell-0555]
+
+Kind: investment_approach · Source: full:059016c5322bab54ea1e42a5
+
+The research document attributes to RareBreed a preference for original products addressing real customer pain points, overlooked markets, and problems to which founders have an authentic connection.
+
+> The fund shows clear preference for founders addressing real customer pain points with original products. Common threads in portfolio: solving problems for underserved communities, bringing innovation to traditionally overlooked markets, founders with authentic connection to the problem they're solving.
+
+## [ctx:mac-conwell-0556]
+
+Kind: investment_approach · Source: full:059016c5322bab54ea1e42a5
+
+The research document reports that RareBreed avoids generic copies, founders lacking a genuine problem connection, ideas confined to well-served competitive markets, and pedigree without problem-solving.
+
+> RareBreed does NOT back: Generic Silicon Valley copy-cats; Founders without genuine connection to the problem they're solving; Ideas targeting only well-served, competitive markets; All-star pedigree syndrome (credentialism without real problem-solving).
+
+## [ctx:mac-conwell-0557]
+
+Kind: dated_event · Source: full:059016c5322bab54ea1e42a5
+
+The research document reports an approximately $10 million initial pre-seed fund, more than 45 website-listed companies, and active deployment as of December 2025, including a documented SuperCircle investment.
+
+> Fund Size: Approximately $10M pre-seed fund (initial raise). Portfolio Size: 45+ portfolio companies on website (company count has grown significantly since 2021 launch). Recent Activity Status: December 2025 - Fund remains actively deploying, with SuperCircle investment documented.
+
+## [ctx:mac-conwell-0558]
+
+Kind: biography · Source: full:be81e77a033531ecc61b2e2c
+
+The directory reports that Conwell launched Baltimore-based RareBreed Ventures in September 2020 after work as a TEDCO seed-stage fund manager, software engineer, and two-time founder.
+
+> McKeever “Mac” Conwell II is the Founder and Managing Partner of RareBreed Ventures, a pre-seed venture fund based in Baltimore, Maryland, launched in September 2020 after he served as a seed-stage fund manager at TEDCO and worked as a software engineer and two-time founder.
+
+## [ctx:mac-conwell-0559]
+
+Kind: investment_approach · Source: full:be81e77a033531ecc61b2e2c
+
+The directory characterizes Conwell's thesis as early pre-seed investing in exceptional, often underrepresented founders outside major technology hubs.
+
+> His investment thesis targets exceptional, often underrepresented founders operating outside major tech hubs like Silicon Valley, New York, and Boston, investing at the pre-seed stage earlier than most competitors.
+
+## [ctx:mac-conwell-0560]
+
+Kind: investment_approach · Source: full:be81e77a033531ecc61b2e2c
+
+The directory reports that RareBreed typically writes $50,000 to $250,000 checks, often leads early rounds, and provides supporting services.
+
+> RareBreed typically writes conviction checks ranging from $50,000 to $250,000 and often leads early rounds by providing capital alongside wraparound services to increase founder capacity.
+
+## [ctx:mac-conwell-0561]
+
+Kind: investment_approach · Source: full:be81e77a033531ecc61b2e2c
+
+The directory attributes to Conwell an emphasis on customer acquisition, customer experience, and retention over fundraising as an end in itself, but supplies no direct quotation.
+
+> Conwell distinguishes himself by emphasizing that fundraising is not the primary goal for founders; instead, he advocates focusing on customer acquisition, experience, and retention as the core drivers of success.
+
+## [ctx:mac-conwell-0562]
+
+Kind: company_relationship · Source: full:be81e77a033531ecc61b2e2c
+
+The site says its investor details derive from filing and round data maintained by the StartupFundraising directory.
+
+> Details on this investor come from filing and round data held in the StartupFundraising directory, refreshed on ingest.
+
+## [ctx:mac-conwell-0563]
+
+Kind: dated_event · Source: full:a49fcac86e7e42eb748c5b00
+
+The podcast listing identifies Mac Conwell of RareBreed Ventures as the subject of the first episode of Angel season six.
+
+> Mac Conwell of RareBreed Ventures | Angel S6 E1
+
+## [ctx:mac-conwell-0564]
+
+Kind: biography · Source: full:6caeee1ce669d3de8b85d8df
+
+BR Venture Fund identifies Conwell as a founder and managing partner of RareBreed Ventures.
+
+> An interview with Mac Conwell, a Founder and Managing Partner at RareBreed Ventures.
+
+## [ctx:mac-conwell-0565]
+
+Kind: investment_approach · Source: full:6caeee1ce669d3de8b85d8df
+
+BR Venture Fund reports that Conwell seeks to increase investment in enterprises founded by people of color.
+
+> Mac aims to shore up investment in enterprises founded by people of color.
+
+## [ctx:mac-conwell-0566]
+
+Kind: dated_event · Source: full:6caeee1ce669d3de8b85d8df
+
+BR Venture Fund describes its June 3, 2022 interview as covering Conwell's path into venture capital and his vision for its future.
+
+> In this interview with Adhiraj Singh, Mac discusses the challenges he faced in his journey toward VC and his vision for the future of VC.
+
+## [ctx:mac-conwell-0567]
+
+Kind: investment_approach · Source: full:b4f2684ac6f783422d02918e
+
+VC Sheet reports that Conwell raised his first institutional fund largely through Twitter, cold outreach, and general solicitation.
+
+> Mac Conwell built his entire first institutional venture fund largely through Twitter, publicly documenting the journey of raising RareBreed without an existing LP network and using cold DMs and general solicitation rather than traditional closed-door fundraising channels.
+
+## [ctx:mac-conwell-0568]
+
+Kind: investment_approach · Source: full:b4f2684ac6f783422d02918e
+
+VC Sheet describes RareBreed as a pre-seed investor focused on under-networked founders outside major technology hubs, particularly Black and Brown entrepreneurs.
+
+> RareBreed Ventures focuses on pre-seed founders outside of large tech ecosystems like SF and NYC, particularly backing first-time, under-networked entrepreneurs from Black and Brown communities who don't fit typical Silicon Valley pedigrees.
+
+## [ctx:mac-conwell-0569]
+
+Kind: investment_approach · Source: full:b4f2684ac6f783422d02918e
+
+The profile reports that RareBreed invests from pre-seed through seed with average checks of $50,000 to $250,000.
+
+> Rounds Pre-Seed - Seed Avg Check Size $50K - $250K
+
+## [ctx:mac-conwell-0570]
+
+Kind: biography · Source: full:2a189a823ee1609ae7352ab1
+
+The Founder’s Mind reports that Conwell sold a company and subsequently worked with numerous startups.
+
+> After selling a company and having worked with many startups, he has learned a lot and does not fear talking about the weaknesses he discovered in himself that almost every founder can relate to.
+
+## [ctx:mac-conwell-0571]
+
+Kind: investment_approach · Source: full:2a189a823ee1609ae7352ab1
+
+The episode description says Conwell advised founders against paying to pitch ideas and discussed failure and idea promotion.
+
+> More than that, Mac shares why you shouldn’t pay to pitch your ideas, he breaks down his personal story and outlook on failure, and what you should do to get your ideas out there.
+
+## [ctx:mac-conwell-0572]
+
+Kind: dated_event · Source: full:492d8bf14528dd1e1992cd5e
+
+DevCuration reports that Conwell launched RareBreed Ventures in September 2020 after managing TEDCO’s Minority Business Pre-Seed Fund and founding two companies.
+
+> McKeever "Mac" Conwell II launched RareBreed Ventures in September 2020 after five years managing TEDCO's Minority Business Pre-Seed Fund and two runs as a founder.
+
+## [ctx:mac-conwell-0573]
+
+Kind: investment_approach · Source: full:492d8bf14528dd1e1992cd5e
+
+DevCuration characterizes RareBreed’s thesis as making first checks at pre-seed outside the three largest cited technology hubs.
+
+> The thesis is clear. RareBreed Ventures writes first checks at the pre-seed stage, targeting companies outside Silicon Valley, New York, and Boston.
+
+## [ctx:mac-conwell-0574]
+
+Kind: investment_approach · Source: full:492d8bf14528dd1e1992cd5e
+
+DevCuration reports that RareBreed evaluates founder-market fit, early customer traction, and milestone-linked capital efficiency.
+
+> They look for founder-market fit, early customer traction, and capital efficiency tied to milestone-driven growth.
+
+## [ctx:mac-conwell-0575]
+
+Kind: investment_approach · Source: full:492d8bf14528dd1e1992cd5e
+
+DevCuration reports that RareBreed’s evaluation emphasizes defensible technical differentiation, real-user validation, and environmental or social impact.
+
+> Their evaluation rests on three pillars: technical differentiation that can withstand copycats, market validation with real users, and environmental or social impact that builds long-term trust.
+
+## [ctx:mac-conwell-0576]
+
+Kind: company_relationship · Source: full:492d8bf14528dd1e1992cd5e
+
+DevCuration reports that RareBreed supports portfolio founders with fundraising, go-to-market work, and introductions.
+
+> RareBreed Ventures works with founders on fundraising strategy, go-to-market execution, and warm introductions to strategic partners and follow-on investors.
+
+## [ctx:mac-conwell-0577]
+
+Kind: investment_approach · Source: full:7b99238245343b1f4bdd2bca
+
+Nilah Mataafa reports that Conwell built an audience exceeding 90,000 on Twitter and used that presence to help raise a fund.
+
+> Think Mac Conwell , who built a 90K+ Twitter audience by posting candidly about startup life, and whose tweets directly helped him raise a fund.
+
+## [ctx:mac-conwell-0578]
+
+Kind: biography · Source: full:2cee9fda5e12a21a6a9d63cb
+
+StartupFundraising reports that Conwell founded RareBreed Ventures in September 2020 after managing seed investments at TEDCO from 2016 through 2020.
+
+> Mac Conwell is the Founder and Managing Partner of RareBreed Ventures, a pre-seed venture fund based in Baltimore, Maryland, that he launched in September 2020 after serving as a seed-stage fund manager at TEDCO from 2016 to 2020.
+
+## [ctx:mac-conwell-0579]
+
+Kind: investment_approach · Source: full:2cee9fda5e12a21a6a9d63cb
+
+The database describes Conwell’s thesis as backing often-underrepresented pre-seed founders outside major technology ecosystems.
+
+> His investment thesis targets exceptional, often underrepresented founders operating outside major tech ecosystems at the pre-seed stage, aiming to invest earlier than traditional investors.
+
+## [ctx:mac-conwell-0580]
+
+Kind: investment_approach · Source: full:2cee9fda5e12a21a6a9d63cb
+
+The database reports that Conwell typically writes initial checks of $50,000 to $250,000 and leads early investments.
+
+> Conwell typically writes initial conviction checks ranging from $50,000 to $250,000 and leads these early investments alongside firms like Insight Partners and Carta.
+
+## [ctx:mac-conwell-0581]
+
+Kind: biography · Source: full:2cee9fda5e12a21a6a9d63cb
+
+The database describes Conwell as a former software engineer and two-time founder with one successful exit and one failed company.
+
+> He distinguishes himself through a dual background as a software engineer and a two-time founder who achieved one successful exit to a Fortune 100 company and one failure.
+
+## [ctx:mac-conwell-0582]
+
+Kind: biography · Source: full:5aaba2435a0d01bffcbbd904
+
+In the interview, Conwell says he became a government contractor and then founded two startups, producing one exit and one unsuccessful outcome.
+
+> 私は政府の請負業者になり、その後 2 回のスタートアップの創設者になりました。一つの出口。 1つはそれほど多くありません。
+
+## [ctx:mac-conwell-0583]
+
+Kind: biography · Source: full:5aaba2435a0d01bffcbbd904
+
+Conwell says he began seed investing at the Maryland Technology Development Corporation and later launched a pre-seed fund for undervalued founders there.
+
+> 最終的に、メリーランド州の投資部門であるメリーランド テクノロジー デベロップメント コーポレーションの仕事に就きました。そこで私はシード投資を始め、最終的には過小評価されている創業者向けのプレシードファンドを立ち上げることになりました。
+
+## [ctx:mac-conwell-0584]
+
+Kind: dated_event · Source: full:5aaba2435a0d01bffcbbd904
+
+Conwell says he left that position in the prior September to start RareBreed as a pre-seed and seed venture fund.
+
+> そして昨年9月、私はその仕事を辞めて始めましたRareBreedは、プレシードおよびシード ベンチャー ファンドです。
+
+## [ctx:mac-conwell-0585]
+
+Kind: company_relationship · Source: full:5aaba2435a0d01bffcbbd904
+
+Conwell says he held equity in the two companies he had just identified as Rebundle and Divaneering Lab.
+
+> 一般的な製品スペースだけでなく、ベンチャーの観点からも、ベンチャー型のリターンを得るのは難しいという考えを覆したいと思います。この2社に株を入れています。
+
+## [ctx:mac-conwell-0586]
+
+Kind: dated_event · Source: full:49ac57e2bfffa87f5e69ffb6
+
+500 Global reports that Conwell participated in its VC Unlocked: Silicon Valley program in 2019.
+
+> Mac is a VC Unlocked: Silicon Valley 2019 Alum, leveraging the program to fine-tune his fundraising skills and investment thesis.
+
+## [ctx:mac-conwell-0587]
+
+Kind: investment_approach · Source: full:49ac57e2bfffa87f5e69ffb6
+
+500 Global reports that Conwell’s personal network generated the first $400,000 of his fundraise and Twitter helped source the remaining $9.6 million.
+
+> Mac’s personal network got him his first $400k. But twitter helped him find the last 9.6MM.
+
+## [ctx:mac-conwell-0588]
+
+Kind: investment_approach · Source: full:49ac57e2bfffa87f5e69ffb6
+
+500 Global reports that Conwell developed a network exceeding 4,000 VCs and uses it to assist founders he supports.
+
+> Mac’s efforts over the past five years have resulted in a network of over 4,000 other VCs. He often leverages these connections on behalf of the founders he supports.
+
+## [ctx:mac-conwell-0589]
+
+Kind: company_relationship · Source: full:49ac57e2bfffa87f5e69ffb6
+
+500 Global reports that founders proactively seek Conwell as an investor.
+
+> Founders frequently approach him, wanting to include him on their cap table.
+
+## [ctx:mac-conwell-0590]
+
+Kind: company_relationship · Source: full:95ce5e0027c46d0726b4bb66
+
+YourInfoDaily identifies Conwell as RareBreed Ventures’ founder and managing partner.
+
+> McKeever "Mac" Conwell II is the founder and managing partner of RareBreed Ventures.
+
+## [ctx:mac-conwell-0591]
+
+Kind: biography · Source: full:95ce5e0027c46d0726b4bb66
+
+YourInfoDaily describes Conwell as a former software engineer and two-time founder with one failed company and one successful exit.
+
+> Mac is a former software engineer and a two-time founder. One of Mac's companies failed, the other went on to a successful exit.
+
+## [ctx:mac-conwell-0592]
+
+Kind: investment_approach · Source: full:95ce5e0027c46d0726b4bb66
+
+YourInfoDaily describes RareBreed as an early pre-seed investor focused on founders outside large technology ecosystems.
+
+> RareBreed Ventures is a pre-seed fund that invests in exceptional founders outside of large tech ecosystems, earlier than everyone else.
+
+## [ctx:mac-conwell-0593]
+
+Kind: company_relationship · Source: full:072cb01cbda42ab1744d1638
+
+Bloomberg identifies Mckeever “Mac” Conwell II as managing partner and founder of Rarebreed Ventures Management LLC.
+
+> Mckeever Conwell II "Mac" Managing Partner/Founder, Rarebreed Ventures Management LLC
+
+## [ctx:mac-conwell-0594]
+
+Kind: company_relationship · Source: full:afa851b396ee9902c98ae8bf
+
+BR Venture Fund identifies Conwell as a founder and managing partner of RareBreed Ventures.
+
+> An interview with Mac Conwell, a Founder and Managing Partner at RareBreed Ventures.
+
+## [ctx:mac-conwell-0595]
+
+Kind: investment_approach · Source: full:afa851b396ee9902c98ae8bf
+
+BR Venture Fund characterizes Conwell’s aim as increasing investment in companies founded by people of color.
+
+> Mac aims to shore up investment in enterprises founded by people of color.
+
+## [ctx:mac-conwell-0596]
+
+Kind: dated_event · Source: full:afa851b396ee9902c98ae8bf
+
+The archive dates its Mac Conwell interview to June 3, 2022.
+
+> Jun 3, 2022 | Blog
+
+## [ctx:mac-conwell-0597]
+
+Kind: investment_approach · Source: full:c0b22ad9f9c8bca4c1a83aff
+
+Kenyan Wall Street reports that RareBreed is based in Baltimore and invests up to $250,000 as an initial or near-initial investor.
+
+> The firm writes cheques of up to $250,000 as the first or one of the first investors in exceptional startups and is based in Baltimore, Maryland-USA.
+
+## [ctx:mac-conwell-0598]
+
+Kind: company_relationship · Source: full:c0b22ad9f9c8bca4c1a83aff
+
+Conwell says RareBreed Fund I’s final investment was in a Uganda-based company.
+
+> It so happened that the last investment we did out of fund 1 was out of a company that is based in Uganda.
+
+## [ctx:mac-conwell-0599]
+
+Kind: dated_event · Source: full:c0b22ad9f9c8bca4c1a83aff
+
+Kenyan Wall Street reports interviewing Conwell during a Kauffman Fellowship Summit in Nairobi.
+
+> Our team spoke to Mac Conwell during the recently held Kauffman Fellowship Summit in Nairobi.
+
+## [ctx:mac-conwell-0600]
+
+Kind: biography · Source: full:f02c04ecd088806269bcf4a8
+
+RareBreed’s site identifies Conwell as its managing partner and a former software engineer and two-time founder with one exit and one failed company.
+
+> McKeever "Mac" Conwell II is managing partner at RareBreed Ventures. Mac is a former software engineer and two-time founder. One of Mac's companies failed, the other went on to a successful exit.
+
+## [ctx:mac-conwell-0601]
+
+Kind: investment_approach · Source: full:f02c04ecd088806269bcf4a8
+
+RareBreed describes itself as a pre-seed fund investing early in founders primarily outside large technology ecosystems.
+
+> RareBreed Ventures is a pre-seed fund that invests in exceptional founders primarily outside of large tech ecosystems, earlier than everyone else.
+
+## [ctx:mac-conwell-0602]
+
+Kind: investment_approach · Source: full:f02c04ecd088806269bcf4a8
+
+RareBreed states that it writes checks up to $250,000 as a first or near-first investor.
+
+> We write checks of up to $250K as the first or one of the first investors in exceptional startups.
+
+## [ctx:mac-conwell-0603]
+
+Kind: investment_approach · Source: full:f02c04ecd088806269bcf4a8
+
+RareBreed’s manifesto says the firm favors founders who have executed on customer acquisition or are building for overlooked markets.
+
+> There are two types of founders that get us excited: those who have thought a lot about and executed on customer acquisition, and, those building products in markets that are often overlooked.
+
+## [ctx:mac-conwell-0604]
+
+Kind: investment_approach · Source: full:f02c04ecd088806269bcf4a8
+
+RareBreed’s manifesto says presentation polish, venture vocabulary, and established networks are not prerequisites for founder quality at pre-seed.
+
+> Sometimes founders at the pre-seed stage aren’t as polished, don’t know all the VC lingo, don’t have an amazing network, or don’t know how to construct a pitch. Still, they are just as amazing as founders who have raised tons of money and have deep networks.
+
+## [ctx:mac-conwell-0605]
+
+Kind: dated_event · Source: full:9bc19496b0c4c85804836272
+
+Founderland listed Mac Conwell as RareBreed Ventures’ founder and managing partner for its 2022 Compass speaker lineup.
+
+> Mac Conwell , Founder & Managing Partner at RareBreed Ventures
+
+## [ctx:mac-conwell-0606]
+
+Kind: company_relationship · Source: full:d759435942c9368eefe25651
+
+The Tech Jawn identified its guest as Mac Conwell, founder and managing partner of RareBreed Ventures.
+
+> This week on The Tech Jawn we are joined by special guest Mac Conwell, founder and managing partner of RareBreed Ventures.
+
+## [ctx:mac-conwell-0607]
+
+Kind: investment_approach · Source: full:d759435942c9368eefe25651
+
+The episode description reports that Conwell discussed focusing on businesses outside Massachusetts, New York, and California.
+
+> And lastly, we talk about Mac’s journey to becoming a VC and why he focuses on business outside of Massachusetts, New York, and California.
+
+## [ctx:mac-conwell-0608]
+
+Kind: dated_event · Source: full:d759435942c9368eefe25651
+
+The podcast page reports that the Mac Conwell episode was released on March 14, 2023.
+
+> Released: Mar 14, 2023
+
+## [ctx:mac-conwell-0609]
+
+Kind: investment_approach · Source: full:f06200963e0cfb0700502b75
+
+Brian Nichols reports that Mac Conwell, RareBreed Ventures’ founder and managing partner, raised a $10 million fund using the public-fundraising method described in the article.
+
+> In fact, one of my most favorite VCs raised a $10m fund using this method. You've probably heard of Mac Conwell, founder and managing partner of RareBreed Ventures .
+
+## [ctx:mac-conwell-0610]
+
+Kind: dated_event · Source: full:f06200963e0cfb0700502b75
+
+The article points readers to an Elizabeth Yin interview about Conwell’s experience raising RareBreed’s Fund I.
+
+> If you're looking for more insights and tactics from Mac about his experiences raising Fund I, you'll love this interview he did recently with Elizabeth Yin.
+
+## [ctx:mac-conwell-0611]
+
+Kind: company_relationship · Source: full:4362da4587758b1a5362714c
+
+Wannabe Angels identifies McKeever “Mac” Conwell II as RareBreed Ventures’ managing partner.
+
+> McKeever "Mac" Conwell II is the managing partner at RareBreed Ventures.
+
+## [ctx:mac-conwell-0612]
+
+Kind: biography · Source: full:4362da4587758b1a5362714c
+
+The episode profile reports that Conwell was a software engineer and Defense Department contractor and had founded two companies, producing one exit and one failure.
+
+> Mac's background includes a former role as a software engineer and working as a DOD contractor with top-secret clearance. He was a two-time founder with an exit and a failure.
+
+## [ctx:mac-conwell-0613]
+
+Kind: biography · Source: full:4362da4587758b1a5362714c
+
+The profile reports that Conwell entered venture capital through the Maryland Technology Development Corporation’s seed investment team.
+
+> Next, Mac moved on to venture capital via the Maryland Technology Development Corporation as part of their seed investment team.
+
+## [ctx:mac-conwell-0614]
+
+Kind: investment_approach · Source: full:4362da4587758b1a5362714c
+
+The June 2023 profile describes RareBreed Ventures as Conwell’s pre-seed-to-seed fund focused on exceptional founders outside large technology ecosystems.
+
+> Today, Mac is the founder of RareBreed Ventures, a pre-seed to seed venture fund that focuses on investing in exceptional founders outside of large tech ecosystems.
+
+## [ctx:mac-conwell-0615]
+
+Kind: company_relationship · Source: full:91714f77bcf16ead2daa1e33
+
+Tracxn reports that RareBreed Ventures was founded in 2021 and is based primarily in Baltimore.
+
+> RareBreed Ventures is a venture capital firm founded in 2021. It is primarily based out of Baltimore, United States .
+
+## [ctx:mac-conwell-0616]
+
+Kind: dated_event · Source: full:91714f77bcf16ead2daa1e33
+
+The aggregator reports that RareBreed Ventures had invested in 40 companies as of April 2024.
+
+> As of Apr 2024, RareBreed Ventures has invested in 40 companies.
+
+## [ctx:mac-conwell-0617]
+
+Kind: company_relationship · Source: full:91714f77bcf16ead2daa1e33
+
+Tracxn lists McKeever Conwell as a RareBreed Ventures partner located in Owings Mills.
+
+> McKeever Conwell Partner Owings Mills
+
+## [ctx:mac-conwell-0618]
+
+Kind: investment_approach · Source: full:91714f77bcf16ead2daa1e33
+
+Tracxn characterizes RareBreed Ventures as primarily investing at the Seed and Series A stages.
+
+> RareBreed Ventures primarily invests in Seed and Series A stages.
+
+## [ctx:mac-conwell-0619]
+
+Kind: dated_event · Source: full:0b34353ab92884fea9548fd8
+
+The August 2022 newsletter reports that Mac Conwell published a thread explaining full ratchet provisions for early-stage fund managers.
+
+> Early-stage fund managers: this thread from Mac Conwell explains full rachet .
+
+## [ctx:mac-conwell-0620]
+
+Kind: dated_event · Source: full:dd0b590629ce79f0a83db21c
+
+Spotify reports that a 36-minute conversation with RareBreed founder Mac Conwell was published on August 19, 2021.
+
+> Aug 19, 2021 36 min In conversation with RareBreed founder Mac Conwell.
+
+## [ctx:mac-conwell-0621]
+
+Kind: dated_event · Source: full:d6fa5a2d98793456bda487a1
+
+Spotify reports that a 36-minute conversation with RareBreed founder Mac Conwell was published on August 19, 2021.
+
+> Aug 19, 2021 36 min In conversation with RareBreed founder Mac Conwell.
+
+## [ctx:mac-conwell-0622]
+
+Kind: investment_approach · Source: full:2e2b001e3777fc09e090444a
+
+The episode description identifies Conwell as RareBreed Ventures’ founder and characterizes the firm as a pre-seed investor in exceptional founders primarily outside large technology ecosystems.
+
+> Mac Conwell is the founder of RareBreed Ventures, a pre-seed fund that invests in exceptional founders primarily outside of large tech ecosystems, earlier than everyone else.
+
+## [ctx:mac-conwell-0623]
+
+Kind: investment_approach · Source: full:2e2b001e3777fc09e090444a
+
+The episode description reports that Conwell publicly raised his first venture fund under Regulation D Rule 506(c) while using the referenced Section 3(c)(1) amendment.
+
+> He raised his first VC fund in public under Rule 506(c) Regulation D while also utilizing the amendment to section 3(c)(1) of the Investment Company Act of 1940.
+
+## [ctx:mac-conwell-0624]
+
+Kind: dated_event · Source: full:2e2b001e3777fc09e090444a
+
+Spotify dates the 48-minute episode to May 5, 2023.
+
+> May 5, 2023 48 min
+
+## [ctx:mac-conwell-0625]
+
+Kind: investment_approach · Source: full:94afa558ce3ad7a322318b09
+
+The episode description identifies Conwell as RareBreed Ventures’ founder and characterizes the firm as a pre-seed investor in exceptional founders primarily outside large technology ecosystems.
+
+> Mac Conwell is the founder of RareBreed Ventures, a pre-seed fund that invests in exceptional founders primarily outside of large tech ecosystems, earlier than everyone else.
+
+## [ctx:mac-conwell-0626]
+
+Kind: investment_approach · Source: full:94afa558ce3ad7a322318b09
+
+The episode description reports that Conwell publicly raised his first venture fund under Regulation D Rule 506(c) while using the referenced Section 3(c)(1) amendment.
+
+> He raised his first VC fund in public under Rule 506(c) Regulation D while also utilizing the amendment to section 3(c)(1) of the Investment Company Act of 1940.
+
+## [ctx:mac-conwell-0627]
+
+Kind: dated_event · Source: full:94afa558ce3ad7a322318b09
+
+Spotify dates the 48-minute episode to May 5, 2023.
+
+> May 5, 2023 48 min
+
+## [ctx:mac-conwell-0628]
+
+Kind: biography · Source: full:093558fcfd2112026843045b
+
+In an accepted-model-attributed first-person account, Conwell says he began his career as a software engineer supporting the Department of Defense with a top-secret clearance.
+
+> For those who don't know, I started my career as a software engineer. supporting the Department of Defense with a top secret clearance out of college.
+
+## [ctx:mac-conwell-0629]
+
+Kind: biography · Source: full:093558fcfd2112026843045b
+
+In the accepted-model-attributed clip, Conwell says he left college during his junior year for a job at Northrop Grumman.
+
+> I actually dropped out of college to take a job in Northrop Grumman my junior year.
+
+## [ctx:mac-conwell-0630]
+
+Kind: biography · Source: full:093558fcfd2112026843045b
+
+In the accepted-model-attributed account, Conwell describes operating one company for four and a half years, selling its IP to a Fortune 100 company, and subsequently founding an unsuccessful second company.
+
+> Ran that company for four and a half years. Two accelerators, a pivot, and eventually sell the IP to a Fortune 100 company. started another company after that that doesn't work out so i've had two companies one one win one loss
+
+## [ctx:mac-conwell-0631]
+
+Kind: investment_approach · Source: full:8385ec7df184d2ef07bbd505
+
+The episode description identifies Conwell as founder of Baltimore-based RareBreed Ventures and characterizes the firm as investing in pre-seed and seed startups.
+
+> Mac Conwell is the Founder of RareBreed Ventures, a Baltimore-based firm that invests in pre-seed and seed startups with dope founders.
+
+## [ctx:mac-conwell-0632]
+
+Kind: dated_event · Source: full:8385ec7df184d2ef07bbd505
+
+The episode description reports that Conwell discussed his investment interests, startup regulation, and taking 4,000 meetings to establish his firm.
+
+> We had a great conversation about the types of investments that excite Mac, how the regulatory environment affects startups, and Mac’s experience of taking 4,000 meetings to get his firm off the ground.
+
+## [ctx:mac-conwell-0633]
+
+Kind: dated_event · Source: full:8385ec7df184d2ef07bbd505
+
+Spotify dates the 43-minute episode to September 2, 2024.
+
+> Sep 2, 2024 43 min
+
+## [ctx:mac-conwell-0634]
+
+Kind: investment_approach · Source: full:0394e630621796f542a50bab
+
+The episode description identifies Conwell as founder of Baltimore-based RareBreed Ventures and characterizes the firm as investing in pre-seed and seed startups.
+
+> Mac Conwell is the Founder of RareBreed Ventures, a Baltimore-based firm that invests in pre-seed and seed startups with dope founders.
+
+## [ctx:mac-conwell-0635]
+
+Kind: dated_event · Source: full:0394e630621796f542a50bab
+
+The episode description reports that Conwell discussed his investment interests, startup regulation, and taking 4,000 meetings to establish his firm.
+
+> We had a great conversation about the types of investments that excite Mac, how the regulatory environment affects startups, and Mac’s experience of taking 4,000 meetings to get his firm off the ground.
+
+## [ctx:mac-conwell-0636]
+
+Kind: dated_event · Source: full:0394e630621796f542a50bab
+
+Spotify dates the 43-minute episode to September 2, 2024.
+
+> Sep 2, 2024 43 min
+
+## [ctx:mac-conwell-0637]
+
+Kind: dated_event · Source: full:3448a73aefb595181e3eecf7
+
+Venture Unlocked featured Mac Conwell of RareBreed Ventures in episode 20 about emerging venture capital.
+
+> Mac Conwell of RareBreed Ventures & Roy Bahat of Bloomberg Beta on the state of Emerging VC - Venture Unlocked 020
+
+## [ctx:mac-conwell-0638]
+
+Kind: investment_approach · Source: full:3448a73aefb595181e3eecf7
+
+The episode page reports that Conwell was using Regulation D’s 506(c) provision to publicly solicit capital for RareBreed’s new fund.
+
+> As many may now, Mac is using the seldom used 506C provision of Reg D to publicly solicit capital for his new fund (RareBreed VC).
+
+## [ctx:mac-conwell-0639]
+
+Kind: biography · Source: full:3448a73aefb595181e3eecf7
+
+The episode page reports that before RareBreed, Conwell invested through the Maryland Technology Development Corporation’s Minority Business Pre-seed Fund.
+
+> Previously to starting RareBreed, Mac was an investor at the Maryland Technology Development Corporation’s Minority Business Pre-seed Fund, a partnership between TEDCO and Harbor Bank Community Development Corporation to address the needs of minority entrepreneurs in Maryland, who often lack access to Friends and Family rounds.
+
+## [ctx:mac-conwell-0640]
+
+Kind: biography · Source: full:3448a73aefb595181e3eecf7
+
+The episode page reports that Conwell was a co-founder and CEO at Redberry Mobile and Given.
+
+> He also has operating experience from his time as co-founder and CEO at Redberry Mobile and of Given.
+
+## [ctx:mac-conwell-0641]
+
+Kind: company_relationship · Source: full:a39295bad1a0e23f99c0e76e
+
+The High Flyers episode description says Conwell shared his journey to founding the venture firm RareBreed, misspelled in the source as “Rare Beed.”
+
+> Learn about power of self belief, dreaming big, dealing with the lowest of lows and coming out stronger with a level headed perspective on work and life, Mac shares his journey to founding the VC firm, Rare Beed.
+
+## [ctx:mac-conwell-0642]
+
+Kind: investment_approach · Source: full:a39295bad1a0e23f99c0e76e
+
+The episode summary reports that Conwell discussed obtaining more than 1,000 meetings through Twitter while raising RareBreed Ventures and offered cold-emailing guidance.
+
+> How to secure 1000+ meetings via Twitter to raise Rare Breed Ventures and 3 secrets of cold emailing
+
+## [ctx:mac-conwell-0643]
+
+Kind: investment_approach · Source: full:a39295bad1a0e23f99c0e76e
+
+The episode summary reports that Conwell discussed using succinct company updates to attract investor attention.
+
+> How should founders get the attention of investors through succinct company updates
+
+## [ctx:mac-conwell-0644]
+
+Kind: dated_event · Source: full:a39295bad1a0e23f99c0e76e
+
+Spotify dates the 44-minute episode to April 4, 2022.
+
+> Apr 4, 2022 44 min
+
+## [ctx:mac-conwell-0645]
+
+Kind: company_relationship · Source: full:910c91717d413d3371dd7d84
+
+The episode description reports that Mac founded the venture-capital firm Rare Breed.
+
+> Mac shares his journey to founding the VC firm, Rare Beed.
+
+## [ctx:mac-conwell-0646]
+
+Kind: investment_approach · Source: full:910c91717d413d3371dd7d84
+
+The episode description reports that Mac used more than 1,000 Twitter-sourced meetings while raising Rare Breed Ventures.
+
+> How to secure 1000+ meetings via Twitter to raise Rare Breed Ventures and 3 secrets of cold emailing
+
+## [ctx:mac-conwell-0647]
+
+Kind: investment_approach · Source: full:910c91717d413d3371dd7d84
+
+The episode description reports that Mac was interested in investing in markets outside the United States.
+
+> VC's that inspire Mac and markets outside of the US he wants to invest in
+
+## [ctx:mac-conwell-0648]
+
+Kind: investment_approach · Source: full:910c91717d413d3371dd7d84
+
+The episode outline specifically reports Mac's interest in the African and Pakistani startup ecosystems.
+
+> 38:00 - Interest in Africa and Pakistan startup ecosystem
+
+## [ctx:mac-conwell-0649]
+
+Kind: biography · Source: full:57870f9b0e84f5105175e9db
+
+The episode description characterizes McKeever Conwell as an investor and serial entrepreneur who was recruited by a U.S. intelligence agency and later made pre-seed investments for Maryland state fund TEDCO.
+
+> Jamarlin talks to investor and serial entrepreneur McKeever Conwell about being inspired by a teacher to become an engineer, getting recruited out of college by a U.S. intelligence agency, and making pre-seed investments for Maryland's tech development state fund, TEDCO.
+
+## [ctx:mac-conwell-0650]
+
+Kind: biography · Source: full:efd9b708a3474fa9d6354d44
+
+The episode description characterizes McKeever Conwell as an investor and serial entrepreneur who was recruited by a U.S. intelligence agency and later made pre-seed investments for Maryland state fund TEDCO.
+
+> Jamarlin talks to investor and serial entrepreneur McKeever Conwell about being inspired by a teacher to become an engineer, getting recruited out of college by a U.S. intelligence agency, and making pre-seed investments for Maryland's tech development state fund, TEDCO.
+
+## [ctx:mac-conwell-0651]
+
+Kind: company_relationship · Source: full:4a48298e16bccba30ca655a3
+
+Mac states that Silicon Valley Bank served his first company in 2010.
+
+> That's what they did for me for my first company back in 2010.
+
+## [ctx:mac-conwell-0652]
+
+Kind: biography · Source: full:4a48298e16bccba30ca655a3
+
+Mac states that he worked for the state of Maryland before starting Rare Breed.
+
+> The problem was I worked for the state of Maryland.
+
+## [ctx:mac-conwell-0653]
+
+Kind: investment_approach · Source: full:4a48298e16bccba30ca655a3
+
+Mac states that Rare Breed had 194 investors, including 162 who committed $50,000 or less.
+
+> I have 194 investors in Rare Breed. Of those, 162 put in 50K or less.
+
+## [ctx:mac-conwell-0654]
+
+Kind: dated_event · Source: full:4a48298e16bccba30ca655a3
+
+Mac states that he supported the proposed ICON Act in testimony concerning access to investment funds.
+
+> And what I was there was in support of um the ICON Act, the improving of allocations for Newcomers Act.
+
+## [ctx:mac-conwell-0655]
+
+Kind: biography · Source: full:4a48298e16bccba30ca655a3
+
+Mac states that he studied computer science at Morgan and obtained an internship or cooperative position with the National Security Agency.
+
+> So I'm at Morgan's studying computer science. And I get an internship. or get a co-op with the National Security Agency.
+
+## [ctx:mac-conwell-0656]
+
+Kind: investment_approach · Source: full:4a48298e16bccba30ca655a3
+
+Mac states that his social-media-driven fundraise produced 1,120 meetings in 90 days.
+
+> And that's how. I have 1,120 meetings in 90 days.
+
+## [ctx:mac-conwell-0657]
+
+Kind: dated_event · Source: full:4a48298e16bccba30ca655a3
+
+Mac states that $1.3 million reached the account on January 3, 2021, which he regarded as establishing Rare Breed.
+
+> Got to January 3rd of 2021. And 1.3 million hit the bank account. I was like, all right, it's go time. Even if I want to raise another dime, this is... Rare breed is here.
+
+## [ctx:mac-conwell-0658]
+
+Kind: company_relationship · Source: full:4a48298e16bccba30ca655a3
+
+Mac describes two young Black women in St. Louis as the founders of portfolio company Rebundle and describes its plant-based synthetic braiding-hair product.
+
+> But I got two... amazing young black women out of St. Louis with a company called Rebundle. They make plant-based, biodegradable synthetic breeding hair. Bundles made out of banana leaf.
+
+## [ctx:mac-conwell-0659]
+
+Kind: biography · Source: full:4a48298e16bccba30ca655a3
+
+Mac states that he intended to build his investment firm in his hometown of Baltimore.
+
+> I wanted to prove that I could be a good investor. and build the next great firm and do it from Baltimore. It's my hometown.
+
+## [ctx:mac-conwell-0660]
+
+Kind: investment_approach · Source: full:4a48298e16bccba30ca655a3
+
+Mac states that he marketed his fund by emailing prospective limited partners twice weekly about companies he wanted to invest in.
+
+> Every Tuesday and Thursday, I sent out an email. telling the story of one of the companies I wanted to invest in.
+
+## [ctx:mac-conwell-0661]
+
+Kind: company_relationship · Source: full:28354adb30cea22a85c65207
+
+The episode description identifies Mac Conwell as Managing Partner of Rare Breed Ventures and attributes the firm's broader opportunity discovery to diverse perspectives.
+
+> Now, as Managing Partner of Rare Breed Ventures, he's proving that diverse perspectives don't just find different opportunities—they find better ones.
+
+## [ctx:mac-conwell-0662]
+
+Kind: investment_approach · Source: full:28354adb30cea22a85c65207
+
+The episode description reports that Mac's fund focuses on underrepresented founders addressing problems outside mainstream venture-capital experience.
+
+> Why his fund specifically backs underrepresented founders solving problems outside mainstream VC experience
+
+## [ctx:mac-conwell-0663]
+
+Kind: biography · Source: full:28354adb30cea22a85c65207
+
+The episode description reports that Mac moved from entrepreneurship into venture capital by accepting a junior role below his prior salary.
+
+> Mac Conwell took the unconventional path from entrepreneur to VC, literally accepting a junior position at below his previous salary just to break into venture capital.
+
+## [ctx:mac-conwell-0664]
+
+Kind: company_relationship · Source: full:35a7ba11f3e68c1009eba216
+
+The episode description identifies Mac Conwell as Managing Partner of Rare Breed Ventures and attributes the firm's broader opportunity discovery to diverse perspectives.
+
+> Now, as Managing Partner of Rare Breed Ventures, he's proving that diverse perspectives don't just find different opportunities—they find better ones.
+
+## [ctx:mac-conwell-0665]
+
+Kind: investment_approach · Source: full:35a7ba11f3e68c1009eba216
+
+The episode description reports that Mac's fund focuses on underrepresented founders addressing problems outside mainstream venture-capital experience.
+
+> Why his fund specifically backs underrepresented founders solving problems outside mainstream VC experience
+
+## [ctx:mac-conwell-0666]
+
+Kind: biography · Source: full:35a7ba11f3e68c1009eba216
+
+The episode description reports that Mac moved from entrepreneurship into venture capital by accepting a junior role below his prior salary.
+
+> Mac Conwell took the unconventional path from entrepreneur to VC, literally accepting a junior position at below his previous salary just to break into venture capital.
+
+## [ctx:mac-conwell-0667]
+
+Kind: company_relationship · Source: full:ab2aa18a614bbba88ce45403
+
+Mac states that Rare Breed invested in Gen Z dating application Monet Dating.
+
+> And one of the companies we invested in is a company called Monet Dating, and it's a Gen Z dating app.
+
+## [ctx:mac-conwell-0668]
+
+Kind: company_relationship · Source: full:ab2aa18a614bbba88ce45403
+
+Mac describes Monet Dating as a Gen Z dating app whose users connect through drawings.
+
+> And it's an app for Gen Zers who are dating, but the way you make connections is through, you have to do a drawing.
+
+## [ctx:mac-conwell-0669]
+
+Kind: investment_approach · Source: full:ab2aa18a614bbba88ce45403
+
+Mac states that Rare Breed's extended investment team included Gen Z venture fellows and friends of the fund.
+
+> Even for us, a rare breed, I have a few venture fellows and some friends of the fun who are all Gen Zers.
+
+## [ctx:mac-conwell-0670]
+
+Kind: biography · Source: full:4a54b027775e2c24abdec64e
+
+Conwell describes himself as a software engineer, two-time founder, and VC serving as founder and managing partner of Baltimore-based pre-seed and seed fund Rare Breed Ventures.
+
+> Yeah, I'm a software engineer turned two-time founder turned VC. I'm currently the managing partner and founder of Rare Breed Ventures, a pre-seed to seed venture fund based in Baltimore, Maryland.
+
+## [ctx:mac-conwell-0671]
+
+Kind: biography · Source: full:4a54b027775e2c24abdec64e
+
+Conwell says he participated in a college co-op program that placed him at the Department of Defense as a full-time employee in alternating semesters.
+
+> And so they had this program called a co-op program where basically every other semester you would go to work there for the Department of Defense as a full-time employee.
+
+## [ctx:mac-conwell-0672]
+
+Kind: dated_event · Source: full:4a54b027775e2c24abdec64e
+
+Conwell says he started his first startup in 2010 after a friend left government work in 2009 to build a company.
+
+> So after he does that, so he leaves, he quits the government in 2009. I started my first startup in 2010.
+
+## [ctx:mac-conwell-0673]
+
+Kind: company_relationship · Source: full:4a54b027775e2c24abdec64e
+
+Conwell says his first company sold its intellectual property to a division of a Fortune 100 company four and a half years after it began.
+
+> Four and a half years later, we sell the intellectual property of that company to a division of a Fortune 100 company.
+
+## [ctx:mac-conwell-0674]
+
+Kind: biography · Source: full:4a54b027775e2c24abdec64e
+
+Conwell says building his first company required him to learn CEO responsibilities, marketing, go-to-market strategy, product design, team management, hiring, investing, and pitching.
+
+> I was literally learning everything. I was learning how to be a CEO. I was learning about marketing. I was learning about go-to-market strategies. I was learning about UX and UI. I was learning about how to manage a team. I was learning about how to hire. I was learning about investors. I was learning about pitching.
+
+## [ctx:mac-conwell-0675]
+
+Kind: biography · Source: full:4a54b027775e2c24abdec64e
+
+Conwell says he accepted a substantial pay reduction to enter professional investing through a newly created junior position.
+
+> So I took a job making less money than I'd ever made in my professional career just for the opportunity to do investments.
+
+## [ctx:mac-conwell-0676]
+
+Kind: company_relationship · Source: full:4a54b027775e2c24abdec64e
+
+Conwell says he started a pre-seed fund within a Maryland state organization but still could not secure funding there for the founder of meetspundle.com.
+
+> And I watched her get nothing but knows for three years, even though I was working at an organization where I literally started a pre-seed fund for the state of Maryland to invest in founders like her and still couldn't get her money.
+
+## [ctx:mac-conwell-0677]
+
+Kind: company_relationship · Source: full:4a54b027775e2c24abdec64e
+
+Conwell attributes the initial idea for what the transcript renders as “Rare Breaks” to his inability to finance a founder he considered exceptional through his existing organization.
+
+> And so that's where the beginning of the idea of me starting my own venture fund and what will later go on to become Rare Breaks.
+
+## [ctx:mac-conwell-0678]
+
+Kind: dated_event · Source: full:4a54b027775e2c24abdec64e
+
+Conwell says he decided in January 2020 to raise a venture fund.
+
+> And then in 2020, I say, I'm going to do this. January 2020, I'm like, I'm going to raise a fund.
+
+## [ctx:mac-conwell-0679]
+
+Kind: company_relationship · Source: full:4a54b027775e2c24abdec64e
+
+Conwell says a mentor offered capital for a fund after observing his effort to help RoboAmp raise financing.
+
+> So in the process of me trying to help him raise some capital, one of my mentors said, I don't want to invest in that company. I want to invest in every company you find. So here's some money going to raise it.
+
+## [ctx:mac-conwell-0680]
+
+Kind: investment_approach · Source: full:4a54b027775e2c24abdec64e
+
+Conwell describes venture investing as a role combining dealmaking with helping people.
+
+> And now I get to do that every day while helping people. I love helping people. I get to do deals every day and help people every day. Couldn't be a better job.
+
+## [ctx:mac-conwell-0681]
+
+Kind: dated_event · Source: full:a497c2a514e2e29fe79b5dc5
+
+The Spotify page dates the episode June 21, 2024.
+
+> #125. Mac Conwell on perfecting your personal story and pitch Presentation ThinkingTM Jun 21, 2024 38 min
+
+## [ctx:mac-conwell-0682]
+
+Kind: biography · Source: full:a497c2a514e2e29fe79b5dc5
+
+The episode description reports that Conwell began in coding, started multiple businesses, and helped shape the Maryland Social Impact Fund.
+
+> While his career began in coding (“before it was cool” he says), Mac has started multiple businesses and helped shape the Maryland Social Impact Fund—the first fund for women and minorities in the country.
+
+## [ctx:mac-conwell-0683]
+
+Kind: company_relationship · Source: full:a497c2a514e2e29fe79b5dc5
+
+The episode description identifies Conwell as the founder of RareBreed Ventures and characterizes storytelling as an area of expertise and interest.
+
+> Now, as the Founder of RareBreed Ventures, Mac’s perfected the art of storytelling and is passionate about helping others do the same.
+
+## [ctx:mac-conwell-0684]
+
+Kind: investment_approach · Source: full:a497c2a514e2e29fe79b5dc5
+
+The episode description says Conwell discusses a framework for selecting pitch content and improving pitching skills.
+
+> He and Mikey discuss Mac’s journey to where he is now, his secret formula for what to include (and what to leave out) of a pitch and how anyone can improve their pitching skills.
+
+## [ctx:mac-conwell-0685]
+
+Kind: dated_event · Source: full:cb40bb24b04b51bf4b6d357e
+
+The Spotify page dates the episode June 21, 2024.
+
+> #125. Mac Conwell on perfecting your personal story and pitch Presentation ThinkingTM Jun 21, 2024 38 min
+
+## [ctx:mac-conwell-0686]
+
+Kind: biography · Source: full:cb40bb24b04b51bf4b6d357e
+
+The episode description reports that Conwell began in coding, started multiple businesses, and helped shape the Maryland Social Impact Fund.
+
+> While his career began in coding (“before it was cool” he says), Mac has started multiple businesses and helped shape the Maryland Social Impact Fund—the first fund for women and minorities in the country.
+
+## [ctx:mac-conwell-0687]
+
+Kind: company_relationship · Source: full:cb40bb24b04b51bf4b6d357e
+
+The episode description identifies Conwell as the founder of RareBreed Ventures and characterizes storytelling as an area of expertise and interest.
+
+> Now, as the Founder of RareBreed Ventures, Mac’s perfected the art of storytelling and is passionate about helping others do the same.
+
+## [ctx:mac-conwell-0688]
+
+Kind: investment_approach · Source: full:cb40bb24b04b51bf4b6d357e
+
+The episode description says Conwell discusses a framework for selecting pitch content and improving pitching skills.
+
+> He and Mikey discuss Mac’s journey to where he is now, his secret formula for what to include (and what to leave out) of a pitch and how anyone can improve their pitching skills.
+
+## [ctx:mac-conwell-0689]
+
+Kind: dated_event · Source: full:98ed48d823ef7a8d9531c02c
+
+Conwell says he conducted 1,128 meetings during his first 90 days of fund fundraising and soft-circled his first three million.
+
+> Yes. So when I finally decided that I was going to raise a fund, I was going to try this strategy. And the first 90 days of me fundraising, I did 1,128 meetings. So soft circle my first three million.
+
+## [ctx:mac-conwell-0690]
+
+Kind: investment_approach · Source: full:98ed48d823ef7a8d9531c02c
+
+Conwell says the reported meeting total excluded off-calendar calls and that he conducted 25 to 28 meetings per day.
+
+> And those were just the meetings that were on my calendar. That didn't account for like. you know, off-calendar phone calls and things like that. doing 25 to 28 meetings a day back to back.
+
+## [ctx:mac-conwell-0691]
+
+Kind: company_relationship · Source: full:7196125ec1070192fd67e78f
+
+The episode description reports that McKeever Conwell II started Rarebreed Ventures and discussed advice for startups, founders, and investors.
+
+> In this episode, Saka invites McKeever Conwell II to speak about his experience starting his own venture capital fund ‘Rarebreed Ventures’, giving advice to startups, founders and investors whilst reflecting on his own journey.
+
+## [ctx:mac-conwell-0692]
+
+Kind: biography · Source: full:7196125ec1070192fd67e78f
+
+The episode description reports that Conwell was a Baltimore-based investor who left TEDCO to start Rarebreed Ventures.
+
+> McKeever Conwell II is a Baltimore-based investor who left tech development agency TEDCO to start his own venture capital fund, Rarebreed Ventures.
+
+## [ctx:mac-conwell-0693]
+
+Kind: biography · Source: full:7196125ec1070192fd67e78f
+
+The episode description characterizes Conwell as having experience on both the investor and founder sides of early-stage companies.
+
+> He has a wealth of knowledge of the early stages as he has been both an investor and a founder.
+
+## [ctx:mac-conwell-0694]
+
+Kind: investment_approach · Source: full:7196125ec1070192fd67e78f
+
+The episode description attributes to Conwell the view that founders and investors should regard their relationship as a partnership; this is a publisher paraphrase rather than a direct quotation.
+
+> His key piece of advice is to remember that the relationship between founders and investors is a partnership.
+
+## [ctx:mac-conwell-0695]
+
+Kind: biography · Source: full:9d59737325cd014df95784d2
+
+Conwell says his first company went through two accelerators and sold its IP to a Fortune 100 company, after which he founded another company that raised capital but failed.
+
+> After four and a half years, never raised any money. but went through two accelerators, learned how this all worked. We sold the IP of that company to a Fortune 100 company. Started another company after that, raised some capital. That one didn't work out.
+
+## [ctx:mac-conwell-0696]
+
+Kind: biography · Source: full:9d59737325cd014df95784d2
+
+Conwell says he entered venture investing through a position at a state-run fund.
+
+> And four and a half months later, they hired me. very unusual way to get a job in BC and it was a state-ran fund so that's how I broke it.
+
+## [ctx:mac-conwell-0697]
+
+Kind: company_relationship · Source: full:9d59737325cd014df95784d2
+
+Conwell says he proposed and ran for three years a state-backed pre-seed fund for Black entrepreneurs, with half its capital supplied by a Black-owned Baltimore bank, and characterizes it as the country's first and only state-backed pre-seed fund for women and minorities.
+
+> About four months into that job, I came together. I came to my bosses with a proposal to create a pre-C fund specifically for Black entrepreneurs. And so, and I was able to get a black home bank in Baltimore to put up half the money for that. And they let me do it. And I ran that for three years. It ended up being the first and only state-backed pre-see fund for women and minorities in the country.
+
+## [ctx:mac-conwell-0698]
+
+Kind: dated_event · Source: full:9d59737325cd014df95784d2
+
+Conwell says he held 1,128 calendar meetings from mid-June through mid-September 2020 while developing his fundraising network.
+
+> And so that's how I famously had. 1100 meetings from the middle of September, from the middle of June to the middle of September 2020. The actual number on my calendar, if you count it, was 1,128 meetings.
+
+## [ctx:mac-conwell-0699]
+
+Kind: investment_approach · Source: full:9d59737325cd014df95784d2
+
+At the time of the interview, Conwell says Rare Breed's first fund had made 34 investments and six follow-ons, with nine markup or follow-on opportunities and three more approaching.
+
+> We have done 34 investments with six follow-ups. We've had opportunities now for nine markups, nine follow-on opportunities. And we have another three coming up right now.
+
+## [ctx:mac-conwell-0700]
+
+Kind: investment_approach · Source: full:9d59737325cd014df95784d2
+
+Conwell says Rare Breed retained its thesis from Fund 1 to Fund 2 but concluded that Fund 1 was undercapitalized for its intended strategy.
+
+> No, our thesis hasn't changed from Fund 1 to Fund 2. What we recognized in Fund 1 but that we were completely undercapitalized from what we wanted to do, you know.
+
+## [ctx:mac-conwell-0701]
+
+Kind: biography · Source: full:9d59737325cd014df95784d2
+
+Conwell says he was a Baltimore founder and later sourced early-stage startups for Maryland's investment arm.
+
+> One, I was a founder coming out of Baltimore, right? And then at one point I worked for the investment arm in the state of Maryland where I had to find the best. early stage startups in the state of Maryland.
+
+## [ctx:mac-conwell-0702]
+
+Kind: company_relationship · Source: full:9d59737325cd014df95784d2
+
+Conwell says his state investment role later focused on very early-stage Maryland startups led by Black founders.
+
+> was transitioned to finding the best. early, early stage startups ran by black founders in the state of Maryland.
+
+## [ctx:mac-conwell-0703]
+
+Kind: investment_approach · Source: full:9d59737325cd014df95784d2
+
+Conwell predicts that the 2020–2022 fund vintages will become reference points for evaluating capital allocated to Black, brown, and women fund managers.
+
+> 2020, 2021, and probably 2022 vintage are going to be. Like, the the marks that people go back to to see like, hey. We talked a lot about diversity back then and gave money to a lot of black and brown and women fund managers. How did they do?
+
+## [ctx:mac-conwell-0704]
+
+Kind: investment_approach · Source: full:9d59737325cd014df95784d2
+
+Conwell expresses the hope that underrepresented managers will outperform over the following 10–15 years and help make venture capital fully diverse.
+
+> So 10 to 15 years from now, I hope to see that we outperform. I hope to see that we all did well. And I hope to see that the work that we do today leads the way for the next generation to come behind us. and really truly get to a point where this industry is fully diverse.
+
+## [ctx:mac-conwell-0705]
+
+Kind: biography · Source: full:ebb6ef37d7c851cc7dd2020a
+
+In this first-person interview, Conwell says he was a software engineer and government contractor before becoming a two-time founder whose second company failed.
+
+> I was a software engineer and I was a government contractor for years. I then went on to be a two-time founder, but my second company wasn't a success. It was a failure.
+
+## [ctx:mac-conwell-0706]
+
+Kind: dated_event · Source: full:ebb6ef37d7c851cc7dd2020a
+
+Conwell dates his move toward the Maryland state investment role, following his departure from the marketing firm, to 2016.
+
+> And that's in 2016.
+
+## [ctx:mac-conwell-0707]
+
+Kind: investment_approach · Source: full:ebb6ef37d7c851cc7dd2020a
+
+Conwell says he decided to form an SPV to invest in RoboAmp founder Roberto after meeting him in 2020.
+
+> And so I decided like, okay, like I'm going to put an SPV together and I'm going to invest in this one guy and I'm going to support him because I couldn't do anything else.
+
+## [ctx:mac-conwell-0708]
+
+Kind: dated_event · Source: full:ebb6ef37d7c851cc7dd2020a
+
+Conwell says more than 1,100 meetings from mid-June through September 2020 helped him soft-circle his first $2 million and leave his job.
+
+> Between the middle of June 2020 to September 2020, I had over 1,100 meetings, which allowed me to soft circle my first two million and kind of gave me the confidence to quit my job and really go do this day.
+
+## [ctx:mac-conwell-0709]
+
+Kind: investment_approach · Source: full:ebb6ef37d7c851cc7dd2020a
+
+Conwell says RareBreed planned a portfolio of approximately 40 to 45 companies.
+
+> Really, we're going to do somewhere between like 40 to 45 companies.
+
+## [ctx:mac-conwell-0710]
+
+Kind: investment_approach · Source: full:ebb6ef37d7c851cc7dd2020a
+
+Conwell says the fund expected roughly six to ten follow-on investments, mostly first checks, and a 5% off-thesis allocation.
+
+> No, no. So we're going to do somewhere in the neighborhood of like six to 10 follow on, but mostly most first checks. And we'll also do a few off thesis investments. We got about 5% of the fund allocated for off thesis.
+
+## [ctx:mac-conwell-0711]
+
+Kind: company_relationship · Source: full:ebb6ef37d7c851cc7dd2020a
+
+Conwell says he helped start a pre-seed fund for underrepresented founders while working for Maryland's investment arm.
+
+> When I was working for the investment arm for the state of Maryland, we started this pre-seed fund for underrepresented founders.
+
+## [ctx:mac-conwell-0712]
+
+Kind: investment_approach · Source: full:ebb6ef37d7c851cc7dd2020a
+
+Conwell reports that the Maryland fund's first three investments failed, while the next six survived and three later entered his current portfolio.
+
+> The first three companies we invested in went straight to zero. Like my first three, straight to zero. The next six, all still alive today. Three of them are in my current portfolio.
+
+## [ctx:mac-conwell-0713]
+
+Kind: investment_approach · Source: full:ebb6ef37d7c851cc7dd2020a
+
+Conwell says he structured his fund as a traditional 506C vehicle using Carta as its backend.
+
+> And so I created a fund, this traditional fund. We use 506C so I could probably solicit. We work with Carta as our backend.
+
+## [ctx:mac-conwell-0714]
+
+Kind: company_relationship · Source: full:ebb6ef37d7c851cc7dd2020a
+
+Conwell identifies Oakland-based Unspun as his most recently publicly announced investment at the time of the interview.
+
+> Most recently publicly announced investment was an investment in a company called Unspun out of Oakland.
+
+## [ctx:mac-conwell-0715]
+
+Kind: company_relationship · Source: full:ebb6ef37d7c851cc7dd2020a
+
+Conwell says RareBreed venture partner Jonathan Kroll sourced the Unspun opportunity.
+
+> And I should also say that company was sourced by my venture partner, Jonathan Kroll.
+
+## [ctx:mac-conwell-0716]
+
+Kind: dated_event · Source: full:c9ede839a9c7dc9f86150ee8
+
+Spotify dates this 20VC episode featuring Conwell to November 1, 2021.
+
+> The Twenty Minute VC (20VC): Venture Capital | Startup Funding | The Pitch Nov 1, 2021
+
+## [ctx:mac-conwell-0717]
+
+Kind: company_relationship · Source: full:c9ede839a9c7dc9f86150ee8
+
+The episode description reports that Conwell is RareBreed Ventures' founder and managing partner and characterizes the firm as a concentrated pre-seed fund investing outside major technology ecosystems with first checks up to $250,000.
+
+> McKeever "Mac" Conwell II is the founder and managing partner of RareBreed Ventures, a pre-seed fund that invests outside of large tech ecosystems, with a concentrated portfolio approach being the first check with up to $250K.
+
+## [ctx:mac-conwell-0718]
+
+Kind: biography · Source: full:c9ede839a9c7dc9f86150ee8
+
+The episode description reports that Conwell experienced homelessness, became an engineer and founder, and later raised RareBreed largely through Twitter.
+
+> Mac's journey into venture is nothing short of inspirational, Mac went from being homeless to being an engineer to founding his own companies to today, raising Rarebreed largely on Twitter.
+
+## [ctx:mac-conwell-0719]
+
+Kind: dated_event · Source: full:b4d0f8a6b4ffdd66d30b6197
+
+Spotify dates this 20VC episode featuring Conwell to November 1, 2021.
+
+> The Twenty Minute VC (20VC): Venture Capital | Startup Funding | The Pitch Nov 1, 2021
+
+## [ctx:mac-conwell-0720]
+
+Kind: company_relationship · Source: full:b4d0f8a6b4ffdd66d30b6197
+
+The episode description reports that Conwell is RareBreed Ventures' founder and managing partner and characterizes the firm as a concentrated pre-seed fund investing outside major technology ecosystems with first checks up to $250,000.
+
+> McKeever "Mac" Conwell II is the founder and managing partner of RareBreed Ventures, a pre-seed fund that invests outside of large tech ecosystems, with a concentrated portfolio approach being the first check with up to $250K.
+
+## [ctx:mac-conwell-0721]
+
+Kind: biography · Source: full:b4d0f8a6b4ffdd66d30b6197
+
+The episode description reports that Conwell experienced homelessness, became an engineer and founder, and later raised RareBreed largely through Twitter.
+
+> Mac's journey into venture is nothing short of inspirational, Mac went from being homeless to being an engineer to founding his own companies to today, raising Rarebreed largely on Twitter.
+
+## [ctx:mac-conwell-0722]
+
+Kind: biography · Source: full:8fb932422807d1954f8022f8
+
+In this accepted-speaker clip, Conwell says he was a software engineer and government contractor before becoming a two-time founder whose second company failed.
+
+> Like, it's like I was a software engineer and I was a government contractor for years. I then went on to be a two-time founder. But my second company wasn't a success. It was a failure.
+
+## [ctx:mac-conwell-0723]
+
+Kind: dated_event · Source: full:f180214ac28646f099c7a2f5
+
+Spotify dates this Full Ratchet episode featuring Conwell to July 8, 2021.
+
+> The Full Ratchet (TFR): Venture Capital and Startup Investing Demystified Jul 8, 2021
+
+## [ctx:mac-conwell-0724]
+
+Kind: investment_approach · Source: full:f180214ac28646f099c7a2f5
+
+The episode description reports that each named investor, including Conwell, discusses an investment pass and its subsequent outcome.
+
+> Each investor highlights a situation where they decided not to invest, why they passed, and how it played out.
+
+## [ctx:mac-conwell-0725]
+
+Kind: dated_event · Source: full:bf7e0824f33cb24dd9682cab
+
+Spotify dates this Full Ratchet episode featuring Conwell to July 8, 2021.
+
+> The Full Ratchet (TFR): Venture Capital and Startup Investing Demystified Jul 8, 2021
+
+## [ctx:mac-conwell-0726]
+
+Kind: investment_approach · Source: full:bf7e0824f33cb24dd9682cab
+
+The episode description reports that each named investor, including Conwell, discusses an investment pass and its subsequent outcome.
+
+> Each investor highlights a situation where they decided not to invest, why they passed, and how it played out.
+
+## [ctx:mac-conwell-0727]
+
+Kind: dated_event · Source: full:017ce5eff9dcb91d61ea5785
+
+The Hark listing reports that Conwell was one of four investors featured in this Full Ratchet segment.
+
+> On this special segment of The Full Ratchet, the following Investors are featured: Ed Sim Lanham Napier McKeever “Mac” Conwell II Mike Smerklo... more
+
+## [ctx:mac-conwell-0728]
+
+Kind: biography · Source: full:b258ae6a48211c10c8a63d53
+
+The podcast page describes Conwell as a Baltimore-based investor who left TEDCO to start Rarebreed Ventures.
+
+> McKeever Conwell II is a Baltimore-based investor who left tech development agency TEDCO to start his own venture capital fund, Rarebreed Ventures.
+
+## [ctx:mac-conwell-0729]
+
+Kind: investment_approach · Source: full:b258ae6a48211c10c8a63d53
+
+The podcast page characterizes Rarebreed Ventures as seeking to be the first investor backing potentially large companies.
+
+> It is designed to be the first investor backing large companies like TEDCO.
+
+## [ctx:mac-conwell-0730]
+
+Kind: biography · Source: full:b258ae6a48211c10c8a63d53
+
+The podcast page reports that Conwell has experience as both an early-stage investor and a founder.
+
+> He has a wealth of knowledge of the early stages as he has been both an investor and a founder.
+
+## [ctx:mac-conwell-0731]
+
+Kind: investment_approach · Source: full:b258ae6a48211c10c8a63d53
+
+The podcast page attributes to Conwell the view that founder-investor relationships are partnerships.
+
+> His key piece of advice is to remember that the relationship between founders and investors is a partnership.
+
+## [ctx:mac-conwell-0732]
+
+Kind: company_relationship · Source: full:c05c66d55693da72e2f54e63
+
+The episode page identifies Mac Conwell as RareBreed Ventures’ founder and managing partner.
+
+> This week on The Tech Jawn we are joined by special guest Mac Conwell, founder and managing partner of RareBreed Ventures.
+
+## [ctx:mac-conwell-0733]
+
+Kind: investment_approach · Source: full:c05c66d55693da72e2f54e63
+
+The episode page reports that Conwell focuses on businesses outside Massachusetts, New York, and California.
+
+> And lastly, we talk about Mac’s journey to becoming a VC and why he focuses on business outside of Massachusetts, New York, and California.
+
+## [ctx:mac-conwell-0734]
+
+Kind: dated_event · Source: full:c05c66d55693da72e2f54e63
+
+The Mac Conwell interview episode is dated March 14, 2023.
+
+> March 14, 2023 An Interview With RareBreed Ventures Founder And Managing Partner, Mac Conwell - The Tech Jawn 74
+
+## [ctx:mac-conwell-0735]
+
+Kind: investment_approach · Source: full:8f654150686d1a8696ce81f5
+
+The episode page describes Conwell as investing in and mentoring underrepresented innovators.
+
+> He’s an important figure in the software industry, investing and mentoring underrepresented innovators.
+
+## [ctx:mac-conwell-0736]
+
+Kind: company_relationship · Source: full:8f654150686d1a8696ce81f5
+
+The episode page identifies Conwell as managing partner of RareBreedVC and describes it as a pre-seed and seed fund.
+
+> He is the Managing Partner at @RareBreedVC, a pre-seed and seed fund for “a rare breed” of founders.
+
+## [ctx:mac-conwell-0737]
+
+Kind: biography · Source: full:8f654150686d1a8696ce81f5
+
+The episode page reports that Conwell built a multimillion-dollar fund primarily through his Twitter account.
+
+> Mac's story is a unique one, from earning 6-figures straight out of college to losing it all to building a multi-million dollar fund primarily through his Twitter account.
+
+## [ctx:mac-conwell-0738]
+
+Kind: dated_event · Source: full:d46cd2d4bcb98ec1aeee99fa
+
+The episode page reports that Conwell participated in a segment about a decision not to invest, its rationale, and its outcome, without supplying his actual remarks.
+
+> Each investor highlights a situation where they decided not to invest, why they passed, and how it played out.
+
+## [ctx:mac-conwell-0739]
+
+Kind: dated_event · Source: full:d46cd2d4bcb98ec1aeee99fa
+
+The investor-pass episode featuring Conwell is dated July 8, 2021.
+
+> The Full Ratchet (TFR): Venture Capital and Startup Investing Demystified Jul 8, 2021 12 min
+
+## [ctx:mac-conwell-0740]
+
+Kind: biography · Source: full:e545462febc8e519f40f9027
+
+The show description presents Conwell as sharing personal experience building startups, venture-capital funds, and a career.
+
+> Liam Gill and Mac Conwell discuss the decisions, challenges and rewards of being a startup founder while sharing their own experiences building startups, venture capital funds and careers.
+
+## [ctx:mac-conwell-0741]
+
+Kind: dated_event · Source: full:e545462febc8e519f40f9027
+
+The page reports that Conwell co-hosted a September 28, 2022 episode about negotiating venture-capital terms.
+
+> Liam Gill (@LawyerLiam) and MacTheVC (@MacConwell) discuss negotiating terms with venture capitalists.
+
+## [ctx:mac-conwell-0742]
+
+Kind: dated_event · Source: full:e545462febc8e519f40f9027
+
+The page reports that Conwell co-hosted an August 10, 2022 discussion comparing bootstrapping and fundraising during an economic downturn.
+
+> Liam and Mac discuss the benefits of Bootstrapping vs Fundraising at a time when the economy has taken a downturn.
+
+## [ctx:mac-conwell-0743]
+
+Kind: dated_event · Source: full:50f125d46c9c83a0ed544794
+
+The episode page reports that Conwell participated in a segment about a decision not to invest, its rationale, and its outcome, without supplying his actual remarks.
+
+> Each investor highlights a situation where they decided not to invest, why they passed, and how it played out.
+
+## [ctx:mac-conwell-0744]
+
+Kind: dated_event · Source: full:50f125d46c9c83a0ed544794
+
+The investor-pass episode featuring Conwell is dated July 8, 2021.
+
+> The Full Ratchet (TFR): Venture Capital and Startup Investing Demystified Jul 8, 2021 12 min
+
+## [ctx:mac-conwell-0745]
+
+Kind: biography · Source: full:0854c7a350e2df471f03c511
+
+The show description presents Conwell as sharing personal experience building startups, venture-capital funds, and a career.
+
+> Liam Gill and Mac Conwell discuss the decisions, challenges and rewards of being a startup founder while sharing their own experiences building startups, venture capital funds and careers.
+
+## [ctx:mac-conwell-0746]
+
+Kind: dated_event · Source: full:0854c7a350e2df471f03c511
+
+The page reports that Conwell co-hosted an October 5, 2022 discussion about the relative importance of product and marketing.
+
+> Liam Gill (@LawyerLiam) and MacTheVC (@MacConwell) discuss whether its more important to have a great product or great marketing.
+
+## [ctx:mac-conwell-0747]
+
+Kind: dated_event · Source: full:0854c7a350e2df471f03c511
+
+The page reports that Conwell co-hosted a September 7, 2022 discussion about founder salaries.
+
+> Liam Gill (@LawyerLiam) and MacTheVC (@MacConwell) discuss whether founders should take a salary.
+
+## [ctx:mac-conwell-0748]
+
+Kind: investment_approach · Source: full:9eb6cfd70328ce90fdfa1176
+
+The episode page identifies Conwell as RareBreed Ventures’ founder and managing partner and reports that the pre-seed fund invests outside large technology ecosystems through a concentrated, first-check strategy of up to $250,000.
+
+> McKeever "Mac" Conwell II is the founder and managing partner of RareBreed Ventures, a pre-seed fund that invests outside of large tech ecosystems, with a concentrated portfolio approach being the first check with up to $250K.
+
+## [ctx:mac-conwell-0749]
+
+Kind: biography · Source: full:9eb6cfd70328ce90fdfa1176
+
+The episode page describes Conwell’s path from homelessness to engineering and company founding, followed by raising RareBreed largely through Twitter.
+
+> Mac went from being homeless to being an engineer to founding his own companies to today, raising Rarebreed largely on Twitter.
+
+## [ctx:mac-conwell-0750]
+
+Kind: dated_event · Source: full:9eb6cfd70328ce90fdfa1176
+
+The 20VC interview with Conwell is dated November 1, 2021.
+
+> 1 November 2021 20VC: Mac the VC on the Journey from Homeless To Becoming A VC, What It Takes To Raise a Fund on Twitter, Why the Venture World is F***** Up and How Institutional LPs Need To Change
+
+## [ctx:mac-conwell-0751]
+
+Kind: investment_approach · Source: full:cd090c4022b345f96b39a75d
+
+The episode page identifies Conwell as RareBreed Ventures’ founder and managing partner and reports that the pre-seed fund invests outside large technology ecosystems through a concentrated, first-check strategy of up to $250,000.
+
+> McKeever "Mac" Conwell II is the founder and managing partner of RareBreed Ventures, a pre-seed fund that invests outside of large tech ecosystems, with a concentrated portfolio approach being the first check with up to $250K.
+
+## [ctx:mac-conwell-0752]
+
+Kind: biography · Source: full:cd090c4022b345f96b39a75d
+
+The episode page describes Conwell’s path from homelessness to engineering and company founding, followed by raising RareBreed largely through Twitter.
+
+> Mac went from being homeless to being an engineer to founding his own companies to today, raising Rarebreed largely on Twitter.
+
+## [ctx:mac-conwell-0753]
+
+Kind: dated_event · Source: full:cd090c4022b345f96b39a75d
+
+The 20VC interview with Conwell is dated November 1, 2021.
+
+> November 1, 2021 20VC: Mac the VC on the Journey from Homeless To Becoming A VC, What It Takes To Raise a Fund on Twitter, Why the Venture World is F***** Up and How Institutional LPs Need To Change
+
+## [ctx:mac-conwell-0754]
+
+Kind: biography · Source: full:64f8d4a3b6a0a2c998ad6fdf
+
+The show description presents Conwell as sharing personal experience building startups, venture-capital funds, and a career.
+
+> Liam Gill and Mac Conwell discuss the decisions, challenges and rewards of being a startup founder while sharing their own experiences building startups, venture capital funds and careers.
+
+## [ctx:mac-conwell-0755]
+
+Kind: dated_event · Source: full:64f8d4a3b6a0a2c998ad6fdf
+
+The page reports that Conwell co-hosted a September 28, 2022 episode about negotiating venture-capital terms.
+
+> Liam Gill (@LawyerLiam) and MacTheVC (@MacConwell) discuss negotiating terms with venture capitalists.
+
+## [ctx:mac-conwell-0756]
+
+Kind: dated_event · Source: full:64f8d4a3b6a0a2c998ad6fdf
+
+The page reports that Conwell co-hosted a September 14, 2022 discussion intended to explain the venture-capital business and large founder fundraises.
+
+> We discuss Adam as a founder and, more importantly, the venture capital business to help founders understand why other founders can raise significant funds.
+
+## [ctx:mac-conwell-0757]
+
+Kind: biography · Source: full:bc67d503befa0f9404f101db
+
+The congressional biography describes Conwell as a software engineer by trade and a former DOD contractor with a top-secret clearance.
+
+> McKeever “Mac” Conwell II is a software engineer by trade and was a former DOD contractor with a top-secret clearance.
+
+## [ctx:mac-conwell-0758]
+
+Kind: biography · Source: full:bc67d503befa0f9404f101db
+
+The congressional biography reports that Conwell was a two-time founder with one exit and one failure.
+
+> He was a two-time founder with an exit and a failure.
+
+## [ctx:mac-conwell-0759]
+
+Kind: company_relationship · Source: full:bc67d503befa0f9404f101db
+
+The congressional biography reports that Conwell entered venture capital through the Maryland Technology Development Corporation’s Seed Investment Team.
+
+> Next Mac moved on to the venture capital world via the Maryland Technology Development Corporation as part of their Seed Investment Team.
+
+## [ctx:mac-conwell-0760]
+
+Kind: company_relationship · Source: full:bc67d503befa0f9404f101db
+
+The congressional biography reports that, during four years at the Maryland Technology Development Corporation, Conwell led the initiative that created the Builder Fund for women and minority founders.
+
+> During his four years there, Mac amassed experience leading an initiative to create the first and only, at the time, state-backed pre-seed fund for women and minorities in the country; known as the Builder Fund.
+
+## [ctx:mac-conwell-0761]
+
+Kind: company_relationship · Source: full:bc67d503befa0f9404f101db
+
+The congressional biography reports that Conwell founded RareBreed Ventures in 2020 and raised most of it through Twitter.
+
+> Mac went on to found RareBreed Ventures in 2020 which was mostly raised on Twitter.
+
+## [ctx:mac-conwell-0762]
+
+Kind: investment_approach · Source: full:bc67d503befa0f9404f101db
+
+The congressional biography reports that Conwell invested through RareBreed Ventures in 47 companies spanning more than 30 verticals, 17 states, and four countries.
+
+> Since the launch of RareBreed Ventures, Mac has invested in 47 companies in 30+ verticals in 17 states and in 4 countries to create a truly diversified portfolio.
+
+## [ctx:mac-conwell-0763]
+
+Kind: biography · Source: full:786cc4ec888ee1a497cb8b94
+
+The podcast page describes Mac Conwell as a co-host who shares experience building startups, venture-capital funds, and careers.
+
+> Liam Gill and Mac Conwell discuss the decisions, challenges and rewards of being a startup founder while sharing their own experiences building startups, venture capital funds and careers.
+
+## [ctx:mac-conwell-0764]
+
+Kind: dated_event · Source: full:786cc4ec888ee1a497cb8b94
+
+The page reports that Mac Conwell co-hosted a September 21, 2022 episode about how two Biden administration policy initiatives affected startup founders.
+
+> Episode 8 - Student Loan Forgiveness and Inflation Reduction Act impact on Founders Liam Gill (@LawyerLiam) and MacTheVC (@MacConwell) discuss of the Biden Administration's major policy initiatives on startup founders. Specifically the episode addresses Student Loan Forgiveness and the Inflation Reduction Act. Sep 21, 202231:41
+
+## [ctx:mac-conwell-0765]
+
+Kind: biography · Source: full:68cf7b366b3b293182da018d
+
+The podcast page describes Mac Conwell as a co-host who shares experience building startups, venture-capital funds, and careers.
+
+> Liam Gill and Mac Conwell discuss the decisions, challenges and rewards of being a startup founder while sharing their own experiences building startups, venture capital funds and careers.
+
+## [ctx:mac-conwell-0766]
+
+Kind: dated_event · Source: full:68cf7b366b3b293182da018d
+
+The page reports that Mac Conwell co-hosted an August 31, 2022 episode about friendships between founders and investors.
+
+> Episode 5 - Should you be friends with your investors? Liam Gill (@LawyerLiam) and MacTheVC (@MacConwell) talk about whether you should become friends with your investors. How does that impact your startup and does it spell doom for your business. Aug 31, 202224:12
+
+## [ctx:mac-conwell-0767]
+
+Kind: biography · Source: full:1896d2b7bdb1fcb0b90f104b
+
+The podcast page describes Mac Conwell as a co-host who shares experience building startups, venture-capital funds, and careers.
+
+> Liam Gill and Mac Conwell discuss the decisions, challenges and rewards of being a startup founder while sharing their own experiences building startups, venture capital funds and careers.
+
+## [ctx:mac-conwell-0768]
+
+Kind: dated_event · Source: full:1896d2b7bdb1fcb0b90f104b
+
+The page reports that Mac Conwell co-hosted a September 7, 2022 episode about founder salaries and the economic environment.
+
+> Episode 6 - Founder's Salary Liam Gill (@LawyerLiam) and MacTheVC (@MacConwell) discuss whether founders should take a salary. We discuss the topic in detail, including when they should consider taking a salary, its size, and more. We also talk about salaries in the current economic environment where many companies are being forced to lay off workers and how that may impact a founder's decision. Tune in to get all the info you need! Sep 07, 202233:01
+
+## [ctx:mac-conwell-0769]
+
+Kind: biography · Source: full:64daf3742b89f6a7ce22d1fa
+
+The podcast page describes Mac Conwell as a co-host who shares experience building startups, venture-capital funds, and careers.
+
+> Liam Gill and Mac Conwell discuss the decisions, challenges and rewards of being a startup founder while sharing their own experiences building startups, venture capital funds and careers.
+
+## [ctx:mac-conwell-0770]
+
+Kind: dated_event · Source: full:64daf3742b89f6a7ce22d1fa
+
+The page reports that Mac Conwell co-hosted an August 17, 2022 episode about mentorship in startups and venture capital.
+
+> Episode 3 - Mentors Liam Gill (@Lawyer_Liam) and MacTheVC (@MacConwell) discuss mentors and mentorship in the context of startups and VCs. Aug 17, 202224:43
+
+## [ctx:mac-conwell-0771]
+
+Kind: biography · Source: full:a9b81e188eae0198fbc8fab1
+
+The episode description reports that McKeever Conwell was an engineer and serial entrepreneur who was recruited by a U.S. intelligence agency and made pre-seed investments for Maryland state fund TEDCO.
+
+> Jamarlin talks to investor and serial entrepreneur McKeever Conwell about being inspired by a teacher to become an engineer, getting recruited out of college by a U.S. intelligence agency, and making pre-seed investments for Maryland's tech development state fund, TEDCO.
+
+## [ctx:mac-conwell-0772]
+
+Kind: dated_event · Source: full:a9b81e188eae0198fbc8fab1
+
+The page dates the McKeever Conwell episode to October 25, 2018.
+
+> Episode 31: McKeever Conwell GHOGH with Jamarlin Martin Oct 25, 2018 58 min
+
+## [ctx:mac-conwell-0773]
+
+Kind: company_relationship · Source: full:3290410946b82e329b563a3e
+
+The 20VC page reports that McKeever “Mac the VC” Conwell II founded and manages RareBreed Ventures.
+
+> McKeever “Mac the VC” Conwell II is the founder and managing partner of RareBreed Ventures
+
+## [ctx:mac-conwell-0774]
+
+Kind: investment_approach · Source: full:3290410946b82e329b563a3e
+
+The page describes RareBreed's strategy as concentrated pre-seed investing outside major technology ecosystems, seeking to be the first check with investments up to $250,000.
+
+> a pre-seed fund that invests outside of large tech ecosystems, with a concentrated portfolio approach being the first check with in with up to $250K.
+
+## [ctx:mac-conwell-0775]
+
+Kind: biography · Source: full:3290410946b82e329b563a3e
+
+The page reports that Mac Conwell experienced homelessness, became an engineer, founded companies, and later raised RareBreed largely through Twitter.
+
+> Mac went from being homeless to being an engineer to founding his own companies to today, raising Rarebreed largely on Twitter.
+
+## [ctx:mac-conwell-0776]
+
+Kind: dated_event · Source: full:3290410946b82e329b563a3e
+
+The page dates this 20VC feature about Mac Conwell to October 31, 2021.
+
+> 20VC Oct 31, 2021 Posted by McKeever “Mac the VC” Conwell II is the founder and managing partner of RareBreed Ventures
+
+## [ctx:mac-conwell-0777]
+
+Kind: biography · Source: full:2676f9411395096110debfd3
+
+The podcast description reports that Mac Conwell founded RareBreed Ventures and was formerly an entrepreneur, while also describing him as a Kaufmann fellow and drag racer.
+
+> Mac Conwell is the founding partner of RareBreed Ventures, a former entrepreneur, Kaufmann fellow and enthusiastic drag racer.
+
+## [ctx:mac-conwell-0778]
+
+Kind: investment_approach · Source: full:2676f9411395096110debfd3
+
+The page describes RareBreed as a pre-seed fund targeting founders outside major technology ecosystems with a $250,000 check size.
+
+> RareBreed Ventures is a Pre-seed Fund that is investing in exceptional founders outside of the large tech eco-systems earlier than everyone else. They target a check size of 250K.
+
+## [ctx:mac-conwell-0779]
+
+Kind: investment_approach · Source: full:2676f9411395096110debfd3
+
+The page says RareBreed combines early capital, support services, and institutional knowledge to help companies progress from pre-seed to Series A more quickly.
+
+> With early meaningful cash upfront, wraparound services to increase capacity, and institutional knowledge from the RareBreed team they can accelerate a company's growth at the earliest stages and shrink the time it takes them to go from Pre-seed to Series A.
+
+## [ctx:mac-conwell-0780]
+
+Kind: dated_event · Source: full:2676f9411395096110debfd3
+
+The page reports that the Mac Conwell episode was published on January 14, 2022 at 11:00 PM UTC.
+
+> Published January 14, 2022 at 11:00 PM UTC
+
+## [ctx:mac-conwell-0781]
+
+Kind: biography · Source: full:c2ae5fddfe4559b41a532ec5
+
+The podcast page describes Mac Conwell as a co-host who shares experience building startups, venture-capital funds, and careers.
+
+> Liam Gill and Mac Conwell discuss the decisions, challenges and rewards of being a startup founder while sharing their own experiences building startups, venture capital funds and careers.
+
+## [ctx:mac-conwell-0782]
+
+Kind: dated_event · Source: full:c2ae5fddfe4559b41a532ec5
+
+The page reports that Mac Conwell co-hosted a September 28, 2022 episode about negotiating financing terms with venture capitalists.
+
+> Episode 9 - Negotiating with VCs Liam Gill (@LawyerLiam) and MacTheVC (@MacConwell) discuss negotiating terms with venture capitalists. How should you negotiate? Whose help should you seek? And what can you actually negotiate? Sep 28, 202238:54
+
+## [ctx:mac-conwell-0783]
+
+Kind: dated_event · Source: full:38ca0c459a887c3236332a54
+
+The podcast page reports that an episode featuring Mac Conwell of RareBreed Ventures was published on July 23, 2024.
+
+> July 23, 2024 Mac Conwell of RareBreed Ventures speaks on 'the money game' and lessons learned as a founder turned venture capitalist
+
+## [ctx:mac-conwell-0784]
+
+Kind: company_relationship · Source: full:38ca0c459a887c3236332a54
+
+The episode description identifies Conwell as RareBreed Ventures’ founder and managing partner and describes the firm as a pre-seed investor focused primarily outside large technology ecosystems.
+
+> Mckeever 'Mac' Conwell is Founder & Managing Partner of RareBreed Ventures, a pre-seed fund that invests in exceptional founders primarily outside of large tech ecosystems, typically first money in, or, at least earlier than most investors.
+
+## [ctx:mac-conwell-0785]
+
+Kind: dated_event · Source: full:9c739d5b77216dcf5af03395
+
+The page dates Samir Kaji’s episode featuring Conwell and Roy Bahat to February 2, 2021.
+
+> Samir Kaji Feb 02, 2021
+
+## [ctx:mac-conwell-0786]
+
+Kind: investment_approach · Source: full:9c739d5b77216dcf5af03395
+
+Kaji reports that Conwell used Regulation D Rule 506(c) to solicit capital publicly for RareBreed VC.
+
+> As many may now, Mac is using the seldom used 506C provision of Reg D to publicly solicit capital for his new fund (RareBreed VC).
+
+## [ctx:mac-conwell-0787]
+
+Kind: biography · Source: full:9c739d5b77216dcf5af03395
+
+Kaji reports that before RareBreed, Conwell was an investor with the Maryland Technology Development Corporation’s Minority Business Pre-seed Fund.
+
+> Previously to starting RareBreed, Mac was an investor at the Maryland Technology Development Corporation’s Minority Business Pre-seed Fund, a partnership between TEDCO and Harbor Bank Community Development Corporation to address the needs of minority entrepreneurs in Maryland, who often lack access to Friends and Family rounds.
+
+## [ctx:mac-conwell-0788]
+
+Kind: biography · Source: full:9c739d5b77216dcf5af03395
+
+Kaji reports that Conwell previously served as a co-founder and CEO at Redberry Mobile and Given.
+
+> He also has operating experience from his time as co-founder and CEO at Redberry Mobile and of Given.
+
+## [ctx:mac-conwell-0789]
+
+Kind: company_relationship · Source: full:060c908f7207b41f15c5d833
+
+The page identifies Conwell as Rare Breed VC’s founder and managing partner.
+
+> Mac is the founder and managing partner of Rare Breed VC.
+
+## [ctx:mac-conwell-0790]
+
+Kind: investment_approach · Source: full:060c908f7207b41f15c5d833
+
+The page describes Rare Breed VC as a pre-seed fund investing outside large technology ecosystems.
+
+> Rare Breed VC is a pre-seed fund that invests outside of large tech ecosystems.
+
+## [ctx:mac-conwell-0791]
+
+Kind: biography · Source: full:060c908f7207b41f15c5d833
+
+The page reports that Conwell worked as a software engineer and government contractor before founding companies.
+
+> Mac was a software engineer and government contractor before becoming a founder.
+
+## [ctx:mac-conwell-0792]
+
+Kind: biography · Source: full:060c908f7207b41f15c5d833
+
+The page reports that Conwell entered venture investing through Maryland’s state investment arm despite lacking a degree or finance background.
+
+> He applied for a role with the investment arm for the state of Maryland without a college degree or finance background and was hired four and a half months later.
+
+## [ctx:mac-conwell-0793]
+
+Kind: dated_event · Source: full:060c908f7207b41f15c5d833
+
+The page reports that Conwell held more than 1,100 meetings between June and September 2020 while fundraising.
+
+> Mac the VC had over 1100 meetings from June to September 2020.
+
+## [ctx:mac-conwell-0794]
+
+Kind: investment_approach · Source: full:060c908f7207b41f15c5d833
+
+The page reports that Rare Breed Ventures reserved about 5% of its fund for off-thesis opportunities.
+
+> Rare Breed Ventures allocates approximately 5% of the fund for off thesis investments.
+
+## [ctx:mac-conwell-0795]
+
+Kind: investment_approach · Source: full:060c908f7207b41f15c5d833
+
+The page reports that Rare Breed Ventures primarily targets companies outside Silicon Valley, New York, and Massachusetts.
+
+> Rare Breed Ventures primarily invests in companies outside major tech hubs like Silicon Valley, New York, and Massachusetts.
+
+## [ctx:mac-conwell-0796]
+
+Kind: investment_approach · Source: full:060c908f7207b41f15c5d833
+
+The page reports that RareBreed’s geographic scope included North America, South America, and the United Kingdom.
+
+> The geographical focus includes North America, South America, and the UK.
+
+## [ctx:mac-conwell-0797]
+
+Kind: company_relationship · Source: full:060c908f7207b41f15c5d833
+
+The page reports that Conwell invested in Unspun, citing the founders’ passion and the technology’s perceived potential.
+
+> The speaker's investment in Unspun was driven by the founders' passion and the revolutionary potential of their technology.
+
+## [ctx:mac-conwell-0798]
+
+Kind: dated_event · Source: full:348dffd1d100c2b36171d3d9
+
+Spreaker lists the Mac Conwell episode as published July 23, 2024, with a duration of 34 minutes and 2 seconds.
+
+> Jul 23, 2024 · 34m 2s
+
+## [ctx:mac-conwell-0799]
+
+Kind: company_relationship · Source: full:348dffd1d100c2b36171d3d9
+
+The episode description identifies Conwell as RareBreed Ventures’ founder and managing partner and describes its early pre-seed focus outside large technology ecosystems.
+
+> Mckeever 'Mac' Conwell is Founder & Managing Partner of RareBreed Ventures, a pre-seed fund that invests in exceptional founders primarily outside of large tech ecosystems, typically first money in, or, at least earlier than most investors.
+
+## [ctx:mac-conwell-0800]
+
+Kind: investment_approach · Source: full:a445e5a5c036b5e5c8c8e9b8
+
+The article reports that Rarebreed Ventures was founded in 2020 and invests at pre-seed through seed, primarily outside large technology ecosystems.
+
+> Founded in 2020, Rarebreed Ventures is a Pre-seed to Seed venture fund consistently on the hunt for rare breed entrepreneurs. This pre-seed fund invests in exceptional founders primarily outside of large tech ecosystems, earlier than everyone else.
+
+## [ctx:mac-conwell-0801]
+
+Kind: investment_approach · Source: full:a445e5a5c036b5e5c8c8e9b8
+
+The article reports that Rarebreed Ventures is based in Baltimore and writes checks of up to $250,000 as an initial or near-initial investor.
+
+> The firm writes cheques of up to $250,000 as the first or one of the first investors in exceptional startups and is based in Baltimore, Maryland-USA.
+
+## [ctx:mac-conwell-0802]
+
+Kind: company_relationship · Source: full:a445e5a5c036b5e5c8c8e9b8
+
+The article identifies Mac Conwell as Rarebreed Ventures’ founder and managing partner.
+
+> Mac Conwell, founder and managing partner at Rarebreed Ventures.
+
+## [ctx:mac-conwell-0803]
+
+Kind: dated_event · Source: full:a445e5a5c036b5e5c8c8e9b8
+
+The publisher reports interviewing Conwell during a Kauffman Fellowship Summit in Nairobi.
+
+> Our team spoke to Mac Conwell during the recently held Kauffman Fellowship Summit in Nairobi.
+
+## [ctx:mac-conwell-0804]
+
+Kind: company_relationship · Source: full:55888bc8b7b03267e3b7d724
+
+The podcast description identifies Conwell as RareBreed Ventures’ founder and characterizes the firm as an early investor in exceptional founders primarily outside major technology ecosystems.
+
+> Mac Conwell is the founder of RareBreed Ventures, a pre-seed fund that invests in exceptional founders primarily outside of large tech ecosystems, earlier than everyone else.
+
+## [ctx:mac-conwell-0805]
+
+Kind: dated_event · Source: full:55888bc8b7b03267e3b7d724
+
+The podcast description reports that Conwell publicly raised his first venture fund using Rule 506(c) and the cited Investment Company Act amendment.
+
+> He raised his first VC fund in public under Rule 506(c) Regulation D while also utilizing the amendment to section 3(c)(1) of the Investment Company Act of 1940.
+
+## [ctx:mac-conwell-0806]
+
+Kind: dated_event · Source: full:55888bc8b7b03267e3b7d724
+
+Spotify dates this Mac Conwell episode to May 5, 2023.
+
+> The Venture Capital Fastlane May 5, 2023 48 min
+
+## [ctx:mac-conwell-0807]
+
+Kind: company_relationship · Source: full:d85a2e2963ce5dc43685da0f
+
+The podcast description identifies Conwell as RareBreed Ventures’ founder and reports that the Baltimore firm invests in pre-seed and seed startups.
+
+> Mac Conwell is the Founder of RareBreed Ventures, a Baltimore-based firm that invests in pre-seed and seed startups with dope founders.
+
+## [ctx:mac-conwell-0808]
+
+Kind: biography · Source: full:d85a2e2963ce5dc43685da0f
+
+The hosts report discussing Conwell’s investment interests, startup regulation, and his experience taking 4,000 meetings while establishing his firm.
+
+> We had a great conversation about the types of investments that excite Mac, how the regulatory environment affects startups, and Mac’s experience of taking 4,000 meetings to get his firm off the ground.
+
+## [ctx:mac-conwell-0809]
+
+Kind: dated_event · Source: full:d85a2e2963ce5dc43685da0f
+
+Spotify dates this Mac Conwell episode to September 2, 2024.
+
+> Investing in Startups Sep 2, 2024 43 min
+
+## [ctx:mac-conwell-0810]
+
+Kind: company_relationship · Source: full:2e18ab0797f601fe96c93aaf
+
+The podcast description identifies Conwell as RareBreed Ventures’ founder and characterizes the firm as an early investor in exceptional founders primarily outside major technology ecosystems.
+
+> Mac Conwell is the founder of RareBreed Ventures, a pre-seed fund that invests in exceptional founders primarily outside of large tech ecosystems, earlier than everyone else.
+
+## [ctx:mac-conwell-0811]
+
+Kind: dated_event · Source: full:2e18ab0797f601fe96c93aaf
+
+The podcast description reports that Conwell publicly raised his first venture fund using Rule 506(c) and the cited Investment Company Act amendment.
+
+> He raised his first VC fund in public under Rule 506(c) Regulation D while also utilizing the amendment to section 3(c)(1) of the Investment Company Act of 1940.
+
+## [ctx:mac-conwell-0812]
+
+Kind: dated_event · Source: full:2e18ab0797f601fe96c93aaf
+
+Spotify dates this Mac Conwell episode to May 5, 2023.
+
+> The Venture Capital Fastlane May 5, 2023 48 min
+
+## [ctx:mac-conwell-0813]
+
+Kind: biography · Source: full:1b285208b6f3d9d8cf68895b
+
+The show description presents Conwell as a co-host drawing on experience building startups, venture funds, and a career.
+
+> Liam Gill and Mac Conwell discuss the decisions, challenges and rewards of being a startup founder while sharing their own experiences building startups, venture capital funds and careers.
+
+## [ctx:mac-conwell-0814]
+
+Kind: dated_event · Source: full:1b285208b6f3d9d8cf68895b
+
+The page reports that Conwell co-hosted a September 14, 2022 discussion about founder assessment and venture-fund incentives surrounding Adam Neumann’s financing.
+
+> Liam Gill (@LawyerLiam) and MacTheVC (@MacConwell) discuss Adam Neumann raising $350M for Flow from Andreessen Horowitz. We discuss Adam as a founder and, more importantly, the venture capital business to help founders understand why other founders can raise significant funds.
+
+## [ctx:mac-conwell-0815]
+
+Kind: dated_event · Source: full:1b285208b6f3d9d8cf68895b
+
+The page reports that Conwell co-hosted a September 28, 2022 episode about negotiating venture-capital terms.
+
+> Liam Gill (@LawyerLiam) and MacTheVC (@MacConwell) discuss negotiating terms with venture capitalists. How should you negotiate? Whose help should you seek? And what can you actually negotiate?
+
+## [ctx:mac-conwell-0816]
+
+Kind: dated_event · Source: full:1b285208b6f3d9d8cf68895b
+
+The page reports that Conwell co-hosted an October 5, 2022 discussion comparing the importance of product and marketing across company stages.
+
+> Liam Gill (@LawyerLiam) and MacTheVC (@MacConwell) discuss whether its more important to have a great product or great marketing. We discuss how this changes over the course of your company's life and use real life examples as well as personal anecdotes.
+
+## [ctx:mac-conwell-0817]
+
+Kind: company_relationship · Source: full:444f63756700440808c49392
+
+The episode description identifies Mac Conwell as the founder of RareBreed.
+
+> In conversation with RareBreed founder Mac Conwell.
+
+## [ctx:mac-conwell-0818]
+
+Kind: dated_event · Source: full:444f63756700440808c49392
+
+Spotify dates the Mac Conwell episode to August 19, 2021.
+
+> Nothing Ventured Aug 19, 2021 36 min
+
+## [ctx:mac-conwell-0819]
+
+Kind: company_relationship · Source: full:3ae3a0b001990e578f9f17ad
+
+The podcast listing identifies the featured Mac Conwell with Rarebreed Ventures.
+
+> 34. More Equity: Mac Conwell of Rarebreed Ventures
+
+## [ctx:mac-conwell-0820]
+
+Kind: dated_event · Source: full:3ae3a0b001990e578f9f17ad
+
+The listing dates the Mac Conwell episode to September 27, 2021.
+
+> Winners WelcomeSep 27, 2021
+
+## [ctx:mac-conwell-0821]
+
+Kind: company_relationship · Source: full:3ae3a0b001990e578f9f17ad
+
+The podcast reported in September 2021 that Mac Conwell was Rarebreed Ventures' founder and managing partner and described the firm as a pre-seed fund investing in underrepresented founders outside major technology ecosystems.
+
+> Welcome to More Equity. In this episode of our Gamechangers series, we’re speaking with Mac Conwell, the founder and managing partner of Rarebreed Ventures, a pre-seed venture capital fund investing in underrepresented founders outside of major tech ecosystems.
+
+## [ctx:mac-conwell-0822]
+
+Kind: biography · Source: full:3ae3a0b001990e578f9f17ad
+
+The podcast described Conwell as a Kauffman fellow and two-time entrepreneur with one successful exit.
+
+> Mac is also a Kauffman fellow and two-time entrepreneur with one successful exit under his belt.
+
+## [ctx:mac-conwell-0823]
+
+Kind: dated_event · Source: full:3ae3a0b001990e578f9f17ad
+
+The listed Mac Conwell episode was dated September 27, 2021.
+
+> Sep 27, 202138:34
+
+## [ctx:mac-conwell-0824]
+
+Kind: biography · Source: full:1a5c1beff39ea47cbbffc647
+
+The show description presented Conwell as a cohost drawing on experience building startups and venture-capital funds.
+
+> Liam Gill and Mac Conwell discuss the decisions, challenges and rewards of being a startup founder while sharing their own experiences building startups, venture capital funds and careers.
+
+## [ctx:mac-conwell-0825]
+
+Kind: investment_approach · Source: full:1a5c1beff39ea47cbbffc647
+
+An October 5, 2022 episode description reported that Conwell discussed how the relative importance of product and marketing changes over a company's life.
+
+> Liam Gill (@LawyerLiam) and MacTheVC (@MacConwell) discuss whether its more important to have a great product or great marketing. We discuss how this changes over the course of your company's life and use real life examples as well as personal anecdotes.
+
+## [ctx:mac-conwell-0826]
+
+Kind: investment_approach · Source: full:1a5c1beff39ea47cbbffc647
+
+An August 10, 2022 episode description reported that Conwell discussed bootstrapping versus fundraising during an economic downturn.
+
+> Liam and Mac discuss the benefits of Bootstrapping vs Fundraising at a time when the economy has taken a downturn.
+
+## [ctx:mac-conwell-0827]
+
+Kind: company_relationship · Source: full:6e711173088a59ea37cfe4ea
+
+The podcast identified Conwell as RareBreed's founder.
+
+> In conversation with RareBreed founder Mac Conwell.
+
+## [ctx:mac-conwell-0828]
+
+Kind: dated_event · Source: full:6e711173088a59ea37cfe4ea
+
+The episode was dated August 19, 2021.
+
+> Aug 19, 2021 36 min
+
+## [ctx:mac-conwell-0829]
+
+Kind: company_relationship · Source: full:3b5aba793d4d21532c130a82
+
+The page title identified Conwell as RareBreed Ventures' founder and managing partner.
+
+> An Interview With RareBreed Ventures Founder And Managing Partner, Mac Conwell
+
+## [ctx:mac-conwell-0830]
+
+Kind: biography · Source: full:c5d6ef5e9a68bfb6933ae4e2
+
+The show description presented Conwell as a cohost with experience building startups and venture-capital funds.
+
+> Liam Gill and Mac Conwell discuss the decisions, challenges and rewards of being a startup founder while sharing their own experiences building startups, venture capital funds and careers.
+
+## [ctx:mac-conwell-0831]
+
+Kind: investment_approach · Source: full:c5d6ef5e9a68bfb6933ae4e2
+
+A September 28, 2022 episode description reported that Conwell discussed negotiating venture-capital terms.
+
+> Liam Gill (@LawyerLiam) and MacTheVC (@MacConwell) discuss negotiating terms with venture capitalists. How should you negotiate? Whose help should you seek? And what can you actually negotiate?
+
+## [ctx:mac-conwell-0832]
+
+Kind: investment_approach · Source: full:c5d6ef5e9a68bfb6933ae4e2
+
+A September 7, 2022 episode description reported that Conwell discussed whether, when, and how much founders should pay themselves.
+
+> Liam Gill (@LawyerLiam) and MacTheVC (@MacConwell) discuss whether founders should take a salary. We discuss the topic in detail, including when they should consider taking a salary, its size, and more.
+
+## [ctx:mac-conwell-0833]
+
+Kind: company_relationship · Source: full:729e9b6af9ef796a972a5060
+
+The podcast described Conwell as RareBreed Ventures' founder and managing partner.
+
+> Mac Conwell ("Mac the VC") is the Founder and Managing Partner of RareBreed Ventures.
+
+## [ctx:mac-conwell-0834]
+
+Kind: biography · Source: full:729e9b6af9ef796a972a5060
+
+The podcast described Conwell as a former software engineer and two-time founder whose companies included one failure and one successful exit.
+
+> Mac is a former software engineer and a two-time founder. One of Mac's companies failed, the other went on to a successful exit.
+
+## [ctx:mac-conwell-0835]
+
+Kind: biography · Source: full:729e9b6af9ef796a972a5060
+
+The podcast reported that Conwell entered investing through work for the State of Maryland before raising his own fund.
+
+> He then broke into the world of investing by working for the State of Maryland, before raising a fund of his own in a short amount of time.
+
+## [ctx:mac-conwell-0836]
+
+Kind: dated_event · Source: full:729e9b6af9ef796a972a5060
+
+The episode was dated February 8, 2022.
+
+> Feb 8, 2022 52 min
+
+## [ctx:mac-conwell-0837]
+
+Kind: biography · Source: full:0fa54f403dd0e6a2ec7d2632
+
+The podcast described McKeever Conwell as an investor and serial entrepreneur who became an engineer, was recruited by a U.S. intelligence agency, and made pre-seed investments for Maryland's TEDCO.
+
+> Jamarlin talks to investor and serial entrepreneur McKeever Conwell about being inspired by a teacher to become an engineer, getting recruited out of college by a U.S. intelligence agency, and making pre-seed investments for Maryland's tech development state fund, TEDCO.
+
+## [ctx:mac-conwell-0838]
+
+Kind: dated_event · Source: full:0fa54f403dd0e6a2ec7d2632
+
+The episode was dated October 25, 2018.
+
+> Oct 25, 2018 58 min
+
+## [ctx:mac-conwell-0839]
+
+Kind: company_relationship · Source: full:5c3d2b89e27efc40d91ab4c3
+
+The podcast described Conwell as the founder of Baltimore-based RareBreed Ventures and the firm as an investor in pre-seed and seed startups.
+
+> Mac Conwell is the Founder of RareBreed Ventures, a Baltimore-based firm that invests in pre-seed and seed startups with dope founders.
+
+## [ctx:mac-conwell-0840]
+
+Kind: biography · Source: full:5c3d2b89e27efc40d91ab4c3
+
+The episode description reported that Conwell discussed preferred investments, startup regulation, and taking 4,000 meetings while establishing his firm.
+
+> We had a great conversation about the types of investments that excite Mac, how the regulatory environment affects startups, and Mac’s experience of taking 4,000 meetings to get his firm off the ground.
+
+## [ctx:mac-conwell-0841]
+
+Kind: dated_event · Source: full:5c3d2b89e27efc40d91ab4c3
+
+The episode was dated September 2, 2024.
+
+> Sep 2, 2024 43 min
+
+## [ctx:mac-conwell-0842]
+
+Kind: biography · Source: full:dcfd9ee3b8eddb1d166d58c9
+
+The podcast reported that Conwell started multiple businesses and helped shape the Maryland Social Impact Fund, which it characterized as the country's first fund for women and minorities.
+
+> Mac has started multiple businesses and helped shape the Maryland Social Impact Fund—the first fund for women and minorities in the country.
+
+## [ctx:mac-conwell-0843]
+
+Kind: company_relationship · Source: full:dcfd9ee3b8eddb1d166d58c9
+
+The podcast identified Conwell as RareBreed Ventures' founder.
+
+> Now, as the Founder of RareBreed Ventures, Mac’s perfected the art of storytelling and is passionate about helping others do the same.
+
+## [ctx:mac-conwell-0844]
+
+Kind: dated_event · Source: full:dcfd9ee3b8eddb1d166d58c9
+
+The episode was dated June 21, 2024.
+
+> Jun 21, 2024 38 min
+
+## [ctx:mac-conwell-0845]
+
+Kind: investment_approach · Source: full:4602661b47c27e630b213e6d
+
+The October 5, 2022 episode description reported that Conwell discussed how the relative importance of product and marketing changes over a company's life.
+
+> Liam Gill (@LawyerLiam) and MacTheVC (@MacConwell) discuss whether its more important to have a great product or great marketing. We discuss how this changes over the course of your company's life and use real life examples as well as personal anecdotes.
+
+## [ctx:mac-conwell-0846]
+
+Kind: investment_approach · Source: full:4602661b47c27e630b213e6d
+
+A September 28, 2022 episode description reported that Conwell discussed negotiating venture-capital terms.
+
+> Liam Gill (@LawyerLiam) and MacTheVC (@MacConwell) discuss negotiating terms with venture capitalists. How should you negotiate? Whose help should you seek? And what can you actually negotiate?
+
+## [ctx:mac-conwell-0847]
+
+Kind: investment_approach · Source: full:4602661b47c27e630b213e6d
+
+A September 7, 2022 episode description reported that Conwell discussed founder salary timing and size.
+
+> Liam Gill (@LawyerLiam) and MacTheVC (@MacConwell) discuss whether founders should take a salary. We discuss the topic in detail, including when they should consider taking a salary, its size, and more.
+
+## [ctx:mac-conwell-0848]
+
+Kind: company_relationship · Source: full:dc5033f1109c2ab7bb044166
+
+The podcast reported that Conwell was a Baltimore-based investor who left TEDCO to start Rarebreed Ventures.
+
+> McKeever Conwell II is a Baltimore-based investor who left tech development agency TEDCO to start his own venture capital fund, Rarebreed Ventures.
+
+## [ctx:mac-conwell-0849]
+
+Kind: biography · Source: full:dc5033f1109c2ab7bb044166
+
+The podcast described Conwell as having experience on both the investor and founder sides of early-stage companies.
+
+> He has a wealth of knowledge of the early stages as he has been both an investor and a founder.
+
+## [ctx:mac-conwell-0850]
+
+Kind: dated_event · Source: full:dc5033f1109c2ab7bb044166
+
+The episode was dated May 2, 2022.
+
+> May 2, 2022 EP29 The challenges of setting up your first venture capital fund - A conversation with McKeever Conwell II
+
+## [ctx:mac-conwell-0851]
+
+Kind: company_relationship · Source: full:cc381a1392454177ab786013
+
+The podcast described Conwell as RareBreed Ventures' founder and managing partner and characterized the firm as a concentrated pre-seed investor outside large technology ecosystems that can provide the first check of up to $250,000.
+
+> McKeever "Mac" Conwell II is the founder and managing partner of RareBreed Ventures, a pre-seed fund that invests outside of large tech ecosystems, with a concentrated portfolio approach being the first check with up to $250K.
+
+## [ctx:mac-conwell-0852]
+
+Kind: biography · Source: full:cc381a1392454177ab786013
+
+The podcast reported that Conwell experienced homelessness, became an engineer, founded companies, and later raised RareBreed largely through Twitter.
+
+> Mac's journey into venture is nothing short of inspirational, Mac went from being homeless to being an engineer to founding his own companies to today, raising Rarebreed largely on Twitter.
+
+## [ctx:mac-conwell-0853]
+
+Kind: dated_event · Source: full:cc381a1392454177ab786013
+
+The episode was dated November 1, 2021.
+
+> Nov 1, 2021 37 min
+
+## [ctx:mac-conwell-0854]
+
+Kind: biography · Source: full:e129dd39d05e16ffe4f49265
+
+The podcast described Conwell as an entrepreneur turned venture capitalist investing in early-stage startups.
+
+> Mac Conwell is an entrepreneur turned venture capitalist investing in early stage startups.
+
+## [ctx:mac-conwell-0855]
+
+Kind: biography · Source: full:e129dd39d05e16ffe4f49265
+
+The podcast characterized Conwell's move from entrepreneurship into venture capital as accidental.
+
+> After a roller coaster journey through entrepreneurship, he is an accidental venture capitalist.
+
+## [ctx:mac-conwell-0856]
+
+Kind: dated_event · Source: full:e129dd39d05e16ffe4f49265
+
+The Mac Conwell episode was dated December 31, 2020.
+
+> 203 Mac Conwell on Hustle, Confidence, and Networking Dec 31, 2020
+
+## [ctx:mac-conwell-0857]
+
+Kind: biography · Source: full:13f14721d4951958825ee80b
+
+The event profile reports that Mac Conwell was trained as a software engineer and formerly worked as a DOD contractor with a top-secret clearance.
+
+> McKeever “Mac” Conwell II is a software engineer by trade and was a former DOD contractor with a top-secret clearance.
+
+## [ctx:mac-conwell-0858]
+
+Kind: biography · Source: full:13f14721d4951958825ee80b
+
+The event profile describes Conwell as a two-time founder whose outcomes included one exit and one failed company.
+
+> He was a two-time founder with an exit and a failure.
+
+## [ctx:mac-conwell-0859]
+
+Kind: company_relationship · Source: full:13f14721d4951958825ee80b
+
+The event profile reports that Conwell entered venture capital through the Maryland Technology Development Corporation's Seed Investment Team.
+
+> Next Mac moved on to the venture capital world via the Maryland Technology Development Corporation as part of their Seed Investment Team.
+
+## [ctx:mac-conwell-0860]
+
+Kind: company_relationship · Source: full:13f14721d4951958825ee80b
+
+The event profile reports that, during four years at the Maryland Technology Development Corporation, Conwell helped lead creation of the state-backed Builder Fund for women- and minority-led startups.
+
+> During his four years there, Mac amassed experience leading an initiative to create the first and only, at the time, state-backed pre-seed fund for women and minorities in the country; known as the Builder Fund.
+
+## [ctx:mac-conwell-0861]
+
+Kind: investment_approach · Source: full:13f14721d4951958825ee80b
+
+The event profile identifies Conwell as the founder of RareBreed Ventures and describes its approach as pre-seed-to-seed investing in founders outside large technology ecosystems.
+
+> Mac then went on to found RareBreed Ventures, a pre-seed to seed venture fund that invests in exceptional founders outside of large tech ecosystems.
+
+## [ctx:mac-conwell-0862]
+
+Kind: dated_event · Source: full:13f14721d4951958825ee80b
+
+The DC Startup Week 2023 profile scheduled Conwell to present “Story Time with Mac the VC” on Friday, October 20 at 1:00 p.m. EDT.
+
+> Friday, October 20 1:00pm EDT Story Time with Mac the VC (Upper Classroom) Expansive Co-working
+
+## [ctx:mac-conwell-0863]
+
+Kind: company_relationship · Source: full:3b5b00b37fe50ebbb824baec
+
+Levels' episode introduction identifies McKeever “Mac” Conwell as both a Levels investor and a co-founder of RareBreed Ventures.
+
+> In this episode, Levels Head of Growth, Ben Grynol, sat down with one of our investors and Co-Founder of RareBreed Ventures, McKeever “Mac” Conwell.
+
+## [ctx:mac-conwell-0864]
+
+Kind: biography · Source: full:3b5b00b37fe50ebbb824baec
+
+Conwell says his first founder experience began when he and two friends started a website intended to generate revenue.
+
+> The starting part was me and two of my best friends decided to start a website that we thought could make money while we slept.
+
+## [ctx:mac-conwell-0865]
+
+Kind: biography · Source: full:3b5b00b37fe50ebbb824baec
+
+Conwell says his first company operated for four and a half years before its intellectual property was sold.
+
+> And so that’s how the first company happened, and we ran that for four and a half years, we were lucky enough to sell it off, sell the IP of that company off.
+
+## [ctx:mac-conwell-0866]
+
+Kind: biography · Source: full:3b5b00b37fe50ebbb824baec
+
+Conwell says he started a second company immediately after the first ended and that the second venture was unsuccessful.
+
+> I had the bug, when the first company ended, went straight to building my second one. And the second one was not successful.
+
+## [ctx:mac-conwell-0867]
+
+Kind: biography · Source: full:3b5b00b37fe50ebbb824baec
+
+Conwell says he left college during his junior year.
+
+> I dropped out of college my junior year.
+
+## [ctx:mac-conwell-0868]
+
+Kind: biography · Source: full:3b5b00b37fe50ebbb824baec
+
+Conwell says he worked as a government engineer and founded two startups despite lacking a college degree or finance background.
+
+> I then go on to be a engineer for the government. I then start these two startups. I don’t have a college degree or a finance background.
+
+## [ctx:mac-conwell-0869]
+
+Kind: dated_event · Source: full:3b5b00b37fe50ebbb824baec
+
+Conwell says an email about Maryland's search for a manager of its state-run fund arrived the Monday after he left a marketing-firm position.
+
+> And I quit on a Friday, and the very next Monday, I got this email from the state of Maryland, it’s this community-wide email from the state of Maryland saying they were hiring a new fund manager for their state-run fund.
+
+## [ctx:mac-conwell-0870]
+
+Kind: company_relationship · Source: full:3b5b00b37fe50ebbb824baec
+
+Conwell says he applied for the Maryland fund-manager role and obtained it four and a half months later.
+
+> And then I ended up writing my first ever cover letter and applied to that job. And it was the only job I applied for. So I just knew I was going to get it because I’m a crazy person. And four and a half months later, I did.
+
+## [ctx:mac-conwell-0871]
+
+Kind: investment_approach · Source: full:3b5b00b37fe50ebbb824baec
+
+Conwell says he personally helped portfolio companies recruit their first hires of color, indicating hands-on recruiting support.
+
+> We have companies in our portfolio where their first hires of color came from my personal network.
+
+## [ctx:mac-conwell-0872]
+
+Kind: company_relationship · Source: full:3b5b00b37fe50ebbb824baec
+
+Conwell identifies Level Health, Main Street, and Rebundle as companies in his portfolio while discussing access to startup employment and equity.
+
+> We don’t hear about Level Health or Main Street or Rebundle or any of the companies in our portfolio that are doing incredible work that I know plenty of people who are more than qualified to work at, but they just have their corporate day jobs or they don’t have access or the potential to own stock or own equity in the businesses they’re working for.
+
+## [ctx:mac-conwell-0873]
+
+Kind: company_relationship · Source: full:88dc8b8673150922bacacb09
+
+The podcast description reports that Conwell founded the venture firm rendered here as “Rare Beed.”
+
+> Mac shares his journey to founding the VC firm, Rare Beed.
+
+## [ctx:mac-conwell-0874]
+
+Kind: investment_approach · Source: full:88dc8b8673150922bacacb09
+
+The episode description reports that Conwell discusses succinct company-performance updates as a way for founders to attract investor attention.
+
+> How should founders get the attention of investors through succinct company updates
+
+## [ctx:mac-conwell-0875]
+
+Kind: investment_approach · Source: full:88dc8b8673150922bacacb09
+
+The episode description reports that Conwell discusses markets outside the United States in which he wants to invest.
+
+> VC's that inspire Mac and markets outside of the US he wants to invest in
+
+## [ctx:mac-conwell-0876]
+
+Kind: company_relationship · Source: full:b96328883735fab8ca42d563
+
+The podcast description reports that Conwell founded the venture firm rendered here as “Rare Beed.”
+
+> Mac shares his journey to founding the VC firm, Rare Beed.
+
+## [ctx:mac-conwell-0877]
+
+Kind: investment_approach · Source: full:b96328883735fab8ca42d563
+
+The episode description reports that Conwell discusses succinct company-performance updates as a way for founders to attract investor attention.
+
+> How should founders get the attention of investors through succinct company updates
+
+## [ctx:mac-conwell-0878]
+
+Kind: investment_approach · Source: full:b96328883735fab8ca42d563
+
+The episode description reports that Conwell discusses markets outside the United States in which he wants to invest.
+
+> VC's that inspire Mac and markets outside of the US he wants to invest in
+
+## [ctx:mac-conwell-0879]
+
+Kind: investment_approach · Source: full:081634cb8ccb966a772bf13d
+
+The podcast description identifies Conwell as RareBreed Ventures’ founder and managing partner and reports a concentrated pre-seed strategy outside major technology ecosystems, with first checks of up to $250,000.
+
+> McKeever "Mac" Conwell II is the founder and managing partner of RareBreed Ventures, a pre-seed fund that invests outside of large tech ecosystems, with a concentrated portfolio approach being the first check with up to $250K.
+
+## [ctx:mac-conwell-0880]
+
+Kind: biography · Source: full:081634cb8ccb966a772bf13d
+
+The podcast description reports that Conwell moved from engineering and founding companies into venture capital and raised RareBreed largely through Twitter.
+
+> Mac's journey into venture is nothing short of inspirational, Mac went from being homeless to being an engineer to founding his own companies to today, raising Rarebreed largely on Twitter.
+
+## [ctx:mac-conwell-0881]
+
+Kind: biography · Source: full:0f91da20c4db0c41eb38b86a
+
+The podcast description reports that Conwell began in coding, started multiple businesses, and helped shape the Maryland Social Impact Fund.
+
+> While his career began in coding (“before it was cool” he says), Mac has started multiple businesses and helped shape the Maryland Social Impact Fund—the first fund for women and minorities in the country.
+
+## [ctx:mac-conwell-0882]
+
+Kind: company_relationship · Source: full:0f91da20c4db0c41eb38b86a
+
+The podcast description identifies Conwell as the founder of RareBreed Ventures.
+
+> Now, as the Founder of RareBreed Ventures, Mac’s perfected the art of storytelling and is passionate about helping others do the same.
+
+## [ctx:mac-conwell-0883]
+
+Kind: company_relationship · Source: full:d33834d9dddbb9fa63b31f89
+
+The podcast description identifies Conwell as managing partner of Rare Breed Ventures and characterizes diverse perspectives as central to its opportunity discovery.
+
+> Now, as Managing Partner of Rare Breed Ventures, he's proving that diverse perspectives don't just find different opportunities—they find better ones.
+
+## [ctx:mac-conwell-0884]
+
+Kind: investment_approach · Source: full:d33834d9dddbb9fa63b31f89
+
+The episode description reports that Conwell’s fund specifically backs underrepresented founders addressing problems outside mainstream venture-capital experience.
+
+> Why his fund specifically backs underrepresented founders solving problems outside mainstream VC experience
+
+## [ctx:mac-conwell-0885]
+
+Kind: company_relationship · Source: full:081e491f378374ded260393b
+
+The podcast description identifies Conwell as managing partner of Rare Breed Ventures and characterizes diverse perspectives as central to its opportunity discovery.
+
+> Now, as Managing Partner of Rare Breed Ventures, he's proving that diverse perspectives don't just find different opportunities—they find better ones.
+
+## [ctx:mac-conwell-0886]
+
+Kind: investment_approach · Source: full:081e491f378374ded260393b
+
+The episode description reports that Conwell’s fund specifically backs underrepresented founders addressing problems outside mainstream venture-capital experience.
+
+> Why his fund specifically backs underrepresented founders solving problems outside mainstream VC experience
+
+## [ctx:mac-conwell-0887]
+
+Kind: investment_approach · Source: full:e415a071324d675af15a071a
+
+The aggregator reports that Conwell advocated greater venture-capital diversity and NDA flexibility and identified Unspun as a recent investment.
+
+> The speaker advocated for increased diversity in venture capital and urged greater flexibility toward founders requesting non-disclosure agreements, while highlighting Unspun as a recent investment that leverages 3D printing to create zero-waste jeans.
+
+## [ctx:mac-conwell-0888]
+
+Kind: dated_event · Source: full:e415a071324d675af15a071a
+
+The aggregator reports that Conwell, a former software engineer and two-time founder, launched Rare Breed in 2020 after raising $10 million through public solicitation and rolling closes.
+
+> Mac, a former software engineer and two-time founder, launched Rare Breed in 2020 after raising $10 million through a public solicitation model that bypasses traditional general partner commitments and leverages rolling closes.
+
+## [ctx:mac-conwell-0889]
+
+Kind: investment_approach · Source: full:e415a071324d675af15a071a
+
+The aggregator describes Rare Breed as a Baltimore-based firm targeting pre-seed companies outside major technology hubs and underrepresented founders in the Americas and United Kingdom.
+
+> The Baltimore-based firm targets pre-seed companies outside major tech hubs, prioritizing returns among underrepresented founders in the Americas and the UK rather than adhering to industry gatekeeping norms.
+
+## [ctx:mac-conwell-0890]
+
+Kind: company_relationship · Source: full:8446b307900942be43a5a657
+
+The newsletter identifies Conwell as being affiliated with Rarebreed Ventures in its list of podcast guests.
+
+> Mac Conwell of Rarebreed Ventures
+
+## [ctx:mac-conwell-0891]
+
+Kind: dated_event · Source: full:6521c329ad480cb04b96b52c
+
+The podcast description reports that 500 Global convened its PreMoney 2021 conference in Miami on December 2, 2021.
+
+> On December 2, 2021, 500 Global convened the global venture capital community in Miami to its PreMoney 2021 conference for an interactive experience at the nexus of culture, technology, investment and global finance.
+
+## [ctx:mac-conwell-0892]
+
+Kind: dated_event · Source: full:6521c329ad480cb04b96b52c
+
+The podcast description reports that Mac Conwell participated in a panel of emerging venture capitalists at the conference.
+
+> Mac Conwell joined us on a panel of emerging VCs.
+
+## [ctx:mac-conwell-0893]
+
+Kind: company_relationship · Source: full:6521c329ad480cb04b96b52c
+
+The podcast description identifies Conwell as the founder of Baltimore-based RareBreed Ventures and says the firm invests at pre-seed and seed in founders outside major technology hubs.
+
+> He founded Baltimore-based RareBreed Ventures a little more than a year ago to invest in pre-seed and seed founders outside of the major tech hubs.
+
+## [ctx:mac-conwell-0894]
+
+Kind: investment_approach · Source: full:6521c329ad480cb04b96b52c
+
+The podcast description reports that Conwell used Twitter to raise his fund, build a venture-capital network, and learn about the industry.
+
+> On our podcast Rise of the Next, Mac tells us how he raised his fund the most unconventional way–by using Twitter. The social media platform enabled him to build a network in the VC community and learn about the world of venture capital.
+
+## [ctx:mac-conwell-0895]
+
+Kind: biography · Source: full:1523d78270838c461846e9ae
+
+The profile self-identifies Mac Conwell as RareBreedVC's managing partner and signals an emphasis on underrepresented founders.
+
+> Managing Partner @RareBreedVC | underrepresented founders | Hacker turned Hustler | Entrepreneur | Vampire | Former Gamer | @KauffmanFellows
+
+## [ctx:mac-conwell-0896]
+
+Kind: company_relationship · Source: full:1523d78270838c461846e9ae
+
+In a post dated July 18, 2023, Conwell described himself as an investor/partner in relation to Charles and the Blank Beauty team and celebrated their Walmart partnership launch.
+
+> 07/18/23 A proud investor/partner moment. Congratulations to Charles and the team @_blankbeauty for launching their partnership with Walmart today! Such a milestone moment for an incredible company
+
+## [ctx:mac-conwell-0897]
+
+Kind: company_relationship · Source: full:42b9b0c9183c294bdb81a129
+
+RareBreed Ventures' companies page lists these businesses, although the page does not specify the precise legal or investment relationship with each one.
+
+> Unspun ‍GigSafe ‍Mainstreet ‍Allocate ‍Blank Beauty Bonus Sparen Homes Nectar EarlyBird Semantiks AI Levels Health Breadless Rollfi Eisengard AI Grounded Technologies Bold Co:Create Triangle ‍Americana ‍Backpack Healthcare ‍Path ORNG Wove The Renatural Rares ‍Pugo Health ‍Buffalo Market ‍Matrix ‍Goodmylk ‍Thousand Fell ‍Supercircle Divaneering Labs RoboAmp ‍Juno Medical ‍RemodelMate ‍Jefa ‍VerdiAg ‍Rebundle ‍Faculty ‍Monet Dating Elite Gaming Live Glowup Games
+
+## [ctx:mac-conwell-0898]
+
+Kind: investment_approach · Source: full:42b9b0c9183c294bdb81a129
+
+RareBreed Ventures describes its firm-level orientation as collaborating with enduring brands that seek to improve the world.
+
+> We collaborate with enduring brands that strive to improve the world.
+
+## [ctx:mac-conwell-0899]
+
+Kind: company_relationship · Source: full:f97a584ef056912117c3633f
+
+The 20VC episode introduction reports that McKeever “Mac” Conwell II founded and manages RareBreed Ventures.
+
+> McKeever "Mac" Conwell II is the founder and managing partner of RareBreed Ventures
+
+## [ctx:mac-conwell-0900]
+
+Kind: investment_approach · Source: full:f97a584ef056912117c3633f
+
+The episode introduction describes RareBreed Ventures as a pre-seed fund investing outside major technology ecosystems through a concentrated portfolio, with first checks of up to $250,000.
+
+> a pre-seed fund that invests outside of large tech ecosystems, with a concentrated portfolio approach being the first check with up to $250K.
+
+## [ctx:mac-conwell-0901]
+
+Kind: biography · Source: full:f97a584ef056912117c3633f
+
+The episode introduction reports that Conwell experienced homelessness, became an engineer, founded companies, and later raised RareBreed largely through Twitter.
+
+> Mac went from being homeless to being an engineer to founding his own companies to today, raising Rarebreed largely on Twitter.
+
+## [ctx:mac-conwell-0902]
+
+Kind: dated_event · Source: full:f97a584ef056912117c3633f
+
+The supplied episode page dates this Mac Conwell episode to November 1, 2021.
+
+> 20VC Nov 01, 2021 Share
+
+## [ctx:mac-conwell-0903]
+
+Kind: biography · Source: full:57de63df8610fc16880d3a02
+
+The Mesh profile reports that Mac Conwell is the founder and managing partner of Baltimore-based pre-seed fund RareBreed Ventures.
+
+> McKeever (Mac) Conwell II is the Founder and Managing Partner at RareBreed Ventures, a pre-seed venture capital fund based in Baltimore, Maryland.
+
+## [ctx:mac-conwell-0904]
+
+Kind: dated_event · Source: full:57de63df8610fc16880d3a02
+
+The Mesh profile reports that Conwell founded RareBreed Ventures in September 2020 after working on seed-stage investments at TEDCO.
+
+> Conwell founded RareBreed Ventures in September 2020 after leaving the Maryland Technology Development Corporation (TEDCO), where he was involved in seed-stage investments.
+
+## [ctx:mac-conwell-0905]
+
+Kind: investment_approach · Source: full:57de63df8610fc16880d3a02
+
+The Mesh profile reports a typical RareBreed Ventures investment range of $100,000–$250,000 for early-stage startups.
+
+> RareBreed Ventures typically invests between $100,000 to $250,000 in early-stage startups.
+
+## [ctx:mac-conwell-0906]
+
+Kind: biography · Source: full:57de63df8610fc16880d3a02
+
+The Mesh profile reports that Conwell founded two startups, one resulting in an IP sale to a Fortune 100 company and the other closing.
+
+> Conwell is recognized for his dual experience as a founder, having launched two startups—one of which successfully exited by selling its intellectual property to a Fortune 100 company, while the other faced challenges that led to its closure.
+
+## [ctx:mac-conwell-0907]
+
+Kind: dated_event · Source: full:5ba85c1974cc34d0a00f999e
+
+Founderland announced Mac Conwell of RareBreed Ventures as a speaker for its inaugural 2022 Compass program.
+
+> Mac Conwell, Founder & Managing Partner at RareBreed Ventures
+
+## [ctx:mac-conwell-0908]
+
+Kind: company_relationship · Source: full:acf4b73d9caf82e6a7aac56b
+
+F4 identifies McKeever Mac Conwell II as RareBreed Ventures’ founder and managing partner.
+
+> McKeever Mac Conwell II Founder and Managing Partner
+
+## [ctx:mac-conwell-0909]
+
+Kind: investment_approach · Source: full:acf4b73d9caf82e6a7aac56b
+
+F4 reports that RareBreed Ventures invests at pre-seed and seed with checks ranging from $50,000 to $250,000.
+
+> Primary Stage: Pre-Seed ($50K-$250K checks) and Seed ($100K-$250K range). Check Size Range: $50,000 - $250,000 per investment.
+
+## [ctx:mac-conwell-0910]
+
+Kind: investment_approach · Source: full:acf4b73d9caf82e6a7aac56b
+
+F4 reports that RareBreed Ventures seeks to be the first or among the first institutional investors in its portfolio companies.
+
+> The fund uses checks as the first or among the first institutional capital for portfolio companies.
+
+## [ctx:mac-conwell-0911]
+
+Kind: investment_approach · Source: full:acf4b73d9caf82e6a7aac56b
+
+F4 characterizes RareBreed’s preferences as original products addressing genuine customer pain, overlooked markets, underserved communities, and founders authentically connected to the problem.
+
+> The fund shows clear preference for founders addressing real customer pain points with original products. Common threads in portfolio: solving problems for underserved communities, bringing innovation to traditionally overlooked markets, founders with authentic connection to the problem they're solving.
+
+## [ctx:mac-conwell-0912]
+
+Kind: investment_approach · Source: full:acf4b73d9caf82e6a7aac56b
+
+F4 reports that RareBreed excludes copycat ideas, founders lacking authentic problem connection, ideas confined to well-served competitive markets, and credential-driven teams without demonstrated problem-solving.
+
+> RareBreed does NOT back: Generic Silicon Valley copy-cats; Founders without genuine connection to the problem they're solving; Ideas targeting only well-served, competitive markets; All-star pedigree syndrome (credentialism without real problem-solving).
+
+## [ctx:mac-conwell-0913]
+
+Kind: investment_approach · Source: full:acf4b73d9caf82e6a7aac56b
+
+F4 reports that RareBreed leads or co-leads pre-seed rounds.
+
+> RareBreed leads pre-seed rounds or co-leads with other emerging managers.
+
+## [ctx:mac-conwell-0914]
+
+Kind: biography · Source: full:acf4b73d9caf82e6a7aac56b
+
+F4 reports that Conwell studied software engineering at Morgan State, worked as a cleared DOD contractor, founded two companies with one exit, and became a Kauffman Fellow.
+
+> Mac's background is unconventional for venture capital: Studied at Morgan State University as a software engineer. Former DOD contractor with top-secret clearance, giving him unique insight into enterprise and infrastructure markets. Two-time founder—one company failed, the other achieved a successful exit. Kauffman Fellow (Class 26), indicating formal venture training and recognition as an emerging manager.
+
+## [ctx:mac-conwell-0915]
+
+Kind: biography · Source: full:fcd6d0afe96cc32be0aeb0e1
+
+StartupFundraising reports that Conwell founded the Baltimore pre-seed fund RareBreed Ventures in September 2020 after roles as a TEDCO seed-stage fund manager, software engineer, and two-time founder.
+
+> McKeever “Mac” Conwell II is the Founder and Managing Partner of RareBreed Ventures, a pre-seed venture fund based in Baltimore, Maryland, launched in September 2020 after he served as a seed-stage fund manager at TEDCO and worked as a software engineer and two-time founder.
+
+## [ctx:mac-conwell-0916]
+
+Kind: investment_approach · Source: full:fcd6d0afe96cc32be0aeb0e1
+
+StartupFundraising characterizes Conwell’s thesis as pre-seed investment in exceptional, often underrepresented founders outside major technology hubs.
+
+> His investment thesis targets exceptional, often underrepresented founders operating outside major tech hubs like Silicon Valley, New York, and Boston, investing at the pre-seed stage earlier than most competitors.
+
+## [ctx:mac-conwell-0917]
+
+Kind: investment_approach · Source: full:fcd6d0afe96cc32be0aeb0e1
+
+StartupFundraising reports that RareBreed typically invests $50,000–$250,000, often leads early rounds, and provides founder-support services alongside capital.
+
+> RareBreed typically writes conviction checks ranging from $50,000 to $250,000 and often leads early rounds by providing capital alongside wraparound services to increase founder capacity.
+
+## [ctx:mac-conwell-0918]
+
+Kind: investment_approach · Source: full:fcd6d0afe96cc32be0aeb0e1
+
+StartupFundraising attributes to Conwell an emphasis on customer acquisition, experience, and retention over fundraising as an end in itself.
+
+> Conwell distinguishes himself by emphasizing that fundraising is not the primary goal for founders; instead, he advocates focusing on customer acquisition, experience, and retention as the core drivers of success.
+
+## [ctx:mac-conwell-0919]
+
+Kind: dated_event · Source: full:c486a24a8d06c3f9895ae9cc
+
+Angel Academe’s November 18, 2021 newsletter linked to angel-investing insights attributed to Mac Conwell.
+
+> Syndicate Room: Angel investing insights from Mac Conwell
+
+## [ctx:mac-conwell-0920]
+
+Kind: dated_event · Source: full:5a2cb3053b54d6a4e96e9172
+
+The podcast listing reports that Mac Conwell appeared as the first guest of Angel Season 6 to discuss his background and investment approach.
+
+> Mac the VC joins the show as the first guest for Angel Season 6 to share his story and how he invests.
+
+## [ctx:mac-conwell-0921]
+
+Kind: dated_event · Source: full:5a2cb3053b54d6a4e96e9172
+
+The listing dates the 55-minute Mac Conwell episode to February 6, 2022.
+
+> Mac Conwell of RareBreed Ventures | Angel S6 E1 2022-02-06 | 55 min
+
+## [ctx:mac-conwell-0922]
+
+Kind: company_relationship · Source: full:e89608ccdbef2ec9b135e08f
+
+BR Venture Fund identifies the interview subject as Mac Conwell, a founder and managing partner at RareBreed Ventures.
+
+> An interview with Mac Conwell, a Founder and Managing Partner at RareBreed Ventures.
+
+## [ctx:mac-conwell-0923]
+
+Kind: investment_approach · Source: full:e89608ccdbef2ec9b135e08f
+
+BR Venture Fund describes Conwell’s stated mission as increasing investment in companies founded by people of color.
+
+> Mac aims to shore up investment in enterprises founded by people of color.
+
+## [ctx:mac-conwell-0924]
+
+Kind: dated_event · Source: full:e89608ccdbef2ec9b135e08f
+
+BR Venture Fund reports that Conwell discussed his path into venture capital and his vision for the sector in an interview with Adhiraj Singh.
+
+> In this interview with Adhiraj Singh, Mac discusses the challenges he faced in his journey toward VC and his vision for the future of VC.
+
+## [ctx:mac-conwell-0925]
+
+Kind: dated_event · Source: full:e89608ccdbef2ec9b135e08f
+
+BR Venture Fund dates the interview post to June 3, 2022.
+
+> by BR Venture Fund | Jun 3, 2022 | Blog
+
+## [ctx:mac-conwell-0926]
+
+Kind: investment_approach · Source: full:9bdc9451762c77facd52e369
+
+The profile reports that Conwell raised RareBreed's first institutional fund largely through public social-media outreach, cold messages, and general solicitation.
+
+> Mac Conwell built his entire first institutional venture fund largely through Twitter, publicly documenting the journey of raising RareBreed without an existing LP network and using cold DMs and general solicitation rather than traditional closed-door fundraising channels.
+
+## [ctx:mac-conwell-0927]
+
+Kind: investment_approach · Source: full:9bdc9451762c77facd52e369
+
+The profile describes RareBreed as a pre-seed investor focused on under-networked founders outside major technology hubs, particularly entrepreneurs from Black and Brown communities.
+
+> RareBreed Ventures focuses on pre-seed founders outside of large tech ecosystems like SF and NYC, particularly backing first-time, under-networked entrepreneurs from Black and Brown communities who don't fit typical Silicon Valley pedigrees.
+
+## [ctx:mac-conwell-0928]
+
+Kind: investment_approach · Source: full:9bdc9451762c77facd52e369
+
+The profile reports that Conwell used Twitter to build the fund and publicly shares fundraising and term-sheet guidance.
+
+> The fund was built through founder Mac's Twitter presence rather than traditional institutional networks, and operates with unusual transparency by publicly sharing fundraising tactics and term sheet learnings to help overlooked founders access capital.
+
+## [ctx:mac-conwell-0929]
+
+Kind: company_relationship · Source: full:9bdc9451762c77facd52e369
+
+The profile identifies Conwell as RareBreed Ventures' founder and managing partner.
+
+> Mac Conwell Founder and Managing Partner, RareBreed Ventures
+
+## [ctx:mac-conwell-0930]
+
+Kind: biography · Source: full:95a82fdc7b2ef702c32043e4
+
+The episode page reports that Conwell sold a company and later worked with numerous startups.
+
+> After selling a company and having worked with many startups, he has learned a lot and does not fear talking about the weaknesses he discovered in himself that almost every founder can relate to.
+
+## [ctx:mac-conwell-0931]
+
+Kind: investment_approach · Source: full:95a82fdc7b2ef702c32043e4
+
+The episode page reports that Conwell advises founders not to pay for opportunities to pitch their ideas.
+
+> More than that, Mac shares why you shouldn’t pay to pitch your ideas, he breaks down his personal story and outlook on failure, and what you should do to get your ideas out there.
+
+## [ctx:mac-conwell-0932]
+
+Kind: dated_event · Source: full:72beee0cfb189483387d3f5e
+
+The article reports that Conwell launched RareBreed Ventures in September 2020 after managing a TEDCO pre-seed fund and founding two companies.
+
+> McKeever "Mac" Conwell II launched RareBreed Ventures in September 2020 after five years managing TEDCO's Minority Business Pre-Seed Fund and two runs as a founder.
+
+## [ctx:mac-conwell-0933]
+
+Kind: investment_approach · Source: full:72beee0cfb189483387d3f5e
+
+The article describes RareBreed's strategy as writing initial pre-seed checks outside the three dominant US technology hubs.
+
+> RareBreed Ventures writes first checks at the pre-seed stage, targeting companies outside Silicon Valley, New York, and Boston.
+
+## [ctx:mac-conwell-0934]
+
+Kind: investment_approach · Source: full:72beee0cfb189483387d3f5e
+
+The article attributes to RareBreed an evaluation focus on founder-market fit, early traction, capital efficiency, and milestone-driven growth.
+
+> They look for founder-market fit, early customer traction, and capital efficiency tied to milestone-driven growth.
+
+## [ctx:mac-conwell-0935]
+
+Kind: investment_approach · Source: full:72beee0cfb189483387d3f5e
+
+The article says RareBreed evaluates technical defensibility, validation by actual users, and environmental or social impact.
+
+> Their evaluation rests on three pillars: technical differentiation that can withstand copycats, market validation with real users, and environmental or social impact that builds long-term trust.
+
+## [ctx:mac-conwell-0936]
+
+Kind: company_relationship · Source: full:72beee0cfb189483387d3f5e
+
+The article reports that RareBreed supports portfolio founders with fundraising, go-to-market work, and introductions.
+
+> RareBreed Ventures works with founders on fundraising strategy, go-to-market execution, and warm introductions to strategic partners and follow-on investors.
+
+## [ctx:mac-conwell-0937]
+
+Kind: dated_event · Source: full:72beee0cfb189483387d3f5e
+
+The article reports that portfolio company EarlyBird was acquired on May 15, 2025.
+
+> When EarlyBird was acquired on May 15, 2025, it validated the approach.
+
+## [ctx:mac-conwell-0938]
+
+Kind: investment_approach · Source: full:fbcdb45a77f8bf5cdcffdbcb
+
+The article reports that Conwell built an audience exceeding 90,000 on Twitter and used that presence to help raise a fund.
+
+> Think Mac Conwell, who built a 90K+ Twitter audience by posting candidly about startup life, and whose tweets directly helped him raise a fund.
+
+## [ctx:mac-conwell-0939]
+
+Kind: investment_approach · Source: full:fbcdb45a77f8bf5cdcffdbcb
+
+The article asserts that founders value Conwell as an investor partly for the signaling and distribution associated with his public profile.
+
+> Founders want him on their cap table for the same reason celebrities want good publicists: signal = social proof = distribution.
+
+## [ctx:mac-conwell-0940]
+
+Kind: company_relationship · Source: full:a58367c1ffee43d4524d0066
+
+In his February 26, 2025 testimony, Conwell identifies himself as RareBreed Ventures' founder and managing partner.
+
+> My name is McKeever E. Conwell, II, and I am the Founder and Managing Partner at RareBreed Ventures (RareBreed) which I am representing today.
+
+## [ctx:mac-conwell-0941]
+
+Kind: biography · Source: full:a58367c1ffee43d4524d0066
+
+Conwell states that he founded two startups beginning in 2010 and that the first sold its intellectual property to a Fortune 100 company.
+
+> In 2010 I would go on to start my entrepreneurial journey by founding two startups, the first of which exited by the sale of its intellectual property to a Fortune 100 company.
+
+## [ctx:mac-conwell-0942]
+
+Kind: dated_event · Source: full:a58367c1ffee43d4524d0066
+
+Conwell states that he began working for TEDCO in 2016.
+
+> In 2016 I began working for the Maryland Technology Development Corporation (TEDCO).
+
+## [ctx:mac-conwell-0943]
+
+Kind: company_relationship · Source: full:a58367c1ffee43d4524d0066
+
+Conwell states that he learned investing at TEDCO and led creation of the state-backed pre-seed fund now called the Builder Fund.
+
+> It was at TEDCO that I learned to be an investor and led the creation of, what was at the time, the first state-backed pre-seed fund specifically for founders typically underrepresented in the world of venture-funded startups, today known as the Builder Fund.
+
+## [ctx:mac-conwell-0944]
+
+Kind: dated_event · Source: full:a58367c1ffee43d4524d0066
+
+Conwell states that he launched RareBreed in late 2020 to address capital-access gaps affecting founders of color and founders outside major investment hubs.
+
+> I launched RareBreed Ventures in late 2020 as a response to the lack of access to capital for founders of color, and founders outside of the major investment hubs of Silicon Valley, New York, and Boston which account for 75% of all VC funding.
+
+## [ctx:mac-conwell-0945]
+
+Kind: dated_event · Source: full:a58367c1ffee43d4524d0066
+
+Conwell reports holding more than 4,000 meetings over 18 months to complete the raise of RareBreed Fund I.
+
+> Eventually, I would have more than 4,000 meetings over 18 months to fully raise RareBreed Fund I.
+
+## [ctx:mac-conwell-0946]
+
+Kind: investment_approach · Source: full:a58367c1ffee43d4524d0066
+
+Conwell reports that Fund I had 194 investors, with most investing no more than $50,000.
+
+> This led me to have 194 investors in RareBreed Ventures fund I. Of those investors, 65% invested $25,000 or less, and 83.5% of which invested $50,000 or less.
+
+## [ctx:mac-conwell-0947]
+
+Kind: investment_approach · Source: full:a58367c1ffee43d4524d0066
+
+In the 2025 testimony, Conwell reports that RareBreed had invested in 47 companies without a formal diversity mandate and provides the portfolio's founder-demographic percentages.
+
+> RareBreed Ventures does not have any diversity mandates for how we invest but of the 47 companies we have invested in to date 70% of our companies have an underrepresented founder, 51% of our companies have a founder of color, 38% of our companies have a Black founder, and 36% of our companies have a female founder.
+
+## [ctx:mac-conwell-0948]
+
+Kind: company_relationship · Source: full:7d49b811521dfce6de5457c6
+
+The profile reports that Conwell founded RareBreed Ventures in September 2020 after working as a TEDCO fund manager from 2016 through 2020.
+
+> Mac Conwell is the Founder and Managing Partner of RareBreed Ventures, a pre-seed venture fund based in Baltimore, Maryland, that he launched in September 2020 after serving as a seed-stage fund manager at TEDCO from 2016 to 2020.
+
+## [ctx:mac-conwell-0949]
+
+Kind: investment_approach · Source: full:7d49b811521dfce6de5457c6
+
+The profile describes Conwell's thesis as investing unusually early in strong, often underrepresented founders outside major technology ecosystems.
+
+> His investment thesis targets exceptional, often underrepresented founders operating outside major tech ecosystems at the pre-seed stage, aiming to invest earlier than traditional investors.
+
+## [ctx:mac-conwell-0950]
+
+Kind: investment_approach · Source: full:7d49b811521dfce6de5457c6
+
+The profile reports that Conwell's initial checks generally range from $50,000 to $250,000 and that he leads early investments.
+
+> Conwell typically writes initial conviction checks ranging from $50,000 to $250,000 and leads these early investments alongside firms like Insight Partners and Carta.
+
+## [ctx:mac-conwell-0951]
+
+Kind: biography · Source: full:7d49b811521dfce6de5457c6
+
+The profile describes Conwell as a software engineer and two-time founder with one successful exit to a Fortune 100 company and one failed venture.
+
+> He distinguishes himself through a dual background as a software engineer and a two-time founder who achieved one successful exit to a Fortune 100 company and one failure.
+
+## [ctx:mac-conwell-0952]
+
+Kind: company_relationship · Source: full:3d0d3015f727566887851ad4
+
+In his February 8, 2023 testimony, Conwell described himself as RareBreed Ventures’ founder and managing partner.
+
+> MynameisMcKeeverE.Conwell,II,andI amtheFounderandManagingPartneratRareBreedVentures(RareBreed)whichI amrepresentingtoday.
+
+## [ctx:mac-conwell-0953]
+
+Kind: biography · Source: full:3d0d3015f727566887851ad4
+
+Conwell said he founded two startups beginning in 2010 and that the first exited through an IP sale to a Fortune 100 company.
+
+> In2010Iwouldgoontostartmyentrepreneurialjourneybyfoundingtwostartups,thefirstofwhichexitedbythesaleofitsintellectualpropertytoaFortune100company.
+
+## [ctx:mac-conwell-0954]
+
+Kind: company_relationship · Source: full:3d0d3015f727566887851ad4
+
+Conwell said he learned investing at TEDCO and led the creation of the state-backed pre-seed vehicle now called the Builder Fund.
+
+> ItwasatTEDCOthatIlearnedtobeaninvestorandledthecreationof,whatwasatthetime,thefirststate-backedpre-seed fundspecificallyforfounderstypicallyunderrepresentedintheworldofventure-fundedstartups,today known as the Builder Fund.
+
+## [ctx:mac-conwell-0955]
+
+Kind: dated_event · Source: full:3d0d3015f727566887851ad4
+
+Conwell said he launched RareBreed Ventures in late 2020 to address capital-access gaps for founders of color and founders outside major investment hubs.
+
+> I launchedRareBreedVenturesinlate2020asaresponsetothelackofaccesstocapitalforfoundersofcolorandfoundersoutsideofthemajorinvestmenthubsofSiliconValley, NewYork,andBostonwhichaccountfor75%ofallVCfunding.
+
+## [ctx:mac-conwell-0956]
+
+Kind: dated_event · Source: full:3d0d3015f727566887851ad4
+
+Conwell reported holding more than 4,000 meetings over 18 months to complete the raise for RareBreed Fund I.
+
+> Eventually, I wouldhavemorethan4,000meetingsover18monthstofullyraiseRareBreedFundI.
+
+## [ctx:mac-conwell-0957]
+
+Kind: company_relationship · Source: full:3d0d3015f727566887851ad4
+
+Conwell reported that RareBreed Ventures Fund I had 194 investors, with most investing $50,000 or less.
+
+> Thisledmeto have194investorsinRareBreedVenturesfundI. Ofthoseinvestors,65%invested$25,000orless,and83.5%ofwhichinvested$50,000orless.
+
+## [ctx:mac-conwell-0958]
+
+Kind: investment_approach · Source: full:3d0d3015f727566887851ad4
+
+In the testimony, Conwell reported that RareBreed had invested in 40 companies without a formal diversity mandate and supplied portfolio founder-demographic figures.
+
+> RareBreedVenturesdoesnothaveanydiversitymandatesforhowweinvestbutofthe40companieswehaveinvestedintodate64%ofourcompanieshaveanunderrepresentedfounder, 44%ofourcompanieshaveafounderofcolor, 38%ofourcompanieshavea Blackfounder, and33%ofourcompanieshaveafemalefounder.
+
+## [ctx:mac-conwell-0959]
+
+Kind: biography · Source: full:d53878e9333a9fcd43873e9a
+
+The interviewee identifies himself as McKeever Edward Conwell II, known as Mac, and says he is from Baltimore.
+
+> 私の名前はマッキーバー・エドワード・コンウェル II で、ボルチモアの出身です。ほとんどの人は私のことをマックと呼んでいます。
+
+## [ctx:mac-conwell-0960]
+
+Kind: biography · Source: full:d53878e9333a9fcd43873e9a
+
+Conwell says he became a government contractor and then a two-time startup founder, with one exit and one unsuccessful venture.
+
+> 私は政府の請負業者になり、その後 2 回のスタートアップの創設者になりました。一つの出口。 1つはそれほど多くありません。
+
+## [ctx:mac-conwell-0961]
+
+Kind: company_relationship · Source: full:d53878e9333a9fcd43873e9a
+
+Conwell says he began seed investing at Maryland Technology Development Corporation and ultimately launched a pre-seed fund for underestimated founders.
+
+> そこで私はシード投資を始め、最終的には過小評価されている創業者向けのプレシードファンドを立ち上げることになりました。
+
+## [ctx:mac-conwell-0962]
+
+Kind: dated_event · Source: full:d53878e9333a9fcd43873e9a
+
+Conwell says he left that role in September of the preceding year and started RareBreed as a pre-seed and seed venture fund.
+
+> そして昨年9月、私はその仕事を辞めて始めましたRareBreedは、プレシードおよびシード ベンチャー ファンドです。
+
+## [ctx:mac-conwell-0963]
+
+Kind: company_relationship · Source: full:d53878e9333a9fcd43873e9a
+
+In the interview, Conwell says he holds equity in the two highlighted companies, Rebundle and Divaneering Lab.
+
+> Rebundleと Divaneering Lab (ステルス) に本当に興奮しています…私がブラック ヘアケア スペースの考え方や見方を変えると思う 2 つの会社です。一般的な製品スペースだけでなく、ベンチャーの観点からも、ベンチャー型のリターンを得るのは難しいという考えを覆したいと思います。この2社に株を入れています。
+
+## [ctx:mac-conwell-0964]
+
+Kind: biography · Source: full:d53878e9333a9fcd43873e9a
+
+Conwell identifies @MacConwell and the “Mac the VC” identity as his Twitter presence.
+
+> 私のハンドルは@MacConwell で、Twitter では VC の Mac を使用しています。
+
+## [ctx:mac-conwell-0965]
+
+Kind: company_relationship · Source: full:f2d5a483067666f92d13dafb
+
+The 500 Global profile reports that Conwell’s personal-brand development helped drive RareBreed Ventures.
+
+> His commitment to building a powerful personal brand became the driving force behind RareBreed Ventures.
+
+## [ctx:mac-conwell-0966]
+
+Kind: dated_event · Source: full:f2d5a483067666f92d13dafb
+
+The profile reports that Conwell is a 2019 VC Unlocked: Silicon Valley alumnus and used the program to refine fundraising skills and his investment thesis.
+
+> Mac is a VC Unlocked: Silicon Valley 2019 Alum, leveraging the program to fine-tune his fundraising skills and investment thesis.
+
+## [ctx:mac-conwell-0967]
+
+Kind: investment_approach · Source: full:f2d5a483067666f92d13dafb
+
+The profile reports that Conwell’s personal network sourced the first $400,000 of his fund and Twitter helped source another $9.6 million.
+
+> Mac’s personal network got him his first $400k. But twitter helped him find the last 9.6MM.
+
+## [ctx:mac-conwell-0968]
+
+Kind: investment_approach · Source: full:f2d5a483067666f92d13dafb
+
+The profile reports that Conwell initially sought a complementary partner rather than planning to operate as a solo general partner.
+
+> He didn’t plan on becoming a solo GP. He knew his deficiencies and was looking for a partner to complement his skills and support him in areas where he lacked.
+
+## [ctx:mac-conwell-0969]
+
+Kind: investment_approach · Source: full:f2d5a483067666f92d13dafb
+
+The profile reports that Conwell developed a network of more than 4,000 venture capitalists and uses it to support founders.
+
+> Mac’s efforts over the past five years have resulted in a network of over 4,000 other VCs. He often leverages these connections on behalf of the founders he supports.
+
+## [ctx:mac-conwell-0970]
+
+Kind: investment_approach · Source: full:f2d5a483067666f92d13dafb
+
+The profile reports that founders proactively approach Conwell about including him on their capitalization tables.
+
+> Founders frequently approach him, wanting to include him on their cap table.
+
+## [ctx:mac-conwell-0971]
+
+Kind: investment_approach · Source: full:4b87aac8dbad7b68f0277f3e
+
+The July 6, 2021 interview page describes RareBreed Ventures as a pre-seed fund investing early in founders outside large technology ecosystems.
+
+> RareBreed Ventures is a pre-seed fund that invests in exceptional founders outside of large tech ecosystems, earlier than everyone else.
+
+## [ctx:mac-conwell-0972]
+
+Kind: investment_approach · Source: full:4b87aac8dbad7b68f0277f3e
+
+The page reports that RareBreed used a concentrated portfolio approach and wrote checks of up to $250,000 as a first or very early investor.
+
+> Unlike other pre-seed funds, RareBreed takes a concentrated portfolio approach by writing checks of up to $250K as the first or one of the first investors.
+
+## [ctx:mac-conwell-0973]
+
+Kind: company_relationship · Source: full:4b87aac8dbad7b68f0277f3e
+
+The page identifies McKeever “Mac” Conwell II as RareBreed Ventures’ founder and managing partner.
+
+> McKeever "Mac" Conwell II is the founder and managing partner of RareBreed Ventures.
+
+## [ctx:mac-conwell-0974]
+
+Kind: biography · Source: full:4b87aac8dbad7b68f0277f3e
+
+The page describes Conwell as a former software engineer and two-time founder whose startups included one failure and one successful exit.
+
+> Mac is a former software engineer and a two-time founder. One of Mac's companies failed, the other went on to a successful exit.
+
+## [ctx:mac-conwell-0975]
+
+Kind: company_relationship · Source: full:ff0206e37579abec12a9484b
+
+The committee chair introduced Mac Conwell as founder and managing partner of Baltimore-based RareBreed Ventures.
+
+> Mr. Conwell is the founder and managing partner of RareBreed Ventures, an emerging venture capital (VC) fund located in Baltimore, Maryland.
+
+## [ctx:mac-conwell-0976]
+
+Kind: biography · Source: full:ff0206e37579abec12a9484b
+
+The committee chair described Conwell as a former software engineer and two-time founder.
+
+> Mr. Conwell is a former soft- ware engineer and two-time founder.
+
+## [ctx:mac-conwell-0977]
+
+Kind: dated_event · Source: full:ff0206e37579abec12a9484b
+
+Conwell testified that he launched RareBreed Ventures in 2020 to address capital-access and cultural-competency gaps affecting founders of color and founders outside major investment hubs.
+
+> In 2020, I launched RareBreed Ventures as a response to the lack of access to capital for founders of color and founders outside of major investment hubs, as well as a response to a lack of cul- tural competency from many VCs when it came to investing in founders who didn’t look like them or didn’t come from similar backgrounds.
+
+## [ctx:mac-conwell-0978]
+
+Kind: investment_approach · Source: full:ff0206e37579abec12a9484b
+
+Conwell described RareBreed as investing in and supporting innovative startups at the earliest stages.
+
+> RareBreed is a venture capital, or VC, firm that invests in and supports innovative startups in the ear- liest stages.
+
+## [ctx:mac-conwell-0979]
+
+Kind: dated_event · Source: full:ff0206e37579abec12a9484b
+
+The committee chair reported that Conwell raised his first fund through Twitter under Rule 506(c) because he lacked an existing limited-partner network.
+
+> When he started his first fund, he did not have a network of limited partners, so he raised money on Twitter under the Rule 506(c) reforms implemented by the JOBS Act of 2012.
+
+## [ctx:mac-conwell-0980]
+
+Kind: dated_event · Source: full:ff0206e37579abec12a9484b
+
+Conwell testified that social-media solicitation produced 1,128 prospective-investor meetings in his first 90 days and more than 4,000 in total.
+
+> Thanks to this, I was able to have 1,128 meetings in my first 90 days and more than 4,000 meetings in total.
+
+## [ctx:mac-conwell-0981]
+
+Kind: company_relationship · Source: full:ff0206e37579abec12a9484b
+
+Conwell testified that RareBreed had 194 investors and that 83.5 percent invested $50,000 or less.
+
+> This led to me having 194 investors in RareBreed. Of these in- vestors, 83.5 percent invested $50,000 or less.
+
+## [ctx:mac-conwell-0982]
+
+Kind: company_relationship · Source: full:ff0206e37579abec12a9484b
+
+Conwell testified that many RareBreed limited partners were people of color and/or first-time fund investors who previously lacked access or could not risk high fund minimums.
+
+> Many of these inves- tors are people of color and/or first-time investors in a fund, be- 6 cause they hadn’t had access to make such an investment or couldn’t risk the high minimum threshold for funds.
+
+## [ctx:mac-conwell-0983]
+
+Kind: biography · Source: full:ff0206e37579abec12a9484b
+
+In his congressional testimony, Conwell described his venture-capital career as focused on advocating for access to capital and reducing barriers.
+
+> As some- one who has spent my entire career in venture capital as an advo- cate for access to capital and reducing barriers, I look forward to supporting and assisting this committee in any way possible.
+
+## [ctx:mac-conwell-0984]
+
+Kind: dated_event · Source: full:ff0206e37579abec12a9484b
+
+Conwell stated that he started his first company in 2010 and initially lacked familiarity with investors.
+
+> When I start- ed my first company in 2010, I didn’t know what an investor was.
+
+## [ctx:mac-conwell-0985]
+
+Kind: investment_approach · Source: full:ff0206e37579abec12a9484b
+
+In first-person congressional testimony, Conwell said the JOBS Act and the 506(c) designation enabled him to raise capital for his fund.
+
+> I wouldn’t be able to raise capital if it wasn’t for the JOBS Act and the 506(c) designation.
+
+## [ctx:mac-conwell-0986]
+
+Kind: investment_approach · Source: full:ff0206e37579abec12a9484b
+
+In first-person testimony, Conwell described both his fund's investor base and its company investments as spanning the United States.
+
+> And because of that, I now have inves- tors in my fund from all over the country, and I am investing in companies from all over the country.
+
+## [ctx:mac-conwell-0987]
+
+Kind: investment_approach · Source: full:ff0206e37579abec12a9484b
+
+Conwell testified that local individuals and angel investors are important sources of support for companies in rural areas and outside major technology hubs.
+
+> They are all funded and backed and supported by those local individuals. It is so important for the angel investors to have the ability to do more.
+
+## [ctx:mac-conwell-0988]
+
+Kind: company_relationship · Source: full:80029aac81ddfa89befdea03
+
+Bloomberg lists McKeever Conwell II “Mac” as Managing Partner and Founder of Rarebreed Ventures Management LLC.
+
+> Mckeever Conwell II "Mac" Managing Partner/Founder, Rarebreed Ventures Management LLC
+
+## [ctx:mac-conwell-0989]
+
+Kind: company_relationship · Source: full:b07511952e6d59789cc407c6
+
+BR Venture Fund identifies Mac Conwell as Founder and Managing Partner at RareBreed Ventures.
+
+> An Interview with Mac Conwell, Founder and Managing Partner at RareBreed Ventures
+
+## [ctx:mac-conwell-0990]
+
+Kind: investment_approach · Source: full:b07511952e6d59789cc407c6
+
+BR Venture Fund reports that Conwell aims to increase investment in enterprises founded by people of color.
+
+> Mac aims to shore up investment in enterprises founded by people of color.
+
+## [ctx:mac-conwell-0991]
+
+Kind: dated_event · Source: full:b07511952e6d59789cc407c6
+
+BR Venture Fund dates its Mac Conwell interview listing to June 3, 2022.
+
+> by BR Venture Fund | Jun 3, 2022 | Blog
+
+## [ctx:mac-conwell-0992]
+
+Kind: biography · Source: full:1a0117aa57700d1c0a432085
+
+RareBreed Ventures' website describes Conwell as its managing partner, a former software engineer, and a two-time founder whose companies included one failure and one successful exit.
+
+> McKeever "Mac" Conwell II is managing partner at RareBreed Ventures. Mac is a former software engineer and two-time founder. One of Mac's companies failed, the other went on to a successful exit.
+
+## [ctx:mac-conwell-0993]
+
+Kind: investment_approach · Source: full:1a0117aa57700d1c0a432085
+
+RareBreed Ventures' website says the fund invests at pre-seed, primarily outside large technology ecosystems, with checks of up to $250,000 as an initial or near-initial investor.
+
+> RareBreed Ventures is a pre-seed fund that invests in exceptional founders primarily outside of large tech ecosystems, earlier than everyone else. We write checks of up to $250K as the first or one of the first investors in exceptional startups.
+
+## [ctx:mac-conwell-0994]
+
+Kind: investment_approach · Source: full:1a0117aa57700d1c0a432085
+
+The RareBreed website says the fund favors founders who have executed on customer acquisition or are building in overlooked markets, and values unconventional thinking.
+
+> There are two types of founders that get us excited: those who have thought a lot about and executed on customer acquisition, and, those building products in markets that are often overlooked. These founders are out-of-the-box thinkers, which is critical to success.
+
+## [ctx:mac-conwell-0995]
+
+Kind: investment_approach · Source: full:1a0117aa57700d1c0a432085
+
+The RareBreed website states that pre-seed evaluation requires conviction and cannot rely on traditional company or founder metrics.
+
+> Investing in pre-seed stage companies is a skill and requires a lot of conviction. You cannot use the traditional metrics to evaluate a company or, more importantly, the founders themselves.
+
+## [ctx:mac-conwell-0996]
+
+Kind: investment_approach · Source: full:1a0117aa57700d1c0a432085
+
+The RareBreed website says limited polish, venture terminology, networks, or pitching ability should not preclude recognizing strong pre-seed founders.
+
+> Sometimes founders at the pre-seed stage aren’t as polished, don’t know all the VC lingo, don’t have an amazing network, or don’t know how to construct a pitch. Still, they are just as amazing as founders who have raised tons of money and have deep networks.
+
+## [ctx:mac-conwell-0997]
+
+Kind: company_relationship · Source: full:a746a140131293d1f3fb8522
+
+Founderland identified Mac Conwell as Founder and Managing Partner at RareBreed Ventures in the Compass speaker lineup.
+
+> Mac Conwell, Founder & Managing Partner at RareBreed Ventures
+
+## [ctx:mac-conwell-0998]
+
+Kind: dated_event · Source: full:a746a140131293d1f3fb8522
+
+Founderland dated the announcement containing Conwell's Compass speaker listing to September 6, 2022.
+
+> Founderland Sep 06, 2022
+
+## [ctx:mac-conwell-0999]
+
+Kind: dated_event · Source: full:e218caed720ecd5fef701638
+
+The New York State release reports that Mac Conwell II, described as founder and managing partner of RareBreed Ventures, served as a judge selecting the 43North finalists' winners.
+
+> I vincitori del 43North sono stati selezionati alle finali dai seguenti giudici: • Mac Conwell II, fondatore e socio dirigente di RareBreed Ventures
+
+## [ctx:mac-conwell-1000]
+
+Kind: dated_event · Source: full:e218caed720ecd5fef701638
+
+The New York State release carrying Conwell's judge listing is dated October 20, 2022.
+
+> Diffusione immediata: 20/10/2022
+
+## [ctx:mac-conwell-1001]
+
+Kind: company_relationship · Source: full:82e655e71fabd493e0a0cfab
+
+The episode description identifies Mac Conwell as RareBreed Ventures' founder and managing partner.
+
+> This week on The Tech Jawn we are joined by special guest Mac Conwell, founder and managing partner of RareBreed Ventures.
+
+## [ctx:mac-conwell-1002]
+
+Kind: investment_approach · Source: full:82e655e71fabd493e0a0cfab
+
+The episode description reports that Conwell focuses on businesses outside Massachusetts, New York, and California.
+
+> And lastly, we talk about Mac’s journey to becoming a VC and why he focuses on business outside of Massachusetts, New York, and California.
+
+## [ctx:mac-conwell-1003]
+
+Kind: dated_event · Source: full:82e655e71fabd493e0a0cfab
+
+The platform reports that the podcast episode was released on March 14, 2023.
+
+> Released: Mar 14, 2023
+
+## [ctx:mac-conwell-1004]
+
+Kind: company_relationship · Source: full:249b23d7f0cdf09da82e241f
+
+BR Venture Fund identifies Conwell as a founder and managing partner at RareBreed Ventures.
+
+> An Interview with Mac Conwell, Founder and Managing Partner at RareBreed Ventures
+
+## [ctx:mac-conwell-1005]
+
+Kind: investment_approach · Source: full:249b23d7f0cdf09da82e241f
+
+BR Venture Fund reports that Conwell seeks to increase investment in enterprises founded by people of color.
+
+> Mac aims to shore up investment in enterprises founded by people of color.
+
+## [ctx:mac-conwell-1006]
+
+Kind: dated_event · Source: full:249b23d7f0cdf09da82e241f
+
+BR Venture Fund dates its interview listing to June 3, 2022.
+
+> by BR Venture Fund | Jun 3, 2022 | Blog
+
+## [ctx:mac-conwell-1007]
+
+Kind: biography · Source: full:25c4c1f49f1642ac2ae22c15
+
+In first-person remarks, Conwell described himself as Baltimore-based, a software engineer by trade, a former government contractor, and a two-time founder with one exit and one failure.
+
+> My name is McKeever Conwell. 18 Most people know me as "Mac". I'm from Baltimore, where 19 I'm based out of now. I'm a software engineer by trade. 20 I used to be a government contractor with a top secret 21 clearance. Two time founder. One exit, one failure.
+
+## [ctx:mac-conwell-1008]
+
+Kind: company_relationship · Source: full:25c4c1f49f1642ac2ae22c15
+
+Conwell said he spent four years working for the State of Maryland's investment arm, transcribed as the Maryland Technology Development Organization or “Tyco.”
+
+> And I spent four years 23 working for the investment arm of the State of Maryland, 24 the Maryland Technology Development Organization or 25 Tyco.
+
+## [ctx:mac-conwell-1009]
+
+Kind: investment_approach · Source: full:25c4c1f49f1642ac2ae22c15
+
+Conwell said he made seed investments and later led an initiative to create a pre-seed fund for under-represented founders while at the state investment organization.
+
+> While there, I started off doing seed 3 investments, and later led an initiative to create a 4 pre-seed fund specifically for under-represented 5 founders.
+
+## [ctx:mac-conwell-1010]
+
+Kind: dated_event · Source: full:25c4c1f49f1642ac2ae22c15
+
+At the May 5, 2021 event, Conwell said he had left his prior job the preceding September to start RareBreed Ventures.
+
+> And last September I left that job to start RareBreed 11 Ventures.
+
+## [ctx:mac-conwell-1011]
+
+Kind: investment_approach · Source: full:25c4c1f49f1642ac2ae22c15
+
+Conwell estimated that 80–85% of his limited partners came through Twitter, podcasts, or blog posts.
+
+> I would say 19 80, 85 percent of my LPs came from people I've met on 20 Twitter or who found me from a podcast or a blog post, 21 right?
+
+## [ctx:mac-conwell-1012]
+
+Kind: investment_approach · Source: full:25c4c1f49f1642ac2ae22c15
+
+Conwell said the “emerging manager” label helps him identify limited-partner funds that do not invest in emerging managers.
+
+> So for me the term is only helpful 5 because it helps me weed out funds that don't invest in 6 emerging mangers, right?
+
+## [ctx:mac-conwell-1013]
+
+Kind: investment_approach · Source: full:25c4c1f49f1642ac2ae22c15
+
+In first-person remarks, Conwell described RareBreed's company-evaluation lens as focused on customer acquisition, experience, and retention.
+
+> And so for me, what we do at our firm, in 12 RareBreed is, I'm constantly telling my team the way we 13 look at companies is we want to understand how a company 14 or founder thinks about customer acquisition, experience 15 and retention.
+
+## [ctx:mac-conwell-1014]
+
+Kind: investment_approach · Source: full:25c4c1f49f1642ac2ae22c15
+
+Conwell said his prior experiences led him to change how he evaluates founders and companies.
+
+> And so the way you look at founders and the 3 way you look at companies has to change a bit.
+
+## [ctx:mac-conwell-1015]
+
+Kind: biography · Source: full:25c4c1f49f1642ac2ae22c15
+
+In first-person remarks, Conwell says he helped founders raise capital and obtain partnerships with Amazon, Viacom, and Disney.
+
+> 12 miss out, just talk to a couple of the founders I worked 13 with. Talk to the founders I helped raise capital. 14 Talk to the founders I've helped get partnerships at 15 Amazon and Viacom and Disney and places like that.
+
+## [ctx:mac-conwell-1016]
+
+Kind: biography · Source: full:25c4c1f49f1642ac2ae22c15
+
+Conwell says that when he started his first company, he initially lacked familiarity with venture capital, startups, and networking.
+
+> 16 just don't know how it works. And I know that because I 17 was there. Like, when I started my first company, I 18 didn't know what a VC was. I didn't know what a startup 19 was. Heck, I didn't know what networking was, right? I 20 didn't know any of this stuff.
+
+## [ctx:mac-conwell-1017]
+
+Kind: investment_approach · Source: full:25c4c1f49f1642ac2ae22c15
+
+Conwell says his organization made investments in companies sourced through cold outreach on Twitter or email; the transcript uses the wording “main investments.”
+
+> 2 do get to some number of them, by e-mail. We have main 3 investments in companies that reached out to us cold 4 through Twitter, or through e-mail, all right?
+
+## [ctx:mac-conwell-1018]
+
+Kind: investment_approach · Source: full:25c4c1f49f1642ac2ae22c15
+
+Conwell describes increasing access to venture asset classes for communities like his Baltimore community as part of his mission.
+
+> Page 45 1 And I also am here to increase the access for 2 people from communities like the one I come from in 3 Baltimore, to gain access to these asset classes.
+
+## [ctx:mac-conwell-1019]
+
+Kind: company_relationship · Source: full:7edd30f8ed5cb62e28992617
+
+Startup Intros identifies Mac Conwell as an investor at RareBreed Ventures.
+
+> Mac Conwell is Investor at RareBreed Ventures.
+
+## [ctx:mac-conwell-1020]
+
+Kind: investment_approach · Source: full:32e0cca50abd60d6dcebc844
+
+Brian Nichols reports that Mac Conwell is RareBreed Ventures’ founder and managing partner and raised a $10 million fund using the publicly solicited Regulation D strategy discussed in the article.
+
+> In fact, one of my most favorite VCs raised a $10m fund using this method. You've probably heard of Mac Conwell, founder and managing partner of RareBreed Ventures.
+
+## [ctx:mac-conwell-1021]
+
+Kind: company_relationship · Source: full:6a23ee8c846616190737cdb8
+
+Wannabe Angels identifies McKeever “Mac” Conwell II as managing partner at RareBreed Ventures.
+
+> McKeever "Mac" Conwell II is the managing partner at RareBreed Ventures.
+
+## [ctx:mac-conwell-1022]
+
+Kind: biography · Source: full:6a23ee8c846616190737cdb8
+
+The episode description reports that Conwell previously worked as a software engineer and as a DOD contractor with top-secret clearance.
+
+> Mac's background includes a former role as a software engineer and working as a DOD contractor with top-secret clearance.
+
+## [ctx:mac-conwell-1023]
+
+Kind: biography · Source: full:6a23ee8c846616190737cdb8
+
+The episode description characterizes Conwell as a two-time founder who experienced one exit and one failure.
+
+> He was a two-time founder with an exit and a failure.
+
+## [ctx:mac-conwell-1024]
+
+Kind: company_relationship · Source: full:6a23ee8c846616190737cdb8
+
+The episode description reports that Conwell entered venture capital through the Maryland Technology Development Corporation’s seed investment team.
+
+> Next, Mac moved on to venture capital via the Maryland Technology Development Corporation as part of their seed investment team.
+
+## [ctx:mac-conwell-1025]
+
+Kind: investment_approach · Source: full:6a23ee8c846616190737cdb8
+
+The episode description identifies Conwell as RareBreed Ventures’ founder and describes the firm as investing from pre-seed through seed in exceptional founders outside large technology ecosystems.
+
+> Today, Mac is the founder of RareBreed Ventures, a pre-seed to seed venture fund that focuses on investing in exceptional founders outside of large tech ecosystems.
+
+## [ctx:mac-conwell-1026]
+
+Kind: company_relationship · Source: full:5b1aa2e423ea7e6276bc01d3
+
+Tracxn reports that RareBreed Ventures was founded in 2021 and is primarily based in Baltimore.
+
+> RareBreed Ventures is a venture capital firm founded in 2021. It is primarily based out of Baltimore, United States.
+
+## [ctx:mac-conwell-1027]
+
+Kind: investment_approach · Source: full:5b1aa2e423ea7e6276bc01d3
+
+Tracxn describes RareBreed Ventures as primarily investing in seed rounds for U.S.-based startups across sectors including retail, consumer, and blockchain technology.
+
+> It primarily invests in Seed round in United States based startups. Its investments are spread across a wide range of sectors from Retail to Consumer and Blockchain Technology.
+
+## [ctx:mac-conwell-1028]
+
+Kind: company_relationship · Source: full:5b1aa2e423ea7e6276bc01d3
+
+Tracxn lists McKeever Conwell as a RareBreed Ventures partner located in Owings Mills.
+
+> McKeever Conwell Partner Owings Mills
+
+## [ctx:mac-conwell-1029]
+
+Kind: company_relationship · Source: full:3a85ab8280ea840e25986298
+
+BR Venture Fund identifies Mac Conwell as a founder and managing partner at RareBreed Ventures.
+
+> An interview with Mac Conwell, a Founder and Managing Partner at RareBreed Ventures.
+
+## [ctx:mac-conwell-1030]
+
+Kind: investment_approach · Source: full:3a85ab8280ea840e25986298
+
+BR Venture Fund’s interview summary reports that Conwell seeks to increase investment in enterprises founded by people of color.
+
+> Mac aims to shore up investment in enterprises founded by people of color.
+
+## [ctx:mac-conwell-1031]
+
+Kind: biography · Source: full:3a85ab8280ea840e25986298
+
+The listing reports that Conwell discussed challenges from his journey into venture capital, although the supplied summary is truncated.
+
+> In this interview with Adhiraj Singh, Mac discusses the challenges he faced in his journey toward VC and his...
+
+## [ctx:mac-conwell-1032]
+
+Kind: investment_approach · Source: full:6d18d4cabcca330a778fe3c3
+
+In this first-person interview response, Mac says he would have begun networking and learning how venture works earlier.
+
+> I would have taught myself the power of networking. And I made myself start to network sooner and start learning about how this world works in venture.
+
+## [ctx:mac-conwell-1033]
+
+Kind: investment_approach · Source: full:6d18d4cabcca330a778fe3c3
+
+Mac says that entering investing expanded his exposure to wealthy investors, alternative investments, and opportunities arising through that network.
+
+> As I've gotten into this industry as an investor, I now spend my time around other people who are very wealthy. And other people who think about investments. And other people who think about different types of investments and alternative investments. Which leads to just random opportunity.
+
+## [ctx:mac-conwell-1034]
+
+Kind: biography · Source: full:7fe7b82fcf5092c432a8afb8
+
+Mac says he began as a software engineer working for the government with a Department of Defense top-secret clearance.
+
+> I became a software engineer. I was working for the government, had top secret clearance in the Department of Defense.
+
+## [ctx:mac-conwell-1035]
+
+Kind: dated_event · Source: full:7fe7b82fcf5092c432a8afb8
+
+Mac says he co-founded his first business in 2010, operated it for four and a half years without outside funding, attended two accelerators, and sold its IP to a Fortune 100 company.
+
+> And so that led me and a couple of my friends starting my first business in 2010. After four and a half years, never raised any money. but went through two accelerators, learned how this all worked. We sold the IP of that company to a Fortune 100 company.
+
+## [ctx:mac-conwell-1036]
+
+Kind: company_relationship · Source: full:7fe7b82fcf5092c432a8afb8
+
+Mac says his second company raised capital but failed.
+
+> Started another company after that, raised some capital. That one didn't work out.
+
+## [ctx:mac-conwell-1037]
+
+Kind: company_relationship · Source: full:7fe7b82fcf5092c432a8afb8
+
+Mac says a state-run venture fund hired him four and a half months after he applied, providing his entry into venture investing.
+
+> I applied for a job at a venture firm off of the email. And four and a half months later, they hired me. very unusual way to get a job in BC and it was a state-ran fund so that's how I broke it.
+
+## [ctx:mac-conwell-1038]
+
+Kind: company_relationship · Source: full:7fe7b82fcf5092c432a8afb8
+
+Mac says he ran the state-backed pre-seed fund for three years and describes it as focused on women and minority founders.
+
+> And they let me do it. And I ran that for three years. It ended up being the first and only state-backed pre-see fund for women and minorities in the country.
+
+## [ctx:mac-conwell-1039]
+
+Kind: dated_event · Source: full:7fe7b82fcf5092c432a8afb8
+
+Mac says he attended 500 Startups’ VC Unlocked program at Stanford in 2019.
+
+> And so in 2019, I went to the one they had at Stanford.
+
+## [ctx:mac-conwell-1040]
+
+Kind: dated_event · Source: full:7fe7b82fcf5092c432a8afb8
+
+Mac says his fundraise involved 1,128 calendar meetings from mid-June through mid-September 2020, excluding phone calls and impromptu meetings.
+
+> And so that's how I famously had. 1100 meetings from the middle of September, from the middle of June to the middle of September 2020. The actual number on my calendar, if you count it, was 1,128 meetings. not including phone calls, any impromptu meetings, right? So the number is actually probably higher.
+
+## [ctx:mac-conwell-1041]
+
+Kind: dated_event · Source: full:7fe7b82fcf5092c432a8afb8
+
+Mac says the intensive 2020 meeting campaign produced roughly $2 million in soft commitments.
+
+> And those 1,100 meetings got me to the soft circle. My first, let's call it 2 million.
+
+## [ctx:mac-conwell-1042]
+
+Kind: company_relationship · Source: full:7fe7b82fcf5092c432a8afb8
+
+Mac reports that his first fund had more than 200 limited partners.
+
+> And I have like over 200 LPs in my fund one.
+
+## [ctx:mac-conwell-1043]
+
+Kind: company_relationship · Source: full:7fe7b82fcf5092c432a8afb8
+
+Mac describes his first fund as a $10 million vehicle backed by several institutions.
+
+> Also, I have... several institutions in my fund one, which is actually... You know, unusual thing for not only a fun one, but for such a small fund, a $10 million fund.
+
+## [ctx:mac-conwell-1044]
+
+Kind: dated_event · Source: full:7fe7b82fcf5092c432a8afb8
+
+Mac reports that fund one completed 34 investments and six follow-on investments during approximately its first 13 months of deployment.
+
+> In our first, call it 13 months of deploying capital out fund one. We have done 34 investments with six follow-ups.
+
+## [ctx:mac-conwell-1045]
+
+Kind: investment_approach · Source: full:7fe7b82fcf5092c432a8afb8
+
+Mac says the investment thesis remained unchanged between the first and second funds.
+
+> No, our thesis hasn't changed from Fund 1 to Fund 2.
+
+## [ctx:mac-conwell-1046]
+
+Kind: investment_approach · Source: full:b67ee85990223caf948be1e9
+
+In this first-person preview, Conwell said he raised the majority of his first fund through Twitter.
+
+> And I guess the claim to fame, the one thing everybody always goes to is I raise the majority of my fund one off of Twitter.
+
+## [ctx:mac-conwell-1047]
+
+Kind: investment_approach · Source: full:b67ee85990223caf948be1e9
+
+Conwell described reaching sufficient LP commitments as necessary before he could pay himself while raising the fund.
+
+> Like every day there is this goal of we got to get to this. We got to reach this dollar amount because at some point it's just desperation and survival. It's like I can't pay myself until I have a certain dollar amount commitments.
+
+## [ctx:mac-conwell-1048]
+
+Kind: dated_event · Source: full:b67ee85990223caf948be1e9
+
+Conwell said his fundraise took place during the COVID period.
+
+> So I'm raising my money and it's during a time of covid.
+
+## [ctx:mac-conwell-1049]
+
+Kind: dated_event · Source: full:ff8adac263a367cdec158e65
+
+Conwell said Rare Breed had closed its first fund by the time of this interview.
+
+> Yes, we have closed fund one, a rare breed.
+
+## [ctx:mac-conwell-1050]
+
+Kind: investment_approach · Source: full:ff8adac263a367cdec158e65
+
+Conwell said most of the first $2–3 million of Rare Breed's $10 million fund came from other general partners and funds.
+
+> And so like the first two to three million in my fund, which is a $10 million fund, all came from, the majority came from other GPs, other funds.
+
+## [ctx:mac-conwell-1051]
+
+Kind: investment_approach · Source: full:ff8adac263a367cdec158e65
+
+Conwell described Twitter-based relationship building as a fundraising strategy for his fund.
+
+> And so like the Twitter thing became my strategy.
+
+## [ctx:mac-conwell-1052]
+
+Kind: investment_approach · Source: full:ff8adac263a367cdec158e65
+
+Conwell said Rare Breed used rolling closes on a three-week cadence during the fundraise.
+
+> And we do rolling closes every three weeks.
+
+## [ctx:mac-conwell-1053]
+
+Kind: investment_approach · Source: full:ff8adac263a367cdec158e65
+
+Conwell said Rare Breed offered limited partners multiple contribution schedules.
+
+> We gave our LPs three options for capital.
+
+## [ctx:mac-conwell-1054]
+
+Kind: dated_event · Source: full:ff8adac263a367cdec158e65
+
+Conwell described Early Bird as a newly announced deal on the day of the interview.
+
+> Early Bird is an amazing one. That just got announced today, which is awesome.
+
+## [ctx:mac-conwell-1055]
+
+Kind: company_relationship · Source: full:ff8adac263a367cdec158e65
+
+Conwell said the Early Bird opportunity came through the relationship channel he had just described and that he met founders Jordan and Caleb.
+
+> And so that's how that deal came through. And I got to meet Jordan and Caleb and amazing team, amazing founders, amazing vision.
+
+## [ctx:mac-conwell-1056]
+
+Kind: company_relationship · Source: full:ff8adac263a367cdec158e65
+
+Conwell said that while working for the State of Maryland, he wrote Femi his first check.
+
+> So when I worked for the state of Maryland, I wrote him his very first check.
+
+## [ctx:mac-conwell-1057]
+
+Kind: company_relationship · Source: full:ff8adac263a367cdec158e65
+
+Conwell described that first check to Femi as $40,000 to support leaving college.
+
+> 40K to drop out of college.
+
+## [ctx:mac-conwell-1058]
+
+Kind: dated_event · Source: full:ff8adac263a367cdec158e65
+
+Conwell said that after closing fund one, Rare Breed was using the fourth quarter to develop its second-fund strategy and materials.
+
+> So honestly, now that fund one's closed, we're actually spending Q4 working on the strategy and putting materials for fun too.
+
+## [ctx:mac-conwell-1059]
+
+Kind: company_relationship · Source: full:ff8adac263a367cdec158e65
+
+Conwell said Rare Breed then had two venture partners and three fellows, selected from prior relationships or persistent prospective contributors.
+
+> So like to date, I have two venture partners and three fellows, all the people I either knew before I started my fund or who like chased me down and like wouldn't leave me alone until I gave them work to do.
+
+## [ctx:mac-conwell-1060]
+
+Kind: biography · Source: full:ff8adac263a367cdec158e65
+
+Conwell said he was a Kauffman Fellow at the time of the interview.
+
+> You know, famously for me, you know, I'm currently a Kauffman fellow, which is amazing.
+
+## [ctx:mac-conwell-1061]
+
+Kind: company_relationship · Source: full:ff8adac263a367cdec158e65
+
+Conwell described LP Zach Silverman as a permanent member of the Rare Breed community regardless of future check size.
+
+> No matter how big or small a check he wants to write, like, he will always be a member of the Rare Breed family.
+
+## [ctx:mac-conwell-1062]
+
+Kind: biography · Source: full:cce7f94bd01d41f0ef4212b9
+
+Conwell recalled creating Lego robots in sixth grade around 1996–1997.
+
+> But when I was in middle school, so sixth grade, so I'm about to date myself, that's what, 1996, 1997 timeframe, I was in class creating Lego robots.
+
+## [ctx:mac-conwell-1063]
+
+Kind: biography · Source: full:cce7f94bd01d41f0ef4212b9
+
+Conwell said an early mentor's influence helped lead him toward engineering and later work as a software engineer.
+
+> Right? And so like he put it in my mind that I was going to be a robotics engineer when I was in sixth grade. That was really instructive for like my career as an engineer and then to be a software engineer.
+
+## [ctx:mac-conwell-1064]
+
+Kind: biography · Source: full:cce7f94bd01d41f0ef4212b9
+
+Conwell said that during college he held a government internship with the Department of Defense and identified Patrick Jackson as a major influence.
+
+> And then my next biggest influence probably comes from my friend, Patrick Jackson, who when I was in college, I had an internship working for the government, working for the Department of Defense.
+
+## [ctx:mac-conwell-1065]
+
+Kind: biography · Source: full:919d9b8e9c54e96ba5fe75ea
+
+Conwell says he previously worked as a software engineer and government contractor and became a two-time founder.
+
+> I was a software engineer, and I was a government contractor for years. I then went on to be a two-time founder.
+
+## [ctx:mac-conwell-1066]
+
+Kind: dated_event · Source: full:919d9b8e9c54e96ba5fe75ea
+
+Conwell says Maryland's state investment arm hired him four and a half months after he applied, marking his entry into venture investing.
+
+> Four and a half months later, they hired me. So, I broke in.
+
+## [ctx:mac-conwell-1067]
+
+Kind: dated_event · Source: full:919d9b8e9c54e96ba5fe75ea
+
+Conwell dates his entry into venture through Maryland's state investment arm to 2016.
+
+> And that's in 2016.
+
+## [ctx:mac-conwell-1068]
+
+Kind: dated_event · Source: full:919d9b8e9c54e96ba5fe75ea
+
+Conwell says that more than 1,100 meetings between mid-June and September 2020 helped him soft-circle his first $2 million and commit to launching his fund.
+
+> Between the middle of June 2020 to September 2020, I had over 1,100 meetings, which allowed me to soft circle my first 2 million and kind of gave me the confidence to quit my job and really go do this thing.
+
+## [ctx:mac-conwell-1069]
+
+Kind: investment_approach · Source: full:919d9b8e9c54e96ba5fe75ea
+
+Conwell says Rare Breed planned a portfolio of approximately 40 to 45 companies.
+
+> Really, we're going to do somewhere between like 40 to 45 companies.
+
+## [ctx:mac-conwell-1070]
+
+Kind: investment_approach · Source: full:919d9b8e9c54e96ba5fe75ea
+
+Conwell says the fund expected six to ten follow-on investments, would primarily make first checks, and allocated about 5% to off-thesis investments.
+
+> No, no. So we're going to do somewhere in the neighborhood of like six to 10 follow-on, but mostly most first checks. And we'll also do a few off thesis investments. You know, we got about 5% of the fund allocated for off thesis.
+
+## [ctx:mac-conwell-1071]
+
+Kind: company_relationship · Source: full:919d9b8e9c54e96ba5fe75ea
+
+Conwell says Rare Breed participated with a $100,000 check in Main Street's $60 million second round.
+
+> Well, it just so happens that we got to be a small check in the second round of Main Street. For those who don't know, Main Street second round was a $60 million round. I got to put a $100K check on that round.
+
+## [ctx:mac-conwell-1072]
+
+Kind: company_relationship · Source: full:919d9b8e9c54e96ba5fe75ea
+
+Conwell identifies Memphis-based BeautyByMe.io as one of his portfolio's then-top-performing companies.
+
+> One of my top performing companies right now is a company based out of Memphis, Tennessee called BeautyByMe.io
+
+## [ctx:mac-conwell-1073]
+
+Kind: company_relationship · Source: full:919d9b8e9c54e96ba5fe75ea
+
+Conwell identifies Oakland-based Unspun as his most recently publicly announced investment at the time of the interview.
+
+> Most recently publicly announced investment was an investment in a company called Unspun out of Oakland.
+
+## [ctx:mac-conwell-1074]
+
+Kind: company_relationship · Source: full:919d9b8e9c54e96ba5fe75ea
+
+Conwell describes Unspun as combining a body-scanning application with hardware intended to produce custom-sized clothing.
+
+> They have an app that scans your body, your jeans that made to fit. And what they're actually building is in the background is they have a hardware component that takes the information from the app of your sizing and basically 3D prints your clothes.
+
+## [ctx:mac-conwell-1075]
+
+Kind: company_relationship · Source: full:919d9b8e9c54e96ba5fe75ea
+
+Conwell says venture partner Jonathan Kroll sourced the Unspun opportunity.
+
+> And I should also say that company was sourced by my venture partner, Jonathan Kroll.
+
+## [ctx:mac-conwell-1076]
+
+Kind: biography · Source: full:a5e5685d191409bfb3835e60
+
+In this first-person account, Conwell says he grew up in predominantly Black Baltimore neighborhoods and was told he was not Black enough, which he says created pressure to overcompensate.
+
+> I mean, coming up in Baltimore and predominantly black neighborhoods, you got the label of you weren't black enough. I was told from early on, like, you know, you're not even black. You know, this isn't what black kids do. You know, we don't want to hang with you. And that kind of creates a complex, right? Because then you want to overcompensate for it.
+
+## [ctx:mac-conwell-1077]
+
+Kind: biography · Source: full:cedbdb6b84b6561e0c749883
+
+Conwell identifies himself as the Baltimore-based founder and managing partner of Rare Breed Ventures, which he describes as a pre-C2C venture fund.
+
+> I am your host, Mac the VC, Mac Conwell, founder and managing partner of Rare Breed Ventures, a pre-C2C venture fund here in Baltimore.
+
+## [ctx:mac-conwell-1078]
+
+Kind: investment_approach · Source: full:3792300ac9942834d330b118
+
+Conwell says Rare Breed was raising a $10 million pre-seed-to-seed fund at the time of the interview.
+
+> Yeah, so Rare Breed, we're raising a $10 million pre-seed to seed fund.
+
+## [ctx:mac-conwell-1079]
+
+Kind: dated_event · Source: full:3792300ac9942834d330b118
+
+Conwell reports that Rare Breed had soft-circled about half of its planned $10 million fund and had begun sending subscription documents.
+
+> At this point, we've soft-circled about half of the $10 million already. We're now starting to send out subscription docs and get people to put money into the fund.
+
+## [ctx:mac-conwell-1080]
+
+Kind: investment_approach · Source: full:3792300ac9942834d330b118
+
+Conwell says Rare Breed planned a portfolio of approximately 24 to 30 companies.
+
+> So looking to have somewhere in the neighborhood of 24 to maybe 30 companies in total.
+
+## [ctx:mac-conwell-1081]
+
+Kind: investment_approach · Source: full:3792300ac9942834d330b118
+
+Conwell says he rejected a rolling-fund structure so early supporters could participate in the upside of every portfolio company rather than only selected quarters.
+
+> I wanted to make sure that they got the upside of every company I invested in, not a fund one, not just based off the sum amount of quarters they invested in. And so I decided, you know, not to do the rolling fund.
+
+## [ctx:mac-conwell-1082]
+
+Kind: investment_approach · Source: full:3792300ac9942834d330b118
+
+Conwell reports that Rare Breed selected what the transcript renders as a “506E” structure permitting public promotion while requiring every investor to be accredited.
+
+> And so we said, OK, well, if we want to be able to publish these goals, all of this is 506E. OK, bam. The downside on that is every investor must be an accredited investor.
+
+## [ctx:mac-conwell-1083]
+
+Kind: investment_approach · Source: full:3792300ac9942834d330b118
+
+Conwell says Rare Breed adopted weekly LP closes to obtain committed capital promptly and preserve flexibility.
+
+> And we said, cool, we'll do weekly closes. So every week as a pool of LPs come in, we close those LPs that Friday and we can get access to that money right away, which gives us a little bit more flexibility and gives us access to it.
+
+## [ctx:mac-conwell-1084]
+
+Kind: biography · Source: full:3792300ac9942834d330b118
+
+Conwell describes his career progression from software developer to entrepreneur and then investor.
+
+> They've seen my journey from a software developer to an entrepreneur to now being an investor and now wanting to be LPs.
+
+## [ctx:mac-conwell-1085]
+
+Kind: dated_event · Source: full:3792300ac9942834d330b118
+
+Conwell reports conducting nearly 1,200 meetings from June through September while fundraising, at a pace of roughly 20 to 24 meetings per day.
+
+> You know, I told people from the time of from June to September, I had over eleven hundred meetings. It's really close to twelve hundred meetings. Right. That's doing like 20 to 24 meetings a day.
+
+## [ctx:mac-conwell-1086]
+
+Kind: investment_approach · Source: full:3792300ac9942834d330b118
+
+Conwell said roughly 10–15 members of his fund's LP base were making their first LP investment.
+
+> I will say within our LP base, there's a good 10 or 15 folks where we would be their first ever LP check. We're the first exposure they've ever had.
+
+## [ctx:mac-conwell-1087]
+
+Kind: biography · Source: full:3792300ac9942834d330b118
+
+Conwell said he previously had two startups, one of which exited and one of which failed.
+
+> I talk about that I had two startups. One had an exit and one failed.
+
+## [ctx:mac-conwell-1088]
+
+Kind: company_relationship · Source: full:3792300ac9942834d330b118
+
+Conwell described himself as the only full-time member of his fund team at that time, supported by other people to whom he delegated work.
+
+> Lucky for me, I have a team. I am the only one who's full time on the team currently. But I do have people that work with me who I can delegate work out to.
+
+## [ctx:mac-conwell-1089]
+
+Kind: biography · Source: full:3792300ac9942834d330b118
+
+Conwell said he worked for the state of Maryland for four years before beginning his fundraise.
+
+> before I started my fundraise I worked for the state of Maryland for four years.
+
+## [ctx:mac-conwell-1090]
+
+Kind: investment_approach · Source: full:3792300ac9942834d330b118
+
+Conwell characterized his firm as backing founders at a very early stage.
+
+> You know I have those conversations with my founders because I back them so early
+
+## [ctx:mac-conwell-1091]
+
+Kind: investment_approach · Source: full:3792300ac9942834d330b118
+
+Conwell said his first fund did not have a GP commitment from him.
+
+> And for me as a GP like I don't have a GP commit for my fund one.
+
+## [ctx:mac-conwell-1092]
+
+Kind: company_relationship · Source: full:3792300ac9942834d330b118
+
+Conwell identified Alpaca VC as an LP in his firm, transcribed here as “Rare Reventures,” and said it backed six diverse GPs through an initiative initially intended for five.
+
+> You know Alpaca VC who's an LP in Rare Reventures they put together an initiative like this to invest in five they ended up investing in six because they found so many incredible diverse GPs to back.
+
+## [ctx:mac-conwell-1093]
+
+Kind: investment_approach · Source: full:3792300ac9942834d330b118
+
+Conwell said the fund was still raising at the time of the interview and then had a $10,000 minimum LP check.
+
+> I would be remiss if I didn't say you know we are still currently raising our minimum check size to date is still 10k.
+
+## [ctx:mac-conwell-1094]
+
+Kind: investment_approach · Source: full:3792300ac9942834d330b118
+
+Conwell directed prospective LPs to rarebreed.vc and described the offering as a 506(c) raise whose $10,000 minimum was expected to increase.
+
+> Or if you could go to rarebreed.vc and there's a button here that says click to become an LP. The minimum will be rising at some point so get in now before the minimum goes from 10k and it goes up. Just got to put that out there since I'm 506c I can do that.

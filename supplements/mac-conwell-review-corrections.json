@@ -1,0 +1,22 @@
+{
+  "model": "gpt-5.6-sol",
+  "correction_cache_key": "0545cd041bf81ba80d8672d95dfd5b592a0ad5a32d63decb6d8f33c715f8b432",
+  "corrections": [
+    {
+      "source": "full:077254d1fbd1853c5654e3f7",
+      "part": 1,
+      "field": "context.claim",
+      "quote": "To this point, I've now gone through three accelerators. I've done a XRA Baltimore and a new made XRA for my first company. And for my second company, Electric Dream Adventures.",
+      "before": "Conwell reports participating in three accelerators across his first company and a second company he calls Electric Dream Adventures; the accelerator names are imperfectly transcribed.",
+      "after": "Conwell reports participating in three accelerators: two for his first company and Electric Dream Adventures for his second company; the accelerator names are imperfectly transcribed."
+    },
+    {
+      "source": "full:077254d1fbd1853c5654e3f7",
+      "part": 4,
+      "field": "evidence.interpretation",
+      "quote": "So if you know that all the people you're competing with, in this pool already have their product built. Um, Already have a team. and already generating revenue. Well, know that that's the bar you got to be at, and I'm not going to feel bad for you because you tell me. You can't figure out how to get to that bar.",
+      "before": "Because fundraising is competitive, he treats a built product, assembled team, and existing revenue as a practical minimum bar.",
+      "after": "When competing against companies that already have a built product, an assembled team, and revenue, he treats that level of progress as the bar a founder must meet."
+    }
+  ]
+}

@@ -4,6 +4,8 @@ Turn a venture investor’s collected source material into a cited investment wi
 
 **Start with the [Michael Hyatt example](wiki/michael-hyatt/README.md)**: [investment policy](wiki/michael-hyatt/persona.md), [investment themes](wiki/michael-hyatt/theses.md), and [portfolio and relationships](wiki/michael-hyatt/portfolio_and_constraints.md).
 
+The [Mac Conwell memory](wiki/mac-conwell/README.md) covers his supplied collector export, with recovered audio and an explicit coverage audit. See its [investment policy](wiki/mac-conwell/persona.md), [reported relationships](wiki/mac-conwell/portfolio_and_constraints.md), and [run report](docs/mac-conwell-full-run.md).
+
 ## How the two repositories fit together
 
 ```text
@@ -125,6 +127,7 @@ Model calls are cached. Keep the cache after an interruption and rerun the same 
 - [Resume runs, use supplements, and handle missing material](.agents/skills/investor-memory/references/operations.md)
 - [Pipeline components and developer entry points](wiki_build/README.md)
 - [Complete Hyatt run: scope, repairs, and verification](docs/hyatt-full-run.md)
+- [Mac Conwell run: coverage, recovered media, and limitations](docs/mac-conwell-full-run.md)
 
 Run the offline regression suite after code changes:
 

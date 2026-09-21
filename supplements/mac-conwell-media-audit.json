@@ -1,0 +1,109 @@
+[
+  {
+    "path": "raw/podcast/ba/ba582bde6c30525a5d47588798450f67fa6453f4bc72b44a96ee77c969d30d15.mp3",
+    "artifact_id": "sha256:ba582bde6c30525a5d47588798450f67fa6453f4bc72b44a96ee77c969d30d15",
+    "title": "E10: Investing Early and Making Your Own Luck with Mac Conwell - Investing in Startups | Podcast on Spotify",
+    "episode_url": "https://open.spotify.com/episode/2FFqbiEeYWmp9aILXEIFCp",
+    "candidate_id": "candidate:1e19075edb1aef93c8a1",
+    "seconds": 60.029388,
+    "placeholder": false,
+    "source_id": "full:b67ee85990223caf948be1e9",
+    "disposition": "media_represented_by_supplemental_transcript",
+    "attribution_status": "accepted_model"
+  },
+  {
+    "path": "raw/podcast/e7/e785ebca1273b96d89ba477bf224924bb705ca2115f1cafbb15135eb0bc9d5f1.mp3",
+    "artifact_id": "sha256:e785ebca1273b96d89ba477bf224924bb705ca2115f1cafbb15135eb0bc9d5f1",
+    "title": "RareBreed GP Mac Conwell on Bu… - Seed to Harvest - Apple Podcasts",
+    "episode_url": "https://podcasts.apple.com/us/podcast/rarebreed-gp-mac-conwell-on-building-community-fundraising/id1600933931?i=1000547931694",
+    "candidate_id": "candidate:f054b9d1656535182349",
+    "seconds": 2383.135589,
+    "placeholder": false,
+    "source_id": "full:ff8adac263a367cdec158e65",
+    "disposition": "media_represented_by_supplemental_transcript",
+    "attribution_status": "accepted_model"
+  },
+  {
+    "path": "raw/podcast/95/95972c602ff0686e298792f45b384f0e15477f3cf983f05dd98fd5e5d965eed6.mp3",
+    "artifact_id": "sha256:95972c602ff0686e298792f45b384f0e15477f3cf983f05dd98fd5e5d965eed6",
+    "title": "InvestHer-Podcast-Episode-20-Pushing-For-Diversity-in-Venture-Capital-with-Mac-Conwell-II-RareBreed-Ventures",
+    "episode_url": "https://www.investherpodcast.com/podcasts/episode-20/r/recfIJedRPyCJg0Si",
+    "candidate_id": "candidate:0c6c411cc594a0c5d8fc",
+    "seconds": 102.373875,
+    "placeholder": true,
+    "disposition": "website_placeholder_audio_not_interview",
+    "basis": "Collected enclosure URL names placeholder_audio.mp3; not the advertised interview."
+  },
+  {
+    "path": "raw/podcast/47/47f1b27845791a562c6e43126a4c46fdf95eaaf08989949f3f3228af4837f7c2.mp3",
+    "artifact_id": "sha256:47f1b27845791a562c6e43126a4c46fdf95eaaf08989949f3f3228af4837f7c2",
+    "title": "Mac Conwell: Loosing his dad and being homeless to creating Rare Breed Ventures through 1100 Twitter meetings, unpacking how he learnt Venture Capital + startups in Africa & Pakistan - The High Flyers Podcast with Vidit Agarwal | Podcast on Spotify",
+    "episode_url": "https://open.spotify.com/episode/7quvNvYFkPsqdSlTWpyoag",
+    "candidate_id": "candidate:a2e8e8f65b5d2d3ccefe",
+    "seconds": 60.029388,
+    "placeholder": false,
+    "source_id": "full:cce7f94bd01d41f0ef4212b9",
+    "disposition": "media_represented_by_supplemental_transcript",
+    "attribution_status": "accepted_model"
+  },
+  {
+    "path": "raw/podcast/d7/d730efb0d54c27d723b4031328c91bd28ba88f609ee5a20847cf4efce4ddb1cb.mp3",
+    "artifact_id": "sha256:d730efb0d54c27d723b4031328c91bd28ba88f609ee5a20847cf4efce4ddb1cb",
+    "title": "20VC: Mac the VC on the Journe… - The Twenty Minute VC (20VC): Venture Capital | Startup Funding | The Pitch - Apple Podcasts",
+    "episode_url": "https://podcasts.apple.com/us/podcast/20vc-mac-the-vc-on-the-journey-from-homeless-to/id958230465?i=1000540359246",
+    "candidate_id": "candidate:d000e31eca737d636eae",
+    "seconds": 2258.782041,
+    "placeholder": false,
+    "source_id": "full:919d9b8e9c54e96ba5fe75ea",
+    "disposition": "media_represented_by_supplemental_transcript",
+    "attribution_status": "uncertain"
+  },
+  {
+    "path": "raw/podcast/bd/bd1f5bfc1e61d05bd6eb20449ce1a4878c8cbad8212a13a9c5e5446aa857c462.mp3",
+    "artifact_id": "sha256:bd1f5bfc1e61d05bd6eb20449ce1a4878c8cbad8212a13a9c5e5446aa857c462",
+    "title": "Winners Welcome - Podcast - Apple Podcasts",
+    "episode_url": "https://podcasts.apple.com/us/podcast/winners-welcome/id1523705329",
+    "candidate_id": "candidate:72814db3d84aab59e485",
+    "seconds": 2506.945306,
+    "placeholder": false,
+    "source_id": "full:331c042cf8296281d6e9b675",
+    "disposition": "media_represented_by_supplemental_transcript",
+    "attribution_status": "uncertain"
+  },
+  {
+    "path": "raw/podcast/73/738a7fc4919b931ac1ecf4c959b18363d6b3c3773e93e14c1fb0e8ba9617dad1.mp3",
+    "artifact_id": "sha256:738a7fc4919b931ac1ecf4c959b18363d6b3c3773e93e14c1fb0e8ba9617dad1",
+    "title": "Episode 31: McKeever Conwell - GHOGH with Jamarlin Martin | Podcast on Spotify",
+    "episode_url": "https://open.spotify.com/episode/2I2yHxAdtIayksPSXxThjG",
+    "candidate_id": "candidate:cc5a1b31f4290964adb5",
+    "seconds": 60.029388,
+    "placeholder": false,
+    "source_id": "full:a5e5685d191409bfb3835e60",
+    "disposition": "media_represented_by_supplemental_transcript",
+    "attribution_status": "accepted_model"
+  },
+  {
+    "path": "raw/podcast/27/274e2f95ffddeb6490f5016a16c7de703c213388be5feedb2d4f7ede8e59c248.mp3",
+    "artifact_id": "sha256:274e2f95ffddeb6490f5016a16c7de703c213388be5feedb2d4f7ede8e59c248",
+    "title": "Building Out Loud - Podcast - Apple Podcasts",
+    "episode_url": "https://podcasts.apple.com/au/podcast/building-out-loud/id1614100793",
+    "candidate_id": "candidate:77faf3ab059f85ce7a02",
+    "seconds": 2372.67575,
+    "placeholder": false,
+    "source_id": "full:cedbdb6b84b6561e0c749883",
+    "disposition": "media_represented_by_supplemental_transcript",
+    "attribution_status": "uncertain"
+  },
+  {
+    "path": "raw/podcast/04/040fdaef15ff7dd1e77aa860fd4299f14e4a12391b2d059ed841dd4e8f4492b5.mp3",
+    "artifact_id": "sha256:040fdaef15ff7dd1e77aa860fd4299f14e4a12391b2d059ed841dd4e8f4492b5",
+    "title": "Mac Conwell of RareBreed Ventures & Roy Bahat of Bloomberg Beta on the state of Emerging VC - Venture Unlocked 020",
+    "episode_url": "https://ventureunlocked.substack.com/p/macandroy020",
+    "candidate_id": "candidate:7d64750795ed467011d2",
+    "seconds": 2884.08,
+    "placeholder": false,
+    "source_id": "full:3792300ac9942834d330b118",
+    "disposition": "media_represented_by_supplemental_transcript",
+    "attribution_status": "accepted_model"
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "speaker_resolutions": [
+    {
+      "confirmed": true,
+      "speaker_label": "SPEAKER_02",
+      "reason": "SPEAKER_06 explicitly introduces McKeever Conwell and directly welcomes him; SPEAKER_02 immediately responds to that welcome and later identifies himself as being from Baltimore.",
+      "quotes": [
+        "So I want to introduce our guest this week on the show, on our podcast, McKeever Conwell. McKeever is a software developer and an entrepreneur out of Baltimore. He was part of the NUMI Accelerator and he was later named Entrepreneur in Residence. I'm going to let him talk more about his story. But I do want to welcome McKeever Conwell to the show. Welcome, McKeever.",
+        "Have a good one. Thank you for the welcome. Thank you, thank you, thank you."
+      ],
+      "source": "full:077254d1fbd1853c5654e3f7",
+      "review_method": "Sol textual review of named introduction and direct guest response",
+      "review_model": "gpt-5.6-sol"
+    },
+    {
+      "confirmed": true,
+      "speaker_label": "SPEAKER_02",
+      "reason": "SPEAKER_02 explicitly self-introduces with the phonetically transcribed name \u201cMakiwa Conwell.\u201d The response identifies SPEAKER_00 as Kaela Legato, leaving no ambiguity.",
+      "quotes": [
+        "how's it going everybody It's Makiwa Conwell again, and welcome to this week's edition of the Startup Mac Blog.",
+        "Hey everyone, it's Kaela Legato. Okay. Hey, hey, hey."
+      ],
+      "source": "full:f34d2ebfc36df2df11f5fb2b",
+      "review_method": "Sol textual review of introduction and direct response",
+      "review_model": "gpt-5.6-sol"
+    },
+    {
+      "confirmed": true,
+      "speaker_label": "SPEAKER_01",
+      "reason": "SPEAKER_00 explicitly hands the show to Mac, founder and managing partner of Rare Breed VC, and SPEAKER_01 immediately responds as the guest.",
+      "quotes": [
+        "But that is quite enough for me, so now I'm so excited to hand over to Mac the VC, founder and managing partner at Rare Breed VC.",
+        "Thank you for having me here, man. This is like a crazy moment for me to actually be on the 20-Minute VC show. It's truly an honor."
+      ],
+      "source": "full:7b8c0a9eb4f45e947f237ef2",
+      "review_method": "Sol textual review of introduction and direct response",
+      "review_model": "gpt-5.6-sol"
+    },
+    {
+      "confirmed": true,
+      "speaker_label": "SPEAKER_01",
+      "reason": "SPEAKER_00 explicitly introduces and directly addresses Mac, founder and managing partner of Rare Breed VC; the immediately following reply is from SPEAKER_01. The introduction does not state \u201cMcKeever Conwell,\u201d but it unambiguously identifies the guest by the supplied public name and firm.",
+      "quotes": [
+        "But that is quite enough for me, so now I'm so excited to hand over to Mac the VC, founder and managing partner at Rare Breed VC.",
+        "Mac, this is such a joy to do. I've wanted to do this for a long time, having been a bit of a fan of your Twitter. So, huge pleasure. And thank you so much for joining me today.",
+        "Thank you for having me here, man. This is like a crazy moment for me to actually be on the 20-minute VC show. Like, it's truly an honor."
+      ],
+      "source": "full:919d9b8e9c54e96ba5fe75ea",
+      "review_method": "Sol textual review of introduction and direct response",
+      "review_model": "gpt-5.6-sol"
+    },
+    {
+      "confirmed": true,
+      "speaker_label": "SPEAKER_00",
+      "reason": "SPEAKER_01 introduces a sponsor message as coming from Mac, immediately followed by SPEAKER_00. SPEAKER_00 then explicitly self-identifies as Mac Conwell, Rare Breed Ventures\u2019 founder and managing partner in Baltimore.",
+      "quotes": [
+        "Before we jump into today's episode, here's a quick message from Mac about our sponsor, Republic.",
+        "I am your host, Mac the VC, Mac Conwell, founder and managing partner of Rare Breed Ventures, a pre-C2C venture fund here in Baltimore."
+      ],
+      "source": "full:cedbdb6b84b6561e0c749883",
+      "review_method": "Sol textual review of introduction and direct response",
+      "review_model": "gpt-5.6-sol"
+    }
+  ]
+}
