@@ -104,6 +104,27 @@ def coverage_data(inv,reviews):
             'review_dispositions':dict(Counter(r['identity'] for r in reviews))}
 
 
+def indexed_synthesis(data):
+    """Remove repeated field names and source IDs without discarding findings."""
+    source_index={s['doc_id']:i for i,s in enumerate(data['sources'])}
+    packed={k:v for k,v in data.items() if k not in ('sources','evidence','context')}
+    packed['encoding']=('Each table has columns and rows; map each row position to its column. '
+                        'Evidence/context source values are zero-based row indexes into the sources table. '
+                        'All id values are unchanged: use evidence/context id values for ev/ctx citations, '
+                        'never the source indexes. Every finding and source is included.')
+    for name in ('sources','evidence','context'):
+        records=data[name]
+        columns=list(records[0]) if records else []
+        if any(set(row)!=set(columns) for row in records):
+            raise ValueError('Cannot losslessly index inconsistent synthesis fields')
+        rows=[]
+        for record in records:
+            rows.append([source_index[record[key]] if key=='source' and name!='sources' else record[key]
+                         for key in columns])
+        packed[name]={'columns':columns,'rows':rows}
+    return packed
+
+
 def full_build(inv,reviews,output,generator):
     output=Path(output).resolve()
     if output.exists(): raise FileExistsError(f'Output already exists: {output}')
@@ -117,7 +138,10 @@ def full_build(inv,reviews,output,generator):
         data['evidence']=[{k:v for k,v in e.items() if k not in ('quote','attribution_basis')} for e in entries]
         data['context']=[{k:v for k,v in c.items() if k!='quote'} for c in context]
         payload=json.dumps(data,ensure_ascii=False);input_mode='all_interpretations_and_context_claims'
-    if len(payload)>650000:raise ValueError('Full synthesis exceeds 650,000 characters; reviewed evidence retained in cache')
+    if len(payload)>650000:
+        payload=json.dumps(indexed_synthesis(data),ensure_ascii=False,separators=(',',':'))
+        input_mode='all_interpretations_and_context_claims_indexed_tables'
+    if len(payload)>650000:raise ValueError('Full synthesis exceeds 650,000 characters after lossless indexing; reviewed evidence retained in cache')
     print(f'Synthesizing full memory: {len(entries)} investor excerpts, {len(context)} context facts, {len(payload)} characters',flush=True)
     synthesis=generator.call(SYNTHESIS_RULES+'\nSOURCE_DATA:\n'+payload,SYNTHESIS_SCHEMA,
                              lambda r:validate_synthesis(r,entries,context=context))

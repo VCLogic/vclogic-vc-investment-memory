@@ -7,6 +7,26 @@ from test_check_wiki import synthesis
 
 
 class FullBuildTests(unittest.TestCase):
+    def test_indexed_synthesis_preserves_every_value_and_source_reference(self):
+        from wiki_build.full_build import indexed_synthesis
+        data={'identity':{'canonical_name':'Test'},'warnings':['Missing audio'],
+              'sources':[{'doc_id':'full:a','title':'First','url':'https://a','published_at':None,'kind':'web'},
+                         {'doc_id':'full:b','title':'Second','url':'https://b','published_at':'2020','kind':'web'}],
+              'evidence':[{'id':'ev1','source':'full:b','interpretation':'Distinct preference','label':'founder_qualities'},
+                          {'id':'ev2','source':'full:a','interpretation':'Another preference','label':'founder_qualities'}],
+              'context':[{'id':'ctx1','source':'full:b','claim':'Reported relationship','kind':'company_relationship'}]}
+        before=json.loads(json.dumps(data));packed=indexed_synthesis(data)
+        decoded={k:packed[k] for k in ('identity','warnings')}
+        for name in ('sources','evidence','context'):
+            table=packed[name]
+            decoded[name]=[dict(zip(table['columns'],row)) for row in table['rows']]
+        for row in decoded['evidence']+decoded['context']:
+            row['source']=decoded['sources'][row['source']]['doc_id']
+        self.assertEqual(decoded,before)
+        self.assertEqual(data,before)
+        empty=indexed_synthesis({**data,'evidence':[],'context':[]})
+        self.assertEqual(empty['evidence'],{'columns':[],'rows':[]})
+
     def fixture(self):
         text='I value founders who keep their promises.'
         inv={'vc_slug':'test','identity':{'canonical_name':'Test'},'source_policy':'full_investor_export',
