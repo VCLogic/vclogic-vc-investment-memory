@@ -133,6 +133,14 @@ def inventory(root):
             if target.suffix not in ('.html', '.htm', '.pdf'): continue
             if files[target_rel]['source_ids']: continue
             try:
+                # Some collector podcast enclosures are MP3 bytes saved as HTML.
+                # Keep them in the media ledger instead of decoding binary as evidence.
+                with target.open('rb') as stream:
+                    header = stream.read(10)
+                if header.startswith(b'ID3') and len(header) >= 10 and header[3] in (2, 3, 4):
+                    files[target_rel]['detected_media_type'] = 'audio/mpeg'
+                    files[target_rel]['disposition'] = 'raw_media_derivative'
+                    continue
                 if target.suffix == '.pdf':
                     from pypdf import PdfReader
                     text = '\n\n'.join(page.extract_text() or '' for page in PdfReader(target).pages)
@@ -197,7 +205,8 @@ def complete_media_inventory(inv, root):
         files[rel]['source_ids'] = [source['doc_id']]
     for meta in artifacts.values():
         rel = meta['relative_path']; file = files.get(rel)
-        if not file or file['source_ids'] or not rel.endswith(('.wav','.webm','.m4a','.mp3','.mp4')): continue
+        if not file or file['source_ids']: continue
+        if not file.get('detected_media_type') and not rel.endswith(('.wav','.webm','.m4a','.mp3','.mp4')): continue
         source = transcript_urls.get(url_key(meta.get('source_url')))
         file['disposition'] = 'media_represented_by_transcript' if source else ('reference_voice_sample' if rel.startswith('raw/voice/') else 'media_without_transcript')
         if source: file['source_ids'] = [source['doc_id']]

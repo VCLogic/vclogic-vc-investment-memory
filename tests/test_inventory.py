@@ -34,6 +34,27 @@ class InventoryTests(unittest.TestCase):
         self.assertEqual(len(result['sources']),1)
         self.assertEqual(len(result['sources'][0]['origins']),2)
 
+    def test_mp3_saved_as_html_is_media_not_source_text(self):
+        raw=self.root/'raw';raw.mkdir()
+        (raw/'audio.html').write_bytes(b'ID3\x03\x00\x00\x00\x00\x00\x10binary audio')
+        (raw/'audio.metadata.json').write_text(json.dumps({
+            'artifact_id':'audio','relative_path':'raw/audio.html',
+            'mime_type':'binary/octet-stream','source_url':'https://example.com/audio.mp3'}))
+        result=inventory(self.root)
+        self.assertEqual(result['sources'],[])
+        file=next(f for f in result['files'] if f['path']=='raw/audio.html')
+        self.assertEqual(file['disposition'],'media_without_transcript')
+        self.assertIn('Media without transcript: raw/audio.html',result['warnings'])
+
+        cached=self.root/'state/av_transcripts';cached.mkdir(parents=True)
+        (cached/'audio.json').write_text(json.dumps({
+            'artifact_id':'audio','segments':[{'text':'The actual interview transcript.'}]}))
+        result=inventory(self.root)
+        self.assertEqual(len(result['sources']),1)
+        file=next(f for f in result['files'] if f['path']=='raw/audio.html')
+        self.assertEqual(file['disposition'],'media_represented_by_transcript')
+        self.assertEqual(result['warnings'],[])
+
     def test_escaping_sidecar_path_is_not_read(self):
         (self.root/'bad.json').write_text(json.dumps({'artifact_id':'bad','relative_path':'../private.html','source_url':'x'}))
         result=inventory(self.root)
