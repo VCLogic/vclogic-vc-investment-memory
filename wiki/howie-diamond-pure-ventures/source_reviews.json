@@ -1,0 +1,864 @@
+[
+  {
+    "source": "full:d3fab498e961a3c96e767c75",
+    "part": 1,
+    "identity": "unusable",
+    "reason": "The packet contains only the loading message “Wir schalten ein” and no usable material about Howie Diamond.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "10c2df311b04e9942016ddf604de842e9596f2f30de4dfa3a8ed4cbba23e8fcb"
+  },
+  {
+    "source": "full:5f38a624c35af56b8f433482",
+    "part": 1,
+    "identity": "target",
+    "reason": "The episode page explicitly identifies its guest as “Howie Diamond of Pure Ventures,” matching the resolved investor and affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Bree and Vik dive into a captivating conversation with Howie Diamond of Pure Ventures.",
+        "claim": "The podcast show notes identify Howie Diamond as affiliated with Pure Ventures.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "From his early days in Chicago reminiscent of a John Hughes film to his rockstar nights drumming for Low v. Diamond on shows like Letterman and Leno, Howie's journey is anything but ordinary.",
+        "claim": "The show notes report that Diamond grew up in Chicago and played drums for Low v. Diamond, including appearances on Letterman and Leno.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Now, his focus on consumer packaged goods (CPG) investments and prioritizing founder mental health through his platform, Pilea, showcases a unique blend of life experiences shaping his approach to venture capital.",
+        "claim": "The show notes describe Diamond as focusing on CPG investments and prioritizing founder mental health through Pilea.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "November 07, 2023",
+        "claim": "The page dates the Howie Diamond episode to November 7, 2023.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "4ff45f66b59fd823395bf9f33e6225615ac660b13f0289ce6d5f6395a1e007a3"
+  },
+  {
+    "source": "full:02c451fc76c1e4001c9f1d6e",
+    "part": 1,
+    "identity": "unusable",
+    "reason": "The packet contains only the loading message “Tuning in” and no usable identity or investor material.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "f5fe66c8d0d0e0d94d3863d4e9f91d791fcd46cf14ad5afa11255e8b91e2dfae"
+  },
+  {
+    "source": "full:f05b9bbf66d213ef04462ee9",
+    "part": 1,
+    "identity": "target",
+    "reason": "The episode description explicitly says Lucas Pols speaks with “Howie Diamond from Pure Ventures,” matching the resolved investor.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "In this episode of VC Unfiltered, Lucas Pols, GP at Pegasus Angel Accelerator, sits down with Howie Diamond from Pure Ventures.",
+        "claim": "The podcast description identifies Howie Diamond as affiliated with Pure Ventures.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Discover unique investment strategies, the balance between consumer and frontier tech, and the importance of founder wellness.",
+        "claim": "The episode description reports that the discussion covers Diamond's investment strategies, consumer versus frontier technology, and founder wellness.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Howie shares his journey from solo GP to building Pure Ventures, offering insights and stories that are both enlightening and inspiring.",
+        "claim": "The episode description reports that Diamond progressed from being a solo general partner to building Pure Ventures.",
+        "kind": "biography"
+      },
+      {
+        "quote": "9/4/2025 · 00:00",
+        "claim": "The page dates the episode to September 4, 2025, while displaying a zero-minute processed-audio duration.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "f0b522b45216b0c9f5a06c073d881d3a8570a384c49af657eb7201b271d017d5"
+  },
+  {
+    "source": "full:6ab73071812c5bcda2c8d7ee",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Apple Podcasts description explicitly identifies “Howie Diamond from Pure Ventures,” matching the resolved identity.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "In this episode of VC Unfiltered, Lucas Pols, GP at Pegasus Angel Accelerator, sits down with Howie Diamond from Pure Ventures.",
+        "claim": "The Apple Podcasts description identifies Howie Diamond as affiliated with Pure Ventures.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Discover unique investment strategies, the balance between consumer and frontier tech, and the importance of founder wellness.",
+        "claim": "The episode description reports that Diamond discusses investment strategies, the balance between consumer and frontier technology, and founder wellness.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Howie shares his journey from solo GP to building Pure Ventures, offering insights and stories that are both enlightening and inspiring.",
+        "claim": "The episode description reports that Diamond went from operating as a solo general partner to building Pure Ventures.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Published\nSeptember 4, 2025 at 3:00 PM UTC",
+        "claim": "Apple Podcasts reports that the episode was published on September 4, 2025 at 3:00 PM UTC.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "799880c5a2ac448e1edfb40ca3f18e2042090c74af53123cebc106c919de9ef6"
+  },
+  {
+    "source": "full:b6d8bf854423ee7430f0b4d1",
+    "part": 1,
+    "identity": "unusable",
+    "reason": "Although the title names Howie Diamond of Pure Ventures, the body is only a SoundCloud compatibility and network error with no usable substantive material.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "5fc9ec06a601ead6929d2c5a2a9d86a0fe26ac68f6f42e7e098d57e40cce1760"
+  },
+  {
+    "source": "full:acf9ac5acd59d1c6d377a77f",
+    "part": 1,
+    "identity": "unusable",
+    "reason": "Although the playlist title names Howie Diamond of Pure Ventures, the body is only a SoundCloud compatibility and network error with no usable substantive material.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "854e911733585b47b68c4e0df178fa122da8034ce5bc6de8ccb9862bd8b8248c"
+  },
+  {
+    "source": "full:3d2dbc7d02573497a7067d94",
+    "part": 1,
+    "identity": "unusable",
+    "reason": "The packet contains only the Japanese loading message “チューニング中” and no usable material about the investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "ce5979e5bd676b9456df21945f2e604e7a6de04a94c2cfe9f906d403c1cdd5e2"
+  },
+  {
+    "source": "full:0a1bafb3ba7a7078d0a2971c",
+    "part": 1,
+    "identity": "target",
+    "reason": "The episode index includes a dated entry for “Howie Diamond” explicitly affiliated with Pure Ventures, matching the resolved investor.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Bree and Vik dive into a captivating conversation with Howie Diamond of Pure Ventures.",
+        "claim": "The episode listing identifies Howie Diamond as affiliated with Pure Ventures.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "November 07, 2023\n•\nEpisode 28\n•\n1:23:58",
+        "claim": "The listing dates Diamond's episode 28 to November 7, 2023 and gives its duration as 1:23:58.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "46b2327cf5e382472e1b31fb885bd5d216f618aefe68adb9fe7565426bf3871c"
+  },
+  {
+    "source": "full:c89eb13008e589255c66af75",
+    "part": 1,
+    "identity": "target",
+    "reason": "The episode page identifies Howie Diamond as a co-founder of Atlas and business partner at Alpha Bridge Ventures, affiliations consistent with the Pure Ventures investor's reported history.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Joining me on the podcast today to dive into this topic are Kari Sulenes and Howie Diamond, Co Founders of the wellbeing organisation ‘Atlas’ and Business Partners at ‘Alpha Bridge Ventures’.",
+        "claim": "The podcast page reports that Howie Diamond and Kari Sulenes co-founded Atlas and were business partners at Alpha Bridge Ventures.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Kari has an extensive background in psychology, whilst Howie has a broad background in business, each bringing such unique qualities to the table and furthering the conversation around this issue.",
+        "claim": "The host describes Diamond as having a broad business background.",
+        "kind": "biography"
+      },
+      {
+        "quote": "How Howie’s experience with burnout and imposter syndrome inspired the creation of ‘Alpha Bridge Ventures’ and ‘Atlas’ (1:45)",
+        "claim": "The episode notes report that Diamond's experience with burnout and imposter syndrome inspired Alpha Bridge Ventures and Atlas.",
+        "kind": "biography"
+      },
+      {
+        "quote": "How ‘Alpha Bridge Ventures’ and ‘Atlas’ are related & Why entrepreneur confidentiality was a core belief in the creation of this venture (19:44)",
+        "claim": "The episode notes describe entrepreneur confidentiality as a core belief associated with the creation of the Alpha Bridge Ventures and Atlas initiative.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Background on ‘How Are You Really?’ dinners hosted by ‘Alpha Bridge Ventures’ partners Kari, Howie and Jake (27:49)",
+        "claim": "The episode notes report that Alpha Bridge Ventures partners Kari, Howie, and Jake hosted “How Are You Really?” dinners.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Season 1, Ep. 6\n•\nTuesday, July 28, 2020",
+        "claim": "The page dates this episode featuring Diamond to July 28, 2020.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "5e46a2f175e9fa4431afd83a22699b72ebbfbdd76e4f035f597b464e00ebbf34"
+  },
+  {
+    "source": "full:c89eb13008e589255c66af75",
+    "part": 2,
+    "identity": "other",
+    "reason": "This continuation contains episode material about Jillion Potter, Michael Silverman, and Adam Edelman rather than Howie Diamond.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "3896748d11f48dbd9b57a1ec6badfb1070c16d1b9567d6faa8597a13061a2771"
+  },
+  {
+    "source": "full:1fe2e46a3d5b6a18111e53fe",
+    "part": 1,
+    "identity": "target",
+    "reason": "The third-party profile explicitly names Pure Ventures Managing Director Howie Diamond, matching the resolved investor and firm.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "This distinct approach is championed by Managing Director Howie Diamond, a seasoned fund manager, and Kari Sulenes, who co-founded the Heartwood Collective program.",
+        "claim": "Startup Intros identifies Howie Diamond as Pure Ventures' managing director and a seasoned fund manager, while attributing Heartwood Collective's co-founding to Kari Sulenes.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Pure Ventures is a California-based venture capital firm investing in early-stage companies.",
+        "claim": "Startup Intros describes Pure Ventures as a California venture firm investing at the early stage.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "It uniquely integrates founder well-being and leadership development into its investment strategy.",
+        "claim": "Startup Intros reports that Pure Ventures incorporates founder well-being and leadership development into its investment strategy.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Their model emerged from the insight that a company’s health is directly proportional to its founders’ well-being, addressing a critical, often overlooked aspect of startup success.",
+        "claim": "The aggregator characterizes Pure Ventures' model as treating founder well-being as directly connected to company health.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Pure Ventures primarily serves founders of early-stage companies, aiming to foster resilient leadership.",
+        "claim": "Startup Intros reports that Pure Ventures primarily supports early-stage founders with an emphasis on resilient leadership.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "The latest tracked deal is $7.5M Seed in Wasted in January 2023.",
+        "claim": "The aggregator reports Pure Ventures' latest tracked deal as Wasted's $7.5 million seed round in January 2023; this is a firm-level record, not evidence of a personal Diamond investment.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "e7185b0eb7b6a234ba99d18ab92ec7b412b15b2d42e84d5e93b544c6bbff92ef"
+  },
+  {
+    "source": "full:3b1578db5c343db73d440775",
+    "part": 1,
+    "identity": "target",
+    "reason": "The profile explicitly identifies Howie Diamond as a Pure Ventures leader, matching the resolved investor, although the page is an aggregated Mesh profile rather than his own writing.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Howie Diamond is the co-founder and CEO of Pilea Integrative Coaching, a platform designed to support the mental and emotional well-being of startup founders.",
+        "claim": "The aggregated Mesh profile reports that Diamond co-founded and led Pilea Integrative Coaching, a founder-wellness platform.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "He is also the managing director and general partner at Pure Ventures, an early-stage venture capital firm that emphasizes the importance of founder wellness as a key component of successful entrepreneurship.",
+        "claim": "The aggregated profile reports that Diamond is a managing director and general partner at Pure Ventures and associates the firm with early-stage investing and founder wellness.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "This realization was pivotal in the creation of Pilea, which began as an in-house support service within his previous venture capital firm, Alpha Bridge Ventures, and has since evolved into a standalone platform focused on integrative leadership and wellness coaching.",
+        "claim": "The profile reports that Pilea originated as an in-house service at Diamond's previous firm, Alpha Bridge Ventures, before becoming a standalone platform.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Diamond believes that healthy founders lead to healthier returns for investors, aligning personal well-being with professional achievement.",
+        "claim": "The aggregator attributes to Diamond the investment view that founder health supports investor returns.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "fa06ed51e13c07a873346cb61c1699930ac2bb1d5385363224039fd114fcdc67"
+  },
+  {
+    "source": "full:459f8bf452cdd3b6d22f6b39",
+    "part": 1,
+    "identity": "target",
+    "reason": "Pure Ventures' team page identifies Howie Diamond as its Managing Director and General Partner and describes his prior funds, directly matching the resolved affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "We believe that the health of our companies are directly proportional to the health of our founders",
+        "claim": "Pure Ventures states as its firm thesis that company health is directly related to founder health.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Pure Ventures is the third investment fund Howie has co-founded and managed (formerly, Alpha Bridge Ventures and Ranch Ventures)",
+        "claim": "Pure Ventures reports that Diamond co-founded and managed Pure Ventures after Alpha Bridge Ventures and Ranch Ventures.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "He brings to the table 14+ years of entrepreneurship, investment expertise, operational acumen and has been working intimately with start-ups for the last 10 years.",
+        "claim": "Pure Ventures reports that Diamond has more than 14 years of entrepreneurial and investment experience and a decade of close startup work.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Howie prides himself on being a progressive fund manager by finding new ways to evolve the traditional investor/founder dynamic.",
+        "claim": "Pure Ventures characterizes Diamond's investment approach as seeking to evolve the conventional investor-founder relationship.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "87b621e66dff660146c4e28787b6a9905d5594dec3bbfa26af0a79a80b90bde4"
+  },
+  {
+    "source": "full:baca4f6c4b6fdc156895cefd",
+    "part": 1,
+    "identity": "target",
+    "reason": "This authoritative investor profile names Howie Diamond of Pure Ventures and provides directly attributed investment criteria and Pitch investment records.",
+    "evidence": [
+      {
+        "quote": "I started my fund because I think I can identify talent and read people really well. At the early stage, I'm mostly betting on people.",
+        "label": "founder_qualities",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Diamond says early-stage decisions primarily depend on his assessment of founder talent and character.",
+        "attribution_basis": "The authoritative profile presents this verbatim statement under “What Howie Looks For” and attributes it to Howie Diamond in S1 Ep 12."
+      },
+      {
+        "quote": "There needs to be a moral and ethical code that's aligned.",
+        "label": "mission_alignment_preference",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "Diamond requires moral and ethical alignment when evaluating an investment relationship.",
+        "attribution_basis": "The authoritative profile presents this verbatim statement under “What Howie Looks For” and attributes it to Howie Diamond in S1 Ep 1."
+      },
+      {
+        "quote": "I have a Sunday test. All my founders that I invest in, I have to be able to hang out with them on a Sunday, otherwise I'm not going to invest.",
+        "label": "founder_qualities",
+        "direction": "negative",
+        "support": "explicit",
+        "interpretation": "Diamond will reject founders with whom he lacks sufficient personal compatibility to spend informal time.",
+        "attribution_basis": "The authoritative profile presents this first-person statement under “What Howie Looks For” and attributes it to Howie Diamond in S1 Ep 12."
+      },
+      {
+        "quote": "We don't just invest in ideas and speculation, we invest in execution.",
+        "label": "founder_execution",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Diamond favors demonstrated execution over an opportunity supported only by ideas or speculation.",
+        "attribution_basis": "The authoritative profile presents this statement under “What Howie Looks For” and attributes it to Howie Diamond in S4 Ep 6."
+      }
+    ],
+    "context": [
+      {
+        "quote": "Check size: $25K to $30K",
+        "claim": "The Pitch reports a typical on-show check-size range of $25,000 to $30,000 for Diamond.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Portfolio\nInvestments on The Pitch3 investments\nView Episode\nHardware\nWill This Space Startup Make It off the Ground?\n$25K\nView Episode\nVR/AR\nWhatever Happened to Virtual Reality?\n$25K\nView Episode\nB2B SaaS\n\"I Don't Need Your Money\" Teamable\n$30K·SAFE · $15M post-money cap\nHowie has invested $80K across 3 companies on The Pitch since Season 1.",
+        "claim": "The Pitch reports three investments totaling $80,000: Teamable ($30,000 SAFE at a $15 million post-money cap) and two $25,000 investments associated with the episodes “Will This Space Startup Make It off the Ground?” and “Whatever Happened to Virtual Reality?”. The latter company identities and instruments are unspecified; episode titles are not company names.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Howie Diamond is the Co-Founder and Managing Partner at Pure Ventures, and early stage investment firm that also invests in the development of its founders.",
+        "claim": "The Pitch identifies Diamond as a co-founder and managing partner of Pure Ventures and describes the firm as an early-stage investor supporting founder development.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Also a musician, Howie founded and sold a music management/licensing company in Los Angeles called Lo-Fi Music.",
+        "claim": "The Pitch reports that Diamond founded and sold the Los Angeles music management and licensing company Lo-Fi Music.",
+        "kind": "biography"
+      },
+      {
+        "quote": "After that, he moved to San Francisco and began working closely with dozens of start-ups running business development for a Bay-Area tech agency called Sparkart.",
+        "claim": "The Pitch reports that Diamond subsequently ran business development for Sparkart and worked with numerous startups.",
+        "kind": "biography"
+      },
+      {
+        "quote": "$30K·SAFE · $15M post-money cap",
+        "claim": "The Pitch reports that Diamond's Teamable investment was a $30,000 SAFE with a $15 million post-money cap.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "6f647c1aefde5bec38a32e56fd3e65d9249ac515ac64d6b2b295291e47c57bfc"
+  },
+  {
+    "source": "full:459d7846481da6f16b6d9c9e",
+    "part": 1,
+    "identity": "target",
+    "reason": "The episode announcement explicitly identifies its guest as Howie Diamond from Pure Ventures, matching the resolved investor, but contains no direct quotations from him.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "In this episode of VC Unfiltered, Lucas J Pols, GP at Pegasus Angel Accelerator, sits down with Howie Diamond from Pure Ventures.",
+        "claim": "The publisher reports that Howie Diamond of Pure Ventures appeared as the guest in this VC Unfiltered episode.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Discover unique investment strategies, the balance between consumer and frontier tech, and the importance of founder wellness.",
+        "claim": "The publisher describes Diamond's episode as covering investment strategy, consumer versus frontier technology, and founder wellness.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Howie shares his journey from a solo fund manager to building Pure Ventures, offering insights and stories that are both enlightening and inspiring.",
+        "claim": "The episode announcement reports that Diamond discussed his progression from solo fund manager to building Pure Ventures.",
+        "kind": "biography"
+      }
+    ],
+    "input_fingerprint": "0cb8cce1b7dd0d46e835e0b6d4795c3358ea6ec5252aa8385b0ae6b4307befe3"
+  },
+  {
+    "source": "full:1236da3c68986c7ba751ef25",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Alpha Bridge Ventures article is jointly credited to Kari Sulenes and Howie Diamond and describes Howie as a founder of that fund, connecting the named co-author to the resolved investor's documented prior firm.",
+    "evidence": [
+      {
+        "quote": "At Alpha Bridge Ventures, we invest at the precise moment that founder CEOs are being called to undergo this transition.",
+        "label": "investment_thesis_constraint",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "The co-authors describe Alpha Bridge as investing when founder-CEOs must begin transitioning into scaled-company leaders.",
+        "attribution_basis": "This first-person statement appears in an Alpha Bridge Ventures article jointly bylined “Kari Sulenes and Howie Diamond,” so it is attributable to Diamond as a co-author but not exclusively to him."
+      },
+      {
+        "quote": "Our deep belief is that the qualitative pieces of a business make the difference between companies that merely survive and those that flourish.",
+        "label": "founder_qualities",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "The co-authors state that qualitative factors are central to distinguishing flourishing companies from merely surviving ones.",
+        "attribution_basis": "This first-person statement appears in an Alpha Bridge Ventures article jointly bylined “Kari Sulenes and Howie Diamond,” so it is attributable to Diamond as a co-author but not exclusively to him."
+      },
+      {
+        "quote": "Therefore, we attend to the qualitative first and the quantitative second: people over businesses.",
+        "label": "founder_qualities",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "The co-authors explicitly prioritize evaluating people and qualitative characteristics ahead of quantitative business measures.",
+        "attribution_basis": "This first-person statement appears in an Alpha Bridge Ventures article jointly bylined “Kari Sulenes and Howie Diamond,” so it is attributable to Diamond as a co-author but not exclusively to him."
+      },
+      {
+        "quote": "Being first to a market or the market leader today are not predictive of where the value will be generated tomorrow.",
+        "label": "competitive_advantage_assessment",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "The co-authors do not regard current first-mover or market-leader status as reliably predictive of future value creation.",
+        "attribution_basis": "This statement appears in an Alpha Bridge Ventures article jointly bylined “Kari Sulenes and Howie Diamond,” so it is attributable to Diamond as a co-author but not exclusively to him."
+      },
+      {
+        "quote": "To make those predictions you need to look at the lifeblood of any company, it’s people.",
+        "label": "founder_qualities",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "The co-authors say predictions about future company value should focus on the people behind the company.",
+        "attribution_basis": "This statement appears in an Alpha Bridge Ventures article jointly bylined “Kari Sulenes and Howie Diamond,” so it is attributable to Diamond as a co-author but not exclusively to him."
+      }
+    ],
+    "context": [
+      {
+        "quote": "Having both been founders, Howie and Jake understand first-hand what it feels like to suffer through self-sacrifice, incredible stress, and personal failure in service of moving a company forward.",
+        "claim": "The jointly authored article reports that Diamond and Jake Chapman had both previously been founders and had personal experience with startup stress and failure.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Born of their personal experiences and observations, along with their “people-first” mentality, they founded Alpha Bridge Ventures to help founders overcome these challenges and launched Project Atlas as the fully personalized, all-in-one, solution.",
+        "claim": "The article reports that Diamond and Chapman founded Alpha Bridge Ventures and launched Project Atlas from a people-first approach shaped by their experiences.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "The ideal Project Atlas candidate is a tech start-up founder who has been enduring the stresses of building their company and is ready to move into effective leadership.",
+        "claim": "The article describes Project Atlas as targeting stressed technology-startup founders preparing to become more effective leaders.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Kari Sulenes and Howie DiamondMarch 16, 2018",
+        "claim": "The page credits Kari Sulenes and Howie Diamond and dates the article March 16, 2018.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "ce334ec2c8f5272a20a4b04daf4f5b73b9cfda613adc807c40b9bd53ae380033"
+  },
+  {
+    "source": "full:c7be127a2900ef280735dc31",
+    "part": 1,
+    "identity": "target",
+    "reason": "Pure Ventures' official site identifies Howie Diamond as its Managing Director and General Partner and names his prior funds, directly matching the resolved investor.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "We invest in early stage companies and the personal development of their founders.",
+        "claim": "Pure Ventures states that its firm strategy combines early-stage company investment with investment in founder development.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Our world class founder support program, Heartwood Collective, helps founders solve critical people-related problems and transition into leaders as their companies scale.",
+        "claim": "Pure Ventures reports that its Heartwood Collective program helps portfolio founders address people-related problems and develop as leaders.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Pure Ventures is the third investment fund Howie has co-founded and managed (formerly, Alpha Bridge Ventures and Ranch Ventures)",
+        "claim": "Pure Ventures reports that Diamond co-founded and managed three funds: Ranch Ventures, Alpha Bridge Ventures, and Pure Ventures.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "He brings to the table 14+ years of entrepreneurship, investment expertise, operational acumen and has been working intimately with start-ups for the last 10 years.",
+        "claim": "Pure Ventures reports that Diamond has more than 14 years of entrepreneurial and investment experience and a decade of close startup work.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Howie prides himself on being a progressive fund manager by finding new ways to evolve the traditional investor/founder dynamic.",
+        "claim": "Pure Ventures characterizes Diamond as seeking new approaches to the investor-founder relationship.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "77d41a51f9c66b43f590c0bf915b7ba15519270e3cb2f6281f7ef165514bb308"
+  },
+  {
+    "source": "full:77e9b70a6df9f610c1817c9d",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Alpha Bridge Ventures blog index explicitly credits investment-focused posts to Howie Diamond and aligns him with the resolved investor's documented former firm.",
+    "evidence": [
+      {
+        "quote": "In early stage venture capital, we hear a lot of firms (including our own) say that they invest in people.",
+        "label": "founder_qualities",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Diamond says his early-stage firm is among those that invest in the people behind companies.",
+        "attribution_basis": "The blog index places this passage under “Investing In Human Capital” and immediately credits the post to “Howie Diamond April 16, 2018.”"
+      },
+      {
+        "quote": "Businesses create value in unique ways that are often manifestations of the founders themselves.",
+        "label": "founder_qualities",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Diamond views business value creation as substantially shaped by the founders themselves.",
+        "attribution_basis": "The blog index places this passage under “Investing In Human Capital” and immediately credits the post to “Howie Diamond April 16, 2018.”"
+      }
+    ],
+    "context": [
+      {
+        "quote": "Howie DiamondApril 16, 2018",
+        "claim": "The Alpha Bridge blog index credits “Investing In Human Capital” to Howie Diamond on April 16, 2018.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "For many years Jake (my co-managing director) and I have watched founders struggle through varying degrees of personal turmoil as they build their companies with little to no available support.",
+        "claim": "In a post excerpt, Diamond reports that he and his co-managing director Jake had observed founders struggling without adequate personal support for years.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "At our new fund, Alpha Bridge Ventures, we are stepping up our game by...",
+        "claim": "In the excerpt, Diamond identifies Alpha Bridge Ventures as his and Jake's new fund at the time.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Howie DiamondJanuary 5, 2018",
+        "claim": "The blog index credits “Human Powered ROI: Alpha Bridge Ventures and Project Atlas” to Howie Diamond on January 5, 2018.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "1b69472f48f648d6e7e39d6f2adbb3bbb2ebd2c1ca9d97af5713014f78fb40b9"
+  },
+  {
+    "source": "full:e47675dc3071db3c8152ef66",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Startup Intros page concerns the Pure Ventures and Alpha Bridge Ventures investor, but it contains internally inconsistent and apparently conflated career claims, so only clearly anchored profile records are retained cautiously.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "RoleManaging Partner CompanyAlpha Bridge Ventures StatusActive TypeInvestor",
+        "claim": "Startup Intros lists Diamond as an active investor and managing partner at Alpha Bridge Ventures, though the profile's broader accuracy is questionable.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Co-FounderCurrent Project Atlas Jan 2018 - Present",
+        "claim": "Startup Intros lists Diamond as a Project Atlas co-founder beginning in January 2018, subject to the aggregator's reliability limitations.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Founder, Managing DirectorCurrent Ranch Ventures Jan 2015 - Present",
+        "claim": "Startup Intros lists Diamond as founder and managing director of Ranch Ventures beginning in January 2015, subject to the aggregator's reliability limitations.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Founder/CEO Lo-Fi Music Jan 2011 - Dec 2012",
+        "claim": "Startup Intros lists Diamond as founder and CEO of Lo-Fi Music from January 2011 through December 2012, subject to the aggregator's reliability limitations.",
+        "kind": "biography"
+      }
+    ],
+    "input_fingerprint": "a11c57333c3002302524d73b134a6f35d1c1ff6173f1bede05dae01c79cda0f1"
+  },
+  {
+    "source": "full:91ebea278abcb049bf7add8d",
+    "part": 1,
+    "identity": "target",
+    "reason": "The newsletter explicitly identifies Howie Diamond with Pure Ventures in a podcast listing, matching the resolved investor, but provides no direct quotation from him.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "VC Unfiltered: The Untold Story of VC Success – Howie Diamond (Pure Ventures)",
+        "claim": "The September 6, 2025 newsletter lists a VC Unfiltered episode featuring Howie Diamond of Pure Ventures.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Howie Diamond shares lessons from founding Pure Ventures, including the hard truths of scaling a fund and spotting founders with grit.",
+        "claim": "The newsletter reports that Diamond discussed founding and scaling Pure Ventures and identifying founder grit.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "b8345c8f3365ec612de3f17ba04b52830d082930650a708ec1f6c949a6a8f671"
+  },
+  {
+    "source": "full:88f556223d4c42da5ff574ad",
+    "part": 1,
+    "identity": "target",
+    "reason": "The third-party fund profile identifies Pure Ventures as founded by Howie Diamond and names his prior funds, matching the resolved investor despite being an aggregator.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Founded by Howie Diamond, Pure Ventures is the third investment fund he has co-founded, following Alpha Bridge Ventures and Ranch Ventures.",
+        "claim": "Waveup reports that Diamond founded Pure Ventures after co-founding Alpha Bridge Ventures and Ranch Ventures.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "The firm focuses on consumer sectors like CPG, e-commerce, and marketplaces, while also venturing into deep tech fields such as biotech, AI, robotics, and aerospace.",
+        "claim": "Waveup characterizes Pure Ventures' sector focus as spanning consumer categories and deep technology.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "One of the unique elements of Pure Ventures is its integration with Pilea, a sister platform dedicated to supporting founder health, wellness, and leadership development.",
+        "claim": "Waveup reports that Pure Ventures integrates with Pilea as a sister platform for founder wellness and leadership development.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "The firm’s portfolio includes companies like MUD\\WTR, a functional beverage startup, and Juneshine, a better-for-you alternative alcohol brand.",
+        "claim": "Waveup reports MUD\\WTR and Juneshine as Pure Ventures portfolio companies; this is a fund-level relationship, not a personal investment claim about Diamond.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Average check $500K-$1M $3M-$10M $10M-$50M",
+        "claim": "Waveup displays multiple ambiguous average-check ranges for Pure Ventures, which should not be treated as a single reliable check-size figure.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "e10c6c398417d943aa086933099093738eff6d506b006d2cb973bc50e0dc38f6"
+  },
+  {
+    "source": "full:5aaf7925514b29b50c1901cb",
+    "part": 1,
+    "identity": "target",
+    "reason": "The first-person venture-capital article is bylined Howie Diamond and identifies Jake as his fellow Alpha Bridge manager, consistent with the supplied Pitch account linking Jake Chapman to the resolved investor.",
+    "evidence": [
+      {
+        "quote": "It follows that investors must consider the people variables first.",
+        "label": "founder_qualities",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "He explicitly prioritizes founder-related factors when evaluating investments.",
+        "attribution_basis": "The first-person article is bylined Howie Diamond and its Jake/Alpha Bridge details align with the supplied sources about the resolved venture investor."
+      },
+      {
+        "quote": "These bets are typically placed as a function of having deep conviction for the founder’s ability to “figure it out”, “do the right thing” and “never die”.",
+        "label": "founder_execution",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "He values resourcefulness, sound judgment, and persistence in founders.",
+        "attribution_basis": "The first-person article is bylined Howie Diamond and its Jake/Alpha Bridge details align with the supplied sources about the resolved venture investor."
+      },
+      {
+        "quote": "At Alpha Bridge Ventures, we came together around a shared investment thesis that when entrepreneurs build THEMSELVES first and foremost, they in turn build better, more sustainable and resilient companies.",
+        "label": "investment_thesis_constraint",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "His stated thesis favors companies whose founders deliberately develop their own leadership and resilience.",
+        "attribution_basis": "The first-person article is bylined Howie Diamond and expressly presents the thesis as his firm's shared investment approach."
+      },
+      {
+        "quote": "Because we invest in post seed stage companies with a clear path to their Series A, we spend the initial 8–12 months post-investment prepping the founders for their growth stages.",
+        "label": "investment_thesis_constraint",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "He states a post-seed focus on companies with a clear Series A path.",
+        "attribution_basis": "The first-person article is bylined Howie Diamond and describes the author's firm's investment stage and post-investment practice."
+      },
+      {
+        "quote": "You can’t take a company further than you’ve taken yourself, so we aim to provide founders with the tools necessary to grow into the leaders who fundamentally change the world.",
+        "label": "investor_value_add_fit",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "He views leadership development as an important form of investor support for portfolio founders.",
+        "attribution_basis": "The first-person article is bylined Howie Diamond and states what his firm aims to provide its founders."
+      }
+    ],
+    "context": [
+      {
+        "quote": "We’ve allocated a portion of our fund to pay for leadership, wellness and personal support services for the founders we back through our integrated development platform, Project Atlas.",
+        "claim": "Diamond states that Alpha Bridge allocated fund resources to leadership, wellness, and personal-support services for backed founders through Project Atlas.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Howie DiamondApril 16, 2018",
+        "claim": "The page displays Howie Diamond's byline with the date April 16, 2018.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "b63b53d494d8d2b90841cc72f895e940cafec7d303b229b41bbd29b0e4adbbb1"
+  },
+  {
+    "source": "full:db2fe9a7b97cd1148929c7a7",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Bloomberg profile explicitly identifies Howie Diamond as a co-founder and senior investor at Pure Ventures, the resolved affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "General Partner/Mng Dir/Co-Founder, Pure Ventures",
+        "claim": "Bloomberg identifies Howie Diamond as General Partner, Managing Director, and Co-Founder of Pure Ventures.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "09605f80620d9a7fe6c646127befa2f4441e842f49bffc78e3616a87c4804207"
+  },
+  {
+    "source": "full:b27eb550df5d5f1219711ece",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Pitch's origin account places Howie Diamond among the investors recruited by Jake Chapman, consistent with the resolved investor's authoritative profile on The Pitch.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "In 2016, we would try one last push to make the show work.",
+        "claim": "The author dates The Pitch's final attempt to establish its revised format to 2016.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Phil Nadel and Jake Chapman were the first investors to say they would invest on the spot. Then, Jake pulled in Howie Diamond and Jillian Manus.",
+        "claim": "The Pitch co-founder reports that Jake Chapman recruited Howie Diamond and Jillian Manus after Chapman and Phil Nadel agreed to serve as on-the-spot investors.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "ff3f2a8d37d4c60c732cfccbc8e313b48a5e218259342f8843318762c144ddd4"
+  },
+  {
+    "source": "full:7dae02dcef917f3b58913782",
+    "part": 1,
+    "identity": "target",
+    "reason": "The first-person VC article is bylined Howie Diamond and identifies Jake as his Alpha Bridge co-managing director, matching the Jake Chapman connection reported by The Pitch for the resolved investor.",
+    "evidence": [
+      {
+        "quote": "Recent research as well as our personal experience suggests that happy, healthy founders are more likely to overcome challenges and be in better positions to win as they scale their companies.",
+        "label": "founder_execution",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "He believes founder wellbeing improves resilience and execution during scaling.",
+        "attribution_basis": "The first-person article is bylined Howie Diamond and its Jake/Alpha Bridge details align with the supplied sources about the resolved venture investor."
+      },
+      {
+        "quote": "I think it is the responsibility of investors and advisors to step up to the plate and embolden a new conversation around founder self-care.",
+        "label": "investor_value_add_fit",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "He explicitly believes investors should actively support founder self-care.",
+        "attribution_basis": "The bylined first-person article directly attributes this stated responsibility to Howie Diamond."
+      },
+      {
+        "quote": "As an early stage investor, I put my support behind people and ideas. I look for founders who have natural leadership abilities, who inspire those around them and retain the talent necessary to carry out their dreams.",
+        "label": "founder_qualities",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "He favors founders who demonstrate leadership, inspire others, and retain talent.",
+        "attribution_basis": "The bylined first-person article directly presents these as Howie Diamond's founder-selection criteria."
+      },
+      {
+        "quote": "When assessing portfolio founders, I look for grit, determination, perseverance, confidence, resiliency, drive, relentlessness, belief in the impossible, and the ability to win at all costs.",
+        "label": "founder_qualities",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "He explicitly assesses founders for persistence, confidence, resilience, drive, and ambition.",
+        "attribution_basis": "The bylined first-person article directly presents this list as Howie Diamond's assessment criteria."
+      },
+      {
+        "quote": "As we know, companies can only grow within the bounds of their leader’s abilities.",
+        "label": "founder_qualities",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "He treats founder leadership capacity as a constraint on company growth.",
+        "attribution_basis": "The statement appears in a first-person article bylined Howie Diamond within his explanation of founder assessment."
+      },
+      {
+        "quote": "This made me wonder, “Do I feel good about profiting from a company that compromises the founder’s personal wellness and self development?” The simple answer is, “No, I do not.”",
+        "label": "mission_alignment_preference",
+        "direction": "negative",
+        "support": "explicit",
+        "interpretation": "He expresses personal opposition to returns achieved at the expense of founder wellness and development.",
+        "attribution_basis": "The bylined first-person article directly records Howie Diamond's question and answer."
+      },
+      {
+        "quote": "Alpha Bridge aims to close that gap by meeting each founder where they are and leading with inclusiveness, permission, and genuine care.",
+        "label": "investor_value_add_fit",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "His firm intends to provide portfolio support grounded in accessibility and personal care.",
+        "attribution_basis": "The first-person article is bylined Howie Diamond and explicitly describes his firm's support approach."
+      }
+    ],
+    "context": [
+      {
+        "quote": "At our new fund, Alpha Bridge Ventures, we are stepping up our game by re-imagining what founder support looks like.",
+        "claim": "Diamond describes Alpha Bridge Ventures as his and Jake's new fund and says it was redesigning founder support.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "As a former entrepreneur, solo fund manager and professional artist, I’ve experienced the roller coaster ride of stress, anxiety, self doubt, sleepless nights, and 80 hour work weeks.",
+        "claim": "Diamond describes himself as a former entrepreneur, solo fund manager, and professional artist.",
+        "kind": "biography"
+      },
+      {
+        "quote": "We are currently working with researchers and experts in the space of self-care and professional development to create a program that addresses the needs of our founders without adding hoops or hindrances.",
+        "claim": "Diamond states that Alpha Bridge was developing a founder self-care and professional-development program with researchers and experts.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Howie DiamondJanuary 5, 2018",
+        "claim": "The page displays Howie Diamond's byline with the date January 5, 2018.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "bf95dfbea28ae2b189e9aa0119c0a171028f4c9f6ec178ee96984bd70acab90c"
+  },
+  {
+    "source": "full:ddb28c133961f06544feac5e",
+    "part": 1,
+    "identity": "target",
+    "reason": "The article explicitly identifies its featured Howie Diamond with Pure Ventures, the resolved investor's affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "VC Unfiltered · Venture Capital · Sep 3, 2025",
+        "claim": "The page labels this VC Unfiltered article as dated September 3, 2025.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Howie Diamond | Pure Ventures",
+        "claim": "The article identifies Howie Diamond with Pure Ventures.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Howie shares his journey from a solo fund manager to building Pure Ventures, offering insights and stories that are both enlightening and inspiring.",
+        "claim": "The article reports that Diamond progressed from being a solo fund manager to building Pure Ventures.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Discover unique investment strategies, the balance between consumer and frontier tech, and the importance of founder wellness.",
+        "claim": "The article describes the interview as covering investment strategy, a balance between consumer and frontier technology, and founder wellness.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "b00802edee70c7e4408521027875d436e8a932e385f8b94de50df721d894ca85"
+  },
+  {
+    "source": "full:ca42aa5ce555e73eebfe7d63",
+    "part": 1,
+    "identity": "unusable",
+    "reason": "Although the supplied title names Howie Diamond, the retrieved text is only Adapt.io's generic B2B prospecting landing page and contains no investor profile or attributable material.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "9ba5535b113530022f6e124bc4e03924058ca482ff76a59cd2a05d46de130be3"
+  }
+]

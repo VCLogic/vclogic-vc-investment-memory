@@ -1,0 +1,1048 @@
+[
+  {
+    "source": "full:2bec909756f9fb51bf0e40ee",
+    "part": 1,
+    "identity": "other",
+    "reason": "The packet is a Google Trends page for Cyprus and contains no mention of Jesse Middleton, Flybridge, Upromise, or XFactor Ventures.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "49477f1c3d81b86a406520898bd1e71b96bd3e2e66aec714d72ff1a75c4c4127"
+  },
+  {
+    "source": "full:1c7dbd027dd43a5e8447388b",
+    "part": 1,
+    "identity": "unusable",
+    "reason": "The packet contains only Yahoo privacy-consent controls and no accessible article or investor-related material.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "fb3154ce7cd1b0b6607c17cae4bfda7585b26045c15776b091ee5f0909ad2f5c"
+  },
+  {
+    "source": "full:4b5b12bf06429b13021c4c5b",
+    "part": 1,
+    "identity": "target",
+    "reason": "The profile explicitly identifies Jesse Middleton as a Flybridge general partner and describes his WeWork operating history and investment focus, matching the resolved investor.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jesse Middleton—employee #5 at WeWork and co-founder of WeWork Labs—brings rare operator experience and guides founders toward 50x growth scenarios while actively educating them on fundraising, positioning, and standout pitching.",
+        "claim": "VC Sheet reports that Jesse Middleton was WeWork employee number five, co-founded WeWork Labs, and advises founders about high-growth scenarios, fundraising, positioning, and pitching.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Stages their fund invests in\nPre-Seed\nSeed\nSeries A\nN/A\nSectors their fund invests in\nAI\nEnterprise\nFintech\nConsumer\nSaaS\nN/A\nAvg Check\n$1.5M\nN/A\nDoes their fund Lead?\nYes",
+        "claim": "VC Sheet reports that Middleton's fund invests from pre-seed through Series A across AI, enterprise, fintech, consumer, and SaaS, with a stated $1.5 million average check and a willingness to lead.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Jesse Middleton was employee #5 at WeWork where he co-founded WeWork Labs, giving him rare operator experience in scaling a globally recognized community-centric company before becoming a VC at Flybridge.",
+        "claim": "VC Sheet reports that Middleton became a venture capitalist at Flybridge after serving as an early WeWork employee and co-founding WeWork Labs.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "He focuses on helping founders identify specific 50x growth scenarios rather than incremental improvements, and actively educates founders through detailed content on fundraising, positioning, and how to stand out in pitches.",
+        "claim": "VC Sheet characterizes Middleton as emphasizing specific 50x growth scenarios over incremental improvements and helping founders with fundraising and positioning.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Prioritizes founder obsession and fluency with tools over traditional prestige or resumes. He argues that since technology is now cheap and instant, the investors' focus has shifted to backing individuals who have an unconventional view of the world and are experimenting with tools before standard playbooks exist.",
+        "claim": "VC Sheet's social-media synthesis reports that Middleton prioritizes founder obsession, tool fluency, unconventional perspectives, and early experimentation over prestige or résumés.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Skepticism regarding speed of execution as a long-term competitive advantage. He views moving fast as merely the price of entry rather than a defensive moat, suggesting that lasting companies must build something structural—like complex data models—rather than just relying on a slick user interface or quick shipping.",
+        "claim": "VC Sheet's social-media synthesis reports that Middleton does not view execution speed alone as a durable moat and favors structural advantages such as complex data models.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Flybridge operates a \"Next Wave\" model where 50+ founders and operators from companies like Anthropic, NVIDIA, and OpenAI run pre-seed funds that Flybridge anchors and supports, allowing them to see 5x more opportunities than typical seed funds while staying deliberately small with partners making only 8-10 investments per fund.",
+        "claim": "VC Sheet reports that Flybridge anchors operator-run pre-seed funds through its Next Wave model and keeps partner portfolios to 8–10 investments per fund.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "3fc593a8bae4ff00756a3e941d0be631e52e301b6fbdd4875a5af034460e4929"
+  },
+  {
+    "source": "full:f503b566e0d42a89951c8d2c",
+    "part": 1,
+    "identity": "other",
+    "reason": "The packet is a one-line political Facebook-group post with no textual connection to Jesse Middleton or his identified affiliations.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "a4031f010adeecbaf802335fbe8b931088fd9edbff803ca49e732a358843406d"
+  },
+  {
+    "source": "full:7a75a1016b94f5e0e8a363f5",
+    "part": 1,
+    "identity": "other",
+    "reason": "The packet is a GitHub page displaying a Spanish word-frequency file and contains no material about Jesse Middleton or investing.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "1ce570490f626b45b2a79640e07d8ef6cfc407e0576a5645c4c2890a93385d52"
+  },
+  {
+    "source": "full:1a30937c52d8453ef923fb98",
+    "part": 1,
+    "identity": "target",
+    "reason": "The homepage identifies the publication as written by Jesse Middleton and lists a dated “10 Years @ Flybridge” post, tying the author to the resolved investor's Flybridge affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Written by\nJesse Middleton",
+        "claim": "The Jesse's Letter homepage identifies Jesse Middleton as its author.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Jun 15, 2026\n•\n1 min read\n10 Years @ Flybridge 🎊",
+        "claim": "The homepage lists a June 15, 2026 post by Middleton titled “10 Years @ Flybridge,” indicating a ten-year Flybridge association as presented by the first-party site.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Sep 10, 2025\n•\n3 min read\nOur new $100M fund",
+        "claim": "The homepage lists a September 10, 2025 post by Middleton titled “Our new $100M fund,” without supplying further fund details.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Jul 17, 2026\n•\n3 min read\nPaying Twice for Intelligence: The Open Source Moment and Our Bet on Arcee",
+        "claim": "The homepage lists a July 17, 2026 post by Middleton describing an unspecified collective “Bet on Arcee”; the excerpt does not establish the deal structure or Middleton's personal participation.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "9982906905ab80bd37fce9bfaea06751b9a06e8fe677c858bf9583af03ffe444"
+  },
+  {
+    "source": "full:0b421f234ec4186efdce7b73",
+    "part": 1,
+    "identity": "other",
+    "reason": "The packet concerns Bob Iger, Disney succession, and unrelated entertainment stories, with no mention of Jesse Middleton or his identified affiliations.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "1f7bf94a2755f54fb4b75dcdcc9f80a6547e7199820bd8cbb2d0959864efbadc"
+  },
+  {
+    "source": "full:0b421f234ec4186efdce7b73",
+    "part": 2,
+    "identity": "other",
+    "reason": "The packet consists of unrelated Spanish-language entertainment stories and site navigation, with no mention of Jesse Middleton, Flybridge, Upromise, or XFactor Ventures.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "5b7408670e4907ab38d93b53f0190379548fceb203c57077965cb72ef0c638a1"
+  },
+  {
+    "source": "full:634fd64dc3650e630c3789c8",
+    "part": 1,
+    "identity": "other",
+    "reason": "This is the Futures Industry Association homepage about derivatives regulation and industry resources, with no material concerning Jesse Middleton or his resolved affiliations.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "cb1920cee3105d11ab0dc565f43c4eff28e8d643f7612598c5c0dd3dac01a124"
+  },
+  {
+    "source": "full:02c451fc76c1e4001c9f1d6e",
+    "part": 1,
+    "identity": "unusable",
+    "reason": "Although the title names Jesse Middleton and Flybridge, the supplied body contains only “Tuning in” and therefore provides no usable material.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "28a2a25db8b8215618d1cfb8ae2f7275d2ed58034dcce2c1d042b1647894e98e"
+  },
+  {
+    "source": "full:d0a96ff0d94493e162a59163",
+    "part": 1,
+    "identity": "other",
+    "reason": "The search-results page covers unrelated people and programs bearing variants of Jesse or Middleton, but contains no result attributable to the resolved Jesse Middleton of Flybridge.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "885015b233ded97b80c2cf19d18f8aad63f59390a345404c5a8d00ef62a1ccd5"
+  },
+  {
+    "source": "full:c0b34471907312636e087bd8",
+    "part": 1,
+    "identity": "target",
+    "reason": "The episode page explicitly identifies its guest investor as Jesse Middleton, a General Partner at the resolved affiliation Flybridge, and reports his professional background.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Friday, January 31, 2025",
+        "claim": "The episode page dates this appearance to January 31, 2025.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Today's guest investor: Jesse Middleton is a General Partner at Flybridge, which has invested in companies like BetterCloud, Bowery, Chief, Codecademy, Firebase, MongoDB, and Splice.",
+        "claim": "The episode page identifies Jesse Middleton as a General Partner at Flybridge and separately reports examples of Flybridge portfolio companies.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "He is also an Investment Partner at Next Wave NYC and The Community Fund, was a founding team member at WeWork, and led the technology group at LivePerson.",
+        "claim": "The episode page reports that Middleton was an Investment Partner at Next Wave NYC and The Community Fund, a founding WeWork team member, and leader of LivePerson's technology group.",
+        "kind": "biography"
+      },
+      {
+        "quote": "He’s also served as a key advisor to companies like fitmob, inDinero, and Squire.",
+        "claim": "The episode page reports that Middleton advised fitmob, inDinero, and Squire.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "2ce6945ebe3c9e98853358002f69467a8d665dc79761e003cb2145ca58346002"
+  },
+  {
+    "source": "full:c0b34471907312636e087bd8",
+    "part": 2,
+    "identity": "other",
+    "reason": "This continuation lists unrelated pitches featuring guest investor Ihar Mahaniok and host Sherveen Mashayekhi, without any passage about or attributed to Jesse Middleton.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "05bb46c2186128497be640168077ba2a4979a4dafcb9030f252b8dbeddbf68ef"
+  },
+  {
+    "source": "full:fa4e7fb6854521e4a6794493",
+    "part": 1,
+    "identity": "target",
+    "reason": "The podcast description explicitly identifies Jesse Middleton as a Flybridge General Partner and supplies professional and investment-history details consistent with the resolved investor.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Released: Aug 31, 2016",
+        "claim": "The podcast page reports that the episode was released on August 31, 2016.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Jesse Middleton is a General Partner @ Flybridge Capital Partners.",
+        "claim": "The 2016 podcast description identifies Jesse Middleton as a General Partner at Flybridge Capital Partners.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Prior to joining Flybridge, Jesse was an early executive at WeWork, one of the fastest growing and most valuable startups in history.",
+        "claim": "The podcast description reports that Middleton was an early WeWork executive before joining Flybridge.",
+        "kind": "biography"
+      },
+      {
+        "quote": "He co-founded WeWork Labs in 2011, and ran WeWork X, M&A, startup investments, business and digital product development as well as inside sales during his five-year tenure at the company.",
+        "claim": "The podcast description reports that Middleton co-founded WeWork Labs in 2011 and held several operating and investment responsibilities during five years at WeWork.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Prior to WeWork, Jesse was the co-founder and CEO of Backstory, a venture backed startup.",
+        "claim": "The podcast description reports that Middleton was Backstory's co-founder and CEO before WeWork.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Jesse also has experience as a prolific angel investor having invested in the like of Fitmob (acq by ClassPass) YourTrove acq by LiveNation and inDinero, who you might remember we had Jessica Mah, Founder @ inDinero on the show.",
+        "claim": "The podcast description reports that Middleton made angel investments in Fitmob, YourTrove, and inDinero.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Jesse’s Most Recent Investment: Squire",
+        "claim": "The 2016 episode description reports Squire as Middleton's most recent investment at that time.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "6a6ff41325d6a508ed1ae6c05a52806b7d57a025a973e9b37d6ed15e53ad7349"
+  },
+  {
+    "source": "full:007c0df795656e9125dce58e",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page explicitly lists “Jesse Middleton from Flybridge” and describes an episode featuring Jesse Middleton of Flybridge, matching the resolved investor, although it provides no attributed verbatim remarks from him.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "S1E1 - Jesse Middleton from Flybridge 4 Nov 2024· Lumos House Talks",
+        "claim": "Podtail lists a Lumos House Talks episode featuring Jesse Middleton from Flybridge on November 4, 2024.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Hear from Jesse Middleton of Flybridge and Bogdan Savonea as they discuss the importance of community, the challenges and triumphs of startup life, and what they look for in successful founders.",
+        "claim": "The episode description reports that Middleton participated in a discussion about startup communities, startup life, and successful founders.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "34acd9c117d13e16e872d6c54a365ba2242c98228fc4e1eb7a88a0dba3e0eea1"
+  },
+  {
+    "source": "full:e5a198735fbfb75eddc4e2ff",
+    "part": 1,
+    "identity": "other",
+    "reason": "The content is solely a sales listing for the chkd.ai domain and contains no reference to Jesse Middleton or his investing activities.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "4fdb990aceb2ad07ddb23d9db6116d9a7f2092ef8348ea239c427c81f7a38f6a"
+  },
+  {
+    "source": "full:80339db54d265d8f9e43ed47",
+    "part": 1,
+    "identity": "target",
+    "reason": "The report explicitly identifies Jesse Middleton as a Flybridge General Partner and Community Fund co-founder, matching the resolved investor.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jesse Middleton General Partner at Flybridge Co-Founder The Community Fund Investment Fundamentals",
+        "claim": "Parallel18’s 2020–2021 impact report lists Jesse Middleton as a top mentor, identifies him as a Flybridge General Partner and Community Fund co-founder, and associates him with an Investment Fundamentals session.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "be423f0778cb764062aed3c188c130586e63dfc51073185d7bfc58cb856255fa"
+  },
+  {
+    "source": "full:80339db54d265d8f9e43ed47",
+    "part": 2,
+    "identity": "other",
+    "reason": "This portion of the Parallel18 report discusses program operations and outcomes but contains no material about Jesse Middleton.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "cdb49bfe71ffe4dc09e13379342cb974d1e000078d6f37e5947edb169d1d3be6"
+  },
+  {
+    "source": "full:d8ad0f8f55120df0a845af5c",
+    "part": 1,
+    "identity": "other",
+    "reason": "The page only announces the November 2024 closure of Shopmium US and contains no reference to Jesse Middleton.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "f2236c7c3e5d260f68a7dd7fd979efb61ab29e0e799ed7d8e004109fc4fa842f"
+  },
+  {
+    "source": "full:0cd3eb46436d1f760e4ad60f",
+    "part": 1,
+    "identity": "target",
+    "reason": "This Flybridge profile names Jesse Middleton and describes his Flybridge, WeWork, angel-investing, and portfolio history, consistently matching the resolved investor.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "As an early WeWork executive who helped scale the company to 4,000 employees across multiple continents, and later as an angel investor with a 16x portfolio MOIC, Jesse has consistently backed transformative companies reshaping how we work, collaborate, and build community.",
+        "claim": "The Flybridge profile reports that Middleton was an early WeWork executive and later achieved a 16x portfolio MOIC as an angel investor.",
+        "kind": "biography"
+      },
+      {
+        "quote": "In the last few years, Jesse's focus has turned to investing in Full-Stack AI Native Applications —These products are often manifested as an end-user product for consumers, prosumers, and SMBs, and were impossible to build just a few years ago.",
+        "claim": "The profile reports that Middleton’s recent investment focus has shifted toward full-stack AI-native applications for consumers, prosumers, and SMBs.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Over the past decade, Jesse has invested in over 50 companies, both as an angel investor and venture capitalist, laying the groundwork for the future of collaboration, communication, culture, and creativity.",
+        "claim": "The profile reports that Middleton invested in more than 50 companies over the prior decade as an angel investor and venture capitalist, emphasizing collaboration, communication, culture, and creativity.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "During his time as an angel investor, he served as an key advisor to several early-stage technology startups, providing them with valuable guidance and support. Notable ventures included fitmob (acq. by ClassPass), inDinero, Jackpocket (acq. by DraftKings), Squire, and YourTrove (acq. by LiveNation).",
+        "claim": "The profile reports that Middleton advised several early-stage technology startups during his time as an angel investor, including fitmob, inDinero, Jackpocket, Squire, and YourTrove.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Jesse became a General Partner at Flybridge in 2016 and has been an integral part of the last three funds leading investments in companies like Arcee, CarEdge, Chief, HiFi (acquired by Square), Imperfect Foods (acquired by Misfits Markets), Splice, and Teal.",
+        "claim": "The profile reports that Middleton became a Flybridge General Partner in 2016 and led investments including Arcee, CarEdge, Chief, HiFi, Imperfect Foods, Splice, and Teal.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "He most recently created Next Wave NYC, a pre-seed fund that allows builders of iconic New York companies to back the next generation of founders in their community.",
+        "claim": "The profile reports that Middleton created Next Wave NYC as a pre-seed fund connecting builders of New York companies with emerging founders.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Before Jesse leapt into the startup world, he led the technology group at LivePerson (NASDAQ: LPSN) and was a network security engineer for a number of Global 2000 public and private companies.",
+        "claim": "The profile reports that Middleton previously led LivePerson’s technology group and worked as a network security engineer.",
+        "kind": "biography"
+      }
+    ],
+    "input_fingerprint": "6789e8beb0edf2008d42df2d26e7128deefba3a5f00a94231cddb26049f04a2b"
+  },
+  {
+    "source": "full:f3dd4d64c612846830b1223a",
+    "part": 1,
+    "identity": "other",
+    "reason": "The page describes an RSS-feed search tool and contains no reference to Jesse Middleton or investing.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "44a3c924368585c10250457c0ce62f5c5ac3778f2d3982383d3fe83776ecf790"
+  },
+  {
+    "source": "full:f8d87f5542ab636ef603c968",
+    "part": 1,
+    "identity": "unusable",
+    "reason": "The packet contains only the title “@jessemiddleton.com on Bluesky,” with no profile text or usable material establishing identity or investment views.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "690732a941b912d8191d7f6fd53ff89edc081df6af9db184bc5eb1b7b865bb62"
+  },
+  {
+    "source": "full:fe1249ad9b1d6d01ee3347de",
+    "part": 1,
+    "identity": "target",
+    "reason": "Mercury explicitly identifies Jesse Middleton as a Flybridge General Partner and supplies career and investment details consistent with the resolved investor.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jesse is a General Partner at Flybridge, a seed fund based in NYC and Boston that invests in ambitious founders leveraging the power of community.",
+        "claim": "Mercury identifies Middleton as a Flybridge General Partner and characterizes Flybridge as a seed fund investing in founders who leverage community.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Jesse focuses on consumer and B2B companies building in the future of work, the creator economy, and membership platforms.",
+        "claim": "Mercury reports that Middleton focuses on consumer and B2B companies in the future of work, creator economy, and membership-platform themes.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Prior to joining Flybridge, Jesse was an early executive and founding team member at WeWork, and co-founded WeWork Labs.",
+        "claim": "Mercury reports that Middleton was an early WeWork executive and founding team member who co-founded WeWork Labs.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Jesse was also an active angel investor before turning to venture full time and now has a portfolio of 30+ companies including Chief, Commsor, Imperfect Foods, JackPocket, LaunchHouse, Ohi, Splice, Squire, and Teal.",
+        "claim": "Mercury reports that Middleton was an active angel investor before becoming a full-time venture investor and attributes a portfolio of more than 30 companies to him.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Jesse is also the co-founder of The Community Fund, an operator-led micro-fund investing in underestimated founders across the globe.",
+        "claim": "Mercury identifies Middleton as a co-founder of The Community Fund, described as an operator-led micro-fund investing globally in underestimated founders.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Jesse invests across a number of industries but has a focus on founders focused on leveraging community to drive stronger growth, better retention, and a more authentic connection between their brands and users.",
+        "claim": "Mercury reports that Middleton favors founders using community to strengthen growth, retention, and brand-user relationships.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "His thematic investment strategy spans across the future of work, the urban millennial, the creator economy, membership platforms, and social/commerce communities.",
+        "claim": "Mercury describes Middleton’s thematic strategy as spanning the future of work, urban millennials, the creator economy, membership platforms, and social or commerce communities.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Stages Pre-seed, Seed Check Range $500K-$1M Geography Israel, Latin America, Southeast Asia, US/Canada Leads Rounds Prefers to",
+        "claim": "Mercury reports that Middleton invests at pre-seed and seed, with a $500,000–$1 million check range, across Israel, Latin America, Southeast Asia, and the United States or Canada, and prefers to lead rounds.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "12bb5bd3abeae4084dbdd41936a63f6578d4a3b2320102060bbac5fe4f21d20b"
+  },
+  {
+    "source": "full:03bfbcdceef99caf354b9245",
+    "part": 1,
+    "identity": "target",
+    "reason": "The self-titled page identifies Jesse Middleton as “GP @ Flybridge” and uses first-person language to state his check size and investment focus, matching the resolved investor.",
+    "evidence": [
+      {
+        "quote": "I write $1M-$3M checks",
+        "label": "fund_economics_constraint",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "Middleton states that his typical investment checks are between $1 million and $3 million.",
+        "attribution_basis": "The statement is written in the first person on a page headed “Jesse Middleton” that identifies its subject as “GP @ Flybridge,” matching the resolved investor."
+      },
+      {
+        "quote": "founders who are building AI infrastructure, agents, and prosumer applications that 10x human potential.",
+        "label": "investment_thesis_constraint",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Middleton explicitly favors founders building AI infrastructure, agents, and prosumer applications intended to amplify human capabilities.",
+        "attribution_basis": "This passage completes the first-person investment statement on a page headed “Jesse Middleton” and identifying him as “GP @ Flybridge.”"
+      }
+    ],
+    "context": [
+      {
+        "quote": "Jesse Middleton GP @ Flybridge",
+        "claim": "The first-person profile identifies Jesse Middleton as a General Partner at Flybridge.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "c83e31836f3c9b5341e0338bff1ed8860eeb86204ae97453890e64ebfbf58589"
+  },
+  {
+    "source": "full:a7617f73852130c55f8e0060",
+    "part": 1,
+    "identity": "target",
+    "reason": "The episode page explicitly identifies its guest as Jesse Middleton, General Partner at Flybridge Capital Partners, matching the resolved investor, but includes no verbatim transcript of his remarks.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "\"Rejection Redefined\" w/ Jesse Middleton, General Partner at Flybridge Gayle Jennings-O'Byrne Oct 23, 2024",
+        "claim": "The page lists an October 23, 2024 episode featuring Jesse Middleton as a Flybridge General Partner.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Jesse Middleton, General Partner at Flybridge Capital Partners, known for his expertise in building platforms and communities, goes off the record to share insights into pitching to venture capital investors.",
+        "claim": "The episode description identifies Middleton as a Flybridge Capital Partners General Partner and reports that he discussed pitching to venture investors.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "He offers valuable guidance for founders navigating the startup ecosystem, ranging from what Jesse looks for in new investments to advice on when not to use \".ai\" in your company's name and what he likes to call the \"Pied Piper effect\" in entrepreneurship.",
+        "claim": "The episode description reports that Middleton discussed his criteria for new investments, company naming, and a concept he calls the Pied Piper effect.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "66c32bb27530ffd22e00cc8dc62dbc017bf409b249cc812e66d06af70074c7a0"
+  },
+  {
+    "source": "full:208e82007317bbabb6343a3a",
+    "part": 1,
+    "identity": "target",
+    "reason": "The TechDay press release explicitly identifies Jesse Middleton as a Flybridge Capital Partners GP and Next Wave NYC co-founder/investment partner, matching the resolved investor.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Other highlights of this year’s TechDay Expo include a series of panel discussions led by more than a dozen of the most successful venture capitalists in the ecosystem. Together, these investors, including Ben Sun, Co-founder and GP at Primary Venture Partners; Olivia O’Sullivan, Partner at Forum Ventures; and Jesse Middleton, GP at Flybridge Capital Partners and Co-founder and Investment Partner at Next Wave NYC, have a combined $5B in assets under management.",
+        "claim": "In a May 1, 2024 press release, TechDay reported that Jesse Middleton, described as a Flybridge GP and Next Wave NYC co-founder and investment partner, would participate among the investors leading panel discussions at its May 10 expo.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "6bac995f644b6f0446b26bc9ab2ef026b47d32841668b82a82ec027796eac5df"
+  },
+  {
+    "source": "full:84f9d76ecc8b1f8935912fb1",
+    "part": 1,
+    "identity": "target",
+    "reason": "Flybridge’s authoritative team page has a dedicated Jesse Middleton profile identifying him as its General Partner and describing his investment interests and history.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jesse Middleton\nGeneral Partner\nINVESTMENT INTERESTS\nFuture of Work • Native AI Applications • Serial Entrepreneurs",
+        "claim": "Flybridge’s team page lists Jesse Middleton as a General Partner whose stated investment-interest categories are the future of work, native AI applications, and serial entrepreneurs.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Jesse spotted the remote work revolution over a decade before COVID. As an early WeWork executive who helped scale the company to 4,000 employees across multiple continents, and later as an angel investor with a 16x portfolio MOIC, Jesse has consistently backed transformative companies reshaping how we work, collaborate, and build community.",
+        "claim": "Flybridge describes Middleton as an early WeWork executive and later angel investor with a reported 16x portfolio MOIC, associating his investing with companies changing work, collaboration, and community.",
+        "kind": "biography"
+      },
+      {
+        "quote": "In the last few years, Jesse's focus has turned to investing in Full-Stack AI Native Applications.",
+        "claim": "Flybridge reports that Middleton’s recent investment focus has shifted to full-stack AI-native applications.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Jesse became a General Partner at Flybridge in 2016 and has been an integral part of the last three funds leading investments in companies like Arcee, CarEdge, Chief, HiFi (acquired by Square), Imperfect Foods (acquired by Misfits Markets), Splice, and Teal.",
+        "claim": "Flybridge reports that Middleton became a General Partner in 2016 and led investments including Arcee, CarEdge, Chief, HiFi, Imperfect Foods, Splice, and Teal.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "6daa066ea0a9bf6aa2eb132fcff8f272acd444109403704fc6a6e2e7bfb904ca"
+  },
+  {
+    "source": "full:6db82234b68db16c84642d22",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Mesh-aggregated profile consistently identifies Jesse Middleton through the resolved Flybridge role and additional WeWork and Next Wave NYC anchors, although it is not a first-party source.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jesse Middleton is a General Partner at Flybridge Capital Partners, a seed-stage venture capital firm based in Boston and New York City.24 He joined Flybridge in 2016 and has been an integral part of the last three funds, leading investments in companies like Arcee, CarEdge, Chief, HiFi (acquired by Square), Imperfect Foods (acquired by Misfits Markets), Splice, and Teal.2",
+        "claim": "The Mesh aggregator reports that Middleton joined Flybridge in 2016, serves as a General Partner, and has led investments including Arcee, CarEdge, Chief, HiFi, Imperfect Foods, Splice, and Teal.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Prior to his role at Flybridge, Jesse was an early executive at WeWork, where he co-founded WeWork Labs in 2011 and ran WeWork X, M&A, startup investments, business, and digital product development.4 He played a crucial role in scaling WeWork to 4,000 employees across multiple continents.2",
+        "claim": "The Mesh aggregator describes Middleton as an early WeWork executive who co-founded WeWork Labs in 2011 and later ran several WeWork functions.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Jesse's investment focus centers on the future of work, particularly in areas such as creativity, culture, collaboration, and communication.3 He has invested in over 50 companies as both an angel investor and venture capitalist.2 Recently, his focus has turned to investing in Full-Stack AI Native Applications for consumers, prosumers, and SMBs.2",
+        "claim": "The Mesh aggregator reports a future-of-work investment focus spanning creativity, culture, collaboration, and communication, a portfolio of more than 50 companies, and a recent emphasis on full-stack AI-native applications for consumers, prosumers, and SMBs.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "In addition to his work at Flybridge, Jesse created Next Wave NYC, a pre-seed fund that allows builders of iconic New York companies to back the next generation of founders in their community.2",
+        "claim": "The Mesh aggregator reports that Middleton created Next Wave NYC as a pre-seed fund connecting builders of New York companies with emerging founders.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "37fc33d68e9845e55025682a357489514371b613278df87cbcf281defcc18b5d"
+  },
+  {
+    "source": "full:db18bf4d57c6fe60d6c0002e",
+    "part": 1,
+    "identity": "target",
+    "reason": "The fund guide explicitly names Jesse Middleton as a GP of Flybridge Capital Fund VII alongside matching firm and investment-strategy details.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Flybridge Capital Fund VII — $100M, vintage 2025 (September 2025), NYC and Boston. Seventh seed fund. Pre-seed checks up to $250K, seed $1–3M. AI infrastructure, agentic business apps, AI-native applications. GPs: Jeff Bussgang, Chip Hazard, Jesse Middleton. Portfolio: MongoDB, Firebase, BetterCloud, Codecademy, FalconX.",
+        "claim": "In a May 5, 2026 guide, Intersection reported that Flybridge Capital Fund VII was a $100 million September 2025-vintage seed fund, named Middleton among its GPs, and described its check sizes and AI-focused strategy.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "386bbb52c67bc44c76b5261643ae1b355b5f07f613ef10eb1519b71ae3d96915"
+  },
+  {
+    "source": "full:db18bf4d57c6fe60d6c0002e",
+    "part": 2,
+    "identity": "other",
+    "reason": "The fund guide discusses numerous venture firms and investors but contains no mention of Jesse Middleton, Flybridge, Upromise, or XFactor Ventures.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "d336e7c15db637af2ef9ee629e4506201d1d1f9cb7bf4d9f067754122877a01e"
+  },
+  {
+    "source": "full:f817101787f65b2e0e47f571",
+    "part": 1,
+    "identity": "target",
+    "reason": "The episode title and biography explicitly identify Jesse Middleton as a Flybridge Capital Partners general partner and former WeWork executive, matching the resolved investor.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jesse Middleton is a General Partner @ Flybridge Capital Partners.",
+        "claim": "The 20VC show notes identify Jesse Middleton as a general partner at Flybridge Capital Partners.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Prior to joining Flybridge, Jesse was an early executive at WeWork, one of the fastest growing and most valuable startups in history.",
+        "claim": "The show notes report that Middleton was an early WeWork executive before joining Flybridge.",
+        "kind": "biography"
+      },
+      {
+        "quote": "He co-founded WeWork Labs in 2011, and ran WeWork X, M&A, startup investments, business and digital product development as well as inside sales during his five-year tenure at the company.",
+        "claim": "The show notes report that Middleton co-founded WeWork Labs in 2011 and held several operating and investment responsibilities during five years at WeWork.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Prior to WeWork, Jesse was the co-founder and CEO of Backstory, a venture backed startup.",
+        "claim": "The show notes report that Middleton was co-founder and CEO of Backstory before WeWork.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Jesse also has experience as a prolific angel investor having invested in the like of Fitmob (acq by ClassPass) YourTrove acq by LiveNation and inDinero, who you might remember we had Jessica Mah, Founder @ inDinero on the show.",
+        "claim": "The show notes attribute angel investments in Fitmob, YourTrove, and inDinero to Middleton.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "20VC\nAug 31, 2016\nShare",
+        "claim": "The source dates this 20VC episode to August 31, 2016.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Jesse’s Most Recent Investment: Squire",
+        "claim": "The 2016 show notes describe Squire as Middleton's most recent investment at that time.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "fa81f1242c35d6919f34a68866bf9f6e36e982b2cfbabdae6a39ca04532357c3"
+  },
+  {
+    "source": "full:10ea787cc14056772ef93f6f",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Signal profile explicitly identifies Jesse Middleton as a Flybridge Capital Partners general partner, matching the resolved identity despite evident noise in its experience section.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "General Partner at Flybridge Capital Partners",
+        "claim": "Signal identifies Middleton as a general partner at Flybridge Capital Partners.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Investment Range\n$250K - $3.0M\nSweet Spot\n$1M",
+        "claim": "Signal reports an investment range of $250,000–$3 million and a $1 million sweet spot for Middleton; this is an aggregator-reported investment profile.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "General Partner Flybridge Capital Partners2016 - Present",
+        "claim": "Signal reports that Middleton has served as a Flybridge Capital Partners general partner since 2016.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Head of WeWork X WeWork2013 - 2016",
+        "claim": "Signal reports that Middleton led WeWork X from 2013 through 2016.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Co-Founder WeWork Labs2011 - 2016",
+        "claim": "Signal reports that Middleton was a co-founder of WeWork Labs from 2011 through 2016.",
+        "kind": "biography"
+      }
+    ],
+    "input_fingerprint": "ac807dec9a333538eb6a8502b7abeada183e1f9119f72e7d2f9d20e9e6092313"
+  },
+  {
+    "source": "full:fa26ec3d8c1ec0664c56884b",
+    "part": 1,
+    "identity": "unusable",
+    "reason": "The GitHub page only reports that an unrelated CSV is too large to preview and provides no usable material about Jesse Middleton.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "89b5985d2a60f49622d1e35e331c74ba40a21144988b0ce9b6c885a6d852e7c5"
+  },
+  {
+    "source": "full:69671aafbee21fdc8adc6464",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page identifies the interview guest as Flybridge general partner and former WeWork executive Jesse Middleton and explicitly attributes several quoted answers to him.",
+    "evidence": [
+      {
+        "quote": "The companies that tend to the operators that tend to be the most successful tend to be the ones that are just amazing at putting their heads down, not trying to do everything at one time, but being capable of doing everything at one time.",
+        "label": "founder_execution",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "Middleton associates strong operators with disciplined focus combined with the versatility to handle many functions when necessary.",
+        "attribution_basis": "The page identifies Middleton as the interview guest and introduces this quotation as his view of the operator qualities he seeks as an investor."
+      },
+      {
+        "quote": "Sometimes shifted a bit could be a massive shift, like bourbon to Instagram. And in other cases, it's just a little tweak on the model.",
+        "label": "founder_coachability_assessment",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "Middleton views responsiveness to evidence as potentially requiring anything from a small model adjustment to a major pivot.",
+        "attribution_basis": "The quotation appears in the section summarizing Middleton's discussion of founder flexibility and vision adaptation."
+      },
+      {
+        "quote": "Giving hard or critical feedback in a friendly and helpful way is definitely an acquired skill.",
+        "label": "investor_value_add_fit",
+        "direction": "neutral",
+        "support": "inferred",
+        "interpretation": "Middleton regards constructive delivery of difficult feedback as an investor capability that must be developed.",
+        "attribution_basis": "The page explicitly introduces this statement as Jesse's acknowledgment of the challenge of giving founders constructive criticism."
+      },
+      {
+        "quote": "It's a business of kind of outliers.",
+        "label": "investment_upside_assessment",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Middleton characterizes venture capital as requiring investments capable of outlier outcomes.",
+        "attribution_basis": "The page explicitly attributes this quotation to Jesse in its section on his transition from angel investing to venture capital."
+      },
+      {
+        "quote": "The question that I sort of ask myself is, as a company grows and it becomes more successful, big question for me is whether or not not playing an active role in those major decisions post series A or series B becomes something that I miss.",
+        "label": "investor_value_add_fit",
+        "direction": "neutral",
+        "support": "inferred",
+        "interpretation": "Middleton values active involvement and questions whether reduced participation after Series A or B will fit his preferred investing role.",
+        "attribution_basis": "The page explicitly describes this quotation as Jesse reflecting on his involvement with portfolio companies as they mature."
+      },
+      {
+        "quote": "Being a great problem solver entails kind of, I think two things. One is being able to learn rapidly about almost any subject... The second component is then being able to sort of break down this challenge into small enough chunks.",
+        "label": "founder_qualities",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "Middleton defines strong problem-solving as rapid learning plus decomposition of challenges into manageable pieces.",
+        "attribution_basis": "The page explicitly presents this quotation as Jesse's perspective on effective problem-solving."
+      },
+      {
+        "quote": "One of my more recent investments though, is a company called Squire... And these are just two incredible founders, Dave and Song, who have started from zero startup experience to now having built a product that has grown their revenue since I invested only a handful of months ago by 40 x.",
+        "label": "founder_execution",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Middleton cites the Squire founders' rapid capability development and 40-fold revenue growth after his investment as evidence of exceptional execution.",
+        "attribution_basis": "The page explicitly identifies this as Jesse explaining his investment in Squire and his assessment of its founders."
+      }
+    ],
+    "context": [
+      {
+        "quote": "In this episode of the 20 Minutes VC, host Harry Stebbings interviews Jesse Middleton, a new general partner at Flybridge Capital Partners and former WeWork executive.",
+        "claim": "The page identifies Middleton as a new Flybridge general partner and former WeWork executive at the time of the interview.",
+        "kind": "biography"
+      },
+      {
+        "quote": "I left WeWork a few months ago to say I'm going to focus full time on investing.",
+        "claim": "Middleton states that he had recently left WeWork to invest full time.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "We have documented over 19,000 companies that we've looked at.",
+        "claim": "Middleton states that his firm had documented more than 19,000 evaluated companies as a resource for investment learning.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "One of my more recent investments though, is a company called Squire... And these are just two incredible founders, Dave and Song, who have started from zero startup experience to now having built a product that has grown their revenue since I invested only a handful of months ago by 40 x.",
+        "claim": "Middleton identifies Squire as one of his recent investments and says its revenue had increased fortyfold within months of his investment.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "5e5c41175feb5a5e52f1eb5495b63566d0a23195e59fdb6f433386a09175a9f3"
+  },
+  {
+    "source": "full:2855d5d3e93e11b5b013f462",
+    "part": 1,
+    "identity": "uncertain",
+    "reason": "The packet contains only an Instagram account title for @jesse_middletonn, with no affiliation or collection identity link connecting the account to the resolved Flybridge investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "3db399b140085ea9a51a915495773decfd344b2902fd61f52fa084721c8ea841"
+  },
+  {
+    "source": "full:cc0b3707062bb6c549132aed",
+    "part": 1,
+    "identity": "other",
+    "reason": "This packet concerns U.S. Air Force records about reported flying discs from 1950–1952 and contains no relevant material about resolved investor Jesse Middleton of Flybridge, Upromise, or XFactor Ventures.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "54730a06fa2a80003a31936e1137cc8891aff4c66770080a6f31afd5ef36087b"
+  },
+  {
+    "source": "full:cc0b3707062bb6c549132aed",
+    "part": 2,
+    "identity": "other",
+    "reason": "This packet continues historical military documentation about the Mariana and Newhouse unidentified-object films and contains no relevant material about resolved investor Jesse Middleton of Flybridge, Upromise, or XFactor Ventures.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "12c81b82d19c574b660f2b782cde64e459f44aa31e81ad22c0f631f8fe6e4b8c"
+  },
+  {
+    "source": "full:cc0b3707062bb6c549132aed",
+    "part": 3,
+    "identity": "other",
+    "reason": "This packet consists of 1952 U.S. Air Force Project Blue Book correspondence about flying-saucer reports and contains no material about Jesse Middleton, Flybridge, Upromise, or XFactor Ventures.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "7701681bfb68faa1ff2b685bcbb3bbe80e0e2225da23621c16417a82965bf73a"
+  },
+  {
+    "source": "full:cc0b3707062bb6c549132aed",
+    "part": 4,
+    "identity": "other",
+    "reason": "This packet continues 1952 U.S. Air Force Project Blue Book records concerning unidentified-flying-object reports and contains no material about Jesse Middleton or his resolved affiliations.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "32cfc4c3f96baafeabfe422096fa1f46a3eafa6dc2449ad94b1df25ce3b21081"
+  },
+  {
+    "source": "full:cc0b3707062bb6c549132aed",
+    "part": 5,
+    "identity": "other",
+    "reason": "This packet consists of 1952 U.S. Air Force correspondence and reports about unidentified flying objects and contains no material about the resolved investor Jesse Middleton or his affiliations with Flybridge, Upromise, or XFactor Ventures.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "99e4635db562665e5e04cc912cf11a4e452fe1245714c4fb77916bfc1909e04e"
+  },
+  {
+    "source": "full:cc0b3707062bb6c549132aed",
+    "part": 6,
+    "identity": "other",
+    "reason": "This packet concerns 1952 U.S. Air Force Project Blue Book records, and its only Middleton is explicitly identified as Herbert H. Middleton, president of John Middleton Inc., not the resolved investor Jesse Middleton.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "919eee71a007c853814960a2ef89ee65400ebb51675b2d342982098aceb0be7c"
+  },
+  {
+    "source": "full:cc0b3707062bb6c549132aed",
+    "part": 7,
+    "identity": "other",
+    "reason": "This packet consists of 1952 U.S. Air Force correspondence and reports concerning unidentified flying objects and Project Blue Book, with no mention of Jesse Middleton, Flybridge, Upromise, or XFactor Ventures.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "8d920648a9277f647e5383aa0986d10e54bc2318e88de946ed55593898320fa7"
+  },
+  {
+    "source": "full:cc0b3707062bb6c549132aed",
+    "part": 8,
+    "identity": "other",
+    "reason": "This packet contains 1952 letters and U.S. Air Force records about “flying saucers” and Project Blue Book, including correspondence from G. Francis Nauheimer, John M. Hollywood, and John C. Weber, but no material about Jesse Middleton or his resolved affiliations.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "8ff40e20907a2b77370a5acf15ed92ed71c1796e74baa1a2df3a8670f0d35dff"
+  },
+  {
+    "source": "full:cc0b3707062bb6c549132aed",
+    "part": 9,
+    "identity": "other",
+    "reason": "This packet consists of 1952 U.S. Air Force and Project Blue Book correspondence about unidentified flying objects, with no mention of Jesse Middleton, Flybridge, Upromise, or XFactor Ventures.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "01d0776048848d6c5db27ddbfeb65f8520f8d6ff1ccae34fac5e5fd6e225a058"
+  },
+  {
+    "source": "full:cc0b3707062bb6c549132aed",
+    "part": 10,
+    "identity": "other",
+    "reason": "This packet contains 1952 U.S. Air Force investigations and correspondence concerning alleged flying-object incidents and unrelated individuals such as Charles Walter Storm and H. D. Springer, with no connection to the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "3ad29540aac8853f633f777e2b4b9f9b4ad1713ca7b4459a25eb059ae94a4810"
+  },
+  {
+    "source": "full:cc0b3707062bb6c549132aed",
+    "part": 11,
+    "identity": "other",
+    "reason": "This packet continues unrelated 1952 Project Blue Book material about H. D. Springer, Samuel P. Jones, and reported unidentified objects, and contains no material about Jesse Middleton or his identified affiliations.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "6f9fc3996c7b3b2cf87bb0e2a386567297e1b8d5dde21cbd3aab9245cb5fbe09"
+  },
+  {
+    "source": "full:467422da952c86fc638d9cc4",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Embarc Collective report explicitly identifies Jesse Middleton as a General Partner at Flybridge, matching the resolved investor, but attributes no substantive quotation to him.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jesse Middleton, General Partner at Flybridge",
+        "claim": "Embarc Collective's 2022 report identifies Jesse Middleton as a General Partner at Flybridge.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "32f1ac946c36796debb067438dff84a4a62ffffd9a16b3f204b6b3eab6daac1b"
+  },
+  {
+    "source": "full:353f1e1cbaefba20f2dc82c2",
+    "part": 1,
+    "identity": "other",
+    "reason": "This generic People Inc. publisher page contains no mention of Jesse Middleton, Flybridge, Upromise, XFactor Ventures, or other material tied to the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "05bdd43ea419a6953d569427fc95a9b4132d5c5121cc58219ca18f8666b0ac20"
+  },
+  {
+    "source": "full:6d50873c4cfd67092dcd634d",
+    "part": 1,
+    "identity": "target",
+    "reason": "Flybridge's website names Jesse Middleton within its team perspectives and associates him with the future of work, native AI, and agentic business applications, matching the resolved affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jesse Middleton\nfuture of work, native ai, agentic business applications",
+        "claim": "Flybridge's website associates Jesse Middleton's investment perspective with the future of work, native AI, and agentic business applications.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "602932ca5a24d38e193ebc01d6dfda17e9eaf108f46826cd64d88ea991e9de3f"
+  },
+  {
+    "source": "full:e99a3c20257569700fd0b142",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Equilar profile identifies Jesse Middleton as a Flybridge General Partner and describes an investment and operating history consistent with the resolved investor.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Over the past decade, Jesse has invested in more than 50 companies, both as an angel investor and venture capitalist, laying the groundwork for the future of collaboration, communication, culture, and creativity.",
+        "claim": "The Equilar profile reports that Middleton invested in more than 50 companies over the preceding decade as an angel and venture capitalist, with themes spanning collaboration, communication, culture, and creativity.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "By strategically investing in and supporting companies that align with these themes, Jesse aims to contribute to the evolution of how we work and interact over the next decade and beyond.",
+        "claim": "The profile characterizes Middleton's investment approach as supporting companies aligned with changes in how people work and interact.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "During his time as an angel investor, he served as an key advisor to several early-stage technology startups, providing them with valuable guidance and support. Notable ventures included fitmob (acq. by ClassPass), inDinero, Jackpocket (acq. by DraftKings), Squire, and YourTrove (acq. by LiveNation).",
+        "claim": "The profile reports that Middleton advised several early-stage technology startups while angel investing, including fitmob, inDinero, Jackpocket, Squire, and YourTrove.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Jesse became a General Partner at Flybridge in 2016 and has been an integral part of the last three funds, leading investments in companies like Arcee, CarEdge, Chief, HiFi (acquired by Square), Imperfect Foods (acquired by Misfits Markets), Splice, and Teal.",
+        "claim": "The profile reports that Middleton became a Flybridge General Partner in 2016 and led investments including Arcee, CarEdge, Chief, HiFi, Imperfect Foods, Splice, and Teal.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Jesse built and supported a community of thousands of founders in WeWork Labs.",
+        "claim": "The profile reports that Middleton built and supported a community of thousands of founders through WeWork Labs.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "He most recently created Next Wave NYC, a pre-seed fund that allows builders of iconic New York companies to back the next generation of founders in their community.",
+        "claim": "The profile reports that Middleton created Next Wave NYC, described as a pre-seed fund through which New York company builders back new founders.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Before Jesse leapt into the startup world, he led the technology group at LivePerson (NASDAQ: LPSN) and was a network security engineer for a number of Global 2000 public and private companies.",
+        "claim": "The profile reports that before entering startups, Middleton led LivePerson's technology group and worked as a network security engineer for Global 2000 companies.",
+        "kind": "biography"
+      }
+    ],
+    "input_fingerprint": "df74dca7b4ba76e49969413085d28e80ab2fecb98552003891b1dd96398b83be"
+  },
+  {
+    "source": "full:0804ace7438afd771ea70494",
+    "part": 1,
+    "identity": "other",
+    "reason": "The Project Agora report concerns Santa Fe coworking research by Mark Johnson and Adam Shaening-Pokrasso and contains no attributable material about Jesse Middleton or his resolved affiliations.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "b2f7cf1bbc17d82b9d4c927ac70804a75dd2b9d0312d52368ee06cf01f6dfe69"
+  },
+  {
+    "source": "full:0804ace7438afd771ea70494",
+    "part": 2,
+    "identity": "other",
+    "reason": "This portion of the Project Agora report discusses Santa Fe coworking policy and ecosystem recommendations but contains no mention of Jesse Middleton or material explicitly attributable to him.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "7fe1f56085c8eb60a3c014e6c6180430756806391acf092850298fce4811ce73"
+  },
+  {
+    "source": "full:0804ace7438afd771ea70494",
+    "part": 3,
+    "identity": "target",
+    "reason": "The report explicitly identifies “Jesse Middleton, VC at Flybridge” and attributes to him a distinct statement about the conditions under which coworking succeeds.",
+    "evidence": [
+      {
+        "quote": "Coworking as a concept only works at scale.",
+        "label": "business_viability_concern",
+        "direction": "negative",
+        "support": "explicit",
+        "interpretation": "Middleton believes coworking is not viable as a concept without sufficient scale.",
+        "attribution_basis": "The report introduces the passage with “Jesse Middleton, VC at Flybridge and Co-founder of WeWork said:” and presents this sentence within that attributed quotation."
+      },
+      {
+        "quote": "The struggle is creating an environment that is so appealing that it draws people from the far corners.",
+        "label": "product_appeal_assessment",
+        "direction": "neutral",
+        "support": "inferred",
+        "interpretation": "Middleton identifies an exceptionally appealing environment with a wide geographic draw as a key requirement for coworking success.",
+        "attribution_basis": "The sentence appears within the passage explicitly introduced as a statement by “Jesse Middleton, VC at Flybridge and Co-founder of WeWork.”"
+      },
+      {
+        "quote": "It's not so much the coworking space that matters, it's things outside the coworking space.",
+        "label": "product_success_factor_assessment",
+        "direction": "neutral",
+        "support": "inferred",
+        "interpretation": "Middleton views surrounding amenities and attractions as more important to coworking success than the workspace itself.",
+        "attribution_basis": "The sentence appears within the passage explicitly introduced as a statement by “Jesse Middleton, VC at Flybridge and Co-founder of WeWork.”"
+      }
+    ],
+    "context": [
+      {
+        "quote": "Jesse Middleton ​ , VC at Flybridge and Co-founder of WeWork said:",
+        "claim": "The July 2017 Project Agora report describes Jesse Middleton as a Flybridge venture capitalist and a co-founder of WeWork.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Starting in November 2016, we began meetings with stakeholders throughout Santa Fe and Northern New Mexico.",
+        "claim": "The report says its stakeholder conversations, which later include the attributed Middleton passage, began in November 2016.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "d854f0df081c982be1ed718214c102e8eda6fda038c15160de087043e7a39ddf"
+  },
+  {
+    "source": "full:c2d2960b402338ea79b18c3b",
+    "part": 1,
+    "identity": "target",
+    "reason": "The profile repeatedly identifies Jesse Middleton as a Flybridge Capital Partners general partner, matching the resolved investor, although it contains no direct quotations from him.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "General PartnerCurrent\nFlybridge Capital Partners\nJan 2016 - Present",
+        "claim": "The Startup Intros profile reports that Middleton has been a general partner at Flybridge Capital Partners since January 2016.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Head of WeWork X\nWeWork\nJan 2013 - Dec 2016",
+        "claim": "The profile reports that Middleton served as Head of WeWork X from January 2013 through December 2016.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Co-Founder\nWeWork Labs\nJan 2011 - Dec 2016",
+        "claim": "The profile reports that Middleton was a co-founder of WeWork Labs from January 2011 through December 2016.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "He also co-launched The Community Fund, a $5 million investment vehicle, and established the Next Wave NYC pre-seed fund.",
+        "claim": "The aggregator reports that Middleton co-launched the $5 million Community Fund and established the Next Wave NYC pre-seed fund.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Middleton currently focuses on seed-stage investments in artificial intelligence, business-to-business software, and community-driven enterprises.",
+        "claim": "The aggregator describes Middleton's investment focus as seed-stage AI, B2B software, and community-driven companies.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "b7f2773752612086db25bbf06e6e618c861aae9d1e4719944e82a1d4da389813"
+  },
+  {
+    "source": "full:17a2416c915b9e09a1d33a69",
+    "part": 1,
+    "identity": "unusable",
+    "reason": "The packet contains only a truncated Facebook title about a June 25 birthday and provides no usable text identifying or discussing Jesse Middleton.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "3d61b108978aeb22f6b1e68503eca267c995fd564c413e6257fd03214f7e5d56"
+  }
+]

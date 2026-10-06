@@ -1,0 +1,98 @@
+[
+  {
+    "quote": "It sounds like a bad idea, which I like. Hence, Bad Ideas.",
+    "label": "investment_thesis_constraint",
+    "direction": "positive",
+    "support": "explicit",
+    "interpretation": "Bamberger expresses an affirmative preference for opportunities that initially appear unconventional or counterintuitive.",
+    "attribution_basis": "The authoritative Beck Bamberger investor profile presents this quotation under “Investment Thesis” and “What Beck Looks For.”",
+    "source": "full:7ac4b3b937234784008d20d4",
+    "id": "beck-bamberger-bad-ideas-group-0001",
+    "normalized_char_start": 450,
+    "normalized_char_end": 508
+  },
+  {
+    "quote": "I love where there's a deep connective fiber to a certain audience. If you get in with one, you're easily sold to the next five, because they're all super connected.",
+    "label": "go_to_market_strategy_assessment",
+    "direction": "positive",
+    "support": "explicit",
+    "interpretation": "She favors tightly connected customer communities in which one successful sale can facilitate several additional sales.",
+    "attribution_basis": "The authoritative Beck Bamberger investor profile presents this quotation under “Investment Thesis” and “What Beck Looks For.”",
+    "source": "full:7ac4b3b937234784008d20d4",
+    "id": "beck-bamberger-bad-ideas-group-0002",
+    "normalized_char_start": 522,
+    "normalized_char_end": 687
+  },
+  {
+    "quote": "I want to hear that intensity. That's what I want to hear where I'm like, you're gonna fight to the end because you know this is a $4 billion company.",
+    "label": "founder_qualities",
+    "direction": "positive",
+    "support": "explicit",
+    "interpretation": "She looks for founders who communicate intense commitment and determination to pursue a very large outcome.",
+    "attribution_basis": "The authoritative Beck Bamberger investor profile presents this quotation under “Investment Thesis” and “What Beck Looks For.”",
+    "source": "full:7ac4b3b937234784008d20d4",
+    "id": "beck-bamberger-bad-ideas-group-0003",
+    "normalized_char_start": 701,
+    "normalized_char_end": 851
+  },
+  {
+    "quote": "Every company, every founder, and every venture capital fund needs to understand that the time is now to make changes. Not because you have to or want to, but simply because it’s the right thing to do.",
+    "label": "mission_alignment_preference",
+    "direction": "positive",
+    "support": "inferred",
+    "interpretation": "Her statement suggests strong personal alignment with organizations and founders that take substantive action on diversity, equity, and inclusion, though it does not state an investment rule.",
+    "attribution_basis": "The article explicitly introduces the material as “A letter from BAM CEO Beck Bamberger,” and the quotation appears within that first-person letter.",
+    "source": "full:5b4bff55cb080a8cee65e532",
+    "id": "beck-bamberger-bad-ideas-group-0004",
+    "normalized_char_start": 2153,
+    "normalized_char_end": 2354
+  },
+  {
+    "quote": "None of these adjectives matter unless you can prove to the committee, with hard and specific data, how you back up your audacious claims.",
+    "label": "founder_communication_quality",
+    "direction": "positive",
+    "support": "inferred",
+    "interpretation": "In an awards and media context, Bamberger favors specific quantitative substantiation over unsupported superlatives when a startup presents its claims.",
+    "attribution_basis": "The page carries a BECK BAMBERGER byline, identifies her as BAM’s CEO and founder, and presents this passage in first person as her advice.",
+    "source": "full:8f5c98601f990832bca237a2",
+    "id": "beck-bamberger-bad-ideas-group-0005",
+    "normalized_char_start": 4803,
+    "normalized_char_end": 4941
+  },
+  {
+    "quote": "All of our winning award and speaking submissions over the last two years have included customer quotes, testimonials and narratives.",
+    "label": "product_adoption",
+    "direction": "positive",
+    "support": "inferred",
+    "interpretation": "Bamberger treats concrete customer testimony and usage narratives as valuable third-party validation when presenting a startup.",
+    "attribution_basis": "The page carries a BECK BAMBERGER byline, identifies her as BAM’s CEO and founder, and presents this passage as a first-person account of her firm’s successful submissions.",
+    "source": "full:8f5c98601f990832bca237a2",
+    "id": "beck-bamberger-bad-ideas-group-0006",
+    "normalized_char_start": 5324,
+    "normalized_char_end": 5457
+  },
+  {
+    "quote": "Nearly all of our successful submissions have clocked in at around half the word limit.",
+    "label": "founder_communication_quality",
+    "direction": "positive",
+    "support": "inferred",
+    "interpretation": "Bamberger associates concise presentation with stronger award and speaking applications, suggesting a preference for economical communication.",
+    "attribution_basis": "The page carries a BECK BAMBERGER byline, identifies her as BAM’s CEO and founder, and states this observation in first person.",
+    "source": "full:8f5c98601f990832bca237a2",
+    "id": "beck-bamberger-bad-ideas-group-0007",
+    "normalized_char_start": 5882,
+    "normalized_char_end": 5969
+  },
+  {
+    "quote": "What I have to say though that I think is so distinct and whyyou guys are flourishing, if I may say, versus some other more outlets that can't pivot is just what youwere mentioning, like this org chart, those specific calls, the community that you can get involved with.",
+    "label": "product_success_factor_assessment",
+    "direction": "positive",
+    "support": "inferred",
+    "interpretation": "Bamberger attributes a media outlet’s ability to flourish partly to differentiated subscriber features such as organizational charts, expert calls, and community participation.",
+    "attribution_basis": "The passage appears in a named “Beck Bamberger” transcript turn after Jered Martin explicitly introduces Beck as the episode host, OnePitch cofounder, and BAM Communications CEO; this is textual rather than acoustic attribution.",
+    "source": "full:8bce25d0de39e34b4cbe708c",
+    "id": "beck-bamberger-bad-ideas-group-0008",
+    "normalized_char_start": 6865,
+    "normalized_char_end": 7135
+  }
+]

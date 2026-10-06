@@ -1,0 +1,740 @@
+[
+  {
+    "source": "full:a1726c9f9618857803af1542",
+    "part": 1,
+    "identity": "target",
+    "reason": "The episode title explicitly identifies “Mike Ma: Sidecut Ventures,” matching the resolved investor, and the description discusses his venture-capital insights and investment focus.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Mike Ma: Sidecut Ventures The Investor With Joel Palathinkal Apr 26, 2025 47 min",
+        "claim": "The Spotify page reports that the 47-minute Mike Ma and Sidecut Ventures episode was dated April 26, 2025.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "They explore Mike's early life, education, and tech experiences, highlighting his venture capital insights with Next Cubed.",
+        "claim": "The episode description reports that Mike Ma discussed his technology background and venture-capital experience with Next Cubed.",
+        "kind": "biography"
+      },
+      {
+        "quote": "The conversation covers investment focus, growth strategies for startups, and insight-driven marketing approaches.",
+        "claim": "The episode description reports that the conversation covered Mike Ma's investment focus and startup-growth and marketing approaches.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Joel and Mike discuss the importance of organic versus paid marketing, effective tactics in sales and fundraising, and the significance of client education.",
+        "claim": "The episode description reports that Mike Ma discussed organic versus paid marketing, sales and fundraising tactics, and client education.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "0ab08f506bf1e4be72ce5b10e5679549e6a88564d65576aa6a7a9d76c8d2cb3c"
+  },
+  {
+    "source": "full:02c451fc76c1e4001c9f1d6e",
+    "part": 1,
+    "identity": "unusable",
+    "reason": "The packet contains only the loading message “Tuning in” and provides no usable identity or investor material.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "8833d40a084e30130fea4b23f3542c00218e4957139c9baa4e3cc9f3a452fc91"
+  },
+  {
+    "source": "full:cc1bb664b511f8201aecd970",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Apple Podcasts page explicitly identifies the guest as “Mike Ma: Sidecut Ventures,” matching the resolved investor, and describes his venture-capital discussion.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Mike Ma: Sidecut Ventures–The Investor With Joel Palathinkal – Apple Podcasts 26 April 2025",
+        "claim": "Apple Podcasts reports that the Mike Ma and Sidecut Ventures episode was published on April 26, 2025.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "They explore Mike's early life, education, and tech experiences, highlighting his venture capital insights with Next Cubed.",
+        "claim": "The episode description reports that Mike Ma discussed his technology background and venture-capital experience with Next Cubed.",
+        "kind": "biography"
+      },
+      {
+        "quote": "The conversation covers investment focus, growth strategies for startups, and insight-driven marketing approaches.",
+        "claim": "The episode description reports that the conversation covered Mike Ma's investment focus and startup-growth and marketing approaches.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Joel and Mike discuss the importance of organic versus paid marketing, effective tactics in sales and fundraising, and the significance of client education.",
+        "claim": "The episode description reports that Mike Ma discussed organic versus paid marketing, sales and fundraising tactics, and client education.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "17e708998b48a6c5e65806e1de26705b47d97ea7c679ea7e9e5ab52c8b97e5d0"
+  },
+  {
+    "source": "full:48b5ae7232d94d6b4d59101a",
+    "part": 1,
+    "identity": "target",
+    "reason": "The current episode description explicitly names “Mike Ma of Sidecut Ventures” as its guest investor and supplies matching venture affiliations, while the later Mike MacCombie listings are unrelated recommended episodes.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Monday, November 4, 2024",
+        "claim": "The Acast page dates this episode featuring Mike Ma to November 4, 2024.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "​Today's guest investor, returning to the show for the FIFTH time, was Mike Ma of Sidecut Ventures.",
+        "claim": "The episode page reports that Sidecut Ventures investor Mike Ma was appearing on the show for the fifth time.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "​​Mike is a tech CMO turned venture investor — he runs Sidecut Ventures, backing mission-driven pre-seed founders, and is an Operating Partner at Sway Ventures.",
+        "claim": "The episode page describes Mike Ma as a former technology CMO, the operator of Sidecut Ventures, which backs mission-driven pre-seed founders, and an Operating Partner at Sway Ventures.",
+        "kind": "biography"
+      },
+      {
+        "quote": "He was previously MD at Nex Cubed, a pre-seed accelerator for underrepresented founders.",
+        "claim": "The episode page reports that Mike Ma was previously Managing Director at Nex Cubed, described as a pre-seed accelerator for underrepresented founders.",
+        "kind": "biography"
+      }
+    ],
+    "input_fingerprint": "00ffd129ca3098dcebd5a1179a0edec10e33c1a03138c93a466b410de20e5837"
+  },
+  {
+    "source": "full:48b5ae7232d94d6b4d59101a",
+    "part": 2,
+    "identity": "other",
+    "reason": "This packet contains listings about founders, Ihar Mahaniok, and Sherveen Mashayekhi but no material attributed to Mike Ma of Sidecut Ventures.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "6156dbe4dc03c47d4ed08d274453fe4e85bb9ba374d4e038a5a11f48e29fd6d8"
+  },
+  {
+    "source": "full:1dd1e23193f9d5c1724f95dc",
+    "part": 1,
+    "identity": "target",
+    "reason": "The EP018 description explicitly identifies its guest host as “Mike Ma of Sidecut Ventures” and provides affiliations consistent with the resolved investor; later Mike MacCombie listings are unrelated recommendations.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Friday, August 9, 2024",
+        "claim": "The Acast page dates EP018, featuring Mike Ma as guest host, to August 9, 2024.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Find our guest host, Mike Ma of Sidecut Ventures, on Instagram at @michaelwma.",
+        "claim": "The episode page identifies Mike Ma of Sidecut Ventures as EP018's guest host and associates him with the Instagram account @michaelwma.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "​​Mike is a tech CMO turned venture investor — he runs Sidecut Ventures, backing mission-driven pre-seed founders, and is an Operating Partner at Sway Ventures.",
+        "claim": "The episode page describes Mike Ma as a former technology CMO, the operator of Sidecut Ventures, which backs mission-driven pre-seed founders, and an Operating Partner at Sway Ventures.",
+        "kind": "biography"
+      },
+      {
+        "quote": "He was previously MD at Nex Cubed, a pre-seed accelerator for underrepresented founders.",
+        "claim": "The episode page reports that Mike Ma was previously Managing Director at Nex Cubed, described as a pre-seed accelerator for underrepresented founders.",
+        "kind": "biography"
+      }
+    ],
+    "input_fingerprint": "d84400bef964117f83187a98a8e1e00dcd5e3dd15df9da192a5ed7a38fe7d071"
+  },
+  {
+    "source": "full:1dd1e23193f9d5c1724f95dc",
+    "part": 2,
+    "identity": "other",
+    "reason": "This packet consists of unrelated episode listings centered on founders, Ihar Mahaniok, and Sherveen Mashayekhi and contains no Mike Ma or Sidecut Ventures material.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "b390d12f3e77e96e352a2e07e3535fcbe2806ddeb920f2f9e520a3fb2096850b"
+  },
+  {
+    "source": "full:560ddf28405db3b06bdc87a1",
+    "part": 1,
+    "identity": "target",
+    "reason": "The episode identifies its guest as Mike Ma, Managing Partner and Head Coach at Sidecut Ventures, matching the resolved investor, and the host directly welcomes him before their dialogue.",
+    "evidence": [
+      {
+        "quote": "Sidecut Ventures, we call our thesis as shorthand is we back coachable superheroes.",
+        "label": "founder_coachability_assessment",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Sidecut's stated thesis favors unusually capable founders who are receptive to coaching.",
+        "attribution_basis": "The episode names Mike Ma of Sidecut Ventures as its guest, and this response follows the host's request to explain his work and thesis."
+      },
+      {
+        "quote": "We give all our advice up front in a 30 day co-operating consulting role. We don't take anything for it. No cash, no comment, just your time. You like us. We like you. We'll give you, you know, we'll back you.",
+        "label": "founder_coachability_assessment",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Sidecut uses a pre-investment working period to test the mutual coaching relationship before deciding to invest.",
+        "attribution_basis": "This is part of Mike Ma's answer explaining how Sidecut deploys capital after the host asks about his thesis."
+      },
+      {
+        "quote": "We've made investments across climate, education, health care, economic mobility, and then accessibility.",
+        "label": "investment_thesis_constraint",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "His impact-investing scope includes climate, education, healthcare, economic mobility, and accessibility.",
+        "attribution_basis": "Mike Ma states Sidecut's investment sectors while unpacking its 'superheroes' thesis."
+      },
+      {
+        "quote": "So we're looking for people who are warriors for good in the world. And that's what we want to back.",
+        "label": "mission_alignment_preference",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "He seeks founders whose work is explicitly directed toward positive social impact.",
+        "attribution_basis": "Mike Ma says this while defining the founder profile Sidecut wants to back."
+      },
+      {
+        "quote": "A lot of those do involve AI, but we view that as a how, not a what. And we think if we keep our eye on the ball about big societal problems, there are going to be more than enough returns for everyone to make plenty of money in DPI through the process.",
+        "label": "investment_thesis_constraint",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "He treats AI as an enabling method rather than the investment objective and centers the thesis on large societal problems with return potential.",
+        "attribution_basis": "This is Mike Ma's continuation of his explanation of Sidecut's impact thesis."
+      },
+      {
+        "quote": "We're, we're in the camp of, we expect to not 3X our fund, but 5 to 10X and be a top decile fund.",
+        "label": "investment_upside_assessment",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "He says Sidecut targets top-decile performance and a five-to-ten-times fund return rather than accepting concessionary impact returns.",
+        "attribution_basis": "Mike Ma states this in response to the host's question about why impact investing is overlooked."
+      },
+      {
+        "quote": "And we try and use, we try and fit impact as an accelerant, not a detractor to what we think is going to generate DPI for our, our investors.",
+        "label": "business_model_assessment",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "He evaluates impact as a potential driver of financial performance rather than a trade-off against returns.",
+        "attribution_basis": "Mike Ma gives this as part of his explanation of Sidecut's returns-oriented impact model."
+      },
+      {
+        "quote": "being impact does not obviate you from being very tight on your traction and your pitch and your competitive moat.",
+        "label": "competitive_advantage_assessment",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "Impact companies must still demonstrate a clear competitive moat as part of his evaluation.",
+        "attribution_basis": "Mike Ma explicitly describes what he requires when assessing impact founders."
+      },
+      {
+        "quote": "You will, I mean, at least for me, you will not get a pass from me because of your mission. Your mission is a admission ticket to an arena, but you need to perform.",
+        "label": "mission_alignment_preference",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "Mission alignment is required to enter his opportunity set but does not substitute for business performance.",
+        "attribution_basis": "Mike Ma explicitly contrasts mission qualification with the performance standard he applies."
+      },
+      {
+        "quote": "I'm of the school venture is a great tool for certain set of impact problems, not all of them.",
+        "label": "business_viability_concern",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "He distinguishes impact problems suited to venture economics from those better addressed through other structures.",
+        "attribution_basis": "Mike Ma states this while discussing the different roles of venture and non-venture approaches in impact."
+      }
+    ],
+    "context": [
+      {
+        "quote": "Managing Partner and Head Coach at Sidecut Ventures, where he invests in and coaches early-stage, mission-driven founders working on some of society’s hardest problems.",
+        "claim": "The episode description identifies Mike Ma as Managing Partner and Head Coach at Sidecut Ventures and says he invests in and coaches early-stage, mission-driven founders.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "He brings a rare blend of Fortune 500 experience (Bank of America, Vanguard) and venture-backed CXO leadership(including Betterment and Own Up), rolling up his sleeves across product, strategy, and fundraising.",
+        "claim": "The episode description reports prior experience at Bank of America and Vanguard and venture-backed CXO experience including Betterment and Own Up.",
+        "kind": "biography"
+      },
+      {
+        "quote": "We are one year old. We've done, we did 11 deals for 10 companies in 2025.",
+        "claim": "Mike Ma reports that Sidecut was one year old and completed 11 deals involving 10 companies in 2025.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "173e88738e08cebd6776da653c992767c9e1b495c37db13e842c93fd891c8650"
+  },
+  {
+    "source": "full:d1faaf548d5292ae88a17fdc",
+    "part": 1,
+    "identity": "target",
+    "reason": "The main episode description explicitly identifies the October 15, 2024 guest investor as Mike Ma of Sidecut Ventures, matching the resolved identity, although the remainder consists largely of unrelated recommended episodes.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "​Today's guest investor, returning to the show for the fourth time, was Mike Ma of Sidecut Ventures.",
+        "claim": "The show reports that Mike Ma of Sidecut Ventures appeared as its guest investor for the fourth time.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Tuesday, October 15, 2024",
+        "claim": "The page dates this Mike Ma guest-investor episode to October 15, 2024.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "​​Mike is a tech CMO turned venture investor — he runs Sidecut Ventures, backing mission-driven pre-seed founders, and is an Operating Partner at Sway Ventures.",
+        "claim": "The episode description characterizes Mike Ma as a former technology CMO who runs Sidecut Ventures, backs mission-driven pre-seed founders, and serves as an Operating Partner at Sway Ventures.",
+        "kind": "biography"
+      },
+      {
+        "quote": "He was previously MD at Nex Cubed, a pre-seed accelerator for underrepresented founders.",
+        "claim": "The episode description reports that Mike Ma previously served as Managing Director at Nex Cubed, described as a pre-seed accelerator for underrepresented founders.",
+        "kind": "biography"
+      }
+    ],
+    "input_fingerprint": "b5ef18b6a8a7f19e647eaa3034a56c0d75098757382f81cfb9e1e490b7ee3333"
+  },
+  {
+    "source": "full:d1faaf548d5292ae88a17fdc",
+    "part": 2,
+    "identity": "other",
+    "reason": "This packet contains only recommended episodes involving founders Gregory Maro and Otto von Zastrow with investor Ihar Mahaniok, not Mike Ma of Sidecut Ventures.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "b4f2a944db130b864100262a09716cde73c123a300ee6c566724567af9879487"
+  },
+  {
+    "source": "full:4bf6f5151c7032c74d3ed10b",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Apple Podcasts listing identifies Mike Ma as Managing Partner and Head Coach at Sidecut Ventures and links his Sidecut pitch page and matching LinkedIn account.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Managing Partner and Head Coach at Sidecut Ventures, where he invests in and coaches early-stage, mission-driven founders working on some of society’s hardest problems.",
+        "claim": "The listing identifies Mike Ma as Managing Partner and Head Coach at Sidecut Ventures and says he invests in and coaches early-stage, mission-driven founders.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "He brings a rare blend of Fortune 500 experience (Bank of America, Vanguard) and venture-backed CXO leadership(including Betterment and Own Up), rolling up his sleeves across product, strategy, and fundraising.",
+        "claim": "The listing reports experience at Bank of America and Vanguard and venture-backed CXO leadership including Betterment and Own Up.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Published January 19, 2026 at 8:00 AM UTC",
+        "claim": "Apple Podcasts reports that this Mike Ma episode was published on January 19, 2026 at 8:00 AM UTC.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "As Managing Partner and Head Coach at Sidecut Ventures, Mike works with what he calls “coachable superheroes”, early-stage, mission-driven founders tackling real problems in economic mobility, healthcare, climate, and education.",
+        "claim": "The listing describes Sidecut's approach as working with coachable, early-stage mission-driven founders in economic mobility, healthcare, climate, and education.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "9d3697ba644fb8abf0ff7eac323eeda7563fd75fdc69beac36ad7f2903c980a1"
+  },
+  {
+    "source": "full:0176c2b13bb584f65a7c7815",
+    "part": 1,
+    "identity": "other",
+    "reason": "The article and quoted material concern Clara Ma, founder and CEO of Ask a Chief of Staff and formerly chief of staff at Hugging Face, not Mike Ma of Sidecut Ventures.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "bb582bc7828b955f455e59aca4ed380d6502bffe3996cdc76a7cc9e83ed9c3cd"
+  },
+  {
+    "source": "full:67d69d3dfa10e9eecf2b4978",
+    "part": 1,
+    "identity": "other",
+    "reason": "The article concerns Trovata founder Brett Turner and startup financial management, with no relevant material about Mike Ma of Sidecut Ventures.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "a89838cb5151b68189877f4879c53df49aa34e44f2f688a4277fcf8a4fbb6a0c"
+  },
+  {
+    "source": "full:701e8abe3ac3034b76203cdc",
+    "part": 1,
+    "identity": "target",
+    "reason": "The episode title, speaker listing, and summary explicitly identify guest Mike Ma of Sidecut Ventures, matching the resolved investor, but the transcript itself is unavailable.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "S1 E36 • Apr 26, 2025 • 47 mins",
+        "claim": "The podcast page dates its Mike Ma episode to April 26, 2025.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Mike Ma: Sidecut Ventures - The Investor With Joel Palathinkal",
+        "claim": "The episode title associates Mike Ma with Sidecut Ventures.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "They explore Mike's early life, education, and tech experiences, highlighting his venture capital insights with Next Cubed.",
+        "claim": "The automated episode summary reports discussion of Mike Ma's early life, education, technology experience, and venture-capital experience with Next Cubed.",
+        "kind": "biography"
+      },
+      {
+        "quote": "The conversation covers investment focus, growth strategies for startups, and insight-driven marketing approaches.",
+        "claim": "The automated episode summary reports that Mike Ma discussed investment focus, startup growth strategies, and insight-driven marketing approaches.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "The importance of understanding and addressing the core problems of customers rather than focusing solely on the product itself.",
+        "claim": "The page's key-points summary attributes importance to understanding customers' core problems rather than focusing only on the product.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Building authentic relationships and trust through personalized interactions and co-discovery is crucial in the venture capital and fundraising process.",
+        "claim": "The page's key-points summary describes authentic relationships, trust, personalized interaction, and co-discovery as important to venture capital and fundraising.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "e88b0d12b7e8b6d54c581be2f1c962f9b69c72100c47a2db00edaf32a49d989a"
+  },
+  {
+    "source": "full:d367c42345a9ad091919799b",
+    "part": 1,
+    "identity": "target",
+    "reason": "The authoritative investor profile explicitly identifies Mike Ma as Founder and Managing Partner of Sidecut Ventures and describes his investments and investment approach.",
+    "evidence": [
+      {
+        "quote": "“We coach first, give capital second.”",
+        "label": "investor_value_add_fit",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Ma explicitly prioritizes hands-on coaching before providing investment capital.",
+        "attribution_basis": "The quote appears under “Investment Thesis” and “What Mike Looks For” on the resolved investor's authoritative Mike Ma — Sidecut Ventures profile."
+      }
+    ],
+    "context": [
+      {
+        "quote": "Portfolio\nInvestments on The Pitch3 investments\nView Episode\nAI\nPitz: Car Repair as Fast as an F1 Pit Stop\n$200K·SAFE · $20M post-money cap\nView Episode\nAI\nAleoop: Show Me The Sales!\n$5K\nView Episode\nEV Tech\nSTAG: The Tesla of Construction Equipment?!\n$375K·SAFE · $3.3M post-money cap\nMike has invested $580K across 3 companies on The Pitch since Season 14.",
+        "claim": "The Pitch reports Pitz ($200,000 SAFE at a $20 million post-money cap), Aleoop ($5,000, instrument unspecified) and STAG ($375,000 SAFE at a $3.3 million post-money cap), totaling $580,000. The source does not establish personal versus firm capital or absolute transaction dates.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Typical check size ranges from $5K to $375K.",
+        "claim": "The Pitch profile reports a typical check-size range of $5,000 to $375,000 for Ma's investments on the show.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Mike Ma is the Founder and Managing Partner at Sidecut Ventures, a pre-seed venture fund that backs “coachable superheroes” — founders tackling systemic challenges in economic mobility, digital health, climate, and education.",
+        "claim": "The profile identifies Ma as Sidecut Ventures' Founder and Managing Partner and describes the pre-seed fund's founder and sector focus.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Sidecut takes a “coach first, capital second” approach, combining investment with hands-on operational support and mentorship.",
+        "claim": "The profile describes Sidecut Ventures as combining capital with operational support and mentorship.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "63234eeb050fb894ddbfeb67c4882f4ffd446bc9a2900274e7d5a2fb99263c54"
+  },
+  {
+    "source": "full:a5a79aa1cc9c409be9d76944",
+    "part": 1,
+    "identity": "other",
+    "reason": "This article and transcript concern investment banker Carina Cunha, with no attributed appearance by or relevant material about Sidecut Ventures investor Mike Ma.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "0d8d1fc288c97d8473d5e08c9fce4ce7d5cb271049535a7d3a853003acd24888"
+  },
+  {
+    "source": "full:abe414497de01e3424e7205a",
+    "part": 1,
+    "identity": "target",
+    "reason": "The post explicitly identifies its Mike Ma as Founder and Managing Partner at Sidecut Ventures, matching the resolved investor, although it provides only the author's summaries rather than Ma's verbatim words.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "In the latest episode of Midlife Remix, I had a candid conversation with my friend and former business partner, Mike Ma, Founder & Managing Partner at Sidecut Ventures.",
+        "claim": "The post's author identifies Ma as a friend, former business partner, and Founder and Managing Partner of Sidecut Ventures.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Mike shared his journey of multiple pivots—from navigating big companies to launching his fund.",
+        "claim": "The post reports that Ma discussed moving through multiple career pivots before launching his fund.",
+        "kind": "biography"
+      },
+      {
+        "quote": "🎯 The value of being \"coachable\" and surrounding yourself with good people.",
+        "claim": "The post summarizes coachability and association with good people as a takeaway from the conversation with Ma; it does not present this as a direct quotation.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "fc06e4812f65126e0c865c6188dececfe7469771d28dd88edc622c7a51644731"
+  },
+  {
+    "source": "full:b24a94484f2b706a7cf92a82",
+    "part": 1,
+    "identity": "other",
+    "reason": "This article presents the investment views of ffVC founder John Frankel and contains no relevant attributed material about Sidecut Ventures investor Mike Ma.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "d97a46cafecbbb3d6c2dbc86bfe890aaf83e4729d2fc79ca7aaa4cc4d7a0065a"
+  },
+  {
+    "source": "full:a08a3d662b708418ab436f8d",
+    "part": 1,
+    "identity": "other",
+    "reason": "This 1991 NCAA publication concerns collegiate athletics and contains no identifiable material about Sidecut Ventures investor Mike Ma.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "ec44ff3518b27a86c766cbf75760babaedf06a27a58d815b615819e47aee285e"
+  },
+  {
+    "source": "full:a08a3d662b708418ab436f8d",
+    "part": 2,
+    "identity": "other",
+    "reason": "This 1991 NCAA News material concerns college-athletics governance, graduation rates, and basketball, with no mention of Mike Ma, Sidecut Ventures, or any attributable investment activity by the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "bb8fa9edc8d1f7034484288140ea8528c9758c6dc8b79901b24030114992f920"
+  },
+  {
+    "source": "full:a08a3d662b708418ab436f8d",
+    "part": 3,
+    "identity": "other",
+    "reason": "This 1991 NCAA News material reports collegiate basketball and ice-hockey championships and contains no mention of Mike Ma, Sidecut Ventures, or any attributable investment activity by the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "da8b5bf12797cfc2f6a5801f33ba24d7426b734d184c3ed23930cc536cf8287d"
+  },
+  {
+    "source": "full:a08a3d662b708418ab436f8d",
+    "part": 4,
+    "identity": "other",
+    "reason": "This packet covers 1991 NCAA swimming, diving, hockey, and championship results and contains no material about Mike Ma or Sidecut Ventures.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "b37ebd6d77ca9a86965c8b3379e8097de31d1663941dac6f1c36b2deb52509cc"
+  },
+  {
+    "source": "full:a08a3d662b708418ab436f8d",
+    "part": 5,
+    "identity": "other",
+    "reason": "This packet contains 1991 NCAA championship schedules, athletics personnel changes, rankings, and an infractions report, with no material about Mike Ma or Sidecut Ventures.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "85983ddc23ce8ca6891d8071e47f2e73847899a16a48f8519ef571ffcf0c12d1"
+  },
+  {
+    "source": "full:a08a3d662b708418ab436f8d",
+    "part": 6,
+    "identity": "other",
+    "reason": "This packet concerns NCAA infractions involving University of Minnesota athletics programs and contains no material about Mike Ma, Sidecut Ventures, or the resolved investor identity.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "333e808b31fdbe36c9973226584d62430e624d63370f22af061fa60ca002428d"
+  },
+  {
+    "source": "full:a08a3d662b708418ab436f8d",
+    "part": 7,
+    "identity": "other",
+    "reason": "This packet continues a University of Minnesota NCAA infractions report about benefits provided to student-athletes and contains no material about Mike Ma, Sidecut Ventures, or the resolved investor identity.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "2af19ef8dc37f0fa6c046ba8a99689fc8fac9e1cae9d1809e1c502df20126a61"
+  },
+  {
+    "source": "full:a08a3d662b708418ab436f8d",
+    "part": 8,
+    "identity": "other",
+    "reason": "This packet concerns NCAA infractions, penalties, athletics administration, and collegiate sports in 1991, with no mention of Mike Ma or Sidecut Ventures.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "12d4c813e218cd9cbc4063ed67945c857b047c5d5d4750ffd63e9e8b4fae2fc3"
+  },
+  {
+    "source": "full:a08a3d662b708418ab436f8d",
+    "part": 9,
+    "identity": "other",
+    "reason": "This packet contains NCAA sports news, state athletics legislation, and employment advertisements, with no mention of Mike Ma or Sidecut Ventures.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "fde851777aedf10b4797015e1ecf35d552015a023fbc6ab1cb5cd5fa247553e4"
+  },
+  {
+    "source": "full:a08a3d662b708418ab436f8d",
+    "part": 10,
+    "identity": "other",
+    "reason": "This packet consists of 1991 NCAA athletics employment advertisements for coaches, trainers, administrators, and sports-information staff, with no reference to Mike Ma or Sidecut Ventures.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "9c2be4697461a1e97e79ed6baeaf38ab226094776fc7a3f8e7dcb8a46ccde905"
+  },
+  {
+    "source": "full:a08a3d662b708418ab436f8d",
+    "part": 11,
+    "identity": "other",
+    "reason": "This packet continues the 1991 NCAA athletics classified listings, including coaching and athletic-department vacancies at universities, and contains no material about Mike Ma or Sidecut Ventures.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "fe95ba1d57d7799781f068b603ff902729cc441e0557332b93f82d3f2c7adc6c"
+  },
+  {
+    "source": "full:a08a3d662b708418ab436f8d",
+    "part": 12,
+    "identity": "other",
+    "reason": "This 1991 NCAA classifieds page concerns collegiate athletics jobs, and its OCR-fragmented reference to a Drake sports information director does not identify Mike Ma of Sidecut Ventures.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "c35697e77622126276623f77cdfe514d99d8f2f1415e200053ce95b2626d37f2"
+  },
+  {
+    "source": "full:a08a3d662b708418ab436f8d",
+    "part": 13,
+    "identity": "other",
+    "reason": "This NCAA News continuation discusses Wisconsin athletics cuts, rankings, and NCAA matters without any reference to Mike Ma or Sidecut Ventures.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "c04465d4c6f064a851c8124ef6ea0c7cf80d19421926fbb532c92abf98a8a2c5"
+  },
+  {
+    "source": "full:ea279a34e27a195934a0b25f",
+    "part": 1,
+    "identity": "other",
+    "reason": "This Startups Decoded article is about Owen Fitzpatrick and contains no reference to Mike Ma or Sidecut Ventures.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "54b037ac42e77adeb4d6c14e067557b0e9dea81344c54fc292679048d6d4bf63"
+  },
+  {
+    "source": "full:20356b94137d385dda047850",
+    "part": 1,
+    "identity": "other",
+    "reason": "This Startups Decoded article presents Bryan Alston's customer-research framework and contains no reference to Mike Ma or Sidecut Ventures.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "69a7e0322bac4ba0d922ec1b3c845c4ce1e2e95838eab9fc739c7b43edaff987"
+  },
+  {
+    "source": "full:df6ed975fa56f250ceeb575c",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Sidecut Ventures website explicitly identifies “Mike Ma (GP)” and reports his early angel investment in Melagen, matching the resolved Sidecut affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "We embody that by working closely with founders for 30 days before writing a check. That's how we run our diligence—by helping founders stay productive while we learn how they operate.",
+        "claim": "Sidecut Ventures says its diligence process involves working closely with founders for 30 days before deciding whether to invest, allowing the firm to observe how they operate.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "We invest in companies that are going to make the world a better place, not clutter it with software. What this looks like are things like Economic Mobility, Digital Health, Education, and Climate.",
+        "claim": "Sidecut Ventures describes an impact-oriented investment thesis encompassing economic mobility, digital health, education, and climate.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Our Portfolio\nPowering smoother rides for NEMT providers.\nOur Investment:\nInvested following their Techstars graduation.\nOther Investors:\nLA Clean Tech, Techstars\nHow We Helped:\nProspecting and event marketing stratgey\nOrchestration infrastructure for the New Grid, connecting and controlling distributed energy systems at scale.\nOur Investment:\n2nd largest investor in pre-seed round\nOther Investors:\nHustle Fund, Leap Forward Ventures, Cool Climate Initiative/Impact Mill, Electrifi Ventures\nHow We Helped:\nBuilt probability-weighted deal pipeline management & sales training process.\nDecoding non-verbal communication through haptic feedback.\nOur Investment:\nParticipated in the pre-seed round.\nOther Investors:\nAdaptation Ventures, Colorado School of Mines, Techstars, 2Gether-International\nHow We Helped:\nAccelerated pre-sales motion and constructed product launch timeline\nBuilding the intelligence layer for bulk material collection and delivery, starting with used cooking oil (UCO).\nOur Investment:\nPre-seed round\nOther Investors:\nStorytime Capital, O'Shaunnessy Ventures\nHow We Helped:\nSupported the development of a GTM strategy to grow customer penetration from 6% to 25%\nStreamline your frontline hiring with AI.\nOur Investment:\nFirst institutional check at pre-seed.\nOther Investors:\nFirst Institutional check\nHow We Helped:\nSolution-based sales training & Distribution Partner strategy\nEmpowering accessibility—one light switch at a time.\nOur Investment:\nWrote final check in to an oversubscribed seed round.\nOther Investors:\nRuthless For Good Ventures, Cake Ventures, Heirloom Ventures, The Pitch Fund, Hustle Fund\nHow We Helped:\nGTM market expansion in to hospitals\nEnding the decade-long gap in mental health treatment.\nOur Investment:\nParticipated in the pre-seed round with a follow-on investment.\nOther Investors:\nAlleyCorp, Kapor, Sovereign Capital\nHow We Helped:\nRevOps + Strategic sales pipeline management\nYour Radiation Shielding Partner for the Next Frontier\nOur Investment:\nParticipated in their Seed round\nOther Investors:\nNY Ventures, OSV Ventures, Draper U, House of Ventures\nHow We Helped:\nMike Ma (GP) was an early angel investor in Melagen two years ago. Since then, he has mentored the team through gaining early traction and building its current pipeline.\nFinancial counseling for mental health victims, starting with problem gambling.\nOur Investment:\nLargest investor at pre-seed; participated again in the bridge round on the same terms.\nOther Investors:\nThe Fintech Fund, RK Mellon, Techstars\nHow We Helped:\nScaling B2G sales motion + built product metric funnels\nAI Copilot for the automotive repair shops. Making growth easy for the automotive aftermarket.\nOur Investment:\nLast check in their Seed round.\nOther Investors:\nMucker Capital, L'Atitud, Boost Capital, Alaya, Rodina\nHow We Helped:\nHelped expand their go-to-market strategy into new geographic markets.\nModernizing the antiquated bail bond industry.\nOur Investment:\nFollow-on investment in an oversubscribed extension seed round.\nOther Investors:\nAcronym Ventures, Simplex Ventures, Uncommon Denominator, i2BF, River Park Ventures, Indicator Ventures, Green Egg Ventures\nHow We Helped:\nExpanding the company not as justice tech—but as fintech.\nSoLo is a community finance platform where you can access money when you need it, and lend money when you have it.\nElectrification of construction equipment\nOur Investment:\nLed Pre-seed round\nOther Investors:\nHustle Fund, The Pitch Fund\nHow We Helped:\nFacilitated pre-selling $1M worth of units\nYour personal AI tutor to fluency.\nOur Investment:\nLed the first institutional round.\nOther Investors:\nFullCircle\nHow We Helped:\nConsumer app GTM & growth hiring readiness\nBuilding delightful turnkey back office solutions for small and mid-sized child care businesses.\nOur Investment:\nLed Pre-seed round\nOther Investors:\nFlybridge Next Wave, Everywhere Ventures, The Pitch Show, Ruthless For Good, Hustle Fund, Visible Hands\nHow We Helped:\nAccelerated their GTM motion of their next gen product by 6 months.\n",
+        "claim": "Sidecut’s portfolio section reports pre-seed and seed investments, leading pre-seed and first institutional rounds, and follow-on/bridge investments. Most company names are absent from the text. It names Melagen in a radiation-shielding entry, reports Ma’s earlier personal angel investment using undated “two years ago” language, and lists SoLo without investment terms. These examples establish firm behavior, not a universal lead or reserve policy.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "ca448ea94d38e22780a9649cfdda8209f3caeb0f3e58ce8f2c1521421d87dc0e"
+  },
+  {
+    "source": "full:b3b0bdebdcc6a0d0f669bb93",
+    "part": 1,
+    "identity": "other",
+    "reason": "This Startups Decoded article concerns Vadim Gordin's angel-fundraising research and contains no reference to Mike Ma or Sidecut Ventures.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "79d3199748804447095e38dde896a5a797b8a5043d888293af56c395a13a82d4"
+  },
+  {
+    "source": "full:d0a9e2e5f2c55f40c35ff239",
+    "part": 1,
+    "identity": "target",
+    "reason": "The event listing explicitly names “Mike Ma, Managing Partner at Sidecut Ventures,” directly matching the resolved investor and firm.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "​​For session #1 we have Mike Ma, Managing Partner at Sidecut Ventures.",
+        "claim": "The event organizer identifies Mike Ma as Managing Partner at Sidecut Ventures and as the guest investor for session one.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Sidecut Ventures fund coachable superheroes building equity in HealthTech, FinTech, and EdTech.",
+        "claim": "The event listing characterizes Sidecut Ventures as backing coachable founders in HealthTech, FinTech, and EdTech.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "1b82a64f21eca771b37d0d64124e645b2599eb49ef25572837e3836abb3aeb3e"
+  },
+  {
+    "source": "full:b61ab76c7b75a225ca4b428b",
+    "part": 1,
+    "identity": "other",
+    "reason": "This Silicon Valley Accordion Society newsletter concerns accordionist Mike Marotta and contains no reference to Mike Ma of Sidecut Ventures.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "bebbf502658152a4df332a4fe203e30b74887910cfe4912d11bf2bc2a1cf79ec"
+  },
+  {
+    "source": "full:c68fc7ebe724ed0e82003d0a",
+    "part": 1,
+    "identity": "target",
+    "reason": "Sidecut Ventures’ team page identifies Mike Ma as its Managing Partner and describes his angel-investing, venture-capital, and operating background.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Our unique \"coach first, capital second\" model is led by Managing Partner Mike Ma, who honed this strategy over the last five years, completing 20+ angel investments.",
+        "claim": "Sidecut Ventures reports that Managing Partner Mike Ma leads its \"coach first, capital second\" model and completed more than 20 angel investments over the preceding five years.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "His background spans both VC (Managing Director at Nex Cubed's HBCU Founders Fund, Operating Partner at Sway Ventures) and senior operating roles at both venture-backed startups and large financial institutions (Betterment, Own Up, Bank of America, Vanguard).",
+        "claim": "Sidecut Ventures reports that Mike Ma previously held venture-capital roles at Nex Cubed's HBCU Founders Fund and Sway Ventures, as well as operating roles at Betterment, Own Up, Bank of America, and Vanguard.",
+        "kind": "biography"
+      }
+    ],
+    "input_fingerprint": "039fd0f8da015bd6c14bb3d0df3667beafd4c05503b2a70ae40192be3b09cf1f"
+  },
+  {
+    "source": "full:a9bddd3ab483adb7140f4b73",
+    "part": 1,
+    "identity": "target",
+    "reason": "The episode page explicitly identifies its Mike Ma as Managing Partner and Head Coach at Sidecut Ventures, matching the resolved investor’s affiliation.",
+    "evidence": [
+      {
+        "quote": "“coachable superheroes”",
+        "label": "founder_coachability_assessment",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "Ma’s own phrase indicates a favorable orientation toward founders who combine exceptional ability with receptiveness to coaching.",
+        "attribution_basis": "The episode introduction names Mike Ma of Sidecut Ventures and explicitly says this is what he calls the founders with whom he works."
+      }
+    ],
+    "context": [
+      {
+        "quote": "Mike Ma doesn’t invest in decks. He invests in people.",
+        "claim": "The episode introduction characterizes Mike Ma’s investment approach as prioritizing people rather than pitch decks.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "As Managing Partner and Head Coach at Sidecut Ventures, Mike works with what he calls “coachable superheroes”, early-stage, mission-driven founders tackling real problems in economic mobility, healthcare, climate, and education.",
+        "claim": "The episode introduction reports that Sidecut Ventures Managing Partner and Head Coach Mike Ma works with early-stage, mission-driven founders in economic mobility, healthcare, climate, and education.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Mike Ma\nManaging Partner and Head Coach at Sidecut Ventures, where he invests in and coaches early-stage, mission-driven founders working on some of society’s hardest problems.",
+        "claim": "The profile identifies Mike Ma as Managing Partner and Head Coach at Sidecut Ventures and says he invests in and coaches early-stage, mission-driven founders.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "He brings a rare blend of Fortune 500 experience (Bank of America, Vanguard) and venture-backed CXO leadership(including Betterment and Own Up), rolling up his sleeves across product, strategy, and fundraising.",
+        "claim": "The profile reports that Ma has experience at Bank of America and Vanguard and venture-backed CXO leadership experience including Betterment and Own Up.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Mike believes the best venture outcomes are built through proximity, trust, and real coaching, not performative advice.",
+        "claim": "The profile attributes to Ma the view that strong venture outcomes depend on proximity, trust, and substantive coaching.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Outside startups, Mike is an adaptive snowsports instructor and a former member of PSIA-AASI’s National Adaptive Team, training instructors to teach individuals of all abilities.",
+        "claim": "The profile reports that Ma is an adaptive snowsports instructor and formerly served on PSIA-AASI’s National Adaptive Team.",
+        "kind": "biography"
+      }
+    ],
+    "input_fingerprint": "3b2c2be9795d13dcea1a2cb01d3e8bf7b9f3d2d7be174b087d456614d59c3358"
+  },
+  {
+    "source": "full:a85a330705aff0f26b1e481a",
+    "part": 1,
+    "identity": "other",
+    "reason": "This episode is attributed to Andy Walsh and guests from J.P. Morgan Asset Management, Girl Math Capital, and The Fourth Effect, with no identified participation by Sidecut Ventures’ Mike Ma.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "542ec13da6f496164e1fc60a7d15227caf96a5311c2597b2b7a705dc5b3a2157"
+  }
+]

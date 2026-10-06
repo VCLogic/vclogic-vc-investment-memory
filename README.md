@@ -6,6 +6,8 @@ Turn a venture investor’s collected source material into a cited investment wi
 
 The [Mac Conwell memory](wiki/mac-conwell/README.md) covers his supplied collector export, with recovered audio and an explicit coverage audit. See its [investment policy](wiki/mac-conwell/persona.md), [reported relationships](wiki/mac-conwell/portfolio_and_constraints.md), and [run report](docs/mac-conwell-full-run.md).
 
+The [October 2026 batch report](docs/batch-2026-10-06.md) links the completed text-based memories for 17 additional investors. These exports have untranscribed media, so their memories cover available text and are labelled partial.
+
 ## How the two repositories fit together
 
 ```text

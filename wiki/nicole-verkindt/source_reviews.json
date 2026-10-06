@@ -1,0 +1,2209 @@
+[
+  {
+    "source": "full:5681483243425d802bc5bf04",
+    "part": 1,
+    "identity": "other",
+    "reason": "The packet is a biography of American investor Chris Sacca and contains no material about resolved investor Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "71605cd6967b8e51b02642e9e9d30c3909d904559e989f26a5fc861c5b96addf"
+  },
+  {
+    "source": "full:052d4c769d324d7d0cfdd422",
+    "part": 1,
+    "identity": "other",
+    "reason": "Although the page title names Nicole Verkindt, this packet contains only listings and descriptions for episodes featuring other people, including Laura Dottori-Attanasio, Heather Chalmers, and Dean Setoguchi, with no substantive Nicole Verkindt passage.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "10eb5a2fb028ce9f5c24e1bd1ccb4080bf7dd235cf7a291f80ad500d0a5e755b"
+  },
+  {
+    "source": "full:052d4c769d324d7d0cfdd422",
+    "part": 2,
+    "identity": "other",
+    "reason": "This packet continues with episode descriptions about Dean Setoguchi, Fareed Zakaria, Éric Martel, and other guests and contains no substantive material attributable to Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "946b94653365c890ab1ca5a021f7c247d6bcd8046c2a070c3b10f4ebfb891ce7"
+  },
+  {
+    "source": "full:e10858f2cd97640d9590ee06",
+    "part": 1,
+    "identity": "other",
+    "reason": "The packet is First Round's firm homepage and investment FAQ, discussing its portfolio, partners, and institutional investment approach without mentioning or attributing any material to Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "c07c170bf6f6c8a5b37a63f0af98625901a4e5f783f8127415e4c19ce0646387"
+  },
+  {
+    "source": "full:e10858f2cd97640d9590ee06",
+    "part": 2,
+    "identity": "other",
+    "reason": "The packet continues First Round's investment-process and ownership FAQ and contains no mention of or attributed material from Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "fb5c6870065c11a724ee7fdb8c9b97a3b453fae771d09180a43d32d6a0be5a9c"
+  },
+  {
+    "source": "full:ce0b509d362456d62a9afc35",
+    "part": 1,
+    "identity": "other",
+    "reason": "The packet is Coatue's homepage, describing Coatue personnel, portfolio, and investment strategies without mentioning or attributing any material to Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "ec6dfc0d9057c07cbf0f7c312c4fa93f6bcbbd48822e6f2da4babc40f33136b2"
+  },
+  {
+    "source": "full:08aa878e863d7bff8e3e1367",
+    "part": 1,
+    "identity": "other",
+    "reason": "The packet is a Rephonic listing for Jason Calacanis's This Week in Startups podcast, including unrelated hosts, guests, reviews, and episode summaries, with no mention of or attributed material from Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "aa6ed13d114d2429bad4ff6975eb78ced24a2604748ba650a11e1f7e8d667d96"
+  },
+  {
+    "source": "full:68301504ec3b87d4c9303437",
+    "part": 1,
+    "identity": "other",
+    "reason": "The podcast listing discusses Positive Stocks and guests including Desmond Wheatley, Amit Dror, Anthony Denier, Jigar Shah, Eric Groves, and Chuck Pettid, with no reference to Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "26a9aedecc5b2e21ab50e4b071324fc77759e70e7e8f118bdc7e8d49190d7be3"
+  },
+  {
+    "source": "full:68301504ec3b87d4c9303437",
+    "part": 2,
+    "identity": "other",
+    "reason": "This portion profiles Ray Zinn, John Livesay, Wayne Kimmel, Emmet Savage, and Positive Stocks rather than Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "92e846809fc3c2f9d6bf3991fd42f020ff18d45b308578d4a73b887042ec346b"
+  },
+  {
+    "source": "full:ebda87fdd5004092d803abec",
+    "part": 1,
+    "identity": "other",
+    "reason": "The article concerns Greenland-related mining stocks and political officials and contains no material about Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "8f31df4607c4ea00191b00774155fa52f7d147c7a05ec50e85ed60024aadd5ed"
+  },
+  {
+    "source": "full:d5565760907fa3b0ad896e06",
+    "part": 1,
+    "identity": "target",
+    "reason": "The episode explicitly identifies Nicole Verkindt as the founder of OMX, matching the resolved investor profile, although it provides only an episode description rather than attributable transcript quotations.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Nicole Verkindt is the founder of OMX and Startup Canada’s 2017 Woman Entrepreneur of the Year.",
+        "claim": "The 2019 episode description identifies Nicole Verkindt as OMX's founder and Startup Canada’s 2017 Woman Entrepreneur of the Year.",
+        "kind": "biography"
+      },
+      {
+        "quote": "OMX is a tech startup that helps companies access procurement opportunities and measure their economic impact.",
+        "claim": "The episode description reports that Verkindt's company OMX helped companies access procurement opportunities and measure economic impact.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Nicole grew up in a family-owned manufacturing business and learned the risks of entrepreneurial life first-hand. She ran her own manufacturing firm before launching OMX at the age of 27.",
+        "claim": "The episode description reports that Verkindt grew up in a family-owned manufacturing business, later ran her own manufacturing firm, and launched OMX at age 27.",
+        "kind": "biography"
+      },
+      {
+        "quote": "In this episode, Nicole shares the challenges of attracting top talent; her experience as a female founder; and why she believes technology has the potential to make us all more human.",
+        "claim": "The episode description reports that Verkindt discussed attracting talent, being a female founder, and technology's human potential, but supplies no direct quotation of her remarks.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "7de49451473fc23e481ca17db323c9929ae8c870168143fe0e7df74e1d8e782d"
+  },
+  {
+    "source": "full:371ada25813677af06a1cc10",
+    "part": 1,
+    "identity": "unusable",
+    "reason": "The packet contains only the generic sentence “Best free podcast app for Apple iOS and Android | Let words move you” and no identifiable investor material.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "a9967504a21ff9ad4224e467d79ecb095885431a6704e2bfe433121a0b4d4df0"
+  },
+  {
+    "source": "full:a8fbac3c679901fa7067b3ea",
+    "part": 1,
+    "identity": "other",
+    "reason": "This BiggerPockets forum thread concerns Toronto real-estate investor Eric Martin and replies from other named users, with no mention of or attributable material from Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "93b08a50c8d8690cdf5873178bdcf8935829fd569ec59bb4c00119292b923175"
+  },
+  {
+    "source": "full:a8fbac3c679901fa7067b3ea",
+    "part": 2,
+    "identity": "other",
+    "reason": "This continuation contains real-estate discussions by Eric Martin, Matthew Becker, Nicholas L., and other forum users, with no mention of or attributable material from Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "6288d5cdfdd8e8262aebf5b1c9c7743c18f09ad5a4ca6e58c7e8317d76ac7342"
+  },
+  {
+    "source": "full:a9dd0d4c8ba9a35dfc5ef8ab",
+    "part": 1,
+    "identity": "other",
+    "reason": "This Supply Chain Now index lists episodes featuring numerous supply-chain executives and hosts but contains no mention of or attributable material from Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "695e69de966c5410a44966a0e120bd17a96115b5eab2146b287dbe53f459baf1"
+  },
+  {
+    "source": "full:a9dd0d4c8ba9a35dfc5ef8ab",
+    "part": 2,
+    "identity": "other",
+    "reason": "This Supply Chain Now listing covers guests including Vin Vashishta, Theodora Lau, Wiley Jones, Mike Griswold, and others, but contains no mention of Nicole Verkindt or material attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "23cb789be6669c9f0cda67070039820faeb297b03f3fb8aecaa798715ecec161"
+  },
+  {
+    "source": "full:a9dd0d4c8ba9a35dfc5ef8ab",
+    "part": 3,
+    "identity": "other",
+    "reason": "This Supply Chain Now listing describes episodes featuring James Meads, Laura Rainier, Jason Murray, Tarana Burke, and others, but contains no mention of Nicole Verkindt or material attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "63590beedf21e2b16d59349d1997c986e7fd94c8128451dbcce56160302ca427"
+  },
+  {
+    "source": "full:a9dd0d4c8ba9a35dfc5ef8ab",
+    "part": 4,
+    "identity": "other",
+    "reason": "This Supply Chain Now podcast index names guests such as Dave Winstone, Wael Abdelmalek, Lori Boyer, and Onu Okebie, but contains no mention of Nicole Verkindt or material attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "8e9cc80b1863683745f215d113ba8209b54e3cad267fef7d09c93b20e9bed046"
+  },
+  {
+    "source": "full:a9dd0d4c8ba9a35dfc5ef8ab",
+    "part": 5,
+    "identity": "other",
+    "reason": "This portion of the Supply Chain Now podcast index profiles guests such as Ben Gordon, David Sobie, and Arash Aghlara, but contains no mention of Nicole Verkindt or material attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "73d933d7183f4a8fd987dd7a71393226d2d87e33bcc696ac2dc42ffa76657368"
+  },
+  {
+    "source": "full:a9dd0d4c8ba9a35dfc5ef8ab",
+    "part": 6,
+    "identity": "other",
+    "reason": "This Supply Chain Now listings excerpt profiles unrelated podcast hosts and guests such as Rami Goldratt, Sender Shamiss, and Prabhat Pinnaka, with no mention of Nicole Verkindt or an established identity anchor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "aee5539744adc974e81b3f57949c7d35b7a7ed4009aeabb1e3c847abf71b4a45"
+  },
+  {
+    "source": "full:a9dd0d4c8ba9a35dfc5ef8ab",
+    "part": 7,
+    "identity": "other",
+    "reason": "This Supply Chain Now listings excerpt covers unrelated figures including Kevin Schmiegel, Catarina Carvalho, and Michael Kelly, with no mention of Nicole Verkindt or an established identity anchor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "296271db6bd262e0a196c4d49b2bc8fec32d11bdec2fbf2b205a05c45bcfd196"
+  },
+  {
+    "source": "full:a9dd0d4c8ba9a35dfc5ef8ab",
+    "part": 8,
+    "identity": "other",
+    "reason": "This Supply Chain Now listings packet describes guests including Akhilesh Agarwal, Patrick Flood, Christine Barnhart, Tracy Hyatt Bosman, and others, but contains no mention of or material attributable to Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "d07c497527c08677071d9332b1d9c30b580e1ab4e73ae8f03ca7d686ecdeb3e3"
+  },
+  {
+    "source": "full:a9dd0d4c8ba9a35dfc5ef8ab",
+    "part": 9,
+    "identity": "other",
+    "reason": "This Supply Chain Now listings packet concerns Nadine Nicole Heimann and numerous supply-chain guests, but contains no mention of or material attributable to Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "786cf9e79672c4923a83c552a49081eada2b022bddd65a33a9ddc4f511df2b21"
+  },
+  {
+    "source": "full:a9dd0d4c8ba9a35dfc5ef8ab",
+    "part": 10,
+    "identity": "other",
+    "reason": "This Supply Chain Now listing covers 2026 episodes featuring supply-chain, logistics, humanitarian, and military-service guests, with no mention of Nicole Verkindt or her resolved profile.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "d7568b079ac7e9c459927d629641b2406cb2b2f8021af93ab795b4da9df5f6ff"
+  },
+  {
+    "source": "full:a9dd0d4c8ba9a35dfc5ef8ab",
+    "part": 11,
+    "identity": "other",
+    "reason": "This Supply Chain Now listing covers late-2025 episodes featuring Gartner, Schneider Electric, Amazon Business, and other supply-chain subjects, with no mention of Nicole Verkindt or her resolved profile.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "3b6f416710f4474e7d90bb1cd621f50ad01daabaa3f2f04b2956f32cc0ff8bbc"
+  },
+  {
+    "source": "full:a9dd0d4c8ba9a35dfc5ef8ab",
+    "part": 12,
+    "identity": "other",
+    "reason": "This Supply Chain Now listings packet discusses guests such as Chris Rogers, Anouk Schoenmakers, and Rob Safrata, with no mention of or attributable material from Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "2cfdb6d5993c8b31b44cc9e75080d79439a89921a62e7f21d6b372a930745df8"
+  },
+  {
+    "source": "full:a9dd0d4c8ba9a35dfc5ef8ab",
+    "part": 13,
+    "identity": "other",
+    "reason": "This Supply Chain Now listings packet contains no Nicole Verkindt material; its only Nicole is explicitly identified as Nicole Petersen of the South African Graduate Employers Association, a different person.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "f7392560ced7cf95b85b4fd77836edc77b9348070d8187f73b0407e6634eea09"
+  },
+  {
+    "source": "full:a9dd0d4c8ba9a35dfc5ef8ab",
+    "part": 14,
+    "identity": "other",
+    "reason": "This Supply Chain Now listing describes episodes featuring Ricardo Rochman, Sean Cleland, Rich Bulger, Angie Jula, and other supply-chain guests, with no mention of Nicole Verkindt or any resolved identity anchor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "48fcd6b804f116af4fd8fddf8b32610cba6bfa8aac958ff7bc0f63ecd7df0daa"
+  },
+  {
+    "source": "full:a9dd0d4c8ba9a35dfc5ef8ab",
+    "part": 15,
+    "identity": "other",
+    "reason": "This Supply Chain Now listing covers guests such as Gaurav Malhotra, Jenn Harper, Brett Johnson, and Tara Milburn, with no mention of Nicole Verkindt or any resolved identity anchor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "0cb87f39ca7557a3b8e0c40acb9ddb1238db379bfbb26d162cab0a26d41fd031"
+  },
+  {
+    "source": "full:a9dd0d4c8ba9a35dfc5ef8ab",
+    "part": 16,
+    "identity": "other",
+    "reason": "This Supply Chain Now listings page describes episodes featuring supply-chain guests such as Bobby Holland, Deborah Dull, and Mike Griswold, with no mention of Nicole Verkindt or any attributable material from her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "39720fd127fe10e14e80797b0b40b02d081ebab7b0eec9cbcea27a7ae818771a"
+  },
+  {
+    "source": "full:a9dd0d4c8ba9a35dfc5ef8ab",
+    "part": 17,
+    "identity": "other",
+    "reason": "This Supply Chain Now listings page describes episodes featuring guests such as Heidi Benko, Jett McCandless, and Tom Enright, with no mention of Nicole Verkindt or any attributable material from her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "00c750cbf190936e89f941af66da541da498b84eb8624492ef8e66c10c7b5809"
+  },
+  {
+    "source": "full:a9dd0d4c8ba9a35dfc5ef8ab",
+    "part": 18,
+    "identity": "other",
+    "reason": "This Supply Chain Now listing covers episodes featuring Keith Moore, Steve Prince, Ryan Hanson, Whitney Shlesinger, and numerous other guests, but contains no mention of Nicole Verkindt or her associated profile.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "7dfd933f29b4d21dc422c40c22288715b6314ea091313b500c250a14644de368"
+  },
+  {
+    "source": "full:a9dd0d4c8ba9a35dfc5ef8ab",
+    "part": 19,
+    "identity": "other",
+    "reason": "This continuation of the Supply Chain Now listing describes guests such as Nathan Stuck, Amy Sartain, Pat McNamara, and Jerry Colonna, but contains no mention of Nicole Verkindt or material attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "8682d00d452218807503881f81f3ad9c3206305c7bf8042b83ab8c876c762403"
+  },
+  {
+    "source": "full:a9dd0d4c8ba9a35dfc5ef8ab",
+    "part": 20,
+    "identity": "other",
+    "reason": "This Supply Chain Now listing describes episodes featuring guests such as Alan Barron, Liz Raman, Keith Moore, and others, but contains no mention of Nicole Verkindt or material attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "3f34f976cbc145dde45714b68291b84b1e972afc177c7b2896bad5a847fd20fd"
+  },
+  {
+    "source": "full:a9dd0d4c8ba9a35dfc5ef8ab",
+    "part": 21,
+    "identity": "other",
+    "reason": "This Supply Chain Now listing covers episodes featuring Keith Smith, Kate Williams, Justin Sears, and other unrelated guests, with no mention of Nicole Verkindt or material attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "1967b541089b3e96f1af90dd4a6bdb1de9687fdeb65abadd431cac5aa01a1250"
+  },
+  {
+    "source": "full:a9dd0d4c8ba9a35dfc5ef8ab",
+    "part": 22,
+    "identity": "other",
+    "reason": "This Supply Chain Now index section covers episodes featuring supply-chain guests such as Stephanie and Rod Thomas, Annie Agle, and Scott Luton, with no mention of Nicole Verkindt or her investor activity.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "13707ae5f2a445504187ab382f428528cc5fabd49cac167d076afabd1d5ad5dd"
+  },
+  {
+    "source": "full:a9dd0d4c8ba9a35dfc5ef8ab",
+    "part": 23,
+    "identity": "other",
+    "reason": "This Supply Chain Now index section describes episodes featuring freight and leadership guests such as Bobby Holland, Ken Adamo, and Roosevelt Giles, with no mention of Nicole Verkindt or her investor activity.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "f3fd4a4c2b3c435471d801742bb9c57e912efbb6614e13576f1702dddc9c5e25"
+  },
+  {
+    "source": "full:a9dd0d4c8ba9a35dfc5ef8ab",
+    "part": 24,
+    "identity": "other",
+    "reason": "This Supply Chain Now listings page covers guests such as David Heacock, Hans Moerman, and Marissa Fayer, with no mention of Nicole Verkindt or any attribution to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "efe5f2e73b403c053814999a0fe744a0b5cba71ddcdf48a30645ee885e7cf631"
+  },
+  {
+    "source": "full:a9dd0d4c8ba9a35dfc5ef8ab",
+    "part": 25,
+    "identity": "other",
+    "reason": "This Supply Chain Now listings page covers guests such as Koray Kose, Ryan Honeyman, and Wiley Jones, with no mention of Nicole Verkindt or any attribution to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "0928810be523f7389324689cca553ddb9604188e5c824d7a660dcd3a7b1b6150"
+  },
+  {
+    "source": "full:a9dd0d4c8ba9a35dfc5ef8ab",
+    "part": 26,
+    "identity": "other",
+    "reason": "This Supply Chain Now archive segment describes episodes featuring supply-chain guests such as Karen Betancourt, Ellen Meiner, and John Bruens, with no mention of or material attributable to Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "14414ae333850399573e5e5d59ca9d6f6f3d96330a69b72391e08c8f7dc8cbce"
+  },
+  {
+    "source": "full:a9dd0d4c8ba9a35dfc5ef8ab",
+    "part": 27,
+    "identity": "other",
+    "reason": "This Supply Chain Now archive segment covers episodes featuring guests such as Stephanie Thomas, Glen Clark, and Chris Smithmyer, with no mention of or material attributable to Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "a3858fc16f0a84bbef233841c0e6c0ff1c6ffd9af2087dc1c724a0464fe95d25"
+  },
+  {
+    "source": "full:a9dd0d4c8ba9a35dfc5ef8ab",
+    "part": 28,
+    "identity": "other",
+    "reason": "The packet is a Supply Chain Now listings page about guests such as Joe Davis, Richie Daigle, and Patrice Mousseau, with no mention of Nicole Verkindt or a supported link to her authoritative profile.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "393fabe78f7da0f403a4a21d76b54b8293828538bde957254f23b298318dc46b"
+  },
+  {
+    "source": "full:a9dd0d4c8ba9a35dfc5ef8ab",
+    "part": 29,
+    "identity": "other",
+    "reason": "The packet contains Supply Chain Now episode listings about unrelated guests such as Jim Hutchins, Kristi Porter, and Mike Griswold, with no mention of Nicole Verkindt or attributable material from her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "3f449dc0d0ccdce6474a62d9b037287e0cb3d8af87dbf17e6f2bd829bec726d4"
+  },
+  {
+    "source": "full:a9dd0d4c8ba9a35dfc5ef8ab",
+    "part": 30,
+    "identity": "other",
+    "reason": "This Supply Chain Now index excerpt describes episodes featuring guests such as Justin Cramer, Jake Dean, Dan White, David Burke, and others, but contains no mention of Nicole Verkindt or any anchor connecting the material to the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "5b33df245887b0d9a30f77814b5288d148abc511b3c0188400fd7e3e5e60d64f"
+  },
+  {
+    "source": "full:a9dd0d4c8ba9a35dfc5ef8ab",
+    "part": 31,
+    "identity": "other",
+    "reason": "This Supply Chain Now index excerpt covers unrelated hosts and guests including Jeremy Stalnecker, Stefan Schulz, Michael King, Kevin Wong, and others, with no mention of Nicole Verkindt or any anchor connecting the material to the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "2e521f3f49349b17f7798d938f53df47ad71ad4e3c4425df50ea926e5fcc2fe1"
+  },
+  {
+    "source": "full:a9dd0d4c8ba9a35dfc5ef8ab",
+    "part": 32,
+    "identity": "other",
+    "reason": "This Supply Chain Now listing describes episodes featuring people such as Zach Knight, Alan Seid, Daniel Shemtob, and other supply-chain guests, but contains no mention of Nicole Verkindt or material attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "b087b1ce5263e0b59f12fdd695c30a322755c3e4d02d230dca34a1f668509290"
+  },
+  {
+    "source": "full:a9dd0d4c8ba9a35dfc5ef8ab",
+    "part": 33,
+    "identity": "other",
+    "reason": "This Supply Chain Now listing concerns episodes hosted by Scott Luton and various co-hosts and guests on supply-chain topics, with no mention of Nicole Verkindt or material attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "7ed203388096beb420d0ffca998a0b08639088cb75338815ea3e73495272dd1e"
+  },
+  {
+    "source": "full:a9dd0d4c8ba9a35dfc5ef8ab",
+    "part": 34,
+    "identity": "other",
+    "reason": "This Supply Chain Now podcast index discusses hosts and guests such as Scott Luton, Kim Reuter, Rich Bulger, and Katie Date, with no mention of Nicole Verkindt or her associated investor profile.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "c093dd8741f318290e7459525ca677cab992a98dae40e61a35eccc7a80d43a5b"
+  },
+  {
+    "source": "full:a9dd0d4c8ba9a35dfc5ef8ab",
+    "part": 35,
+    "identity": "other",
+    "reason": "This continuation of the Supply Chain Now index profiles supply-chain professionals such as Whitney Shlesinger, Jenni Staudacher, and Esther Ndichu, and contains no material about Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "2e6f92780f9d41f30546cb9038030db5012b13590e8196b0fe3a0daf98fbaf80"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 1,
+    "identity": "other",
+    "reason": "This BetaKit sitemap is a broad list of site pages and article titles and contains no mention of or attributable material about Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "b4bba862d9a5d173cb7265ae81f5e501f72943a1346eb84e7a07f28140be22f4"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 2,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment consists only of startup article titles and contains no mention of Nicole Verkindt or any passage attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "5382283230b2db03663549b09335dd41214452c33d895b3d39c3148fa8014efe"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 3,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment consists only of startup article titles and placeholder text, with no mention of Nicole Verkindt or any passage attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "9bd3f59c7bd76b926c2e2f481edbb7516d54dbcc81ff22cd73179da65d73eb52"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 4,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment is a list of unrelated startup and technology headlines and contains no mention of Nicole Verkindt or the resolved profile.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "503d67dcc03a8a5050c4ac34597460d43301a67b486163a511528ef11a29714a"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 5,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment consists entirely of unrelated Canadian startup headlines and contains no mention of Nicole Verkindt or any anchor connecting it to the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "ba54fced9e85eda662bb9c0668b691e7a82698a0a3f36e4f586e602092e85208"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 6,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment is a list of unrelated Canadian technology headlines and contains no mention of Nicole Verkindt or any explicit attribution to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "74176fed93be8c3bda364817ea77ca780da63f12383e60d9482e15e40dad0193"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 7,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment lists unrelated startup and investment headlines, with no mention of Nicole Verkindt or material explicitly connected to the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "103551bc9f1181a80eab6aeca5bc549a03bceb07eda03c72a2c7fe13fc96fb37"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 8,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment is an index of Canadian technology and startup headlines, with no mention of Nicole Verkindt or any other anchor connecting its content to the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "fa74bc04ecd133c32269c9b288e38f72762f1d5dd609eb31eda6b40c6076ff36"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 9,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment lists Canadian startup, funding, and event headlines but contains no mention of Nicole Verkindt or any anchor linking the material to the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "84a2acfd05cb7b17a858d2e01c1ba90b0b600e6e51d072aca7d5f44acb8a58dc"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 10,
+    "identity": "other",
+    "reason": "This BetaKit sitemap excerpt is only a list of Canadian technology headlines and contains no mention of Nicole Verkindt or any words attributed to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "21b23aaca54d23e6231bd815defd6fc4be0e6a48999f635ef2808ea7d146720e"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 11,
+    "identity": "other",
+    "reason": "This BetaKit sitemap excerpt lists unrelated startup, funding, and technology headlines and contains no mention of Nicole Verkindt or any words attributed to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "e54fa6ebb73d388e531b5ea10abf0abd7784b4581e2aba367524c6299ddadc05"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 12,
+    "identity": "target",
+    "reason": "The sitemap headline explicitly identifies Nicole Verkindt as joining season 2 of the Canadian startup-investment show Next Gen Den, providing a role-based anchor beyond her name alone.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Harley Finkelstein and Nicole Verkindt joining season 2 of Next Gen Den",
+        "claim": "BetaKit's sitemap reports that Nicole Verkindt was joining season 2 of Next Gen Den alongside Harley Finkelstein.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "58cd60ca1adf95de09c1b94a62a7c1fe63d2d800993856536ef48d4881f14ff7"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 13,
+    "identity": "other",
+    "reason": "This sitemap segment contains no mention of Nicole Verkindt and no material attributable to the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "82a9d58912b69c0e504ba7a1f3983b119bde2f4c32cbb675cf902d156f43b391"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 14,
+    "identity": "other",
+    "reason": "This BetaKit sitemap excerpt is a list of unrelated Canadian technology headlines and contains no mention of Nicole Verkindt or any passage attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "b0c074785ef859d8095e83d62eda6aeaadfeb216a0cac5aca937995f10f6f61e"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 15,
+    "identity": "other",
+    "reason": "This BetaKit sitemap excerpt consists of unrelated startup and technology headlines and contains no mention of Nicole Verkindt or any material attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "85ee219045203959c2874dff82ee2586f5add50427e2f2e823aa43ca68ea2c42"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 16,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment contains only unrelated 2016 technology and startup headlines and includes no mention of Nicole Verkindt or any material attributed to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "e356320ccdd5bdb75ccc8af3a6de327d8ae870cd0f8f9d42a8829635272f12f3"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 17,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment lists unrelated startup, funding, and technology headlines and contains no mention of Nicole Verkindt or any statements attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "929196c6d2c6749702717b6e97432f97a9970298e5c4ba494074c6e77b83b786"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 18,
+    "identity": "other",
+    "reason": "This BetaKit sitemap excerpt consists of unrelated Canadian technology headlines and contains no mention of Nicole Verkindt or material attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "f8b939a072d500a2f4b57b878afdfa3ca24ae25504b38a8e633657c3f38aeaa0"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 19,
+    "identity": "other",
+    "reason": "This BetaKit sitemap excerpt contains unrelated headlines—including one about BlueCat co-founder Michael Hyatt—but no mention of Nicole Verkindt or material attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "5546b11db57287ac0de629f7fc8448a8b5d72f6d2defbffc753e42702a94ced8"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 20,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment is a list of unrelated article titles and contains no mention of Nicole Verkindt, OMX, or another supplied identity anchor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "b869b5523f8db848bf2c53ccdb21edb37ec4bbeff4f19b93212d870cba667fdb"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 21,
+    "identity": "target",
+    "reason": "The sitemap explicitly lists the headline “OMX’s Nicole Verkindt says optionality is important for successful tech companies,” tying the resolved investor’s full name to OMX.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "OMX’s Nicole Verkindt says optionality is important for successful tech companies",
+        "claim": "BetaKit's sitemap identifies Nicole Verkindt with OMX and reports that she considered optionality important for successful technology companies.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "c4d5fd8420cfe8124dd13b030992b65a0782a1b80050accebaced88436acd123"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 22,
+    "identity": "target",
+    "reason": "The BetaKit sitemap explicitly names Nicole Verkindt, the resolved investor, in a headline identifying her among Startup Canada’s 2017 Ontario regional award winners.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Mike Serbinis, Nicole Verkindt among Startup Canada’s 2017 Ontario regional award winners",
+        "claim": "BetaKit’s sitemap reports that Nicole Verkindt was among Startup Canada’s 2017 Ontario regional award winners.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "21f9bde92df1990230c62c42b24b2e0e58ee9614c2e6cd9da78413049c136ac6"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 23,
+    "identity": "target",
+    "reason": "The BetaKit sitemap explicitly identifies a Startup Canada Podcast episode about investing in Canadian startups with Nicole Verkindt, matching the resolved investor’s investment role, but supplies none of her words.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Startup Canada Podcast: Investing in Canadian startups with Nicole Verkindt",
+        "claim": "BetaKit’s sitemap lists a Startup Canada Podcast episode featuring Nicole Verkindt on investing in Canadian startups.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "49a48415cc69b1be7d69b6eadecf59d9ac0d9b067d4721921e81a585f3dda28f"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 24,
+    "identity": "target",
+    "reason": "The sitemap explicitly identifies “OMX’s Nicole Verkindt,” linking the named person to the Canadian technology entrepreneur, but provides only an article headline rather than verified quotations of her words.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "OMX’s Nicole Verkindt: failure is an entrepreneur’s biggest teacher",
+        "claim": "The BetaKit sitemap describes Nicole Verkindt as associated with OMX and identifies her as the subject of an article about entrepreneurial failure.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "41a141191bfd7035f5cdcd6ec3c212686f9eba7b7b222955d56b28df6eff64a2"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 25,
+    "identity": "target",
+    "reason": "The BetaKit sitemap twice names Nicole Verkindt alongside Canadian entrepreneur Michael Hyatt in material about scaling small businesses, but contains no attributable transcript or direct quotation from her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "7e5b98c36adad3c3692f05bb227a25e0818a3e99d106fed20fad242997788fca"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 26,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment is a list of Canadian technology headlines and contains no mention of Nicole Verkindt or material attributable to the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "26bb37bc70efdc5eb202962b0ab30dfaed29b527dba995c3d23e0188dd59b6dd"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 27,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment consists only of technology and investment headlines, with no mention of Nicole Verkindt or any clearly attributed material about the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "aeb5703a0399f04afcc8526be75725c2b573cf9471a0ee98550ab825474e2c4f"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 28,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment consists solely of unrelated Canadian technology headlines and contains no mention of Nicole Verkindt or words attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "19b5d2aed00dfe81152671fc407c005230eab7d26c2da99be0fc72972a67f6ec"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 29,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment lists unrelated startup, funding, and technology headlines and contains no mention of Nicole Verkindt or words attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "4061f20b01eb0f703dca73a2c45ef227b7d957a5326cc1007a6061e3cf9e4457"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 30,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment is only a list of article titles about unrelated companies and people and contains no mention of Nicole Verkindt or material attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "bef952593be89db9ef43971a596be79cb07c6e5d8a6b93ffcd593ebf8a45fa22"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 31,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment lists unrelated Canadian technology headlines, including items about BlueCat hires but no mention of Nicole Verkindt and no statements or facts attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "99eb367160c01fb23d6ae735b810c402aed337041c7d1028a60604776096d104"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 32,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment is a list of article headlines about Canadian technology companies and figures, with no mention of Nicole Verkindt or material attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "7121d5842629437fd766e80bc3ab7d05909bac3ec5eeb6b59faea2d3e8a5400d"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 33,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment contains only article headlines and no mention of Nicole Verkindt; its Michael Hyatt headlines concern a different named person and do not establish relevance to the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "fc90ea2b314aa186a17585d99509a0e71bb64095514ea30b5b71e72d27fb9abd"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 34,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment is only a list of Canadian technology headlines and contains no mention of Nicole Verkindt or any passage attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "04ecc07e6df0fc9d87d3c470e17518790f5880fb0db9a3f54237d6776a20fa49"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 35,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment lists headlines about various Canadian companies, investors, and technology figures but contains no mention of Nicole Verkindt or material attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "c284fe3b5c5e447b023740462beb9e34eb11bd31f200a616fcfef1f431a9af4e"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 36,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment is a list of Canadian technology headlines spanning topics such as Shopify, Element AI, and venture funding, with no mention of Nicole Verkindt or material attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "3a041e1df9dd2a00614b8ee0aa7281cb7b1e41b3a3741f605c9367c6f82232f2"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 37,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment contains unrelated headlines about companies, investors, and technology-sector developments such as Clearbanc, Thinkific, and Wealthsimple, with no mention of Nicole Verkindt or material attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "5fef50b5deeda58adbfbb06ac3371716cffe3068467e24a8ab12fabc687c9e02"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 38,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment is a list of Canadian technology headlines and contains no mention of Nicole Verkindt or any passage attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "5db47448118810d8f6c24415a3b61a6007378c460c4b0b6a19920dbf912399e5"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 39,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment lists technology, funding, and acquisition headlines but contains no mention of Nicole Verkindt or any passage attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "29191dc2506e1e9ea470dbf50621e218395bc9838f8a5ec86c2fc16e63b0a206"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 40,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment is a list of unrelated Canadian technology headlines and contains no mention of Nicole Verkindt or material attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "23202c673569e1a0565260d2a86c07277feeb8f6248bf84394f8b4e3529580fc"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 41,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment contains unrelated headlines, including items about Michael Hyatt, but no mention of Nicole Verkindt or material attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "4b8885545c8757d2b233cc08a6399cd4f335d08c28205d5a1fca0b76d0eff856"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 42,
+    "identity": "other",
+    "reason": "This BetaKit sitemap fragment is a list of unrelated Canadian technology headlines and contains no mention of Nicole Verkindt or any source-supported identity anchor connecting its content to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "22a6f800509037582a2aeaf88d9dd08332a69f96efbb2845dec836712b7ce2ae"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 43,
+    "identity": "other",
+    "reason": "This BetaKit sitemap fragment consists of unrelated FinTech and Canadian technology headlines and contains no mention of Nicole Verkindt or any source-supported identity anchor connecting its content to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "64141a259abc3a8a02232aa0c4149e5eef5d4e22a34a9f26873c278b63d4bead"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 44,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment is a list of article headlines about unrelated companies and people, including the Hyatt brothers and BlueCat, and contains no reference to Nicole Verkindt or attributable material from her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "50b5007d56742e50da74ff0996ba4a2fa23950d49e37288428bb56d35f9e5cc8"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 45,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment consists of article headlines about unrelated technology and startup subjects and contains no reference to Nicole Verkindt or attributable material from her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "d0dceeb2549aa727299dfb0ba6c976887b77eeb6d6080931f6585e13b9043fd2"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 46,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment is a list of unrelated article titles and contains no mention of Nicole Verkindt or any passage attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "09b9206ddd8f31cf1b365e5cc22e18f7ffa3e234acca3c3f1875493f0925d4c9"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 47,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment lists unrelated technology-news headlines and contains no mention of Nicole Verkindt or any passage attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "b3b3b9fd433d0495917a996a37687432281ad6a21e39c3e9b68fa01be6f06589"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 48,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment is only a list of article titles and contains no mention of Nicole Verkindt or any passage attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "6efc8a96b65fffced8fa48236b5ccef4a5f373efe3921c138caaa09ea6822c39"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 49,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment is only a list of article titles and contains no mention of Nicole Verkindt or any passage attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "f99792387695d4ecdf368ebd3ced357e0e6c8aa4526ef2ee8e7d6c73499af327"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 50,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment contains no mention of Nicole Verkindt and consists entirely of unrelated article titles.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "15bb5cd0dd563fc6a052698d85161ebdb08c82345f2d9f2011b971e93f25e3d0"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 51,
+    "identity": "target",
+    "reason": "This BetaKit sitemap segment explicitly lists a podcast about Nicole Verkindt as a new investor and Dragon, directly matching the resolved Canadian investor.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "#smallrooms podcast: Nicole Verkindt on being a new investor & Dragon",
+        "claim": "BetaKit's sitemap describes Nicole Verkindt as the subject of a podcast about being a new investor and a Dragon.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "9877ee8cc91edd00a49c560f92fab529a85e71411ca8ceb70c64f1913c241e8d"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 52,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment is only a list of article titles about unrelated Canadian technology companies and people, with no mention of Nicole Verkindt or the resolved authoritative profile.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "2c60022108a1ba94820378831c97c30b934d80724422b092d0771262861707a8"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 53,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment lists article titles concerning unrelated startups, investors, and executives but contains no mention of Nicole Verkindt or material attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "ce84a74fb21a2610af636af23b5e93a8c38c5509cd6684ea042b719cc4945c03"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 54,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment lists Canadian technology news headlines from April through June 2023 but contains no mention of Nicole Verkindt or material attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "0283ce640dd8915a53ed27e561f1e21b09c37945b57036ff3732ef178dd741b4"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 55,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment lists Canadian technology news headlines from June through August 2023 but contains no mention of Nicole Verkindt or material attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "150fe8c27ba489405706d6d088f44d779156fbbbf60e8e0cd29c0e59e00b650d"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 56,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment is a list of article headlines and contains no material about resolved investor Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "a7c4fe73ec4878da301e0c3379a55b4967b7a66473e66714176402ac49630a97"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 57,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment contains no material about Nicole Verkindt; its Hyatt-related headline concerns the Hyatt brothers and DataStealth, a different subject.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "0d28dc0e3fd8f34174e3eaae7370e57ce09bb27f6c59f9fd769fb4f5dfbaac8d"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 58,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment is only a list of Canadian technology headlines and contains no mention of Nicole Verkindt or material attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "e5535014042231e29396cc835dc1d33351b80706798e55563c8873f638c9ccc0"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 59,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment lists technology and venture-news headlines but contains no mention of Nicole Verkindt or material attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "51fa8b067a87df694ad20582ea60c8c4812bad6e7df1de19a294e332576b3048"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 60,
+    "identity": "other",
+    "reason": "This packet is a BetaKit sitemap segment listing Canadian technology headlines, including an incidental BlueCat acquisition headline, but contains no mention of Nicole Verkindt or any words attributed to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "504afcda1992988cd20b37d43b35eb2e7b64fd467cff101176f702eaca315db4"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 61,
+    "identity": "other",
+    "reason": "This packet is a BetaKit sitemap segment consisting solely of technology-news headlines and contains no mention of Nicole Verkindt or any words attributed to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "f38e94b0ae91dbcc81f2fbe55a9a5e8b03c244b768c8020059f160e14c6e9719"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 62,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment is a list of Canadian technology headlines and contains no mention of Nicole Verkindt or any passage attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "edc25a685859137254104548cc0a3939616e6797d89f2eafa24b460a11c9f24e"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 63,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment contains only technology-news headlines, with no mention of Nicole Verkindt and no material attributable to the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "ec3575340ec18c0b0bb055e2f8d7198936be45e1edb602794896bbdb1cc495a1"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 64,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment is a list of unrelated Canadian technology headlines and contains no mention of Nicole Verkindt or any passage attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "8cc88a1dc3926bd82968f99f429cf619e7062028754c610b77151b46fe7faab9"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 65,
+    "identity": "other",
+    "reason": "This BetaKit sitemap segment contains only unrelated technology and investment headlines, with no mention of Nicole Verkindt or material attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "d4584072a007159ffb4dcc1b4e4bf07dfb73b2917b156a6ddc1d1ea3c9888b9c"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 66,
+    "identity": "other",
+    "reason": "This packet is a BetaKit sitemap listing unrelated Canadian technology headlines and contains no mention of Nicole Verkindt or material attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "e5e5e328a9d6ad286afec955c038d9ba5b763682a8b315e8a52e39a3bc3f327e"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 67,
+    "identity": "other",
+    "reason": "This packet is a BetaKit sitemap listing unrelated startup and investment headlines and contains no mention of Nicole Verkindt or material attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "1c5fa9f1843416df59c8867116ca4e47da6c3141d849c94ec2a420bef2589e4a"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 68,
+    "identity": "other",
+    "reason": "This BetaKit sitemap contains only article-title listings, including “Michael Hyatt-backed BrokerPlus,” and contains no material about resolved investor Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "f4ce3ae8c4a45423368bfb48824bd307f65924e16afb7a10704d85c7ccf415b7"
+  },
+  {
+    "source": "full:393ea7ed3bdb2c05a4ad48ba",
+    "part": 69,
+    "identity": "other",
+    "reason": "This continuation of the BetaKit sitemap lists Canadian technology headlines and site-navigation text but contains no mention of or attributable material about Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "05bf20f48904cf094fe6829c4b082c37390353f28871fe0ea79a5289a7938166"
+  },
+  {
+    "source": "full:11897c9a30939c282a47ccb6",
+    "part": 1,
+    "identity": "other",
+    "reason": "This is PR Newswire’s generic homepage describing its press-release distribution services and featured stories, with no mention of or attributable material about Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "c3afd31ab3b453b6210439b81abee42baa2718df3a7ffe1e0088e2a50a719735"
+  },
+  {
+    "source": "full:ac59a69c3d3c16ad00d6f31d",
+    "part": 1,
+    "identity": "other",
+    "reason": "This portion consists of Ryerson University governance materials and institutional updates and contains no passage about Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "edb4c0eac5516eaa936693d6369d009c959d1d741cacd8393255ba3056f5e1f5"
+  },
+  {
+    "source": "full:ac59a69c3d3c16ad00d6f31d",
+    "part": 2,
+    "identity": "target",
+    "reason": "A dated Ryerson calendar entry explicitly identifies Nicole Verkindt as founder and CEO of the procurement platform OMX, providing a concrete affiliation anchor for the resolved investor.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "October 13, 2020: I attended the Globe and Mail webcast “Skills for the New Economy.” Speakers included Joe Cox, Canada Research Chair in Digital Disruption and Organizational Transformation at Athabasca University; Claudette McGowan, global executive officer for cybersecurity at TD Bank; and Nicole Verkindt, founder and CEO of the procurement platform OMX.",
+        "claim": "Ryerson's president reported attending an October 13, 2020 webcast where Nicole Verkindt appeared as a speaker and was identified as founder and CEO of OMX.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "7c4453fdc0fff80a2da92a54a44027babcf8d88d1c065bd5418003ae9a8a26bf"
+  },
+  {
+    "source": "full:ac59a69c3d3c16ad00d6f31d",
+    "part": 3,
+    "identity": "other",
+    "reason": "The part contains Ryerson governance, enrolment, academic-program, and event reporting but no passage about Nicole Verkindt or any words attributed to her; her name appears only in the document-level title.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "93bead99c8d03eb39788e88a36a780c19b9d37296440ae54945ec699f1a2c46c"
+  },
+  {
+    "source": "full:ac59a69c3d3c16ad00d6f31d",
+    "part": 4,
+    "identity": "other",
+    "reason": "The part covers Ryerson initiatives, library projects, and Fiera-managed endowment investments without any passage about Nicole Verkindt or words attributed to her; her name appears only in the document-level title.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "3766decd09400949de69f8503d7c4275a0fad0d012f631a514c12e0b82d798f2"
+  },
+  {
+    "source": "full:ac59a69c3d3c16ad00d6f31d",
+    "part": 5,
+    "identity": "other",
+    "reason": "Although the title names Nicole Verkindt as an OMX founder and webcast speaker, the supplied part contains only economic scenarios, Fiera portfolio material, and Ryerson University enrolment and financial records, with no attributed remarks or substantive material about her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "a63cc4883bd3f2b049ee0b1e4f2f1f99193936bd5e2e58ba756a17d3e4cd6c50"
+  },
+  {
+    "source": "full:ac59a69c3d3c16ad00d6f31d",
+    "part": 6,
+    "identity": "other",
+    "reason": "The supplied part consists of Ryerson University financial statements and purchasing-policy materials and contains no mention of Nicole Verkindt or any words attributed to her, despite her appearance in the document title.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "3a4a87a8326e8c37ebc182d8ef2619fb106a97706c90383ae6cb43e3ae0c462b"
+  },
+  {
+    "source": "full:ac59a69c3d3c16ad00d6f31d",
+    "part": 7,
+    "identity": "other",
+    "reason": "The packet contains Ryerson University purchasing definitions, procurement thresholds, and contracting procedures, with no passage about or attributed to Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "b430eb8b5db2032c1a39d223c01ed58f5d397cf21f8f736ebc254dbe3a54c4a7"
+  },
+  {
+    "source": "full:ac59a69c3d3c16ad00d6f31d",
+    "part": 8,
+    "identity": "other",
+    "reason": "The packet contains a supply-chain code of ethics and Ryerson program-approval materials for graduate degrees, with no passage about or attributed to Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "43067340c4ce502dc1f090f197010a508b7b308ff5e89c07cea4d0bc76033405"
+  },
+  {
+    "source": "full:ac59a69c3d3c16ad00d6f31d",
+    "part": 9,
+    "identity": "target",
+    "reason": "The packet title explicitly identifies Nicole Verkindt as OMX’s founder and CEO and a speaker at an October 13, 2020 webcast, but the packet body contains no attributable statements or contextual passages about her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "6bd3a27babf3fc7ce84f4ae4b26a349aa3f1f32eee80a3d135825c25282f98fc"
+  },
+  {
+    "source": "full:ac59a69c3d3c16ad00d6f31d",
+    "part": 10,
+    "identity": "target",
+    "reason": "The packet title explicitly identifies Nicole Verkindt as OMX’s founder and CEO and a speaker at an October 13, 2020 webcast, but the packet body concerns unrelated university program reviews and contains no attributable material about her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "35f92aec0311b94139c93abf141d7b34a0a5d12998a0e1c377d89f01010f7cb2"
+  },
+  {
+    "source": "full:ac59a69c3d3c16ad00d6f31d",
+    "part": 11,
+    "identity": "other",
+    "reason": "This packet contains Ryerson Chemical Engineering program-review material and no passage about Nicole Verkindt or her investment views; her name appears only in the document title supplied outside the packet text.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "039de3b0e005e2ccb8894c9cc0baf22c53f5fe2e0fc65084d81075da06329881"
+  },
+  {
+    "source": "full:ac59a69c3d3c16ad00d6f31d",
+    "part": 12,
+    "identity": "other",
+    "reason": "This packet contains Ryerson English program-review material and no passage about Nicole Verkindt or her investment views; her name appears only in the document title supplied outside the packet text.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "c62104c1dfe6ee755194a100961c330e415899baa5d20d84fdceabb7c30470ed"
+  },
+  {
+    "source": "full:ac59a69c3d3c16ad00d6f31d",
+    "part": 13,
+    "identity": "other",
+    "reason": "The packet contains Ryerson University English-program review recommendations and implementation material, with no passage about Nicole Verkindt and no words attributed to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "37b116206d54bf7221a843d0a9317b1959a250f0b519b0debb9295e73ad4e164"
+  },
+  {
+    "source": "full:ac59a69c3d3c16ad00d6f31d",
+    "part": 14,
+    "identity": "other",
+    "reason": "The packet contains Ryerson University English and International Economics and Finance program-review material, with no passage about Nicole Verkindt and no words attributed to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "074e8d583171cd818020ea99323f3aaa6dcd6ffb93c519d64c4e557fdbc3b189"
+  },
+  {
+    "source": "full:ac59a69c3d3c16ad00d6f31d",
+    "part": 15,
+    "identity": "other",
+    "reason": "The packet body concerns Ryerson economics and retail-management program reviews and contains no mention of Nicole Verkindt, OMX, or attributed remarks from the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "b0011fe0de880367ce868eb0656dad17f370ce511a3d89de9abdbf36085786e6"
+  },
+  {
+    "source": "full:ac59a69c3d3c16ad00d6f31d",
+    "part": 16,
+    "identity": "other",
+    "reason": "The packet body continues Ryerson retail-management and economics program-review material and contains no mention of Nicole Verkindt, OMX, or attributed remarks from the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "239cdc95b731ac74077441e5527ba66ecf1fad1195dcbbdb675be624d7e2e220"
+  },
+  {
+    "source": "full:ac59a69c3d3c16ad00d6f31d",
+    "part": 17,
+    "identity": "other",
+    "reason": "The packet contains Ryerson University periodic program reviews of Economics and Applied Mathematics and does not contain material about Nicole Verkindt beyond the source title.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "2c4d5b3452028018789deb1a307ca2c16fe76dd980e13e926fba91d3415a523d"
+  },
+  {
+    "source": "full:ac59a69c3d3c16ad00d6f31d",
+    "part": 18,
+    "identity": "other",
+    "reason": "The packet contains Ryerson University periodic program reviews of Applied Mathematics and Philosophy and does not contain material about Nicole Verkindt beyond the source title.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "f69178becd0e626be83c1001a76385144027d77e23104a2955f25d8e541e8369"
+  },
+  {
+    "source": "full:ac59a69c3d3c16ad00d6f31d",
+    "part": 19,
+    "identity": "other",
+    "reason": "Although the title names Nicole Verkindt and an OMX webcast, the supplied text is a Ryerson University review of its Public Policy & Administration program and contains no attributable material about her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "02a57a43bc8d5f0f47a74eae8a0e88191c8a434331adf663debc898f52528295"
+  },
+  {
+    "source": "full:ac59a69c3d3c16ad00d6f31d",
+    "part": 20,
+    "identity": "other",
+    "reason": "The supplied text continues Ryerson University program reviews concerning Public Policy & Administration and Spatial Analysis, with no passage about or words attributed to Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "224529d4e92e49c862ba3392e9e89414fbcaa9beb8a9a3b48d168e903f350cb8"
+  },
+  {
+    "source": "full:ac59a69c3d3c16ad00d6f31d",
+    "part": 21,
+    "identity": "other",
+    "reason": "The packet contains Ryerson program-review material about graduate curricula, funding, faculty, and urban planning, with no substantive passage about Nicole Verkindt despite her appearance in the document title.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "d49a0e6a5978586666b3525d621eb15ddc469748e3493318414597e6a42127a7"
+  },
+  {
+    "source": "full:ac59a69c3d3c16ad00d6f31d",
+    "part": 22,
+    "identity": "other",
+    "reason": "The packet continues an unrelated Ryerson Urban Development program review covering internships, facilities, and administrative recommendations, without substantive material about Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "c504c03ca075d19acf846ed589b31d7679611286eb539250ffc05a063374ce08"
+  },
+  {
+    "source": "full:26590db27572f34df7d9010f",
+    "part": 1,
+    "identity": "target",
+    "reason": "The mission brochure explicitly profiles Nicole Verkindt as OMX founder and CEO and identifies her prior investor roles on Next Gen Dragon’s Den and The Pitch, matching the resolved investor.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Nicole Verkindt是加拿大科技公司\nOMX （theomx.com） 創始人兼執行長。 OMX為\n全球採購電子市集， 專精於推動社會經濟回報。\n該平台協助提高和測量當地支出/社會經濟影響、 環境/社會/公司\n治理 （ESG） 、 以及其它永續性指標。",
+        "claim": "The brochure reports that Nicole Verkindt founded and led OMX, a global procurement marketplace focused on socioeconomic returns and measurement of local spending, ESG, and other sustainability indicators.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "在此之前， 她掌理一家全球高\n科技製造企業。",
+        "claim": "The brochure reports that Verkindt previously ran a global high-technology manufacturing business, though it does not name the company.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Nicole是國營企業加拿大商業公司 （Canadian\nCommercial Corporation） 董事會成員， 該公司協助獲得加拿\n大政府與世界其它國家政府之間的國際合同。",
+        "claim": "The brochure reports that Verkindt was a board member of the Canadian Commercial Corporation.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "曾經在針對初期科技公司的CBC節目Next\nGen Dragon’s Den、 以及Gimlet媒體節目The Pitch中擔任投\n資人角色之一。",
+        "claim": "The brochure reports that Verkindt served as an investor on the early-stage technology programs Next Gen Dragon’s Den and The Pitch.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "於2019年， 她被任命為Startup Canada“年度女性大使“， 也是加\n拿大40 Under 40青年菁英榜之一。",
+        "claim": "The brochure reports that in 2019 Verkindt was named Startup Canada’s Woman Ambassador of the Year and was recognized among Canada’s Top 40 Under 40.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "3a1fbd72f7f536a9e8a79205e08e9b9f3c9bc66698b7924e3ee26aae625c119e"
+  },
+  {
+    "source": "full:26590db27572f34df7d9010f",
+    "part": 2,
+    "identity": "other",
+    "reason": "This brochure section profiles companies represented by people such as Anna Vagramova, Lana Novikova, and Jodi Lyn Huettner, and contains no reference to Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "1fb97d7bfaa64fba9c12309708d97c79039cdca3a59e66f18bb6bb34566aa804"
+  },
+  {
+    "source": "full:e75d852423cebb02b3be338b",
+    "part": 1,
+    "identity": "other",
+    "reason": "The packet consists only of a generic description of Roam Research and contains no reference to Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "31a8302f637261d7459a32c29f67612d1e5f2f863092983cc43b11af35c29d7a"
+  },
+  {
+    "source": "full:0159d312dfb0a43378e3399e",
+    "part": 1,
+    "identity": "unusable",
+    "reason": "The packet is only a Government of Canada archived-publication interstitial with navigation and alternate-format instructions, providing no substantive source material about Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "6c7b0f6e4dae77a4d1d912b572b28f45cc678b865ed3af6d3cc02382f184f1b7"
+  },
+  {
+    "source": "full:0fda6944c8502284863d16b9",
+    "part": 1,
+    "identity": "other",
+    "reason": "This transcript explicitly identifies Jensen Huang as the interviewee and discusses Nvidia and artificial intelligence, with no reference to Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "4b42a87ae09face91d0906761b15e3ab9af7a468e621df599de339d8ef21cdfd"
+  },
+  {
+    "source": "full:0fda6944c8502284863d16b9",
+    "part": 2,
+    "identity": "other",
+    "reason": "This continuation remains an Ezra Klein interview with Jensen Huang about AI models, safety, and regulation, and contains no reference to Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "f0edc70efa64c135c1f40b0702af87511c092ec966143c57c7abb5134de2e8f9"
+  },
+  {
+    "source": "full:0fda6944c8502284863d16b9",
+    "part": 3,
+    "identity": "other",
+    "reason": "The packet is an interview between Ezra Klein and Nvidia CEO Jensen Huang about artificial intelligence, with no material about the resolved investor Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "97ddb162c37ce11ffebe3d082eb523dc29c64b5ea027c307c4a3bac92fa3237a"
+  },
+  {
+    "source": "full:0fda6944c8502284863d16b9",
+    "part": 4,
+    "identity": "other",
+    "reason": "The packet continues Ezra Klein’s interview with Nvidia CEO Jensen Huang about AI safety, computing infrastructure, and Nvidia’s investments, not Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "25442a64d09f2e2e2a4b2cb62faae2b6718d873189dc44005eea9703af885576"
+  },
+  {
+    "source": "full:0fda6944c8502284863d16b9",
+    "part": 5,
+    "identity": "other",
+    "reason": "The packet concludes Ezra Klein’s interview with Jensen Huang, covering energy, climate, and book recommendations, and contains no relevant material about Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "015c6fc9694e21b0c0fb0a5e62225de8aa4c96180153d5ece03b5b8f35f92c92"
+  },
+  {
+    "source": "full:571a5852a02c77f667d334c7",
+    "part": 1,
+    "identity": "other",
+    "reason": "The packet is an OpenVC directory of Indianapolis investors and contains no mention of Nicole Verkindt or her authoritative profile affiliation.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "8f57315c332d78b189006457f9143bb760f6ab4dd994cc9e9d4d664121100b7b"
+  },
+  {
+    "source": "full:1d3fd091b77f57cfed64ae48",
+    "part": 1,
+    "identity": "other",
+    "reason": "This Acquired Podcast episode listing discusses companies and guests such as Michael Lewis, Jamie Dimon, and Steve Ballmer but contains no material about Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "0ea2b7bbbcc65f90f003b9614b64548d28d01e64cd2736fcb646e159c9fd7d54"
+  },
+  {
+    "source": "full:1d3fd091b77f57cfed64ae48",
+    "part": 2,
+    "identity": "other",
+    "reason": "This continuation of the Acquired Podcast listing covers the Indian Premier League, Rolex, and TSMC founder Morris Chang, with no mention of Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "55ec38b431554d5f973f7644d2cc522a34ea3c894b0df003dce91ef71a5edfa8"
+  },
+  {
+    "source": "full:c3f40e9f60aec375bf958563",
+    "part": 1,
+    "identity": "other",
+    "reason": "This packet is a Vero Beach local-news index covering municipal development, hotels, hospitals, real estate, utilities, and other Florida community subjects, with no mention of Nicole Verkindt or any supported connection to the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "fc36f098ab2d5380281f0f22b68b5096266650e7c3db5759939bd3de7193fad8"
+  },
+  {
+    "source": "full:c3f40e9f60aec375bf958563",
+    "part": 2,
+    "identity": "other",
+    "reason": "This continuation contains Vero Beach reports about elections, restaurants, schools, development, sailing, sea turtles, and municipal affairs, with no mention of Nicole Verkindt or any supported connection to the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "4d29e305ca272da413ee3065f3a44eb6cb8e8ac683c621658a2402cdc28def43"
+  },
+  {
+    "source": "full:c3f40e9f60aec375bf958563",
+    "part": 3,
+    "identity": "other",
+    "reason": "This packet contains Vero Beach local-news summaries about schools, utilities, real estate, public safety, and other community matters, with no mention of Nicole Verkindt or her established identity anchors.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "959b9101052ad9aa9f9e85614d3dcbf8e6ed7a47298975b4029392c4ea25c9e8"
+  },
+  {
+    "source": "full:c3f40e9f60aec375bf958563",
+    "part": 4,
+    "identity": "other",
+    "reason": "This packet continues Vero Beach local reporting about Todd Scher, municipal budgets, property transactions, healthcare, and other unrelated subjects, with no mention of Nicole Verkindt or her established identity anchors.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "60f081c93011fae4d5fe36d3a041376c30d58ccdccf9cf5a384c847ce8819803"
+  },
+  {
+    "source": "full:c3f40e9f60aec375bf958563",
+    "part": 5,
+    "identity": "other",
+    "reason": "This packet contains Vero Beach local reporting about restaurants, real estate, municipal affairs, infrastructure, and other residents, with no mention of Nicole Verkindt or any supported connection to the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "f34b6694999655057424450b67f361293d91d0f7e4979d1058f8e9fa07c4b9f7"
+  },
+  {
+    "source": "full:c3f40e9f60aec375bf958563",
+    "part": 6,
+    "identity": "other",
+    "reason": "This packet contains Vero Beach local news about parking rules, public works, lawsuits, charities, sports, and businesses, with no mention of Nicole Verkindt or any supported connection to the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "72da2a1df665dba0ca74582e152c8996424cddcc15eb12160d35a8d644d26bc5"
+  },
+  {
+    "source": "full:c3f40e9f60aec375bf958563",
+    "part": 7,
+    "identity": "other",
+    "reason": "This packet contains Vero Beach local-news summaries about infrastructure, healthcare, real estate, government, and public safety, with no mention of Nicole Verkindt or any supported connection to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "9903c1fbe0d21e588dcbf5c5b2570d9dbcaeead80cfed03e8025017ab61323ad"
+  },
+  {
+    "source": "full:c3f40e9f60aec375bf958563",
+    "part": 8,
+    "identity": "other",
+    "reason": "This packet contains Vero Beach local-news summaries about clubs, development, transportation, environmental issues, and public safety, with no mention of Nicole Verkindt or any supported connection to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "cb1cce127db0f1b9ee2f7c3bafde64129159bbab38fb6eb440c6d4a0213297b0"
+  },
+  {
+    "source": "full:c3f40e9f60aec375bf958563",
+    "part": 9,
+    "identity": "other",
+    "reason": "This packet contains Vero Beach local-news summaries about healthcare, real estate, civic projects, and community figures, with no mention of Nicole Verkindt or material attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "a80379fb57a9d14913ac12615587c10731cebd5475cec8c2ee2900c25b04279b"
+  },
+  {
+    "source": "full:c3f40e9f60aec375bf958563",
+    "part": 10,
+    "identity": "other",
+    "reason": "This packet contains Vero Beach local-news summaries about a veterans clinic, municipal affairs, real estate, courts, and other local subjects, with no mention of Nicole Verkindt or material attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "72b8068f3116b1f55337816b939dc3f9a3042836a11e61a0a9c42d861fe1ee7e"
+  },
+  {
+    "source": "full:c3f40e9f60aec375bf958563",
+    "part": 11,
+    "identity": "other",
+    "reason": "This packet contains Vero Beach local-news summaries about airlines, real estate, public works, healthcare, schools, and other community matters, with no mention of Nicole Verkindt or any supported connection to the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "eac52f8bdd260d3b1b6039cf3d043e99dabe99cb776d9e194db88b149d2676f3"
+  },
+  {
+    "source": "full:c3f40e9f60aec375bf958563",
+    "part": 12,
+    "identity": "other",
+    "reason": "This packet continues Vero Beach local-news coverage of bridge repairs, housing, public institutions, environmental issues, and community events, with no mention of Nicole Verkindt or any supported connection to the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "97b02daa727524cdf0155cafc6c2127af8df6d2f0d54975e892a3d6753053640"
+  },
+  {
+    "source": "full:c3f40e9f60aec375bf958563",
+    "part": 13,
+    "identity": "other",
+    "reason": "This packet contains Vero Beach local-news summaries about healthcare, municipal projects, real estate, courts, wildlife, and other community subjects, with no mention of Nicole Verkindt or material attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "ddf0c70e3b2511ccfb0756b6fa056f18f36206547e4b770014037a5680abb7c1"
+  },
+  {
+    "source": "full:c3f40e9f60aec375bf958563",
+    "part": 14,
+    "identity": "other",
+    "reason": "This packet continues Vero Beach local-news coverage of beach restoration, hospitals, tourism, municipal development, schools, and transportation, with no mention of Nicole Verkindt or material attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "bd422d5a26cec56ae59d163d47a2cb0699864ec8268c9cf9b5f3fa43f4b5f533"
+  },
+  {
+    "source": "full:c3f40e9f60aec375bf958563",
+    "part": 15,
+    "identity": "other",
+    "reason": "This packet consists of Vero Beach local-news items about healthcare, government, real estate, infrastructure, and other community matters, with no mention of Nicole Verkindt or any resolved identity anchor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "2ce1147260256fccaf7d3713d18b6a0830eac424506988aa57ce35d354b22649"
+  },
+  {
+    "source": "full:c3f40e9f60aec375bf958563",
+    "part": 16,
+    "identity": "other",
+    "reason": "This packet contains Vero Beach local reporting on subjects such as the Hospital District, public schools, utilities, development, and airport parking, with no mention of Nicole Verkindt or any resolved identity anchor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "67077d78309d86f5e46f28a8ef83684797940a003cbeeabd8c7603fd8f4c672b"
+  },
+  {
+    "source": "full:c3f40e9f60aec375bf958563",
+    "part": 17,
+    "identity": "other",
+    "reason": "This packet contains Vero Beach local-news summaries about churches, tourism, real estate, public services, and other community matters, with no mention of Nicole Verkindt or her investing activity.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "d2a025f117cce35200448eca19b41a680f82b0a772acd8c57e6b498f34588443"
+  },
+  {
+    "source": "full:c3f40e9f60aec375bf958563",
+    "part": 18,
+    "identity": "other",
+    "reason": "This packet contains Vero Beach local-news summaries about courts, schools, healthcare, development, and municipal affairs, with no mention of Nicole Verkindt or her investing activity.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "ec24438edb52919708a3f9488d71d70d3dfcd31a9293d13c72b083c99c0594c1"
+  },
+  {
+    "source": "full:c3f40e9f60aec375bf958563",
+    "part": 19,
+    "identity": "other",
+    "reason": "This packet contains Vero Beach local-news items about airlines, municipal affairs, development, public safety, and other unrelated subjects, with no mention of Nicole Verkindt or her investment activity.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "9808a76e175c53b4f0712ab10ebb0eb3068416afdfc023a6172c57f919dc9703"
+  },
+  {
+    "source": "full:c3f40e9f60aec375bf958563",
+    "part": 20,
+    "identity": "other",
+    "reason": "This packet continues with Vero Beach local-news coverage of Hilary Weston, government, real estate, transportation, banking, and community affairs, with no mention of Nicole Verkindt or her investment activity.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "60e5365fd7265cedad59b5a0bf2d1841aa011048ba445523bf2ac80040d31937"
+  },
+  {
+    "source": "full:c3f40e9f60aec375bf958563",
+    "part": 21,
+    "identity": "other",
+    "reason": "This packet contains Vero Beach local-news items about municipal affairs, infrastructure, crime, businesses, and community organizations, with no mention of Nicole Verkindt or the resolved investor profile.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "a36b4dc4783db8b99d65f569aa45f989447a1ba182ca94f027cd2334b211a572"
+  },
+  {
+    "source": "full:c3f40e9f60aec375bf958563",
+    "part": 22,
+    "identity": "other",
+    "reason": "This packet contains Vero Beach local-news items about development, condominiums, schools, aviation, real estate, healthcare, and other community matters, with no mention of Nicole Verkindt or the resolved investor profile.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "2dcfe6b61cdf30da91ed9e6fc4d912041d171eaaf5d829bb73ebf9c9a072e72f"
+  },
+  {
+    "source": "full:c3f40e9f60aec375bf958563",
+    "part": 23,
+    "identity": "other",
+    "reason": "This packet contains Vero Beach local reporting about tourism, government, crime, development, and environmental projects, with no mention of Nicole Verkindt or any supported connection to the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "7699bf3fc952bae94709d3d234561c5dde4b6fc72d131d34fba4380fc25d0c95"
+  },
+  {
+    "source": "full:c3f40e9f60aec375bf958563",
+    "part": 24,
+    "identity": "other",
+    "reason": "This packet contains Vero Beach local reporting about citrus growers, hospitals, municipal affairs, court cases, and other community subjects, with no mention of Nicole Verkindt or any supported connection to the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "dfc2a64ccc91c0ca859435e19ac025a83cc9001801bef804867f73fe61260255"
+  },
+  {
+    "source": "full:c3f40e9f60aec375bf958563",
+    "part": 25,
+    "identity": "other",
+    "reason": "This packet contains Vero Beach local news about county government, businesses, schools, real estate, and community institutions, with no mention of Nicole Verkindt or any resolved identity anchor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "a7e4578e0437842a5dd968ce697853398e88a0d33d472cd83e351a656ccae3ac"
+  },
+  {
+    "source": "full:c3f40e9f60aec375bf958563",
+    "part": 26,
+    "identity": "other",
+    "reason": "This packet contains Vero Beach local reporting on civic finances, development, healthcare, real estate, and other community matters, with no mention of Nicole Verkindt or any resolved identity anchor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "b124fe001d2af1c479a4d715af0f443d9188d6637e34261a024a7e48efe91a2a"
+  },
+  {
+    "source": "full:c3f40e9f60aec375bf958563",
+    "part": 27,
+    "identity": "other",
+    "reason": "This packet contains Vero Beach local-news stories about municipal finances, infrastructure, real estate, healthcare, and Hurricane Nicole, with no reference to investor Nicole Verkindt or her activities.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "d0da3cc7c58cabfc1605b960119ac72193b12bff852d872bec5fda3986861ccd"
+  },
+  {
+    "source": "full:c3f40e9f60aec375bf958563",
+    "part": 28,
+    "identity": "other",
+    "reason": "This packet contains Vero Beach local-news stories about government, property, healthcare, construction, and community affairs, with no reference to investor Nicole Verkindt or her activities.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "c6d37a988299a1f834900c8303dc0b8c692f52c224b0ed8aa56cbb53b5e151cf"
+  },
+  {
+    "source": "full:c3f40e9f60aec375bf958563",
+    "part": 29,
+    "identity": "other",
+    "reason": "This packet contains Vero Beach local-news summaries about schools, crime, real estate, public projects, and government matters, with no mention of Nicole Verkindt or the authoritative-profile identity.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "aedd41e4ff17f6e369dfeddfb50d3d13db17c9fa6d656b13bdb0deae925a345e"
+  },
+  {
+    "source": "full:c3f40e9f60aec375bf958563",
+    "part": 30,
+    "identity": "other",
+    "reason": "This packet contains Vero Beach local-news summaries about hospitals, property, development, policing, and community affairs, with no mention of Nicole Verkindt or the authoritative-profile identity.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "85b68bb880c8cda50db8c5ee47e73431c501e5e8c88de4d0ca9be6d4c563ccd0"
+  },
+  {
+    "source": "full:c3f40e9f60aec375bf958563",
+    "part": 31,
+    "identity": "other",
+    "reason": "This packet contains Vero Beach local-news items about schools, hospitals, real estate, government, and other residents, with no mention of Nicole Verkindt or her identified investor profile.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "09958867cb1a06e3d43d915ec31427e6d1996363da7aefbd775a88d825619cbe"
+  },
+  {
+    "source": "full:c3f40e9f60aec375bf958563",
+    "part": 32,
+    "identity": "other",
+    "reason": "This packet contains Vero Beach local-news items about beach restoration, healthcare, storms, real estate, and municipal affairs, with no mention of Nicole Verkindt or her identified investor profile.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "59fa5a4fa2268ff1b44c7d4b2c167b995e0ccb3cc19456c3c12df707972de578"
+  },
+  {
+    "source": "full:c3f40e9f60aec375bf958563",
+    "part": 33,
+    "identity": "other",
+    "reason": "This packet contains Vero Beach local reporting about hospitals, real estate, government, storms, and other community matters, with no mention of Nicole Verkindt or her resolved investor profile.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "7b75489d38b1af84f89bb5abfffa466d0a0f88ccfb81f8538f3d033e784246e4"
+  },
+  {
+    "source": "full:c3f40e9f60aec375bf958563",
+    "part": 34,
+    "identity": "other",
+    "reason": "This packet contains Vero Beach local reporting about air travel, hospitals, condominiums, schools, real estate, and legal matters, with no mention of Nicole Verkindt or her resolved investor profile.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "4b815bad3fa36d2f4e6f5b617bc7628487eda505e0ad160def974f1a666974bc"
+  },
+  {
+    "source": "full:c3f40e9f60aec375bf958563",
+    "part": 35,
+    "identity": "other",
+    "reason": "This packet contains local Vero Beach reporting about scientists, healthcare, elections, development, and other community subjects, with no mention of Nicole Verkindt or her associated investor profile.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "43cf5204e7422dafc5bc787a0435274e5eeb84d00e5d647d6e26de8c61a8b46d"
+  },
+  {
+    "source": "full:c3f40e9f60aec375bf958563",
+    "part": 36,
+    "identity": "other",
+    "reason": "This packet contains Vero Beach local news about hospitals, recreation, schools, government, real estate, and residents, with no mention of Nicole Verkindt or attributable material about her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "42763085f43fcf32fa6eab978bfd0048361551b9333f8b9db618f0f07c4f6760"
+  },
+  {
+    "source": "full:c3f40e9f60aec375bf958563",
+    "part": 37,
+    "identity": "other",
+    "reason": "This packet discusses Indian River County growth concerns and Vero Beach municipal finances, with no mention of Nicole Verkindt or relevant attributable investor material.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "7789a0cc5ce764de6da1acd294c1c497107cfc49b647e0fee6ba17987723ab07"
+  },
+  {
+    "source": "full:cb56a09f15f315b20be268f6",
+    "part": 1,
+    "identity": "other",
+    "reason": "The SecurityWeek homepage contains cybersecurity headlines, event listings, and industry commentary but no mention of Nicole Verkindt or material attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "abeb7b52b2321b339c650ecb32cdbb78bae84827df83108ff7745d3295a9774b"
+  },
+  {
+    "source": "full:60ff8abab5a2ade9bc7b1ceb",
+    "part": 1,
+    "identity": "other",
+    "reason": "This Slashdot homepage segment covers KDE, Excel, Linux vulnerabilities, OpenAI, Facebook, RSA, Weird Al Yankovic, and Raspberry Pi, with no mention of Nicole Verkindt or material attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "93c61105dae483e97c943e2b91abd1320324799aabb7f227b0a3af60217bb561"
+  },
+  {
+    "source": "full:60ff8abab5a2ade9bc7b1ceb",
+    "part": 2,
+    "identity": "other",
+    "reason": "This Slashdot continuation discusses Raspberry Pi, F-Droid, Gemini, OpenAI contractors, police camera misuse, AI regulation, and Qualcomm Linux support, with no mention of Nicole Verkindt or material attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "1c0d59739217fe1e57ecd5d973913bde3dace534ed2498f7fd436ea5e5498f77"
+  },
+  {
+    "source": "full:60ff8abab5a2ade9bc7b1ceb",
+    "part": 3,
+    "identity": "other",
+    "reason": "The packet is a Slashdot page about Snapdragon X2 Linux support and site navigation, with no mention of Nicole Verkindt or material attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "f28f4b30db112bbcda4748c8fbc164f58fd79c4744fb488026a9b4ee5275e0e1"
+  },
+  {
+    "source": "full:56398525f1b39f76511933d0",
+    "part": 1,
+    "identity": "other",
+    "reason": "The packet is a Wikipedia article about Palantir Technologies, its founders, products, funding, and customers, with no mention of Nicole Verkindt or material attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "73f0d6f44ecdd5d033aebc74914219e266a6a556716563b138c3144e7ca5110f"
+  },
+  {
+    "source": "full:56398525f1b39f76511933d0",
+    "part": 2,
+    "identity": "other",
+    "reason": "The packet continues the Palantir Technologies article with descriptions of government and commercial customers, contracts, and controversies, but contains no mention of Nicole Verkindt or material attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "a34ddcf3490889300881d0b0110d3bcbeb185d783885407a0fadb4076d0ed605"
+  },
+  {
+    "source": "full:56398525f1b39f76511933d0",
+    "part": 3,
+    "identity": "other",
+    "reason": "This packet concerns Palantir, its executives, government contracts, partnerships, and controversies, and contains no mention of or attributable material from Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "59ca6dacc8a8de24a8a77b4447ea5ee41612a6f377418fbf8e607bdcb9e65ecb"
+  },
+  {
+    "source": "full:56398525f1b39f76511933d0",
+    "part": 4,
+    "identity": "other",
+    "reason": "This packet continues a discussion of Palantir's ICE work, corporate affairs, ownership, finances, and related companies, with no mention of or attributable material from Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "268badeb5ba3efe5ff0664282bf1707a325519676f6d9682cb1dc8826932be45"
+  },
+  {
+    "source": "full:56398525f1b39f76511933d0",
+    "part": 5,
+    "identity": "other",
+    "reason": "This packet discusses Palantir, its associated companies, executives, contracts, and references, with no mention of Nicole Verkindt or her authoritative profile.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "5dffd56b6881420577112b2e77683bc64423b2226091c8ed23b00e417e6051f7"
+  },
+  {
+    "source": "full:56398525f1b39f76511933d0",
+    "part": 6,
+    "identity": "other",
+    "reason": "This packet consists of Palantir-related references concerning products, contracts, partnerships, and controversies, with no material attributable to Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "4669dfb7438638a4eec73d7473e38b4bda94f59490af3abdce73d1b19be3b486"
+  },
+  {
+    "source": "full:56398525f1b39f76511933d0",
+    "part": 7,
+    "identity": "other",
+    "reason": "This packet consists of Palantir references and related company material, with no mention of Nicole Verkindt or an attributable passage from her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "2fa32af646f539a218ddb8146d0574ab05e4182ef7218840d5a26d0a91afebb4"
+  },
+  {
+    "source": "full:56398525f1b39f76511933d0",
+    "part": 8,
+    "identity": "other",
+    "reason": "This continuation of the Palantir article contains references, company lists, and category metadata unrelated to Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "d8caaf8d5b912656676be12433534e649d4aa589f173ac5dba6b45f146a6e769"
+  },
+  {
+    "source": "full:ff2258f154a70296bced5b67",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page explicitly identifies entrepreneur Nicole Verkindt as OMX's CEO and describes her interview about sales, entrepreneurship, and building its procurement platform.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Nicole Verkindt, CEO, OMX shares how a sales role early on in her career prepared her for a life as an entrepreneur.",
+        "claim": "The page describes Nicole Verkindt as OMX's CEO and reports that an early sales role helped prepare her for entrepreneurship.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Nicole also explains to Amber Mac the challenges faced in building the project management and procurement platform, as well as how the fear of failure kept her going.",
+        "claim": "The page reports that Verkindt discussed building OMX's project-management and procurement platform and the motivational role of her fear of failure.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "c77f642268b440b17c16d9dc884ac66c937908ad358a2efa9a2393f06487a098"
+  },
+  {
+    "source": "full:6031b6ed83950df13f9d10c5",
+    "part": 1,
+    "identity": "other",
+    "reason": "This is a generic Motley Fool homepage focused on its own products, market data, and contributors, without any reference to Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "5f52c415403fb12dba1212f4bd7e48affc781fdadbe66b1220bc8d1b97f5691c"
+  },
+  {
+    "source": "full:0b573cd0c3f008617a6a89bf",
+    "part": 1,
+    "identity": "target",
+    "reason": "This is the resolved authoritative The Pitch investor profile for Nicole Verkindt, containing her attributed investment-thesis quotations, biography, and on-show investment record.",
+    "evidence": [
+      {
+        "quote": "“The number one thing I always look for is if I think it's a real problem—a real problem that hurts.”",
+        "label": "market_problem_validation",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She prioritizes opportunities addressing a genuine and meaningfully painful problem.",
+        "attribution_basis": "The resolved authoritative profile presents this quotation under “What Nicole Looks For” on Nicole Verkindt's named investor page."
+      },
+      {
+        "quote": "“I love these old stodgy industries that are all paper. Because there's no one else there.”",
+        "label": "competitive_intensity_concern",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She favors paper-based legacy industries where she perceives relatively little competitive activity.",
+        "attribution_basis": "The resolved authoritative profile presents this quotation under “What Nicole Looks For” on Nicole Verkindt's named investor page."
+      },
+      {
+        "quote": "“I hate clothes and I hate food when it comes to investments.”",
+        "label": "investment_thesis_constraint",
+        "direction": "negative",
+        "support": "explicit",
+        "interpretation": "She expresses a strong aversion to investing in clothing and food businesses.",
+        "attribution_basis": "The resolved authoritative profile presents this quotation under “What Nicole Looks For” on Nicole Verkindt's named investor page."
+      }
+    ],
+    "context": [
+      {
+        "quote": "Nicole Verkindt has invested in 1 startup on The Pitch, deploying $25K in Marketplace, Badass Female Founders.",
+        "claim": "The Pitch reports one $25,000 investment by Verkindt on the show; the displayed category descriptors do not establish the startup’s company name.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Nicole Verkindt is an entrepreneur, investor and CEO.",
+        "claim": "The Pitch describes Nicole Verkindt as an entrepreneur, investor, and CEO.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Nicole was StartUp Canada's 2019 Woman Entrepreneur Ambassador of the year, named StartUp Canada's 2017 Woman Entrepreneur of the Year, was a Dragon on CBC's \"Next Gen Den\", and was one of Adweek's 2018 \"Toronto Brand Stars.”",
+        "claim": "The Pitch reports several dated honors and roles for Verkindt, including Startup Canada recognition, an appearance as a Dragon on CBC's “Next Gen Den,” and Adweek recognition.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Portfolio\nInvestments on The Pitch1 investment\nView Episode\nMarketplace\nCould This Be the Next Airbnb?\n$25K·SAFE · $6M post-money cap",
+        "claim": "The Pitch portfolio card associates a $25,000 SAFE at a $6 million post-money cap with the episode “Could This Be the Next Airbnb?”; the company is unnamed in this receipt.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "20c84b9ec60475a9aa934d061369aa653b91f921d4618dc8a14f92f8df6b5cd4"
+  },
+  {
+    "source": "full:7a48e7b57ecc33a62d600e57",
+    "part": 1,
+    "identity": "target",
+    "reason": "The report explicitly profiles Canadian technology entrepreneur Nicole Verkindt as OMX's founder, Buggy.ca's CEO, and an active angel investor, matching the resolved identity.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Nicole Verkindt \nTech Entrepreneur | Founder, OMX",
+        "claim": "The 2024 IDC report identifies Nicole Verkindt as a technology entrepreneur and founder of OMX.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Named “Canada’s Woman Entrepreneur of the Year” by Startup Canada in 2017, \nNicole Verkindt is a serial entrepreneur.",
+        "claim": "The IDC report says Startup Canada named Verkindt “Canada’s Woman Entrepreneur of the Year” in 2017 and describes her as a serial entrepreneur.",
+        "kind": "biography"
+      },
+      {
+        "quote": "In 2012, Verkindt founded and launched OMX, an online supply chain data analytics business.",
+        "claim": "The IDC report says Verkindt founded and launched the supply-chain data-analytics business OMX in 2012.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "The \ntechnology platform helps to increase and measure local spend/socio-economic impacts, including \nESGs (environmental, social, governance) and other sustainability metrics.",
+        "claim": "The IDC report describes OMX's platform as measuring local spending, socioeconomic impacts, ESGs, and other sustainability metrics.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Today, Verkindt is the CEO \nof Buggy.ca, Canada’s rapid grocery delivery business, and an active angel investor involved in dozens \nof Canada’s early-stage tech businesses.",
+        "claim": "At the time of the report, IDC described Verkindt as Buggy.ca's CEO and an active angel investor involved with dozens of Canadian early-stage technology businesses.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "4223fb4f78313d07d3ad4445a3167d0ee1dc39faeb5c006dd02b82b362983c90"
+  },
+  {
+    "source": "full:7a48e7b57ecc33a62d600e57",
+    "part": 2,
+    "identity": "other",
+    "reason": "This packet covers IDC awards, governance, finances, and partners without mentioning Nicole Verkindt or containing material attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "00d0fff0ac5f955179557426bd2f107945482de8c4f18a52f9e20cd574df071d"
+  },
+  {
+    "source": "full:a4c7a557a37ace42dbe91a23",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Ivey newsletter explicitly identifies Nicole Verkindt as an HBA ’07 alumna building OMX, which matches the resolved Canadian technology entrepreneur.",
+    "evidence": [
+      {
+        "quote": "You also know about time management, scheduling, working in groups, and all the important factors involved in running your own business. You also have a network of people who share your values.",
+        "label": "founder_skillset",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "Verkindt views broad operating skills and a values-aligned network as important resources for building a business.",
+        "attribution_basis": "The passage appears as a direct quotation immediately after the newsletter states, “Ivey prepared her with a broad range of business skills, Verkindt says,” and the surrounding profile explicitly names Nicole Verkindt and OMX."
+      },
+      {
+        "quote": "The people who say you can’t teach entrepreneurship are right in a way – it’s something that’s in your blood. But you can give young entrepreneurs an understanding of the basic principles of business – and you should.",
+        "label": "founder_skillset",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "Verkindt distinguishes innate entrepreneurial inclination from teachable foundational business competence and considers both valuable.",
+        "attribution_basis": "The newsletter introduces this direct quotation with “Nicole Verkindt agrees,” within its named profile of the HBA ’07 OMX founder."
+      }
+    ],
+    "context": [
+      {
+        "quote": "Five recent graduates – Gabe Diamond, Vinay Chopra, Nicole \nVerkindt, Jason Cottrell, and Alex Vander Hoeven were \nrecognized at the Toronto Alumni Chapter’s celebration of \nGlobal Ivey Day 2012.",
+        "claim": "The Ivey newsletter reports that Verkindt was among five recent graduates recognized at the Toronto Alumni Chapter's Global Ivey Day 2012 celebration.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Like many Ivey students, Nicole Verkindt, \nHBA ‘07, thought she might end up \nworking as a consultant or investment \nbanker.",
+        "claim": "The Ivey newsletter identifies Verkindt as an HBA ’07 alumna who had considered consulting or investment banking.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Instead, she is preparing to launch \nan unusual online business that has rapidly \ngained traction with investors and potential \nclients.",
+        "claim": "In its Fall 2012 profile, the newsletter reported that Verkindt was preparing to launch an online business that had attracted interest from investors and potential clients.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Verkindt’s company, OMX, helps \nforeign companies fulfill, manage and \naccount for their Industrial Regional Benefits \nor IRBs, as these offsets are called.",
+        "claim": "The newsletter describes OMX as Verkindt's company and says it helped foreign companies fulfill, manage, and account for Canadian Industrial Regional Benefits obligations.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Verkindt \nsuccessfully raised the capital to build OMX’s \ncomplex system, developed a web-based \nsolution using off-the-shelf code, and expects \nto launch by spring 2013.",
+        "claim": "The Fall 2012 newsletter reports that Verkindt raised capital for OMX, developed its web-based solution using off-the-shelf code, and expected a spring 2013 launch.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "d610e6f4ab0c6188d12b13d8c907fd2b13edd7b1b0d23b610278bb8e5242001c"
+  },
+  {
+    "source": "full:1f616d3a5e1a717a56e40fd2",
+    "part": 1,
+    "identity": "other",
+    "reason": "This portion of Western's 2021 Morrissette Institute annual report discusses its faculty, programs, students, and Pierre Morrissette, but contains no mention of Nicole Verkindt or material attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "e17a8ccf2add46804c1c0e19f28bd5f0c87a8ddbed972729c4499595f089f03b"
+  },
+  {
+    "source": "full:1f616d3a5e1a717a56e40fd2",
+    "part": 2,
+    "identity": "other",
+    "reason": "This portion continues Western's annual report with program, accelerator, startup, scholarship, and alumni-network material, but contains no mention of Nicole Verkindt or material attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "85e98749949b5b2a462725b72bbdb3cac7407368baffb8bc2b05ee2cf02ff346"
+  },
+  {
+    "source": "full:1f616d3a5e1a717a56e40fd2",
+    "part": 3,
+    "identity": "target",
+    "reason": "The Western University annual report explicitly features Nicole Verkindt of OMX and identifies her as an HBA ’07 alumna, matching the resolved investor rather than a same-name individual.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Innovation is not always sexy with Nicole Verkindt of OMX\nVerkindt, HBA ’07 , speaks candidly about her journey out of business school, her view of innovation, and why it is vital to Canada’s place in the global economy.",
+        "claim": "The 2021 Western University report describes Nicole Verkindt as an HBA ’07 alumna associated with OMX and says she discussed her entrepreneurial journey and views on innovation in an Entrepreneur Podcast episode.",
+        "kind": "biography"
+      }
+    ],
+    "input_fingerprint": "9be016565547c912401f4e5a83a273d06d4346ffad04cb56dfb96167e4c976c8"
+  },
+  {
+    "source": "full:276d9a6e6d8d08ff5816b3fb",
+    "part": 1,
+    "identity": "other",
+    "reason": "The Vanguard Defence homepage contains defence-industry headlines and no mention of Nicole Verkindt or another explicit connection to the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "9f1eef053dacbdda3699fa754affae3aa9f12e873a75fd86058f253f6c8ea826"
+  },
+  {
+    "source": "full:690fae05235299b43a2f0af2",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page title explicitly identifies Nicole Verkindt as OMX CEO, matching the resolved investor, although the supplied material contains no substantive article or transcript.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "OMX CEO Nicole Verkindt: 'It takes a village' to build a business – BNN Bloomberg",
+        "claim": "BNN Bloomberg identifies Nicole Verkindt as OMX CEO in the supplied page title.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "cd32df69ea840279f2a20a770811813f65f622fcaee9d4fa4f05ab7cb17f207d"
+  },
+  {
+    "source": "full:eda6c0882c6fe4878db9f820",
+    "part": 1,
+    "identity": "other",
+    "reason": "The packet is a biography of American rapper and businessman Jay-Z and contains no relevant material about Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "ea38b061269f57c9e0497653bd09288b5d5acc84ba11e94ec2c8926020a78fb3"
+  },
+  {
+    "source": "full:eda6c0882c6fe4878db9f820",
+    "part": 2,
+    "identity": "other",
+    "reason": "This packet concerns Jay-Z’s music and business career, including Roc Nation, Tidal, and the Brooklyn Nets, and contains no material about the resolved investor Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "c41a902594ecff0498ff632252d4118756b191320bb143bd3003e4694873b0b2"
+  },
+  {
+    "source": "full:eda6c0882c6fe4878db9f820",
+    "part": 3,
+    "identity": "other",
+    "reason": "This packet concerns Jay-Z’s family, legal matters, philanthropy, politics, and discography, and contains no material about the resolved investor Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "c6d22d430c3ba947afb2c63d6735b82655e1f339890b99b59c099d90086baefb"
+  },
+  {
+    "source": "full:eda6c0882c6fe4878db9f820",
+    "part": 4,
+    "identity": "other",
+    "reason": "The packet is a bibliography section from a Jay-Z article and contains no material about the resolved investor Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "dc95d9b153d55f77644db810907dc7f16e44bc506de4444134c85527ebee861f"
+  },
+  {
+    "source": "full:eda6c0882c6fe4878db9f820",
+    "part": 5,
+    "identity": "other",
+    "reason": "The packet continues a Jay-Z article with references and discography material, not content about the resolved investor Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "838ce23f31ff3981c2cfe74b3693fb8b807f768cb238e630c4643e7bcb27ef5b"
+  },
+  {
+    "source": "full:eda6c0882c6fe4878db9f820",
+    "part": 6,
+    "identity": "other",
+    "reason": "The packet is a Wikipedia discography and awards listing for Jay-Z/Shawn Carter and contains no material about the resolved investor Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "d85e6905c356da030079c37558e6719718d302507bdb8464418c94cbb9d2bfc6"
+  },
+  {
+    "source": "full:eda6c0882c6fe4878db9f820",
+    "part": 7,
+    "identity": "other",
+    "reason": "The packet covers Jay-Z/Shawn Carter’s music awards, affiliations, and categories, with no relevant material about the resolved investor Nicole Verkindt.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "49c186dfe9725b9370361b046119afcea954cb393091de38a08b1a243b8e33f6"
+  }
+]

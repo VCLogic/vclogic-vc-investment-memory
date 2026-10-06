@@ -1,0 +1,2524 @@
+[
+  {
+    "source": "full:0a1b11edd801a8a53f154ea3",
+    "part": 1,
+    "identity": "target",
+    "reason": "The episode page explicitly identifies Elizabeth Yin as a Hustle Fund co-founder and general partner, matching the resolved investor, but provides only a third-party summary rather than her verbatim remarks.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Elizabeth is Co-Founder and General Partner at Hustle Fund, a pre-seed VC that writes checks into ultra-early stage founders.",
+        "claim": "The episode page reports that Elizabeth Yin is a co-founder and general partner at Hustle Fund and describes the firm as a pre-seed VC investing in ultra-early-stage founders.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "On this episode of The Deal, Elizabeth and Tyler discuss how venture capital always comes at a cost, the best way to communicate with VCs, and how to iterate on customer acquisition.",
+        "claim": "The episode page reports that Yin discussed the costs of venture capital, communication with VCs, and iteration on customer acquisition.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Published April 14, 2023 at 2:54 PM UTC",
+        "claim": "The page reports that this episode featuring Yin was published on April 14, 2023 at 2:54 PM UTC.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "0df9098e8aebc4c642af78456fba90d5a1ebf97f0713c4861304aa0322ea2cb7"
+  },
+  {
+    "source": "full:61ce61ed74dfe9184b4ee4ef",
+    "part": 1,
+    "identity": "target",
+    "reason": "The title and episode description explicitly connect Elizabeth Yin to Hustle Fund and summarize her discussion of the firm's pre-seed criteria, check sizes, valuations, and assessment of founder scrappiness.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "In this episode, Elizabeth shares: - How Hustle Fund defines pre-seed - Check sizes and valuations at Hustle Fund - Assessing for scrappiness in founders - How to pitch Hustle Fund",
+        "claim": "The episode page reports that Yin explained Hustle Fund's definition of pre-seed, check sizes, valuations, assessment of founder scrappiness, and preferred pitching approach.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Published February 24, 2021 at 3:51 PM UTC",
+        "claim": "The page reports that this episode featuring Yin was published on February 24, 2021 at 3:51 PM UTC.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "ec51c532d61d4b91549e4e24fcef07cbe13098ec36ba1fb72729983ef1757e7f"
+  },
+  {
+    "source": "full:e951b84d16d4821c5de15a5a",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page heading explicitly identifies Elizabeth Yin as a Hustle Fund co-founder, matching the resolved investor, although the remaining visible feed content concerns unrelated episodes.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Elizabeth Yin // Co-founder of The Hustle Fund",
+        "claim": "The Podtail page identifies Elizabeth Yin as a co-founder of The Hustle Fund.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "12a94024d0802afc8c424a9019278387bf590f15d3945e4b60275d85229e0f26"
+  },
+  {
+    "source": "full:e951b84d16d4821c5de15a5a",
+    "part": 2,
+    "identity": "other",
+    "reason": "This packet contains feed material about Rehana Nathoo, Carbon Direct, JFFVentures, Cerulean Ventures, and other unrelated subjects, with no mention of Elizabeth Yin or Hustle Fund.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "f228b01ee592689f77306dac23755420e516735ba8db73dae8a608eb95973126"
+  },
+  {
+    "source": "full:e951b84d16d4821c5de15a5a",
+    "part": 3,
+    "identity": "other",
+    "reason": "Although the page title names Elizabeth Yin, this supplied portion contains only Causeartist announcements and unrelated episodes featuring Josh Kaufman and Jacqueline Novogratz, with no material about Yin.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "7d12106c17928dc6dd6f1aeec08b4b732dc3e19906a55b2521e5dc6c9e2e8a9d"
+  },
+  {
+    "source": "full:3937d646bdc7cfb85863c92d",
+    "part": 1,
+    "identity": "target",
+    "reason": "The episode description explicitly identifies Elizabeth Yin with Hustle Fund and discusses her early-stage investment strategy, check size, portfolio, and views on valuation and crowded markets.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "She took that passion and turned it into Hustle Fund, which focuses on offering capital, knowledge, and networks to “hilariously early-stage” software startups.",
+        "claim": "The episode description reports that Yin created Hustle Fund to provide capital, knowledge, and networks to extremely early-stage software startups.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "She also angels invests in non-software D2C companies.",
+        "claim": "The episode description reports that Yin personally makes angel investments in non-software direct-to-consumer companies.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "She’s invested in over 800 startups, with two of her most notable being Webflow and Mejuri.",
+        "claim": "The episode description reports that Yin has invested in more than 800 startups and identifies Webflow and Mejuri as notable investments.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Elizabeth invests $150k checks into idea-stage B2B software, digital health, and fintech companies through Hustle Fund.",
+        "claim": "The episode description reports that Yin invests $150,000 Hustle Fund checks in idea-stage B2B software, digital-health, and fintech companies.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "When Elizabeth says she invests at an early stage, she means it. Hustle Fund invests in founders who have an idea and are pre-revenue.",
+        "claim": "The episode highlights describe Hustle Fund as willing to invest at the idea and pre-revenue stage.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "You don’t want to invest in overcrowded spaces because your chances of realizing alpha decreases when there are more hands in the pot. Finding unpopular spaces with less competition is where Elizabeth likes to focus.",
+        "claim": "The episode highlights characterize Yin as favoring less-popular markets with less investor competition rather than overcrowded categories.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "db52e719363c8d5b83e08e8b0bcae4e944eca2173eb9607e38aa23a85b0c5a3c"
+  },
+  {
+    "source": "full:b82cd73902fc769f276d424d",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Causeartist guest page explicitly identifies Elizabeth Yin as Hustle Fund's co-founder and general partner and links her to an episode about changing venture capital access.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Elizabeth Yin\nCo-founder and General Partner · Hustle Fund",
+        "claim": "Causeartist identifies Yin as a co-founder and general partner of Hustle Fund.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "In episode 12 of the Investing in Impact podcast, I speak with Elizabeth Yin, Co-founder of The Hustle Fund on changing the landscape of traditional venture capital and opening up access to aspiring founders.",
+        "claim": "Causeartist reports that its interview with Yin addressed changing traditional venture capital and expanding access for aspiring founders.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "The Hustle Fund is Changing Venture Capital and Creating Greater Access to Aspiring Founders\nIn episode 12 of the Investing in Impact podcast, I speak with Elizabeth Yin, Co-founder of The Hustle Fund on changing the landscape of traditional venture capital and opening up access to aspiring founders. Listen to more Causeartist podcasts here. About Elizabeth Yin Elizabeth Yin is a co-founder\nOct 13, 2020",
+        "claim": "Causeartist dates the listed Elizabeth Yin podcast appearance to October 13, 2020.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "1b86223a659cdef84d99cb1613ca377f1cb1617c186c43ed3ba271225bc2ddaa"
+  },
+  {
+    "source": "full:b7ff3752fe32faef2d5b4a93",
+    "part": 1,
+    "identity": "target",
+    "reason": "The episode notes explicitly identify Elizabeth Yin as Hustle Fund's co-founder and general partner, with corroborating prior roles at 500 Startups and LaunchBit.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "On this episode I speak with Elizabeth Yin, Co-founder and General Partner at Hustle Fund.",
+        "claim": "The Seed to Harvest episode notes identify Yin as a co-founder and general partner at Hustle Fund.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Previously, Elizabeth was a partner at 500 Startups.",
+        "claim": "The episode notes report that Yin previously served as a partner at 500 Startups.",
+        "kind": "biography"
+      },
+      {
+        "quote": "In a prior life, Elizabeth co-founded and ran an adtech company called LaunchBit.",
+        "claim": "The episode notes report that Yin co-founded and operated the advertising-technology company LaunchBit.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Elizabeth has reviewed over 30k startup pitches from around the world in the last few years.",
+        "claim": "The episode notes report that Yin reviewed more than 30,000 startup pitches from around the world over the preceding several years.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "تاريخ النشر\n٢٧ سبتمبر ٢٠٢٢ في ١٢:٠٠ ص UTC",
+        "claim": "The Apple Podcasts listing reports that the episode was published on September 27, 2022 at 12:00 a.m. UTC.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "3807bd7b33d952326663f9dd6c11f3ed465b023d985b7a79edb48431f8bcceb5"
+  },
+  {
+    "source": "full:aa17c904b97838c7e3e56acf",
+    "part": 1,
+    "identity": "target",
+    "reason": "The episode description explicitly identifies Elizabeth Yin as Hustle Fund's co-founder and general partner and supplies detailed, identity-consistent fund, 500 Startups, and LaunchBit history.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Elizabeth Yin is Co-Founder & General Partner at Hustle Fund, a pre-seed focused firm based in the Bay Area.",
+        "claim": "The episode description identifies Yin as co-founder and general partner of Bay Area pre-seed firm Hustle Fund.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "She and her co-founder Eric raised $11.5MM Hustle Fund I in the fall of 2018 and more recently started investing out of a larger Fund II.",
+        "claim": "The episode description reports that Yin and co-founder Eric raised an $11.5 million first Hustle Fund in fall 2018 and subsequently began investing from a larger second fund.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "The firm has a unique investment model that starts by investing $25K in each startups, and then by working closely with their entrepreneurs looks to upsize their commitments into select portfolio companies.",
+        "claim": "The episode description characterizes Hustle Fund's model as making initial $25,000 investments and selectively increasing commitments after working with founders.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Previously, Elizabeth was a partner at 500 Startups where she invested in seed stage companies and ran the Mountain View accelerator.",
+        "claim": "The episode description reports that Yin was a 500 Startups partner who invested in seed-stage companies and ran its Mountain View accelerator.",
+        "kind": "biography"
+      },
+      {
+        "quote": "In a prior life, Elizabeth co-founded and ran an ad-tech company called LaunchBit (acq 2014).",
+        "claim": "The episode description reports that Yin co-founded and operated LaunchBit, which was acquired in 2014.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Elizabeth has a BSEE from Stanford and an MBA from MIT Sloan.",
+        "claim": "The episode description reports that Yin earned a BSEE from Stanford and an MBA from MIT Sloan.",
+        "kind": "biography"
+      }
+    ],
+    "input_fingerprint": "8391cff4ac12bdafe2f8453212a55add6ae243dd8c02fef469a9c4ed0b077de4"
+  },
+  {
+    "source": "full:c2b651e79d5aa367a3551447",
+    "part": 1,
+    "identity": "target",
+    "reason": "The named dialogue introduces Elizabeth Yin as Hustle Fund's founding GP, and turns labeled “Elizabeth Yin” provide extensive first-person investing history and evaluation criteria consistent with the resolved identity.",
+    "evidence": [
+      {
+        "quote": "I kind of think that people who have immediate success don't know where all the problems are. And, and we ran into so many problems, so, it's a double edged sword.",
+        "label": "investor_experience_bias",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "Yin sees her own startup difficulties as useful preparation because they exposed her to problems that immediate success can conceal.",
+        "attribution_basis": "This appears in a transcript turn explicitly labeled “Elizabeth Yin,” after the host introduces her as Hustle Fund's founding GP."
+      },
+      {
+        "quote": "I think like everything else, investing takes reps and practice and you learn a lot and you get better at it.",
+        "label": "investor_experience_bias",
+        "direction": "neutral",
+        "support": "inferred",
+        "interpretation": "Yin believes investment judgment improves through repeated evaluation and accumulated practice.",
+        "attribution_basis": "This appears in a transcript turn explicitly labeled “Elizabeth Yin,” after the host introduces her as Hustle Fund's founding GP."
+      },
+      {
+        "quote": "we started with a fund, because I think capital is so important at the earliest stages.",
+        "label": "investment_thesis_constraint",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Hustle Fund's strategy prioritizes supplying capital at the earliest company stages.",
+        "attribution_basis": "This is stated in a transcript turn explicitly labeled “Elizabeth Yin” while she explains why she and Eric Bahn created Hustle Fund."
+      },
+      {
+        "quote": "we were talking about helping founders who didn't really have anything. Two people in a garage, a half baked product, but no revenue.",
+        "label": "investment_thesis_constraint",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Yin is willing to target exceptionally early founders with an incomplete product and no revenue.",
+        "attribution_basis": "This is stated in a transcript turn explicitly labeled “Elizabeth Yin” during her description of Hustle Fund's intended founder base."
+      },
+      {
+        "quote": "Paying close attention to how customer acquisition is done.\n\nSo I ask a lot of questions about that now.",
+        "label": "go_to_market_strategy_assessment",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "Yin makes customer-acquisition methods a recurring focus of her startup diligence.",
+        "attribution_basis": "This appears in a transcript turn explicitly labeled “Elizabeth Yin” as she describes lessons from her earliest investments."
+      },
+      {
+        "quote": "If you're building a product for an audience that cares about product, then being really good at product is an edge.",
+        "label": "product_success_factor_assessment",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Yin views product excellence as a decisive advantage when the target audience places high value on product quality.",
+        "attribution_basis": "This appears in a transcript turn explicitly labeled “Elizabeth Yin” while she explains how success factors vary by company category."
+      },
+      {
+        "quote": "like finding kind of what kinds of ideas you like, what kinds of skill sets are needed to win, not only as a founder in those ideas, but also as an investor in assessing is another thing.",
+        "label": "founder_skillset",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "Yin evaluates which founder skills are required to win for a particular type of business and whether she can assess those skills.",
+        "attribution_basis": "This appears in a transcript turn explicitly labeled “Elizabeth Yin” in her discussion of how early angel investments refined her criteria."
+      },
+      {
+        "quote": "You can control the entry point, but you can't control the exit.",
+        "label": "investment_upside_assessment",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "Yin emphasizes entry valuation because investors can influence purchase price but cannot determine the eventual exit.",
+        "attribution_basis": "This appears in a transcript turn explicitly labeled “Elizabeth Yin” during her explanation of why valuation matters."
+      },
+      {
+        "quote": "you need to have that potential is there are going to be so many losses in the portfolio.",
+        "label": "investment_upside_assessment",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "Yin requires sufficiently large upside potential in winners to compensate for numerous portfolio losses.",
+        "attribution_basis": "This appears in a transcript turn explicitly labeled “Elizabeth Yin” within her discussion of why venture investors seek very high winner multiples."
+      },
+      {
+        "quote": "Do you have product market fit? Do you have customers who want to pay for this thing? very basic fundamental questions that ultimately [00:14:00] dictates whether the company fails or not.",
+        "label": "market_problem_validation",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "Yin treats product-market fit and demonstrated customer willingness to pay as fundamental determinants of startup survival.",
+        "attribution_basis": "This appears in a transcript turn explicitly labeled “Elizabeth Yin” while she discusses the difficulty of reducing startup failure rates."
+      },
+      {
+        "quote": "is a particular product helping the customer.\n\nMake more money, like 10x more money, or helping them save 10x more time. it's gotta be extreme, the value proposition.",
+        "label": "product_appeal_assessment",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Yin favors products with an extreme customer value proposition, such as a tenfold improvement in money earned or time saved.",
+        "attribution_basis": "This appears in a transcript turn explicitly labeled “Elizabeth Yin” as she gives her market-conditions framework for evaluating customer acquisition."
+      },
+      {
+        "quote": "I have to make the scenario so [00:16:00] extreme that it's like a no brainer that everyone will want this.\n\nOtherwise, I just sort of pass.",
+        "label": "market_problem_validation",
+        "direction": "negative",
+        "support": "explicit",
+        "interpretation": "Yin generally passes unless customer demand appears compelling enough to make adoption nearly self-evident.",
+        "attribution_basis": "This appears in a transcript turn explicitly labeled “Elizabeth Yin” and directly states her pass criterion."
+      }
+    ],
+    "context": [
+      {
+        "quote": "had a relatively modest exit in late 2014 with the company you mentioned, LaunchBit.",
+        "claim": "Yin says her company LaunchBit achieved what she characterizes as a relatively modest exit in late 2014.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "And I wrote some small angel checks into friends companies. Initially it was just friends companies.",
+        "claim": "Yin says her first angel investments were small checks written into friends' companies.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "while I was at 500, I ended up actually running their accelerator program.",
+        "claim": "Yin says she ultimately ran the accelerator program while at 500 Global.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "ended up leading 200 deals there",
+        "claim": "Yin says she led 200 deals at 500 Global.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "eventually started. Hustle Fund in 2017.",
+        "claim": "Yin says she started Hustle Fund in 2017.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "the problems that early stage companies have is capital knowledge and networks.",
+        "claim": "Yin identifies capital, knowledge, and networks as the core problems Hustle Fund was designed to address for early-stage companies.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "One of my earliest investments was a company called Wanderable.",
+        "claim": "Yin identifies Wanderable as one of her earliest investments.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "They were eventually acquired by Airbnb.",
+        "claim": "Yin reports that Wanderable was eventually acquired by Airbnb.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "I recently invested in a company called, Anadro",
+        "claim": "At the time of the interview, Yin says she had recently invested in Anadro.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "227513873afd0a475832c7d1108f0fd1aa00069529a0ef7dfb64a8f50cbedef1"
+  },
+  {
+    "source": "full:c2b651e79d5aa367a3551447",
+    "part": 2,
+    "identity": "target",
+    "reason": "The named transcript repeatedly identifies Elizabeth Yin as a pre-seed investor at Hustle Fund and distinguishes her Hustle Fund, 500 Startups, and personal angel activity.",
+    "evidence": [
+      {
+        "quote": "The way I think about it is, are you an option or are you an investment as a founder? So the multistage funds, when they come in at seed, If one of those billion dollar funds is writing a million dollar check, so it makes no difference to them. They don't care what [00:19:00] valuation they're getting in at for that million dollar check, because that's an option check for them.",
+        "label": "fund_economics_constraint",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "Large multistage funds can treat small seed checks as options, making entry valuation less consequential to them.",
+        "attribution_basis": "This passage appears in a transcript turn explicitly labeled “Elizabeth Yin,” and the episode title identifies her with Hustle Fund."
+      },
+      {
+        "quote": "If I, as a pre seed investor are, I'm not even putting in a million dollars. If I'm putting in 200, 000, I need to make a count. And that is my investment check, right?",
+        "label": "fund_economics_constraint",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "Her smaller pre-seed fund must make each check count, increasing selectivity and valuation sensitivity.",
+        "attribution_basis": "This passage appears in a transcript turn explicitly labeled “Elizabeth Yin,” and the episode title identifies her with Hustle Fund."
+      },
+      {
+        "quote": "For an angel like myself, or as a pre seed investor, I don't actually care if the founder takes my check and then decides to bootstrap the rest of the way, because if, he or she sells for 500 million, that's probably a win for all of us.",
+        "label": "investment_upside_assessment",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She can view a capital-efficient company and a $500 million exit as a successful outcome for an angel or pre-seed investment.",
+        "attribution_basis": "This passage appears in a transcript turn explicitly labeled “Elizabeth Yin,” and the episode title identifies her with Hustle Fund."
+      },
+      {
+        "quote": "there's so much luck in this game. I think this game though is pretty akin to, a game like poker, where. You always see the same people at the final tables, and there's a reason for that. There is skill, but obviously the details, could be based on luck.",
+        "label": "investor_experience_bias",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "She believes investment outcomes reflect both repeatable skill and substantial luck.",
+        "attribution_basis": "This passage appears in a transcript turn explicitly labeled “Elizabeth Yin,” and the episode title identifies her with Hustle Fund."
+      },
+      {
+        "quote": "At 500 Startups, , I led a deal into a company called Mejuri. They are a jewelry company. And, it's interesting because everybody and their mother turned them down at the seed round for a whole variety of reasons. Solo founder, female founder, female product. Not based in the US. Not a software company, just the list goes on and on, but phenomenal founder.",
+        "label": "founder_qualities",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "Her Mejuri experience illustrates willingness to back an exceptional founder despite attributes that deterred other seed investors.",
+        "attribution_basis": "This passage appears in a transcript turn explicitly labeled “Elizabeth Yin,” and the episode title identifies her with Hustle Fund."
+      },
+      {
+        "quote": "So at [00:31:00] Hustle Fund we are squarely software, despite saying all this, but in my own angel investing, I do invest in basically everything Hustle Fund does not.",
+        "label": "investment_thesis_constraint",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "Hustle Fund is restricted to software, while her personal angel portfolio intentionally covers categories outside that mandate.",
+        "attribution_basis": "This passage appears in a transcript turn explicitly labeled “Elizabeth Yin,” and the episode title identifies her with Hustle Fund."
+      },
+      {
+        "quote": "these companies, D2C e commerce companies, they tend not to be able to attract that much capital. So you actually can generally see a lot of traction before you write the check and you're still getting in at a low valuation.",
+        "label": "traction_repeatability_concern",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She sees D2C investing as offering observable traction before investment while retaining a low entry valuation.",
+        "attribution_basis": "This passage appears in a transcript turn explicitly labeled “Elizabeth Yin,” and the episode title identifies her with Hustle Fund."
+      },
+      {
+        "quote": "So you know the founder is scrappy, you can see them execute, you can see some semblance of product market fit, and the valuation is still at pre seed.",
+        "label": "founder_execution",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "For capital-constrained consumer companies, visible scrappiness and execution can be assessed at a pre-seed valuation.",
+        "attribution_basis": "This passage appears in a transcript turn explicitly labeled “Elizabeth Yin,” and the episode title identifies her with Hustle Fund."
+      },
+      {
+        "quote": "If you're going to be investing in some of these categories where investors just hate the space, you have to truly believe the founder is willing to bootstrap for a long time because they love doing this. They don't care or need investors. They, you almost need sort of this FU attitude in the founder.",
+        "label": "founder_qualities",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "In unpopular categories, she looks for founders with the independence and persistence to bootstrap without relying on outside capital.",
+        "attribution_basis": "This passage appears in a transcript turn explicitly labeled “Elizabeth Yin,” and the episode title identifies her with Hustle Fund."
+      },
+      {
+        "quote": "The companies that sell well in a secondary market are ones that have built a good brand.",
+        "label": "competitive_advantage_assessment",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She views a strong brand as an advantage for achieving secondary-market liquidity.",
+        "attribution_basis": "This passage appears in a transcript turn explicitly labeled “Elizabeth Yin,” and the episode title identifies her with Hustle Fund."
+      },
+      {
+        "quote": "Yeah, so for Hustle Fund, we squarely invest in software. We're going in super early. And basically on the thesis of, do we intuitively believe that, This thing is 10x better, or, will save you 10x, or make you 10x more money, or something along those lines. We typically are investing in business software, digital health, or fintech.",
+        "label": "investment_thesis_constraint",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "Hustle Fund targets very early software companies in business software, digital health, and fintech whose value proposition may be roughly tenfold better.",
+        "attribution_basis": "This passage appears in a transcript turn explicitly labeled “Elizabeth Yin,” and the episode title identifies her with Hustle Fund."
+      },
+      {
+        "quote": "we're looking for low valuations, no traction, But it's not just an idea. You've done something in the business, and we invest globally.",
+        "label": "traction_repeatability_concern",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "She will invest before traction at low valuations, but expects founders to have done more than merely formulate an idea.",
+        "attribution_basis": "This passage appears in a transcript turn explicitly labeled “Elizabeth Yin,” and the episode title identifies her with Hustle Fund."
+      },
+      {
+        "quote": "It's less about price point and more around coming [00:38:00] back to this belief of could this thing have 100x potential or more? So loosely speaking, I would say we very much prefer investments under 10 million post money, right?",
+        "label": "investment_upside_assessment",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She prioritizes the possibility of a 100x return and generally prefers entry valuations below $10 million post-money.",
+        "attribution_basis": "This passage appears in a transcript turn explicitly labeled “Elizabeth Yin,” and the episode title identifies her with Hustle Fund."
+      }
+    ],
+    "context": [
+      {
+        "quote": "in my career, I've probably seen now about 50, 000 companies and have done about 800 investments, 200 of them at 500 startups. Another 500 or so at Hustle Fund, and then another 100 or so as a personal angel investment.",
+        "claim": "Yin says she had evaluated about 50,000 companies and made roughly 800 investments: approximately 200 at 500 Startups, 500 at Hustle Fund, and 100 personally.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "At 500 Startups, , I led a deal into a company called Mejuri.",
+        "claim": "Yin says she led 500 Startups' investment in Mejuri.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "So at [00:31:00] Hustle Fund we are squarely software, despite saying all this, but in my own angel investing, I do invest in basically everything Hustle Fund does not. So I have done a lot in, uh, food and beverage, for example. Some of these non tech kind of categories. I've done even a couple of fashion brands as well.",
+        "claim": "Yin distinguishes Hustle Fund's software mandate from her personal angel investments in food and beverage, fashion, and other non-tech categories.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "14fb74109467c3c278ba806d020e393b82be04512605e211b7db171cc55eb728"
+  },
+  {
+    "source": "full:c2b651e79d5aa367a3551447",
+    "part": 3,
+    "identity": "target",
+    "reason": "The named Elizabeth Yin transcript turns discuss Hustle Fund’s investment criteria, fund size, check size, portfolio decisions, and current AI strategy.",
+    "evidence": [
+      {
+        "quote": "we invest globally and every market has different potential. I think, the U. S. market is stronger. We tend to have bigger exits.",
+        "label": "market_size_assessment",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "Although investing globally, she views the United States as a stronger market with larger typical exits.",
+        "attribution_basis": "This passage is in a transcript turn explicitly labeled “Elizabeth Yin,” with the episode title identifying her as the Hustle Fund investor."
+      },
+      {
+        "quote": "So we look at things very, differently depending on the idea, the market, to figure out what do we think is a reasonable exit potential in the best case scenario.",
+        "label": "investment_upside_assessment",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "She adjusts best-case exit expectations to the particular idea and market rather than applying one universal outcome threshold.",
+        "attribution_basis": "This passage is part of Elizabeth Yin’s continued answer immediately before the next turn labeled “Shaherose,” with the episode identifying Yin as the Hustle Fund investor."
+      },
+      {
+        "quote": "the two important things are team and the idea. And I actually, if you asked me which is more important, I would say the idea is more important.",
+        "label": "product_success_factor_assessment",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "She considers both team and idea important but gives the idea greater weight.",
+        "attribution_basis": "This passage is in a transcript turn explicitly labeled “Elizabeth Yin,” with the episode title identifying her as the Hustle Fund investor."
+      },
+      {
+        "quote": "I just know so many amazing founders. Who had these awful ideas, and even if they were so great in trying to make it work, they had to push the boulder up the mountain when it would have been easier to push it down the mountain, right?",
+        "label": "business_viability_concern",
+        "direction": "negative",
+        "support": "explicit",
+        "interpretation": "She believes even excellent founders struggle when the underlying idea creates an intrinsically difficult business.",
+        "attribution_basis": "This passage is in a transcript turn explicitly labeled “Elizabeth Yin,” with the episode title identifying her as the Hustle Fund investor."
+      },
+      {
+        "quote": "when a market becomes crowded or competitive, the cost of customer acquisition goes up. You're fighting for mindshare. for the same customers as all of your peers and competitors.",
+        "label": "competitive_intensity_concern",
+        "direction": "negative",
+        "support": "explicit",
+        "interpretation": "She sees crowded markets as raising acquisition costs and intensifying competition for customer attention.",
+        "attribution_basis": "This passage is in a transcript turn explicitly labeled “Elizabeth Yin,” with the episode title identifying her as the Hustle Fund investor."
+      },
+      {
+        "quote": "If an idea is crowded, or we think it's too competitive, We'll just sit out. We're not going to try to guess which horse is the right horse or whatever. We'll just sit out entirely. I would much prefer an idea that is so wonky [00:42:00] and weird and nobody's working on.",
+        "label": "competitive_intensity_concern",
+        "direction": "negative",
+        "support": "explicit",
+        "interpretation": "Hustle Fund generally avoids crowded categories and prefers unusual ideas with little existing competition.",
+        "attribution_basis": "This passage is in a transcript turn explicitly labeled “Elizabeth Yin,” with the episode title identifying her as the Hustle Fund investor."
+      },
+      {
+        "quote": "you can meet great talkers all the time who sound really good, but you have to see the execution, and the only way I'll see the execution is , once I'm an investor, so we basically just assess the best we can on, on the team aspect based on what they say they're doing and on what sort of timeframe.",
+        "label": "founder_execution",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "She treats reported actions and speed as limited pre-investment proxies because conversation alone cannot establish execution ability.",
+        "attribution_basis": "This passage is in a transcript turn explicitly labeled “Elizabeth Yin,” with the episode title identifying her as the Hustle Fund investor."
+      },
+      {
+        "quote": "Like, did you do customer development calls like all of last week and you just quit your job last week? Or have you [00:43:00] been, working on this slowly for the last five months? Like, Which is faster, which is better.",
+        "label": "founder_execution",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She favors evidence that founders moved quickly, such as immediately conducting customer-development calls.",
+        "attribution_basis": "This passage is in a transcript turn explicitly labeled “Elizabeth Yin,” with the episode title identifying her as the Hustle Fund investor."
+      },
+      {
+        "quote": "Based on how it's going, we may write a another check.",
+        "label": "founder_execution",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "Hustle Fund may make a follow-on investment based on the company's subsequent progress.",
+        "attribution_basis": "This passage is in a transcript turn explicitly labeled “Elizabeth Yin,” with the episode title identifying her as the Hustle Fund investor."
+      },
+      {
+        "quote": "The founder, her, her parents had one of these mom and pop businesses. So they were actually the first customers using her software. And she's a software engineer by trade. So it's like this domain knowledge in this industry that nobody really thinks about. And she's applying technology into it.",
+        "label": "founder_market_fit",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "Her Essential investment illustrates the appeal of a founder combining close family exposure to an overlooked industry with relevant software-engineering ability.",
+        "attribution_basis": "This passage is in a transcript turn explicitly labeled “Elizabeth Yin,” with the episode title identifying her as the Hustle Fund investor."
+      },
+      {
+        "quote": "if you're investing in a greenfield area, the company can get enough traction to kind of get a head start. Because if it's a good idea, almost inherently, you have to believe there's going to be competition.",
+        "label": "competitive_advantage_assessment",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She views early traction in a greenfield category as a potential head start before inevitable competition arrives.",
+        "attribution_basis": "This passage is in a transcript turn explicitly labeled “Elizabeth Yin,” with the episode title identifying her as the Hustle Fund investor."
+      },
+      {
+        "quote": "these days we have pulled back a lot from two years ago because I think that [00:50:00] it, it is way too crowded in most industries. We are still looking at older industries and other verticals that are off the beaten path, but it's not something we're necessarily actively seeking out. So we are still are making AI investments, but not like how we did two years ago. The bar is much higher now.",
+        "label": "competitive_intensity_concern",
+        "direction": "negative",
+        "support": "explicit",
+        "interpretation": "Hustle Fund has reduced AI investing because of crowding, while retaining a higher bar for opportunities in overlooked industries and verticals.",
+        "attribution_basis": "This passage is in a transcript turn explicitly labeled “Elizabeth Yin,” with the episode title identifying her as the Hustle Fund investor."
+      },
+      {
+        "quote": "I love those companies. I think founders should really own their destiny as much as possible. So the quicker you can get to that stage, the better.",
+        "label": "capital_intensity_concern",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She strongly prefers companies that quickly become efficient enough to control their future without repeated fundraising.",
+        "attribution_basis": "This passage is in a transcript turn explicitly labeled “Elizabeth Yin,” answering a question about highly efficient companies that raise once and then operate independently."
+      },
+      {
+        "quote": "I think actually grading is a good way. So at Hustle Fund, we have a rubric where, you know, on a variety of different axes, we grade a company.",
+        "label": "decision_context_constraint",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "Hustle Fund structures evaluation with a rubric that grades companies across multiple dimensions.",
+        "attribution_basis": "This passage is in a transcript turn explicitly labeled “Elizabeth Yin,” with the episode title identifying her as the Hustle Fund investor."
+      }
+    ],
+    "context": [
+      {
+        "quote": "Initially we started out with an 11. 5 million fund, now we're much closer to 50.",
+        "claim": "Yin says Hustle Fund grew from an initial $11.5 million fund to a fund closer to $50 million.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "So I'll give you an example of a company I invested in a few months ago. The company is called Essential",
+        "claim": "Yin says she personally invested in a company called Essential a few months before the undated interview.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "two years ago, we invested in a bunch of AI companies",
+        "claim": "Yin says Hustle Fund invested in multiple AI companies two years before the undated interview.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Like in our [00:52:00] fund one, it was like pretty close to 90 percent or thereabouts, but like, I actually don't see that as a good thing.",
+        "claim": "Yin says close to 90% of Hustle Fund's first-fund portfolio raised beyond pre-seed or seed, while cautioning that she does not regard that high follow-on rate as inherently good.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "aee65f0dbe1042742c2c95191ac36784bcf5fe607b1c5aaef24ce25f39ed0f05"
+  },
+  {
+    "source": "full:22b1a045c97876ba9db8afd1",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Apple Podcasts listing identifies the guest as Hustle Fund co-founder Elizabeth Yin and supplies a biography, but contains no transcript or direct investor quotations.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Elizabeth Yin is a co-founder and General Partner at Hustle Fund, a pre-seed fund focused on software entrepreneurs.",
+        "claim": "The episode description identifies Yin as a Hustle Fund co-founder and General Partner focused on pre-seed software investing.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Prior to this role, she was a partner at 500 Startups, where she invested in seed-stage companies and managed the Mountain View accelerator.",
+        "claim": "The episode description reports that Yin previously invested in seed-stage companies and managed the Mountain View accelerator as a 500 Startups partner.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Earlier in her career, Elizabeth co-founded and ran an adtech company called LaunchBit, which was acquired in 2014.",
+        "claim": "The episode description reports that Yin co-founded and operated LaunchBit and that the company was acquired in 2014.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Published January 10, 2025 at 12:09 AM UTC",
+        "claim": "Apple Podcasts reports that this episode was published on January 10, 2025 at 12:09 AM UTC.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "7ef333ec9e65b1e6b24ccefbb282f4f651511557c7fb1b898bf892117a27f45d"
+  },
+  {
+    "source": "full:34a77caad15fed02a31d1e16",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Apple Podcasts page explicitly identifies Elizabeth Yin with Hustle Fund and her dunkhippo33 account, but provides only an episode description rather than attributable investor speech.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "However, Elizabeth Yin, the founder of Hustle Fund recognized otherwise.",
+        "claim": "The episode description identifies Yin as the founder of Hustle Fund.",
+        "kind": "biography"
+      },
+      {
+        "quote": "In this episode Lucia has a candid conversation with Elisabeth about why traditional VC models are not working, how minority founders are systemically overlooked, and why she wanted to start a fund that changes VC.",
+        "claim": "The episode description says the conversation covers Yin's views on traditional VC shortcomings, systemic neglect of minority founders, and her motivation for starting a different kind of fund.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Published June 19, 2020 at 9:03 PM UTC",
+        "claim": "Apple Podcasts reports that this episode was published on June 19, 2020 at 9:03 PM UTC.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "76292960866f65e801ec376028661788be8d967acc57ab0cc01411c1200b7032"
+  },
+  {
+    "source": "full:3378029dad41f337c19e60f5",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page identifies its guest as Elizabeth Yin, Co-founder and General Partner of Hustle Fund, but offers third-party profile material rather than direct quotations from her.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Elizabeth Yin is a co-founder and General Partner at Hustle Fund, a pre-seed fund for software entrepreneurs.",
+        "claim": "Causeartist identifies Yin as a Hustle Fund co-founder and General Partner whose fund serves pre-seed software entrepreneurs.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Previously, Elizabeth was a partner at 500 Startups where she invested in seed stage companies and ran the Mountain View accelerator.",
+        "claim": "Causeartist reports that Yin previously invested at seed stage and ran the Mountain View accelerator as a 500 Startups partner.",
+        "kind": "biography"
+      },
+      {
+        "quote": "In a prior life, Elizabeth co-founded and ran an adtech company called LaunchBit (acq 2014).",
+        "claim": "Causeartist reports that Yin co-founded and ran LaunchBit, which was acquired in 2014.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "The Hustle Fund invests in pre-seed rounds. Not seed. Not post-seed / mango seed. Pre-seed.",
+        "claim": "Causeartist describes Hustle Fund as investing specifically in pre-seed rounds.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "The Hustle Fund’s first check is usually $25k unless the team has worked with the founder before.",
+        "claim": "Causeartist reports that Hustle Fund's usual first check was $25,000, with exceptions for founders previously known to the team.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Most of the time, founders can expect to receive a response from the team between 24 and 48 hours after having a call.",
+        "claim": "Causeartist reports that Hustle Fund usually responded to founders within 24 to 48 hours after a call.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "f3ca1b92e12ca1aa6887da7b63aafe437e609c5b365275a492eaba1f6a3a3dba"
+  },
+  {
+    "source": "full:c135b83f05d451b0bf05bf4f",
+    "part": 1,
+    "identity": "target",
+    "reason": "The aggregator profile consistently anchors Elizabeth Yin to Hustle Fund and 500 Startups, though its claims are source-reported rather than direct investor statements.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Elizabeth Yin is the co-founder and General Partner at Hustle Fund, a pre-seed venture capital firm she launched in mid-2017 with Eric Bon.",
+        "claim": "The aggregator reports that Yin co-founded and became General Partner of Hustle Fund, launched in mid-2017 with Eric Bon.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Her investment thesis targets hilariously early software startups globally, with a focus on the U.S., Canada, and Southeast Asia.",
+        "claim": "The aggregator characterizes Yin's thesis as globally focused early software investing, especially in the United States, Canada, and Southeast Asia.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Prior to Hustle Fund, she was a partner at 500 Startups where she invested in seed-stage companies and ran the Mountain View accelerator.",
+        "claim": "The aggregator reports that Yin previously invested in seed-stage companies and ran the Mountain View accelerator as a 500 Startups partner.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Typical check sizes range from $5,000 to $250,000, and she has deployed capital across categories including social, marketplace, and CPG.",
+        "claim": "The aggregator reports typical checks of $5,000 to $250,000 and investment activity across social, marketplace, and consumer packaged goods categories.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Notable portfolio companies include startups featured on The Pitch podcast where she invested $1.7M across 17 deals, though specific company names are not listed in the provided sources.",
+        "claim": "The aggregator reports that Yin invested $1.7 million across 17 deals involving startups featured on The Pitch, while noting that its supplied sources did not name the companies.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "e8f7bcf395d6f4c3eac9413d832a4637aa0d750385b6ba7198a08cf4c80e948e"
+  },
+  {
+    "source": "full:4998321a1bd9fe2cf449a7a7",
+    "part": 1,
+    "identity": "target",
+    "reason": "The packet contains a section explicitly titled “Startup Acquisition Experience: Elizabeth Yin” that identifies her as LaunchBit’s cofounder and Hustle Fund’s cofounder and general partner, matching the resolved Hustle Fund investor.",
+    "evidence": [
+      {
+        "quote": "Our pre-seed fund invests in companies that basically have two people in a garage with half a prototype, no revenue, and a dream.",
+        "label": "investment_thesis_constraint",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "Yin explicitly describes Hustle Fund as willing to invest at the extremely early pre-seed stage, before revenue and with only a partial prototype.",
+        "attribution_basis": "The quotation appears in the first-person section titled “Startup Acquisition Experience: Elizabeth Yin,” which identifies the speaker as Hustle Fund’s cofounder and general partner."
+      },
+      {
+        "quote": "Y es, in the truest sense, we are a VC fund—we invest in startups and hope to generate high returns from those investments.",
+        "label": "investment_upside_assessment",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Yin states that generating high investment returns is a core objective of Hustle Fund.",
+        "attribution_basis": "The quotation appears in the first-person section titled “Startup Acquisition Experience: Elizabeth Yin,” which identifies the speaker as Hustle Fund’s cofounder and general partner; the transcription’s “Y es” is preserved verbatim."
+      },
+      {
+        "quote": "But, beyond investing, we also help with advice on building a business and connecting founders with other people who can help them succeed.",
+        "label": "investor_value_add_fit",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "Yin presents business advice and useful founder connections as part of Hustle Fund’s value beyond capital.",
+        "attribution_basis": "The quotation appears in the first-person section titled “Startup Acquisition Experience: Elizabeth Yin,” which identifies the speaker as Hustle Fund’s cofounder and general partner."
+      },
+      {
+        "quote": "We are looking for companies with 100x potential—companies that can potentially return 100x our initial investment.",
+        "label": "investment_upside_assessment",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Yin explicitly seeks companies capable of returning approximately 100 times Hustle Fund’s initial investment.",
+        "attribution_basis": "The quotation appears in the first-person section titled “Startup Acquisition Experience: Elizabeth Yin,” which identifies the speaker as Hustle Fund’s cofounder and general partner."
+      },
+      {
+        "quote": "And the companies that will get there won’t get there until about a decade later.",
+        "label": "investment_upside_assessment",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "Yin expects companies capable of the targeted return to require roughly a decade to realize that outcome.",
+        "attribution_basis": "The quotation immediately follows Yin’s statement about seeking 100x companies in her named first-person section."
+      },
+      {
+        "quote": "So, acquisitions are really the primary driver for liquidity for many companies, because IPOs are so much more rare.",
+        "label": "investment_upside_assessment",
+        "direction": "neutral",
+        "support": "inferred",
+        "interpretation": "Yin views acquisitions as the principal practical liquidity route for many venture-backed companies because IPOs are uncommon.",
+        "attribution_basis": "The quotation appears in the first-person section titled “Startup Acquisition Experience: Elizabeth Yin,” which identifies the speaker as Hustle Fund’s cofounder and general partner."
+      },
+      {
+        "quote": "Having experienced people on your team or experienced people coaching you, is the crux of what makes Silicon Valley successful, and perhaps why in other cities throughout the country, founders have a higher hill to climb without the institutional knowledge that is passed around as often in the San Francisco Bay Area.",
+        "label": "investor_value_add_fit",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "Yin considers experienced team members, coaching, and shared institutional knowledge important contributors to startup success.",
+        "attribution_basis": "The quotation appears in the first-person section titled “Startup Acquisition Experience: Elizabeth Yin,” which identifies the speaker as Hustle Fund’s cofounder and general partner."
+      }
+    ],
+    "context": [
+      {
+        "quote": "Cofounder & CEO, LaunchBit (Acquired by BuySellAds)\nCofounder & General Partner, Hustle Fund",
+        "claim": "The report identifies Elizabeth Yin as LaunchBit’s cofounder and CEO and as Hustle Fund’s cofounder and general partner, while reporting that BuySellAds acquired LaunchBit.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Hustle fund helps startup founders with capital, knowledge, and networks through pre-seed investment, advice, connections, and events and teaches people to become angel investors through Angel Squad.",
+        "claim": "The report describes Hustle Fund as supporting founders through pre-seed capital, advice, connections, events, and Angel Squad investor education.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "I founded an advertising company called LaunchBit in the thick of the recession in 2008.",
+        "claim": "Yin reports that she founded LaunchBit in 2008 during the recession.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "They made the process very simple—no handcuffs for the team with just a short transition period for us to hand the business over to them. It was a modest exit and they ended up running the company for several years.",
+        "claim": "Yin describes LaunchBit’s sale to BuySellAds as a modest exit with a short transition period and no continuing restraints on the team.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "I enjoyed helping great founders access capital, knowledge, and networks—three things every startup needs to succeed. That’s why I started Hustle Fund.",
+        "claim": "Yin says she started Hustle Fund because she enjoyed helping founders obtain capital, knowledge, and networks.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "When we started Hustle Fund, we initially launched a pre-seed VC fund to back very early stage founders.",
+        "claim": "Yin reports that Hustle Fund began with a pre-seed venture fund focused on very early-stage founders.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "We’ve built Angel Squad, which is our modern day angel investing club that has had 1500+ members to help even more founders than we can help w/ our funds.",
+        "claim": "Yin reports that Hustle Fund built Angel Squad, an angel-investing club with more than 1,500 members.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "We produce a lot of content: videos, blog posts, and tweet storms to empower founders with knowledge that can help them on topics like fundraising and customer acquisition.",
+        "claim": "Yin says Hustle Fund publishes educational content for founders on subjects including fundraising and customer acquisition.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "56a3511a731153f93c4e106a63a65c65e641b4da07db5ca3e6d97d57016bf149"
+  },
+  {
+    "source": "full:4998321a1bd9fe2cf449a7a7",
+    "part": 2,
+    "identity": "other",
+    "reason": "This packet contains sections about Parag Shah, Preston L. James II, Jean Anne Booth, Shani Shoham, Nicholas Hinrichsen, Steven Cox, and Alon Lavie, with no passage attributed to Elizabeth Yin.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "a3f9bdcfa2b47ecfb140bef896bae3fe4b3b632b18c341031f25b30613bde00d"
+  },
+  {
+    "source": "full:4998321a1bd9fe2cf449a7a7",
+    "part": 3,
+    "identity": "other",
+    "reason": "This packet continues Alon Lavie’s account and then presents sections about Jewel Burks Solomon, Sabari Raja, and Vinod Muthukrishnan, with no passage attributed to Elizabeth Yin.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "f5b3ed9e23eb99c74387508dd747a1bc418a57da8a0a35852e7164b9c5a38d65"
+  },
+  {
+    "source": "full:d9608ddc3c5e762f94639bc5",
+    "part": 1,
+    "identity": "target",
+    "reason": "The SEC forum transcript explicitly introduces Elizabeth Yin as Hustle Fund's cofounder and general partner and attributes her remarks to “MS. YIN,” matching the resolved investor and affiliation.",
+    "evidence": [
+      {
+        "quote": "So with Hustle Fund, we are 13 investing $25,000 checks.",
+        "label": "fund_economics_constraint",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "Hustle Fund's standard investment amount at the time was $25,000.",
+        "attribution_basis": "The SEC transcript introduces Elizabeth Yin as a Hustle Fund panelist and places this statement in a turn labeled “MS. YIN.”"
+      },
+      {
+        "quote": "It's past the idea stage. You've kind of gotten 22 a little bit of validation qualitatively from potential 23 customers, but you don't necessarily have revenue. And 24 that's what we mean by that.",
+        "label": "investment_thesis_constraint",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Her pre-seed scope includes companies beyond the idea stage that have qualitative customer validation even if they lack revenue.",
+        "attribution_basis": "The statement appears in a transcript turn labeled “MS. YIN” immediately after Elizabeth Yin is asked what Hustle Fund means by investing hilariously early."
+      },
+      {
+        "quote": "And so we 14 felt like well, you know, there's a real opportunity to 15 help a lot of startups just kind of get off the ground.",
+        "label": "market_timing",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She viewed the early funding gap as an opportunity for Hustle Fund to support startups getting started.",
+        "attribution_basis": "The statement is in Elizabeth Yin's “MS. YIN” response explaining why Hustle Fund invests at the pre-seed stage."
+      }
+    ],
+    "context": [
+      {
+        "quote": "Elizabeth 25 Yin. She is cofounder and general partner at Hustle Page 14 1 Fund, which besides being a great name also backs a huge 2 number of early-stage startups. She's a previous 3 startup founder and CEO herself and has supported 4 entrepreneurs through 500 startups.",
+        "claim": "The SEC moderator introduced Yin as Hustle Fund's cofounder and general partner, a former startup founder and CEO, and a supporter of entrepreneurs through 500 Startups.",
+        "kind": "biography"
+      },
+      {
+        "quote": "At Hustle Fund, we've been 14 around for three years and we have backed over 260 15 software companies.",
+        "claim": "Yin reported on May 25, 2021 that Hustle Fund had operated for three years and backed more than 260 software companies.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "So we do actually help the companies raise 18 a lot more money with co-investors, whether they're 19 angels our other VCs.",
+        "claim": "Yin said Hustle Fund helped its companies raise additional capital from angel and VC co-investors.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "e79fc2b91f433365b1131958d3640363396aa07627e0e69439b8eaa99b0070c6"
+  },
+  {
+    "source": "full:d9608ddc3c5e762f94639bc5",
+    "part": 2,
+    "identity": "target",
+    "reason": "This continuation explicitly addresses Elizabeth at Hustle Fund and attributes the relevant diligence remarks to transcript turns labeled “MS. YIN.”",
+    "evidence": [
+      {
+        "quote": "And so one of the things that I try to leave 18 with every founder, whether we get involved or not, is 19 some of that feedback.",
+        "label": "founder_coachability_assessment",
+        "direction": "neutral",
+        "support": "inferred",
+        "interpretation": "She gives founders feedback regardless of whether Hustle Fund invests, creating an opportunity to observe how they receive investor perspectives.",
+        "attribution_basis": "The SEC transcript labels the response “MS. YIN” after the moderator asks Elizabeth Yin about Hustle Fund's blunt feedback."
+      },
+      {
+        "quote": "And often it's very tactical 20 around customer acquisition.",
+        "label": "go_to_market_strategy_assessment",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "Customer acquisition is a recurring focus of her diligence feedback.",
+        "attribution_basis": "This statement occurs in the same explicitly labeled “MS. YIN” response about diligence feedback."
+      },
+      {
+        "quote": "My mindset is entirely about 22 customer acquisition.",
+        "label": "investor_experience_bias",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "She says her investment perspective is strongly oriented toward how companies acquire customers.",
+        "attribution_basis": "The statement is attributed to “MS. YIN” in the SEC transcript, following her explanation that she had previously been an entrepreneur."
+      },
+      {
+        "quote": "When you're investing in software 23 businesses, frankly speaking, there's not a lot of IP 24 these days, and it's completely competitive.",
+        "label": "competitive_intensity_concern",
+        "direction": "negative",
+        "support": "explicit",
+        "interpretation": "She regards software investing as highly competitive and sees limited IP-based protection in many businesses.",
+        "attribution_basis": "The SEC transcript attributes this assessment directly to Elizabeth Yin in a turn labeled “MS. YIN.”"
+      },
+      {
+        "quote": "So how are 25 you going to get a foothold in getting traction?",
+        "label": "market_entry_path_assessment",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "She evaluates whether a software startup has a credible initial path to traction.",
+        "attribution_basis": "This question is part of Yin's explicitly labeled answer describing what she considers during diligence."
+      },
+      {
+        "quote": "And so I think a lot about, okay, what is the 2 cost to acquire customer in all of these different 3 channels?",
+        "label": "unit_economics_assessment",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "She examines customer-acquisition cost across channels when assessing a startup.",
+        "attribution_basis": "The statement appears in a continuation of the “MS. YIN” transcript turn."
+      },
+      {
+        "quote": "Is it completely crowded?",
+        "label": "competitive_intensity_concern",
+        "direction": "negative",
+        "support": "explicit",
+        "interpretation": "She tests whether a customer-acquisition channel is too crowded.",
+        "attribution_basis": "The question is attributed to Yin within her labeled discussion of customer-acquisition diligence."
+      },
+      {
+        "quote": "there 7 are 20 other companies that do exactly what you do, how 8 are you going to differentiate?",
+        "label": "product_differentiation_concern",
+        "direction": "negative",
+        "support": "explicit",
+        "interpretation": "She challenges startups in crowded categories to explain meaningful differentiation from similar competitors.",
+        "attribution_basis": "The statement is an example Yin gives in her “MS. YIN” turn of feedback she relays to founders."
+      }
+    ],
+    "context": [
+      {
+        "quote": "I previously was an entrepreneur and 6 I pitched so many VCs myself for my startup.",
+        "claim": "Yin described herself as a former entrepreneur who had pitched many venture capitalists for her own startup.",
+        "kind": "biography"
+      },
+      {
+        "quote": "And so I felt like well, now that I'm on the 11 other side of the table, you know, even if I cannot get 12 involved in the company, at least I want sort of the 13 entrepreneur to A, understand where I'm coming from. 14 They may or may not agree and that's fine, and B, also 15 get sort of a piece of feedback or at least another 16 perspective whether it's useful or not.",
+        "claim": "Yin said her approach is to give entrepreneurs feedback or another perspective even when she cannot invest.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "16bf432739e2353f272ea146953214905ef3482a15fca0d7178ecab98cfe06b9"
+  },
+  {
+    "source": "full:d9608ddc3c5e762f94639bc5",
+    "part": 3,
+    "identity": "target",
+    "reason": "The SEC forum transcript contains explicitly labeled “MS. YIN” turns addressed to Elizabeth in which she discusses Hustle Fund’s investments and portfolio strategy, matching the resolved Elizabeth Yin identity.",
+    "evidence": [
+      {
+        "quote": "I don't have conviction around the",
+        "label": "go_to_market_strategy_assessment",
+        "direction": "negative",
+        "support": "explicit",
+        "interpretation": "Yin identifies lack of conviction as a reason she may reject a company's approach.",
+        "attribution_basis": "This quotation appears within an SEC transcript turn explicitly labeled “MS. YIN,” immediately after the moderator addresses Elizabeth."
+      },
+      {
+        "quote": "something different, came back, and said, you know, hey,",
+        "label": "founder_coachability_assessment",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "Yin values founders who act on feedback and return with a changed approach.",
+        "attribution_basis": "This quotation is from the same continuous SEC transcript turn labeled “MS. YIN,” describing founders who re-engaged after an initial rejection."
+      },
+      {
+        "quote": "construction, we really like the high risk, high return",
+        "label": "investment_upside_assessment",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Yin explicitly favors high-risk investments capable of generating high returns within the portfolio.",
+        "attribution_basis": "This quotation appears in a turn labeled “MS. YIN” answering a question directed to Elizabeth about portfolio construction and liquidity."
+      },
+      {
+        "quote": "onto things that will have product market fit and if",
+        "label": "product_adoption",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Yin prioritizes companies capable of attaining product-market fit.",
+        "attribution_basis": "This quotation is from an explicitly labeled “MS. YIN” turn explaining her general investment philosophy."
+      },
+      {
+        "quote": "initially, even after they had traction. Even after",
+        "label": "product_adoption",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "Yin's Mejuri example emphasizes that meaningful traction can exist even when other investors reject a company for pattern-matching reasons.",
+        "attribution_basis": "This quotation appears within a named “MS. YIN” answer about a company in which she says her firm invested."
+      },
+      {
+        "quote": "turns out, jewelry is a big business. And so she really",
+        "label": "market_size_assessment",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "Yin uses the jewelry category to illustrate that investors may underestimate the size of an unfashionable market.",
+        "attribution_basis": "This quotation appears in the explicitly labeled “MS. YIN” discussion of Mejuri."
+      }
+    ],
+    "context": [
+      {
+        "quote": "of the 260 plus companies we backed, they were because",
+        "claim": "Yin said Hustle Fund had backed more than 260 companies at the time of the forum.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "invest in. The company is called Mejuri, and it's a",
+        "claim": "Yin explicitly reported that her firm invested in Mejuri.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "56b14e383d5a0d02c1de0b5c9dd93cdbd6abe68f899268a8f2cb59181a4abdb4"
+  },
+  {
+    "source": "full:d9608ddc3c5e762f94639bc5",
+    "part": 4,
+    "identity": "target",
+    "reason": "This continuation of the SEC transcript includes named “MS. YIN” responses about nonaccredited investors and her venture firm’s small-check investment approach, clearly concerning the resolved investor.",
+    "evidence": [
+      {
+        "quote": "risk, you know, I don't want to cause extra issues or",
+        "label": "deal_terms_complexity_concern",
+        "direction": "negative",
+        "support": "inferred",
+        "interpretation": "Yin attributes reluctance to accept nonaccredited investors partly to perceived risk and added operational complications.",
+        "attribution_basis": "This quotation occurs within an SEC transcript turn explicitly labeled “MS. YIN” after Elizabeth is asked for her perspective."
+      },
+      {
+        "quote": "investors to be able to invest alongside VCs. Because,",
+        "label": "fundraising_demand_signal",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "Yin believes nonaccredited investors would demand opportunities to invest alongside venture firms.",
+        "attribution_basis": "This quotation appears in a turn explicitly labeled “MS. YIN” in the SEC transcript."
+      },
+      {
+        "quote": "25K checks and there are a number of VCs these days that",
+        "label": "fund_economics_constraint",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "Yin describes a $25,000 check size and places it within a broader trend toward small venture checks.",
+        "attribution_basis": "This quotation appears in an SEC transcript turn explicitly labeled “MS. YIN,” following a request for Elizabeth's recommendations."
+      }
+    ],
+    "context": [
+      {
+        "quote": "largely through these sites such as Republic where we",
+        "claim": "Yin said deals involving nonaccredited investors appeared largely through sites such as Republic, where her firm invested alongside them.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "25K checks and there are a number of VCs these days that",
+        "claim": "Yin stated that her venture firm wrote $25,000 checks at the time of the forum.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "of angels in Silicon Valley writing $1,000 checks, like,",
+        "claim": "Yin reported observing Silicon Valley angels writing $1,000 checks at the time of the forum.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "c008b32d235aee5ab46825da5b0231a8f7a33355b5ca4189534d70bf1200ca4a"
+  },
+  {
+    "source": "full:d9608ddc3c5e762f94639bc5",
+    "part": 5,
+    "identity": "target",
+    "reason": "Although it contains no further remarks from Yin, this closing section identifies Elizabeth as a forum panelist and dates the proceeding to May 25, 2021.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "panelists, Grace, Eli, and Elizabeth for sharing their",
+        "claim": "SEC Small Business Advocacy Team representative Julie Zelman Davis identified Elizabeth as one of the forum's panelists.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Date: Tuesday, May 25, 2021",
+        "claim": "The transcript's proofreader certificate dates the forum to May 25, 2021.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "ddd674575a55b142781435a363810e8661bb9868a0d42278757173196eead3cd"
+  },
+  {
+    "source": "full:7c78ccb3ca1d5a4e7f7741a5",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Wikipedia article identifies Elizabeth Yin as Hustle Fund’s co-founder and former 500 Startups partner, matching the resolved identity, though it contains no direct quotations from her.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Hustle Fund is an early-stage venture capital firm headquartered in San Francisco. The firm was founded in 2017 by venture capitalists Elizabeth Yin and Eric Bahn.",
+        "claim": "Wikipedia reports that Elizabeth Yin and Eric Bahn founded the San Francisco early-stage venture firm Hustle Fund in 2017.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Hustle Fund invests primarily in pre-seed and seed-stage startups.",
+        "claim": "Wikipedia describes Hustle Fund's principal investment stages as pre-seed and seed.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Yin previously served as a partner at 500 Startups before founding Hustle Fund.",
+        "claim": "Wikipedia reports that Yin was a partner at 500 Startups before founding Hustle Fund.",
+        "kind": "biography"
+      },
+      {
+        "quote": "In 2018, the firm closed an $11.5 million inaugural fund focused on investing in early-stage startups.",
+        "claim": "Wikipedia reports that Hustle Fund closed an $11.5 million inaugural early-stage fund in 2018.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "In 2020, Hustle Fund raised a $30 million second fund to continue its pre-seed and seed investment strategy.",
+        "claim": "Wikipedia reports that Hustle Fund raised a $30 million second fund in 2020 for its pre-seed and seed strategy.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Hustle Fund also operates an educational program Angel Squad",
+        "claim": "Wikipedia reports that Hustle Fund operates an educational program called Angel Squad.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "7a16124bb5968b502008439f6550e3f5b2507953d20796e5a6e697158eb4bc6e"
+  },
+  {
+    "source": "full:a691467b79d3d06bfc54d11d",
+    "part": 1,
+    "identity": "target",
+    "reason": "Hustle Fund’s own page identifies Elizabeth Yin as its co-founder and general partner and supplies a biography anchored by 500 Startups and LaunchBit, matching the resolved investor.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Elizabeth Yin is the co-founder and general partner at Hustle Fund, a pre-seed fund for software entrepreneurs.",
+        "claim": "Hustle Fund's website describes Yin as its co-founder and general partner and characterizes the firm as a pre-seed fund for software entrepreneurs.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Previously, Elizabeth was a partner at 500 Startups where she invested in seed stage companies and ran the Mountain View accelerator.",
+        "claim": "Hustle Fund's website reports that Yin previously invested in seed-stage companies and ran the Mountain View accelerator as a 500 Startups partner.",
+        "kind": "biography"
+      },
+      {
+        "quote": "In a prior life, Elizabeth co-founded and ran an adtech company called LaunchBit (acq 2014).",
+        "claim": "Hustle Fund's website reports that Yin co-founded and operated LaunchBit, an adtech company acquired in 2014.",
+        "kind": "biography"
+      },
+      {
+        "quote": "This book is a collection of Hustle Fund Co-Founder Elizabeth Yin’s famous tweetstorms where she shares her wisdom and insights on what it takes to build a startup, raise money, run a VC firm, and everything in between.",
+        "claim": "Hustle Fund describes the advertised book as a collection of Yin's writings about building startups, fundraising, and operating a venture firm.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "You can follow Elizabeth and her latest tweetstorms on Twitter @dunkhippo33.",
+        "claim": "Hustle Fund's website identifies @dunkhippo33 as Yin's Twitter account.",
+        "kind": "biography"
+      }
+    ],
+    "input_fingerprint": "a9a2b722721691e1c904d436f83ddf2dd491830731bec9539f69d8ac74a361ef"
+  },
+  {
+    "source": "full:a2329b82b535abe7412a9c84",
+    "part": 1,
+    "identity": "target",
+    "reason": "Mercury explicitly introduces the interviewee as “Elizabeth Yin, co-founder and general partner at Hustle Fund,” matching the resolved investor and affiliation.",
+    "evidence": [
+      {
+        "quote": "For me, and Hustle Fund, we define pre-seed as you've got a product, but you have no traction. Almost all the companies we invest in have no, or insignificant, revenue. But you have done something beyond just think of an idea yesterday.",
+        "label": "investment_thesis_constraint",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "Hustle Fund targets product-stage pre-seed companies even when revenue and traction are absent or insignificant.",
+        "attribution_basis": "Mercury identifies Elizabeth Yin as the interviewee, and this passage is her answer in the edited question-and-answer transcript."
+      },
+      {
+        "quote": "In almost all cases, there has to be a product. I would caveat that the products that we end up seeing are very bare bones. Sometimes it's just \"I have this landing page and I'm driving people towards it and getting conversions off of it.\" MVP is fine.",
+        "label": "product_adoption",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She generally requires a product but accepts a minimal product or landing page with early conversion evidence.",
+        "attribution_basis": "Mercury identifies Elizabeth Yin as the interviewee, and this passage is her answer in the edited question-and-answer transcript."
+      },
+      {
+        "quote": "We do our filtering by ideas. I'm sure we're passing on a lot of great founders whose ideas we can't get behind.",
+        "label": "product_appeal_assessment",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "Initial screening prioritizes whether Hustle Fund can support the idea, even at the cost of missing strong founders.",
+        "attribution_basis": "Mercury identifies Elizabeth Yin as the interviewee, and this passage is her answer in the edited question-and-answer transcript."
+      },
+      {
+        "quote": "What makes for a good idea is—this is gut feeling and totally subjective —do I think that, at scale, the lifetime value could be fairly high and the CAC could not creep up? That there's enough buffer such that you can scalably get customers? We will never know because we take companies pre-revenue, but that is more or less how we decide.",
+        "label": "unit_economics_assessment",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She favors ideas whose prospective lifetime value and customer-acquisition costs leave room for scalable acquisition, while acknowledging the assessment is subjective at pre-revenue stage.",
+        "attribution_basis": "Mercury identifies Elizabeth Yin as the interviewee, and this passage is her answer in the edited question-and-answer transcript."
+      },
+      {
+        "quote": "We tend to avoid super crowded areas because it's just really hard to tell one company apart from the other. Crowdedness increases CAC. That's our first pass.",
+        "label": "competitive_intensity_concern",
+        "direction": "negative",
+        "support": "explicit",
+        "interpretation": "Hustle Fund tends to reject crowded categories because differentiation is difficult and competition raises acquisition costs.",
+        "attribution_basis": "Mercury identifies Elizabeth Yin as the interviewee, and this passage is her answer in the edited question-and-answer transcript."
+      },
+      {
+        "quote": "Scrappiness, or burn rate combined with how much you've been able to achieve with so little, that matters to me. The converse is if you have a ridiculously high burn and it seems like we haven't done anything with that, that's an automatic pass.",
+        "label": "founder_execution",
+        "direction": "negative",
+        "support": "explicit",
+        "interpretation": "She assesses resourcefulness through achievement relative to burn and automatically passes when high spending has produced little.",
+        "attribution_basis": "Mercury identifies Elizabeth Yin as the interviewee, and this passage is her answer in the edited question-and-answer transcript."
+      },
+      {
+        "quote": "A concrete example is, you are on the verge of signing a pilot, but you haven't signed it yet and you tell me, \"hey, we have three signed customers.\" I find out they haven't signed. That to me is an automatic no, rightly or wrongly.",
+        "label": "founder_qualities",
+        "direction": "negative",
+        "support": "explicit",
+        "interpretation": "Misrepresenting unsigned prospects as signed customers is an automatic rejection on trust grounds.",
+        "attribution_basis": "Mercury identifies Elizabeth Yin as the interviewee, and this passage is her answer in the edited question-and-answer transcript."
+      },
+      {
+        "quote": "I like founders who have thought deliberately about their customer acquisition and have even started to do some experiments or thought through what experiments they want to do.",
+        "label": "go_to_market_strategy_assessment",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She prefers founders who deliberately plan customer acquisition and have begun or designed acquisition experiments.",
+        "attribution_basis": "Mercury identifies Elizabeth Yin as the interviewee, and this passage is her answer in the edited question-and-answer transcript."
+      },
+      {
+        "quote": "But I prefer the latter. There's just untapped green field in a lot of places outside the U.S.",
+        "label": "market_size_assessment",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "For companies based outside the United States, she prefers locally focused opportunities because she sees untapped markets there.",
+        "attribution_basis": "Mercury identifies Elizabeth Yin as the interviewee; this answer follows a question contrasting global/U.S.-market companies with companies addressing their local markets."
+      },
+      {
+        "quote": "You have to get a really strong conviction that we can still get 100X from there, which means that we're looking at a $3.2 billion outcome at a minimum.",
+        "label": "investment_upside_assessment",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "A company valued at $32 million requires conviction in at least a $3.2 billion outcome to preserve a 100-times return opportunity.",
+        "attribution_basis": "Mercury identifies Elizabeth Yin as the interviewee, and this passage is her answer explaining Hustle Fund's willingness to invest at a high valuation."
+      },
+      {
+        "quote": "Unfortunately, I don't know any VC who will fund somebody who is part-time, including ourselves. \"Can this company get to roughly a hundred million a year by year five?\" That's hard to do. And certainly part-time, it's even harder to do.",
+        "label": "venture_scale_concern",
+        "direction": "negative",
+        "support": "explicit",
+        "interpretation": "Hustle Fund will not back a part-time founder because reaching roughly $100 million in annual scale within five years already demands full-time commitment.",
+        "attribution_basis": "Mercury identifies Elizabeth Yin as the interviewee, and this passage is her direct response about funding founders who are not fully committed."
+      },
+      {
+        "quote": "Before Series A, I wouldn't dilute more than half of your company. Obviously, less is better. If you can get there on, call it two rounds, pre-seed/seed or something in between, and 15% on average dilution on each round, then maybe 30% to 35% diluted by the A. It's ideal.",
+        "label": "founder_equity_incentive_alignment",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "She regards no more than 50% dilution before Series A as an outer bound and approximately 30%–35% as preferable.",
+        "attribution_basis": "Mercury identifies Elizabeth Yin as the interviewee, and this passage is her direct response to a question about acceptable dilution."
+      }
+    ],
+    "context": [
+      {
+        "quote": "This week we’re having tea with Elizabeth Yin, co-founder and general partner at Hustle Fund, where she invests in pre-seed startups in the United States, Canada, and Southeast Asia.",
+        "claim": "Mercury reports that Elizabeth Yin was a Hustle Fund co-founder and general partner investing in pre-seed startups across the United States, Canada, and Southeast Asia.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Previously, Elizabeth ran an accelerator program at 500 Startups. She has reviewed over 20K pitches in the last few years.",
+        "claim": "Mercury reports that Yin previously ran a 500 Startups accelerator and had reviewed more than 20,000 pitches in the preceding few years.",
+        "kind": "biography"
+      },
+      {
+        "quote": "On a hundred deals that we see, about 8 to 10 will get an interview. And then of those, 1 to 2 will get a check.",
+        "claim": "Yin says Hustle Fund's contemporaneous funnel advanced roughly 8–10 of every 100 reviewed deals to interviews and funded 1–2.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "We write a $25K check at the pre-seed level. On occasion, we will follow on, but most of the time we will not.",
+        "claim": "Yin says Hustle Fund typically wrote $25,000 pre-seed checks and usually did not follow on.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "We do a lot in Canada, but they're basically a friendlier U.S. We do a lot in Southeast Asia and my business partner sits in Singapore.",
+        "claim": "Yin says Hustle Fund did substantial investing in Canada and Southeast Asia and that her business partner was based in Singapore.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "c74e9a6a67a4ee29d97af0dabdc333de8696f25375981fc0f22baaf411d9c7e7"
+  },
+  {
+    "source": "full:db560c7f86b895e1d7d7957b",
+    "part": 1,
+    "identity": "target",
+    "reason": "The first-person site is titled “Tactical fundraising by Elizabeth Yin” and repeatedly describes the author's work at Hustle Fund, matching the resolved identity.",
+    "evidence": [
+      {
+        "quote": "The reason this happened is simply due to supply and demand. Supply of the round and demand from investors.",
+        "label": "fundraising_demand_signal",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "She views startup valuation primarily as a function of the supply of investment opportunities and investor demand.",
+        "attribution_basis": "The source is presented as Elizabeth Yin's first-person site and links the author to Hustle Fund throughout the supplied text."
+      },
+      {
+        "quote": "This is also why you see valuations higher in San Francisco than you do abroad. There are just simply more investors willing to invest here.",
+        "label": "fundraising_demand_signal",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "She attributes San Francisco's higher valuations to a greater concentration of willing investors.",
+        "attribution_basis": "The source is presented as Elizabeth Yin's first-person site and links the author to Hustle Fund throughout the supplied text."
+      },
+      {
+        "quote": "This is why you actually see some AI deals get no investors — e.g. crowded horizontal plays. And some – e.g. AI infrastructure deals – have crazy valuations. It’s the investor demand that drives price up and down.",
+        "label": "fundraising_demand_signal",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "She distinguishes low-demand crowded horizontal AI deals from high-demand AI infrastructure deals and treats demand as the driver of their pricing.",
+        "attribution_basis": "The source is presented as Elizabeth Yin's first-person site and links the author to Hustle Fund throughout the supplied text."
+      },
+      {
+        "quote": "And many of the high valuations are justified. I’d never previously seen companies scale to millions in revenue run rate within weeks or months.",
+        "label": "traction_repeatability_concern",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She considers some high valuations justified when companies demonstrate unusually rapid scaling to multimillion-dollar revenue run rates.",
+        "attribution_basis": "The source is presented as Elizabeth Yin's first-person site and links the author to Hustle Fund throughout the supplied text."
+      },
+      {
+        "quote": "Competition will intensify, customer acquisition will become expensive, and adoption will become slow even these industries where we see massive growth today. Investors will be less excited about investing in these sectors, and valuations will drop in these sectors.",
+        "label": "market_timing",
+        "direction": "negative",
+        "support": "explicit",
+        "interpretation": "She expects the current AI window to deteriorate as competition raises acquisition costs, slows adoption, and reduces investor enthusiasm and valuations.",
+        "attribution_basis": "The source is presented as Elizabeth Yin's first-person site and links the author to Hustle Fund throughout the supplied text."
+      },
+      {
+        "quote": "Success requires not just being first, but being the fastest to build and iterate so you don’t become obsolete.",
+        "label": "founder_execution",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "In highly competitive developer and prosumer AI markets, she sees rapid building and iteration as essential to survival.",
+        "attribution_basis": "The source is presented as Elizabeth Yin's first-person site; this is her operating assessment of the developer and prosumer AI market rather than a directly stated screening rule."
+      },
+      {
+        "quote": "I’ve seen companies in my portfolio reach $10 million revenue run rate and then crash back down — all because of competition.",
+        "label": "investor_experience_bias",
+        "direction": "negative",
+        "support": "explicit",
+        "interpretation": "Her portfolio experience includes companies losing substantial revenue scale because of competitive pressure, informing her caution about crowded AI markets.",
+        "attribution_basis": "The source is presented as Elizabeth Yin's first-person site, and the author explicitly refers to companies in “my portfolio.”"
+      },
+      {
+        "quote": "Other industries: In other verticals, you have much more of a moat, in that your customers won’t switch overnight, just because a competitor launches a similar product. It’s much harder to rip you out of their workflow.",
+        "label": "competitive_landscape_inertia",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She sees workflow entrenchment and customer switching resistance as a defensibility advantage in non-AI verticals.",
+        "attribution_basis": "The source is presented as Elizabeth Yin's first-person site and links the author to Hustle Fund throughout the supplied text."
+      },
+      {
+        "quote": "I would almost argue that raising too much money is a major cause for startup decline.",
+        "label": "capital_intensity_concern",
+        "direction": "negative",
+        "support": "inferred",
+        "interpretation": "She warns that excessive fundraising can itself contribute to startup failure.",
+        "attribution_basis": "The source is presented as Elizabeth Yin's first-person site; the statement is startup guidance with an inferred implication for investment assessment."
+      },
+      {
+        "quote": "Often, your ability to succeed in fundraising may have nothing to do with you, but rather the market you’re in.",
+        "label": "market_timing",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "She believes fundraising success can depend more on prevailing market conditions than on the individual company or founder.",
+        "attribution_basis": "The source is presented as Elizabeth Yin's first-person site and links the author to Hustle Fund throughout the supplied text."
+      },
+      {
+        "quote": "People joke about how VCs try to be “value-add”, but angels who work in specific industries or domains can truly be valuable in opening doors for relevant companies in those spaces.",
+        "label": "investor_value_add_fit",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She views an angel's domain-specific ability to open customer or partner doors as genuine value beyond capital.",
+        "attribution_basis": "The source is presented as Elizabeth Yin's first-person site and this passage states the author's view while discussing Angel Squad."
+      },
+      {
+        "quote": "At Hustle Fund and in my personal life, for example, AI is already embedded in our workflow. Off-the-shelf tools help us with everything from writing, emailing, marketing, research, portfolio operations, and more. We even use AI to make investment recommendations (note: this is still very much in training mode).",
+        "label": "decision_context_constraint",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "Hustle Fund was experimenting with AI-generated investment recommendations but still regarded that capability as being in training.",
+        "attribution_basis": "The source is presented as Elizabeth Yin's first-person site, and the author explicitly identifies Hustle Fund's internal workflow."
+      }
+    ],
+    "context": [
+      {
+        "quote": "One of the things that VC-mentors of mine recommended when we first started Hustle Fund was to start thinking about succession planning now.",
+        "claim": "Yin says she received succession-planning advice from VC mentors when Hustle Fund was first started.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "So even as far back as day 1 – as an emerging fund manager – we have actually been looking for our first non-co-founder Partner. And 8 years later, I am so excited to announce the promotion of my colleague Haley Bryant!\nHaley has somewhat of an unusual background, which is what I think is a strength of hers in coming to Hustle Fund. Like everyone else on the team, she has entrepreneurial experience – this is a requirement at Hustle Fund. However, her beginnings were not in software. She initially thought she wanted to be a journalist upon graduating from UVA, and she ended up starting her career in a retail store at Apple. From there, she rose very quickly to senior management, running stores that were generating $100 million or more per year in revenue. She later parlayed that management experience into software startups. Most recently, she was the COO of Animalz, which is a SaaS marketing agency and helped them get from near zero to 8-figures of revenue per year. Her operational experience has been extremely helpful to our startups who are going through a growth phase and are struggling with reigning in chaos. Haley has the unique ability to quickly make things more efficient with a combination of tech, people, and processes.\nI first met Haley years ago on Flow Club. (Flow Club is a great platform to get work done and is a portfolio company.)",
+        "claim": "Yin announces Haley Bryant's promotion as Hustle Fund's first non-co-founder partner after an eight-year search that began on the firm's first day. While describing meeting Bryant, Yin explicitly calls Flow Club a portfolio company; personal ownership, investment vehicle and transaction details are unspecified.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Four years ago, we launched our global angel investor community called Angel Squad.",
+        "claim": "Yin says Hustle Fund launched the global Angel Squad investor community four years before this undated site entry.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "That sounded like a tough goal back then, but today I’m incredibly excited to announce we’ve officially crossed 10,000 Angel Squad applications across 50+ countries!",
+        "claim": "Yin announces that Angel Squad had surpassed 10,000 applications spanning more than 50 countries as of the undated entry.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "At Hustle Fund and in my personal life, for example, AI is already embedded in our workflow. Off-the-shelf tools help us with everything from writing, emailing, marketing, research, portfolio operations, and more. We even use AI to make investment recommendations (note: this is still very much in training mode).",
+        "claim": "Yin says Hustle Fund used off-the-shelf AI across its workflow, including an investment-recommendation system that remained in training mode.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "cd6817796689fdefcefc64254059de38cbd0271dbdbe3261ba916cc2a04a7912"
+  },
+  {
+    "source": "full:db560c7f86b895e1d7d7957b",
+    "part": 2,
+    "identity": "target",
+    "reason": "The first-person material appears on Elizabeth Yin’s named blog and repeatedly anchors the author to Hustle Fund, matching the resolved investor identity.",
+    "evidence": [
+      {
+        "quote": "Many of today’s AI entrepreneurs aren’t raising huge rounds of funding. Instead, they’re launching lean, capital-efficient businesses that can reach $1M-$2M in revenue without taking on significant outside investment.",
+        "label": "capital_intensity_concern",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "AI enables some startups to reach meaningful revenue with little external capital, making capital-efficient companies more viable.",
+        "attribution_basis": "The passage is first-person-authored material from the Elizabeth Yin blog and is tied to her Hustle Fund role elsewhere in the same source."
+      },
+      {
+        "quote": "Markets are more crowded. With lower barriers to entry, there’s more competition. If 200 startups are building the same AI-powered tool, it’s hard for one to achieve dominance—and hard for a VC to get a 100x return.",
+        "label": "competitive_intensity_concern",
+        "direction": "negative",
+        "support": "explicit",
+        "interpretation": "She views crowded, low-barrier AI categories as less likely to produce dominant companies or venture-scale returns.",
+        "attribution_basis": "The passage is first-person-authored material from the Elizabeth Yin blog and is tied to her Hustle Fund role elsewhere in the same source."
+      },
+      {
+        "quote": "Companies struggle to find moats. If anyone can spin up an AI-powered product in a weekend, it’s difficult to build a defensible business.",
+        "label": "product_differentiation_concern",
+        "direction": "negative",
+        "support": "explicit",
+        "interpretation": "Products that competitors can reproduce quickly lack the defensibility she wants in a venture investment.",
+        "attribution_basis": "The passage is first-person-authored material from the Elizabeth Yin blog and is tied to her Hustle Fund role elsewhere in the same source."
+      },
+      {
+        "quote": "Super-early-stage bets: While it’s getting cheaper to launch a startup, some founders still need pre-seed capital—particularly those who haven’t yet reached revenue yet.",
+        "label": "investment_thesis_constraint",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She identifies pre-revenue, pre-seed companies as a remaining area where venture investment makes sense.",
+        "attribution_basis": "The passage is first-person-authored material from the Elizabeth Yin blog and includes her parenthetical acknowledgment that she is discussing her own investing position."
+      },
+      {
+        "quote": "Big, capital-intensive ideas: While small AI startups are thriving, some ambitious projects that go beyond software still require massive funding. Think AI hardware, biotech, space, or deep-tech startups where money itself is one lever of a competitive advantage.",
+        "label": "competitive_advantage_assessment",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She sees required capital and specialized knowledge as potential competitive moats in hardware, biotech, space, and deep tech.",
+        "attribution_basis": "The passage is first-person-authored material from the Elizabeth Yin blog and is presented under her discussion of where investors can still win."
+      },
+      {
+        "quote": "Uniquely defensible businesses that have deep ties into workflow. There are going to be software businesses that are so entrenched in workflow that even if they are copied, the sheer distribution edge is enough to win.",
+        "label": "competitive_advantage_assessment",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She regards deep workflow integration and distribution as defensibility even when software features can be copied.",
+        "attribution_basis": "The passage is first-person-authored material from the Elizabeth Yin blog and is presented under her discussion of where investors can still win."
+      },
+      {
+        "quote": "International opportunities. US investors have long shied away from global markets, because they don’t understand them. But ironically, this is where the greenfield opportunity lies. You can find great companies that have limited competition and favorable valuations.",
+        "label": "market_entry_path_assessment",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She favors underexplored international markets where startups may face less competition and offer more favorable valuations.",
+        "attribution_basis": "The passage is first-person-authored material from the Elizabeth Yin blog and is presented under her discussion of where investors can still win."
+      },
+      {
+        "quote": "I think, a less obvious, yet critical factor for Silicon Valley’s success is its vibrant Angel investor community.",
+        "label": "market_problem_validation",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "She believes dense angel-investor networks are important infrastructure for successful startup ecosystems.",
+        "attribution_basis": "The first-person statement appears on Elizabeth Yin’s named blog and the surrounding text identifies Angel Squad as a Hustle Fund program."
+      },
+      {
+        "quote": "Part of why we have a champion model at Hustle Fund — where any investment professional can do any deal he/she likes — is that outliers tend to be the most contentious.",
+        "label": "decision_context_constraint",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "Hustle Fund permits an individual investment professional to champion a deal without requiring partnership consensus, accommodating contentious outliers.",
+        "attribution_basis": "Elizabeth Yin speaks in the first person about the investment process at her resolved firm, Hustle Fund."
+      },
+      {
+        "quote": "If you’re selling Salesforce to salespeople, then product is less important than if you’re selling a Canva subscription to designers. Product matters more to certain customers than others.",
+        "label": "product_success_factor_assessment",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "The importance she assigns to product quality depends on the customer and category rather than being uniformly decisive.",
+        "attribution_basis": "Elizabeth Yin speaks in the first person on her named blog while comparing her investment criteria with those of Hustle Fund colleagues."
+      }
+    ],
+    "context": [
+      {
+        "quote": "I’m super psyched! Our global angel club called Angel Squad, led by Brian Nichols, has reached 2000+ members this past summer across 40 countries!",
+        "claim": "Yin reported that Hustle Fund’s global Angel Squad, led by Brian Nichols, had exceeded 2,000 members across 40 countries during the preceding summer.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Angel Squad’s Vision Hustle Fund’s Angel Squad aims to replicate and expand this model globally.",
+        "claim": "Yin described Angel Squad as a Hustle Fund initiative intended to expand angel-investor communities globally.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "There are often deals that I do that the rest of the investment team thinks are awful. And vice versa.",
+        "claim": "Yin described herself as a member of Hustle Fund’s investment team who personally makes deals under its decision model.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "One of our portfolio founders at Hustle Fund named Steven Fitzsimmons (Fitz) broke down the anatomy of his seed round a few years ago.",
+        "claim": "Yin identified Steven Fitzsimmons as a Hustle Fund portfolio founder while discussing the value of small-check investors.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "3b6b897f9488a376764d5bcfc0eca56cf7829c5b293ced61a38aa09ac1f8630b"
+  },
+  {
+    "source": "full:db560c7f86b895e1d7d7957b",
+    "part": 3,
+    "identity": "target",
+    "reason": "This continuation of Elizabeth Yin’s named blog contains first-person descriptions of her own scoring and investment decisions at Hustle Fund.",
+    "evidence": [
+      {
+        "quote": "When we evaluate startups, we use a 4 point system. 4 is excellent. 1 is terrible.",
+        "label": "decision_context_constraint",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "Hustle Fund structures startup evaluation with a four-point scoring system that forces evaluators toward a strong or weak judgment.",
+        "attribution_basis": "Yin describes Hustle Fund’s process in first person on her named blog."
+      },
+      {
+        "quote": "But ultimately, the scores are meant to help our investors guide thinking; there’s no minimum overall score that a company needs to achieve in order to receive an investment offer.",
+        "label": "decision_context_constraint",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "She treats scoring as a thinking aid rather than a mechanical investment threshold.",
+        "attribution_basis": "Yin describes Hustle Fund’s process in first person on her named blog."
+      },
+      {
+        "quote": "As a whole, when we meet with a founding team, we are making our decisions to invest in large part because we are impressed with the team.",
+        "label": "founder_qualities",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Founder-team quality is a major positive factor in Hustle Fund’s investment decisions.",
+        "attribution_basis": "Yin writes as a member of Hustle Fund’s investment team and explicitly describes its aggregate decision pattern."
+      },
+      {
+        "quote": "In contrast, even if we don’t believe the current product is great or we don’t believe the team can fundraise, we’re often still willing to make the bet anyway.",
+        "label": "product_appeal_assessment",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "A weak current product does not necessarily prevent Hustle Fund from investing at its early stage.",
+        "attribution_basis": "Yin writes as a member of Hustle Fund’s investment team and explicitly describes its willingness to invest."
+      },
+      {
+        "quote": "I care less about how developed your product is and care less about a founder’s fundraisibility than my peers.",
+        "label": "fundraising_demand_signal",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "Compared with her partners, she places relatively little weight on product maturity and a founder’s ability to attract later funding.",
+        "attribution_basis": "Yin explicitly contrasts her own criteria with those of her Hustle Fund peers."
+      },
+      {
+        "quote": "I very much prefer the founder who has less glitz and glamour and just gets to work.",
+        "label": "founder_execution",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She prefers founders who focus on execution rather than presentation or fundraising polish.",
+        "attribution_basis": "This is Yin’s direct first-person statement about the kind of founder she prefers."
+      },
+      {
+        "quote": "That’s a bet that I’m willing to make that few VCs will make.",
+        "label": "fundraising_demand_signal",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "She is willing to back companies that may remain bootstrapped longer and attract fewer downstream investors before producing serious results.",
+        "attribution_basis": "The immediately preceding sentences define the bet, and Yin explicitly states her willingness to make it."
+      },
+      {
+        "quote": "This means that Eric and I will back some teams that have great products and high fundraisibility as well as those that don’t. We do this because many ideas don’t require that much money or a rocket science product, but other businesses do. It’s case by case.",
+        "label": "capital_intensity_concern",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "Her required level of product sophistication and fundraising ability varies with how much capital and technical complexity the business actually needs.",
+        "attribution_basis": "Yin directly describes the investment behavior of herself and Hustle Fund partner Eric Bahn."
+      },
+      {
+        "quote": "his model of building relationships with potential partners / acquirers / competitors from day 1 is smart — even if you aren’t looking to get acquired right away.",
+        "label": "go_to_market_strategy_assessment",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "She views early relationship-building with potential strategic partners, acquirers, and competitors as useful company-building practice.",
+        "attribution_basis": "Yin gives her own assessment after recounting portfolio founder Joshua Lee’s strategy."
+      },
+      {
+        "quote": "One thing that I am skeptical of in this model is the notion that you can actually predict what will be acquired.",
+        "label": "business_viability_concern",
+        "direction": "negative",
+        "support": "explicit",
+        "interpretation": "She doubts that founders can reliably design a company around a predictable future acquisition.",
+        "attribution_basis": "Yin explicitly states her skepticism in the first person."
+      },
+      {
+        "quote": "M&A demand is predicated on the assumption that your product will find very strong product-market fit.",
+        "label": "market_problem_validation",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "She believes a planned acquisition path still depends on strong underlying product-market fit and customer demand.",
+        "attribution_basis": "Yin states the condition directly while evaluating the build-for-exit model."
+      },
+      {
+        "quote": "It may be scary talking with potential competitors – especially when you have nothing – but if you truly believe that your startup is great, you can outcompete your competition. As we’ve seen time and again, more funding does not equate to more success.",
+        "label": "founder_execution",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "She favors founder confidence and competitive execution over assuming that the best-funded company will win.",
+        "attribution_basis": "Yin offers this operating and investment-related conclusion in her own blog narrative."
+      }
+    ],
+    "context": [
+      {
+        "quote": "First, some context about our decision-making framework at Hustle Fund.",
+        "claim": "Yin describes Hustle Fund’s startup-evaluation framework from a first-person firm perspective.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "For the companies who received funding from Hustle Fund (our portfolio companies), these were the average scores we gave our companies when we decided to invest.",
+        "claim": "Yin reports that Hustle Fund records criterion scores for companies at the time it decides to invest.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "This week, I had a really fascinating conversation with a portfolio founder named Joshua Lee, who’s the CEO and co-founder of a company called Ardius.",
+        "claim": "Yin identified Joshua Lee, CEO and co-founder of Ardius, as a portfolio founder.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Ardius was acquired by Gusto in 2021 after discussing with all the major players in the HR benefits space.",
+        "claim": "Yin reported that Gusto acquired Ardius in 2021.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "So Tam Pham, Kera DeMars, and I created Raise Millions to bring transparency to the world of fundraising.",
+        "claim": "Yin said she co-created the fundraising guide Raise Millions with Tam Pham and Kera DeMars.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "925d991028f443632d0db238cd699e6121ab1f6c36c8a14afa18ac925b591a62"
+  },
+  {
+    "source": "full:55f1fc72d80678560df6e3cc",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Bloomberg profile identifies Elizabeth Yin as General Partner and Co-Founder of Hustle Fund Management, matching the resolved identity, but contains no attributed investor quotations.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Elizabeth Yin General Partner/Co-Founder, Hustle Fund Management LLC",
+        "claim": "Bloomberg lists Elizabeth Yin as General Partner and Co-Founder of Hustle Fund Management LLC.",
+        "kind": "biography"
+      }
+    ],
+    "input_fingerprint": "a230cd700ebf9ba52f51f3fa64bb4f63366efb0020b0dc8aa40c00a45d5cb3ec"
+  },
+  {
+    "source": "full:ddc53cb3384962ec424a0709",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Hustle Fund article explicitly identifies the interview subject and attributed author as Co-Founder and General Partner Elizabeth Yin, matching the resolved investor.",
+    "evidence": [
+      {
+        "quote": "Angel investing or VC is a comparison game. Every company looks great in isolation, but if you have 100 companies, who are the 5-10 you’re going to pick?",
+        "label": "decision_context_constraint",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "She evaluates startups comparatively across a broad deal set rather than judging each opportunity only in isolation.",
+        "attribution_basis": "The article says Elizabeth Yin answered questions in the described chat and identifies her as its author and Hustle Fund Co-Founder and General Partner."
+      },
+      {
+        "quote": "You need to have the time to look at at least 1,000 deals per calendar year so you can write a 1K check in 5-10 companies that year.",
+        "label": "fund_economics_constraint",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "She recommends that serious small-check angels review very high deal volume and select only a small number of investments.",
+        "attribution_basis": "The answer is attributed by the article’s Q&A framing to Elizabeth Yin, whom the page identifies as Hustle Fund Co-Founder and General Partner."
+      },
+      {
+        "quote": "The founders who are frugal, scrappy, and focused on putting resources on one thing tend to do very well.",
+        "label": "founder_execution",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She associates strong returns with founders who conserve resources, improvise, and maintain focus.",
+        "attribution_basis": "This answer appears under a question about founder attributes and is attributed by the article’s Q&A framing to Elizabeth Yin."
+      },
+      {
+        "quote": "It’s really important for companies to be differentiated, not just from competitors, but all the other solutions out there.",
+        "label": "product_differentiation_concern",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She requires differentiation from both direct competitors and substitute solutions.",
+        "attribution_basis": "This answer appears under a question about hype-market investing and is attributed by the article’s Q&A framing to Elizabeth Yin."
+      },
+      {
+        "quote": "When I’ve invested in companies in crowded spaces, even with great founders, it’s really hard. The cost of customer acquisition is high, because you have to combat all the alternatives.",
+        "label": "competitive_intensity_concern",
+        "direction": "negative",
+        "support": "explicit",
+        "interpretation": "Her experience makes her wary of crowded categories because alternatives drive customer-acquisition costs upward even for strong founders.",
+        "attribution_basis": "The first-person investment experience is attributed by the article’s Q&A framing to Elizabeth Yin."
+      },
+      {
+        "quote": "I tend to look for greenfield ideas. This tends to mean areas that are new, geographies that are new, or demographics that are new.",
+        "label": "market_entry_path_assessment",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She prefers new categories, geographies, or demographics that offer an underdeveloped initial market.",
+        "attribution_basis": "The first-person preference is attributed by the article’s Q&A framing to Elizabeth Yin."
+      },
+      {
+        "quote": "If you’re early in the hype cycle, the CAC is low. But if you’re two years too late, it's just too expensive.",
+        "label": "market_timing",
+        "direction": "negative",
+        "support": "explicit",
+        "interpretation": "She considers late entry into a hype cycle unattractive because customer-acquisition costs rise materially.",
+        "attribution_basis": "The statement is part of Yin’s attributed answer about investing in hype markets."
+      },
+      {
+        "quote": "I used to believe as an investor that the founding team is all that matters. I no longer believe that. Of course, a great team matters, but an amazing idea matters way more.",
+        "label": "market_problem_validation",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Her criteria evolved from team primacy toward placing greater weight on the strength of the underlying idea and market pull.",
+        "attribution_basis": "The article attributes this first-person account of changing investment criteria to Elizabeth Yin."
+      },
+      {
+        "quote": "There are a number of companies that have a really strong product-market pull that are run by people whom I would not consider to be the best founders. But they do extremely well because customers love their product.",
+        "label": "product_adoption",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Strong customer pull can outweigh shortcomings in founder quality in her assessment.",
+        "attribution_basis": "The article attributes this first-person investment observation to Elizabeth Yin."
+      },
+      {
+        "quote": "Companies that have a lot of market pull also attract a lot of investment naturally.",
+        "label": "fundraising_demand_signal",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She sees strong market pull as a driver of natural investor demand and access to capital.",
+        "attribution_basis": "The statement is part of Yin’s attributed answer about how her criteria changed."
+      },
+      {
+        "quote": "You do need to make enough early-stage investments—I would say 50 minimum.",
+        "label": "fund_economics_constraint",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "She recommends a portfolio of at least 50 early-stage investments to obtain sufficient diversification and learning opportunities.",
+        "attribution_basis": "The statement is attributed by the article’s Q&A framing to Elizabeth Yin."
+      },
+      {
+        "quote": "So you should be seeing at least 100 companies a year—and ideally more than 100—and back into no more than a handful.",
+        "label": "fund_economics_constraint",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "She recommends broad annual dealflow paired with investment in only a small selected subset.",
+        "attribution_basis": "The statement is attributed by the article’s Q&A framing to Elizabeth Yin."
+      }
+    ],
+    "context": [
+      {
+        "quote": "And there’s no better brain to pick for advice than Hustle Fund Co-Founder and General Partner Elizabeth Yin.",
+        "claim": "The Hustle Fund article identifies Elizabeth Yin as its Co-Founder and General Partner.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Over her years as an investor, she has backed over 700 companies and looked at a whopping 40,000.",
+        "claim": "The article reports that Yin had backed more than 700 companies and reviewed approximately 40,000 opportunities by publication.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "And prior to that, she was a founder herself who successfully exited.",
+        "claim": "The article reports that Yin was previously a founder who achieved an exit.",
+        "kind": "biography"
+      },
+      {
+        "quote": "By Brian Nichols June 19, 2024",
+        "claim": "The page displays June 19, 2024 as the article date and Brian Nichols in its byline area.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "This article was written by Elizabeth Yin, our Co-Founder, General Partner, and lead hippo enthusiast at Hustle Fund.",
+        "claim": "Despite the page’s earlier Brian Nichols byline, its closing attribution says Elizabeth Yin wrote the article and identifies her as Hustle Fund Co-Founder and General Partner.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "d17dfc48b3895ff6b118b6f609f12ea3a1c6ce8b887d8fe110693aa8f47292ed"
+  },
+  {
+    "source": "full:c15b8631954277516c85990b",
+    "part": 1,
+    "identity": "target",
+    "reason": "Hustle Fund’s authoritative team page lists Elizabeth Yin as its Co-Founder and General Partner, directly matching the resolved identity, but provides no investor quotations or criteria.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Elizabeth Yin Co-Founder, General Partner Recovering entrepreneur and marketer. SF Bay Area native. Loves hippos. Especially on roller coasters.",
+        "claim": "Hustle Fund’s team page identifies Elizabeth Yin as Co-Founder and General Partner and describes her as a former entrepreneur and marketer from the San Francisco Bay Area.",
+        "kind": "biography"
+      }
+    ],
+    "input_fingerprint": "b01d7ced00eb28f27be6307bcb6bbbeda05869fab5d8ade22acb62ed95ea46d9"
+  },
+  {
+    "source": "full:9d9d5d06c4668d35d04a858d",
+    "part": 1,
+    "identity": "target",
+    "reason": "The named transcript introduces Elizabeth Yin as Hustle Fund's co-founder and general partner, and her first-person account consistently references LaunchBit, Google, 500 Global, and Hustle Fund.",
+    "evidence": [
+      {
+        "quote": "But it also gave me a sense of just how hard customer acquisition was. it is really, really hard to get customers. And I think that has largely shaped my thinking as an investor as well. I mean, the thing that I really hone in on is go to market. How are you going to get your customers, et cetera? And the founders we tend to back are the ones who have really, you know, focused on that and really care a lot about that.",
+        "label": "go_to_market_strategy_assessment",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She favors founders who deeply understand and prioritize how they will acquire customers.",
+        "attribution_basis": "The passage appears in a transcript turn explicitly labeled “Elizabeth Yin (00:06:23),” after the host introduced her as Hustle Fund's co-founder and general partner."
+      },
+      {
+        "quote": "My gosh, the thing we need to do is we need to kind of de-risk our concept by selling upfront, like doing some pre-sales before we even build anything.",
+        "label": "market_problem_validation",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "Her operating experience suggests a preference for validating willingness to pay before substantial product development.",
+        "attribution_basis": "The passage appears in a transcript turn explicitly labeled “Elizabeth Yin (00:06:23),” after the host introduced her as Hustle Fund's co-founder and general partner."
+      },
+      {
+        "quote": "And we landed on that because a lot of marketers told us that they were getting good buys in email lists, but there wasn’t really an automated way to do so.",
+        "label": "market_problem_validation",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "She describes customer-reported demand and a missing automated workflow as evidence supporting a product opportunity.",
+        "attribution_basis": "The passage appears in a transcript turn explicitly labeled “Elizabeth Yin (00:06:23),” after the host introduced her as Hustle Fund's co-founder and general partner."
+      },
+      {
+        "quote": "started asking marketers to PayPal me money just to my personal account, and then ended up starting to build things when it was needed actually to remove bottlenecks.",
+        "label": "product_adoption",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "Her operating approach used actual payments and observed bottlenecks to determine what should be built.",
+        "attribution_basis": "The passage appears in a transcript turn explicitly labeled “Elizabeth Yin (00:09:02),” after the host introduced her as Hustle Fund's co-founder and general partner."
+      },
+      {
+        "quote": "And so we didn’t want to build out this whole bidding system if no one was going to use it.",
+        "label": "product_success_factor_assessment",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "She values testing whether customers will use a feature before committing to full development.",
+        "attribution_basis": "The passage appears in a transcript turn explicitly labeled “Elizabeth Yin (00:09:02),” after the host introduced her as Hustle Fund's co-founder and general partner."
+      }
+    ],
+    "context": [
+      {
+        "quote": "And then many years later in late 2008, when I was working my cushy job at Google and things were starting to crash again, I decided actually now is the time that I want to do this.",
+        "claim": "Yin says that she was working at Google in late 2008 when she decided to pursue entrepreneurship.",
+        "kind": "biography"
+      },
+      {
+        "quote": "My co-founder and I, who was actually the same person from high school, who was cousins with Tony, like she and I tried all kinds of commerce sites before eventually building out essentially an ad network for email.",
+        "claim": "Yin describes building an email advertising network with her co-founder after experimenting with several commerce sites.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "They ended up buying a Launchbit in part because of this initial partnership that we had forged in order to get more ad inventory as we were growing this company.",
+        "claim": "Yin says BuySellAds acquired LaunchBit partly after an inventory partnership allowed the two companies to become familiar with each other.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "And I think that, you know, in helping some of our portfolio companies now go through their M&A processes, when you’re approaching people completely out of the blue, they don’t know you, they don’t know your product, they don’t know if you can actually deliver.",
+        "claim": "Yin says she has helped Hustle Fund portfolio companies with M&A processes.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "I have to admit, I’m not very good at documentation, but it is something that we do a lot at Hustle Fun now because I’ve just seen the power of it.",
+        "claim": "Yin says Hustle Fund makes substantial use of documentation in its operations.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "391599c9da71406f529023c0d0aee16bcc61e7a8aac65d5af4ca81ba25a957a4"
+  },
+  {
+    "source": "full:9d9d5d06c4668d35d04a858d",
+    "part": 2,
+    "identity": "target",
+    "reason": "This continuation contains transcript turns explicitly labeled Elizabeth Yin in which she describes her 500 Global investing work, founding Hustle Fund, and the firm's pre-seed, valuation-sensitive portfolio strategy.",
+    "evidence": [
+      {
+        "quote": "Well, so that’s the other thing. Our fund one deck was also just awful. And by awful, I mean it wasn’t differentiated. This is the thing that I wish more founders, whether they’re fund manager founders or product founders, thought more about is this differentiation",
+        "label": "competitive_advantage_assessment",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "She believes founders should clearly establish meaningful differentiation rather than present a generic proposition.",
+        "attribution_basis": "The passage appears in a transcript turn explicitly labeled “Elizabeth Yin (00:25:32),” within an interview introducing her as Hustle Fund's co-founder and general partner."
+      },
+      {
+        "quote": "Like, what is that unique moat that you have?",
+        "label": "competitive_advantage_assessment",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "She emphasizes identifying a unique moat as an important element of a compelling strategy.",
+        "attribution_basis": "The passage appears in a transcript turn explicitly labeled “Elizabeth Yin (00:26:47),” within an interview introducing her as Hustle Fund's co-founder and general partner."
+      },
+      {
+        "quote": "So we’re still focused on pre-seed, still generalist, still largely picks and shovels, things that can make money right out of the gates. We are valuation sensitive. We invest globally.",
+        "label": "investment_thesis_constraint",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "Hustle Fund's stated mandate is global and generalist at pre-seed, with a preference for picks-and-shovels businesses, early monetization, and disciplined valuations.",
+        "attribution_basis": "The passage appears in a transcript turn explicitly labeled “Elizabeth Yin (00:28:25),” within an interview introducing her as Hustle Fund's co-founder and general partner."
+      },
+      {
+        "quote": "Well, we have made exceptions, certainly if you’re a successful serial entrepreneur, and especially if we backed you before and we know what you can do, that takes some risk off the table. And that is partly where valuation comes in, right? If it’s more de-risk, then you can afford to pay up a little bit more.",
+        "label": "founder_execution",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Demonstrated success and prior firsthand experience with a founder can reduce perceived execution risk and justify a higher entry valuation.",
+        "attribution_basis": "The passage appears in a transcript turn explicitly labeled “Elizabeth Yin (00:28:59),” within an interview introducing her as Hustle Fund's co-founder and general partner."
+      },
+      {
+        "quote": "And it’s much easier to get to, let’s say, 100x, which is what we’re looking for with lower valuations, because the vast majority of exits are under a billion dollars.",
+        "label": "investment_upside_assessment",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She prefers lower entry valuations because they make Hustle Fund's targeted 100-times return more attainable under typical exit outcomes.",
+        "attribution_basis": "The passage appears in a transcript turn explicitly labeled “Elizabeth Yin (00:28:59),” within an interview introducing her as Hustle Fund's co-founder and general partner."
+      },
+      {
+        "quote": "And when you do score because of power law, like, you above and beyond, you know, do really well compared to the losses.",
+        "label": "investment_upside_assessment",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Her high-volume portfolio strategy relies on power-law winners producing returns that substantially outweigh failed investments.",
+        "attribution_basis": "The passage appears in a transcript turn explicitly labeled “Elizabeth Yin (00:32:52),” within an interview introducing her as Hustle Fund's co-founder and general partner."
+      }
+    ],
+    "context": [
+      {
+        "quote": "And so in that process of exploring different areas, I decided to start mentoring and doing some light angel investing. Initially in some friends’ companies to help them avoid some of the mistakes I had made, but then eventually started mentoring at the 500 Global Accelerator Program, which is the program that I went through with LaunchBit.",
+        "claim": "Yin says she began with light angel investments in friends' companies and later mentored at the 500 Global Accelerator Program, which LaunchBit had attended.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "And so I got really sucked into it and was their accelerator manager for several batches and wrote 200 investment checks out of their fund.",
+        "claim": "Yin says she managed the 500 Global accelerator for several batches and wrote 200 checks from its fund.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "I was there until mid 2017. So basically from call at the end of 2014, when I started hanging around to to mid 2017.",
+        "claim": "Yin says her involvement with 500 Global ran approximately from late 2014 through mid-2017.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "So I think for Hustle Fund, I started Hustle Fund in mid 2017 with my longtime friend and colleague, Eric Bond.",
+        "claim": "Yin says she started Hustle Fund in mid-2017 with her longtime friend and colleague Eric Bond, preserving the transcript's rendering of the name.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "I wouldn’t even say at the 500 accelerator, we were looking for traction. We were looking for 10K a month, roughly speaking.",
+        "claim": "Yin says the 500 accelerator generally looked for approximately $10,000 in monthly traction.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Yeah, it was an $11.5 million fund.",
+        "claim": "Yin states that Hustle Fund's first fund was $11.5 million.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Certainly now, you know, we’re on fund four.",
+        "claim": "Yin says Hustle Fund had reached its fourth fund by the time of the interview.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "About 250 per fund.",
+        "claim": "Yin says Hustle Fund invests in approximately 250 companies per fund.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "c14bd7a57e7bdf46cba9b0e4849ca450246515045f4e5ce5bf31bd4ffd45daf3"
+  },
+  {
+    "source": "full:9d9d5d06c4668d35d04a858d",
+    "part": 3,
+    "identity": "target",
+    "reason": "Named transcript turns identify Elizabeth Yin discussing Hustle Fund’s pre-seed strategy, investment criteria, portfolio construction, and operations.",
+    "evidence": [
+      {
+        "quote": "Yeah. And so it’s this idea that your downside is capped, but your upside is, who knows, it’s infinite. So that’s the idea. And so the more shots you’re taking, and you should be able to actually increase your multiples, assuming you’re picking well.",
+        "label": "investment_upside_assessment",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She favors taking more pre-seed shots because individual downside is capped while successful investments can produce very large multiples.",
+        "attribution_basis": "The passage appears in a transcript turn explicitly labeled “Elizabeth Yin,” within an episode about Hustle Fund."
+      },
+      {
+        "quote": "Certainly, if you’re just investing in every company that comes your way, there’s going to be diminishing returns. So you still have to have great deal flow. And per your great deal flow, then this large portfolio construction works.",
+        "label": "fundraising_demand_signal",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "She conditions a large-portfolio strategy on maintaining sufficiently strong deal flow rather than investing indiscriminately.",
+        "attribution_basis": "The passage appears in a transcript turn explicitly labeled “Elizabeth Yin,” within an episode about Hustle Fund."
+      },
+      {
+        "quote": "And the second thing is you also have to be able to have the processes, technology, and people to be able to handle this volume.",
+        "label": "execution_risk_assessment",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "She believes a high-volume investment strategy requires adequate operational processes, technology, and staffing.",
+        "attribution_basis": "The passage appears in a transcript turn explicitly labeled “Elizabeth Yin,” within an episode about Hustle Fund."
+      },
+      {
+        "quote": "If a company, if you’re playing in the stage where there’s no product market fit, this is when this strategy applies.",
+        "label": "investment_thesis_constraint",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "She limits the diversified high-volume strategy to very early companies that lack product-market fit.",
+        "attribution_basis": "The passage appears in a transcript turn explicitly labeled “Elizabeth Yin,” within an episode about Hustle Fund."
+      },
+      {
+        "quote": "We very much go in pre-revenue because we are looking for, I guess, the best valuation that we can get, really.",
+        "label": "stage_valuation_mismatch",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Hustle Fund deliberately invests before revenue to obtain more favorable entry valuations.",
+        "attribution_basis": "The passage appears in a transcript turn explicitly labeled “Elizabeth Yin,” within an episode about Hustle Fund."
+      },
+      {
+        "quote": "One is the founding team and then the other is the ideas on the founding team. Like how is the team thinking about go to market? What are they already executing on with regard to go to market?",
+        "label": "go_to_market_strategy_assessment",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She evaluates both the founding team and its concrete thinking and execution around go-to-market.",
+        "attribution_basis": "The passage appears in a transcript turn explicitly labeled “Elizabeth Yin,” within an episode about Hustle Fund."
+      },
+      {
+        "quote": "Even if they’re not generating revenue, they should have a very clear understanding of the problem. They should be in talks with potential customers. Maybe they’ve even signed LOIs or done some pre-sales, et cetera.",
+        "label": "market_problem_validation",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Before revenue, she looks for strong problem understanding and customer-validation signals such as conversations, LOIs, or presales.",
+        "attribution_basis": "The passage appears in a transcript turn explicitly labeled “Elizabeth Yin,” within an episode about Hustle Fund."
+      },
+      {
+        "quote": "And in large part, a lot of the founders we back, they tend to have deep experience with that problem themselves, either because they’ve worked in that industry or somehow know a lot about that thing.",
+        "label": "founder_market_fit",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She favors founders with direct industry experience or deep knowledge of the problem being addressed.",
+        "attribution_basis": "The passage appears in a transcript turn explicitly labeled “Elizabeth Yin,” within an episode about Hustle Fund."
+      },
+      {
+        "quote": "Like we actually end up passing on a lot of great teams, but are not working on ideas that we think are, quote, good.",
+        "label": "founder_investor_vision_alignment",
+        "direction": "negative",
+        "support": "explicit",
+        "interpretation": "A strong team is insufficient when its chosen idea does not match Hustle Fund’s view of an attractive opportunity.",
+        "attribution_basis": "The passage appears in a transcript turn explicitly labeled “Elizabeth Yin,” within an episode about Hustle Fund."
+      },
+      {
+        "quote": "You don’t want to be on the wave too early or too late. You want to be on it just as it’s coming up. And so we’re looking at what ideas are just coming up where it’s actually not a great idea right now, but it will quickly be a great idea and finding the right team to kind of do that.",
+        "label": "market_timing",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She seeks emerging opportunities poised to become attractive soon, paired with the right team, rather than ideas that are too early or already late.",
+        "attribution_basis": "The passage appears in a transcript turn explicitly labeled “Elizabeth Yin,” within an episode about Hustle Fund."
+      },
+      {
+        "quote": "So I think in doing so, it always comes back to fundamentals, right? Like how are you going to get your customers? Why do they stay retained, et cetera? And some of those moats, so to speak, don’t have anything to do with technology.",
+        "label": "competitive_advantage_assessment",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "She evaluates defensibility through acquisition and retention fundamentals and does not require the moat to be technological.",
+        "attribution_basis": "The passage appears in a transcript turn explicitly labeled “Elizabeth Yin,” within an episode about Hustle Fund."
+      },
+      {
+        "quote": "If the founder has no experience in that vertical, that’s going to be really hard versus, let’s say, a founder who has lived and breathed this problem every day at his or her last job and has all the connections to first customers. That’s a really strong signal for me and really good founder market fit.",
+        "label": "founder_market_fit",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "In vertical software, she treats prior lived experience and connections to initial customers as a strong investment signal.",
+        "attribution_basis": "The passage appears in a transcript turn explicitly labeled “Elizabeth Yin,” within an episode about Hustle Fund."
+      }
+    ],
+    "context": [
+      {
+        "quote": "So we’ve had over 2,500 people go through Angel Squad. It’s global. A lot of the content is done online. The group meets every Wednesday. And then there are also in-person local chapters as well.",
+        "claim": "Yin stated that more than 2,500 people had participated in the global Angel Squad program, which combined online content, weekly meetings, and local chapters.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "We do SPVs through Angel Squad for follow-on, but we do do about 20% of our fund in what I would call seed. So we invest at pre-seed. Our focus is pre-seed, but about 20% of the time we’ll invest in seed with the fund.",
+        "claim": "Yin described Hustle Fund as pre-seed-focused, with roughly 20% of fund investing at seed and Angel Squad SPVs used for follow-ons.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "we have over 600 portfolio companies across all four funds now that’s.",
+        "claim": "Yin reported that Hustle Fund had more than 600 portfolio companies across four funds at the time of the interview.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "When a company applies, about 50% of companies actually get auto-rejected right now based on how, like what founders are asking for, you know?",
+        "claim": "Yin stated that approximately half of applicants were being automatically rejected based on application information, including what founders requested.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "It’s not making any investment decisions right now. But right now it is attempting to recommend whether or not to do a deal.",
+        "claim": "Yin said Hustle Fund’s rudimentary AI system recommended whether to pursue deals but did not itself make investment decisions.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "5a68de4364d980a52658da80930d34d2c7a6c0a17f87a63fccfa6c0b4af5b698"
+  },
+  {
+    "source": "full:9d9d5d06c4668d35d04a858d",
+    "part": 4,
+    "identity": "other",
+    "reason": "This packet contains only Substack navigation, subscription text, and unrelated recommended episodes, with no material about Elizabeth Yin.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "4530ed1272defe177d8dbdc7c849706189e51f09f0b75aad9a7684bfbe8475d2"
+  },
+  {
+    "source": "full:23d60a86fd29853955572aad",
+    "part": 1,
+    "identity": "target",
+    "reason": "The article explicitly identifies Hustle Fund co-founder and General Partner Elizabeth Yin and directly attributes a social-media statement about founder traits to her.",
+    "evidence": [
+      {
+        "quote": "From having invested in about 1,000 startups, there are so many important traits to have in a founding team, everything from ability to hire well to being scrappy and doing a lot with very little. But if I had to pick one trait above all else, it is the ability to learn quickly.",
+        "label": "founder_qualities",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She ranks the ability to learn quickly above other desirable founding-team traits such as hiring ability and resourcefulness.",
+        "attribution_basis": "The article introduces the passage as Yin’s statement in a recent social-media post and identifies her as Hustle Fund’s co-founder and General Partner."
+      }
+    ],
+    "context": [
+      {
+        "quote": "Elizabeth Yin, co-founder and General Partner at Hustle Fund, a prominent pre-seed venture capital firm, recently highlighted the \"ability to learn quickly\" as the single most important trait for founding teams.",
+        "claim": "The article identifies Yin as a Hustle Fund co-founder and General Partner and reports that she prioritizes rapid learning in founding teams.",
+        "kind": "biography"
+      },
+      {
+        "quote": "This insight comes from her extensive experience, having invested in approximately 1,000 startups.",
+        "claim": "The article reports that Yin had invested in approximately 1,000 startups.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "4acb79df35d359a3d60c0646b9515ce3115eb0f744c876d4cf82149ed4cfd63f"
+  },
+  {
+    "source": "full:3f1080d0de1756f28fe699d0",
+    "part": 1,
+    "identity": "target",
+    "reason": "The profile explicitly identifies Elizabeth Yin as Hustle Fund’s co-founder and General Partner and reports detailed fund-stage, check-size, and evaluation information, though it provides no unambiguously attributed full direct quotations from her.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Co-Founder & General Partner, Hustle Fund",
+        "claim": "VC Sheet identifies Yin as a co-founder and General Partner of Hustle Fund.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Elizabeth Yin treats building her VC firm like a startup itself, using content marketing and automated systems to review 1,000+ companies monthly and make investment decisions within 48 hours.",
+        "claim": "VC Sheet reports that Yin uses content marketing and automation to review more than 1,000 companies monthly and reach decisions within 48 hours.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "She's known for going \"hilariously early\" with $25K checks at pre-product stage and deliberately seeking out greenfield opportunities in under-the-radar areas like niche marketplaces, while building Angel Squad as an operator-heavy community that follows a strict \"no a-hole\" rule.",
+        "claim": "VC Sheet reports that Yin makes approximately $25,000 pre-product investments, seeks under-the-radar greenfield opportunities, and helped build the operator-focused Angel Squad community.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Preference for startups entering less competitive, emerging markets rather than fighting in crowded spaces.",
+        "claim": "VC Sheet characterizes Yin as preferring emerging, less competitive markets over crowded categories.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Hustle Fund operates as a \"hilariously early\" pre-seed fund that makes small initial checks (~$25K-$150K) and measures success by tracking week-over-week execution velocity rather than market size or founder pedigree, using a structured scoring system to decide which investments to scale.",
+        "claim": "VC Sheet reports that Hustle Fund makes roughly $25,000–$150,000 initial pre-seed checks and uses week-over-week execution velocity and structured scoring in evaluating companies.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "The fund built Angel Squad as a paid community of 2,000+ vetted angels from all walks of life who can invest alongside the fund with checks as small as $1K, democratizing angel investing beyond wealthy insiders while maintaining an intentionally casual, \"no a-holes\" brand voice.",
+        "claim": "VC Sheet reports that Hustle Fund built Angel Squad as a paid community of more than 2,000 vetted angels able to co-invest with checks as small as $1,000.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "00362099236235d07cdabe3e5880abf95fb2a66135b90d5c6bddeb6f5a6481a1"
+  },
+  {
+    "source": "full:9be6c77a7684299ada4caafb",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Spanish Wikipedia article identifies Elizabeth Yin as a Hustle Fund founder and former 500 Startups partner and describes the firm’s early-stage investment focus.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "La firma fue fundada en 2017 por los inversores de capital riesgo Elizabeth Yin y Eric Bahn.",
+        "claim": "The article reports that venture investors Elizabeth Yin and Eric Bahn founded Hustle Fund in 2017.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Hustle Fund invierte principalmente en startups en etapa pre-semilla y semilla.",
+        "claim": "The article reports that Hustle Fund primarily invests in pre-seed and seed startups.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Yin había sido socia de 500 Startups antes de fundar Hustle Fund.",
+        "claim": "The article reports that Yin was a 500 Startups partner before founding Hustle Fund.",
+        "kind": "biography"
+      },
+      {
+        "quote": "En 2018, la firma cerró un fondo inaugural de 11,5 millones de dólares centrado en invertir en startups en fase inicial.",
+        "claim": "The article reports that Hustle Fund closed an $11.5 million inaugural early-stage fund in 2018.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "En 2020, Hustle Fund recaudó un segundo fondo de 30 millones de dólares para continuar con su estrategia de inversión pre-semilla y semilla.",
+        "claim": "The article reports that Hustle Fund raised a $30 million second fund in 2020 to continue its pre-seed and seed strategy.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Hustle Fund gestiona Angel Squad, un programa educativo diseñado para enseñar a las personas sobre la inversión ángel y permitir a los participantes coinvertir en proyectos de startups junto con la empresa.",
+        "claim": "The article reports that Hustle Fund operates Angel Squad, an educational program whose participants can co-invest in startups alongside the firm.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "835901a13e4d632444c3204448076f0b58a806e76b6364b9c94aadf1493ddffd"
+  },
+  {
+    "source": "full:c6857167578be732f36db051",
+    "part": 1,
+    "identity": "target",
+    "reason": "The episode listing explicitly identifies Elizabeth Yin of Hustle Fund and summarizes her founder background, investment activity, stages, sectors, and strategy, but contains no transcript of her own words.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "She took that passion and turned it into Hustle Fund, which focuses on offering capital, knowledge, and networks to “hilariously early-stage” software startups.",
+        "claim": "The podcast description reports that Yin turned her interest in helping founders into Hustle Fund, which supports very early-stage software startups with capital, knowledge, and networks.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "She also angels invests in non-software D2C companies.",
+        "claim": "The podcast description reports that Yin personally makes angel investments in non-software direct-to-consumer companies.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "She’s invested in over 800 startups, with two of her most notable being Webflow and Mejuri.",
+        "claim": "The podcast description reports that Yin had invested in more than 800 startups and names Webflow and Mejuri as notable investments.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Elizabeth invests $150k checks into idea-stage B2B software, digital health, and fintech companies through Hustle Fund.",
+        "claim": "The podcast description reports that Yin invests $150,000 Hustle Fund checks in idea-stage B2B software, digital-health, and fintech companies.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Hustle Fund invests in founders who have an idea and are pre-revenue.",
+        "claim": "The episode highlights report that Hustle Fund invests at the idea and pre-revenue stage.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "You don’t want to invest in overcrowded spaces because your chances of realizing alpha decreases when there are more hands in the pot. Finding unpopular spaces with less competition is where Elizabeth likes to focus.",
+        "claim": "The episode highlights characterize Yin as preferring less popular, less competitive categories where the opportunity for excess returns may be greater.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "60c8c1a0fd32ebc74af426f6f59d8ef07554f1f91acbc36ea7de8c78638cd765"
+  },
+  {
+    "source": "full:5a1b730c6f7c4ede859eaf93",
+    "part": 1,
+    "identity": "target",
+    "reason": "The profile explicitly identifies Elizabeth Yin as Hustle Fund's co-founder and General Partner and describes her earlier roles at 500 Startups and LaunchBit, matching the resolved investor.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Elizabeth Yin is the Co-Founder and General Partner at Hustle Fund, a pre-seed venture capital firm based in San Francisco, California.",
+        "claim": "The profile reports that Elizabeth Yin is a co-founder and General Partner of the pre-seed venture firm Hustle Fund.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Before launching the firm, she served as a Partner at 500 Startups, where she directed the Mountain View accelerator and invested in seed-stage companies.",
+        "claim": "The profile reports that Yin previously served as a Partner at 500 Startups, directed its Mountain View accelerator, and invested in seed-stage companies.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Yin previously co-founded and acted as the CEO of the adtech startup LaunchBit, which was acquired by BuySellAds in 2014.",
+        "claim": "The profile reports that Yin co-founded and led LaunchBit and that BuySellAds acquired it in 2014.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Her current investment focus centers on pre-seed software, fintech, and consumer technology startups demonstrating rapid execution.",
+        "claim": "The profile characterizes Yin's investment focus as pre-seed software, fintech, and consumer-technology startups that demonstrate rapid execution.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "At Hustle Fund, she recently oversaw the close of a $46 million third fund and has backed over 700 early-stage companies with initial check sizes ranging from $5,000 to $250,000.",
+        "claim": "The profile reports that Yin oversaw Hustle Fund's $46 million third fund and has backed more than 700 early-stage companies, with initial checks from $5,000 to $250,000; it does not provide a closing date.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "5cf7c639d8d49ed55f359d1f28698914e8d62b36a8c3ce9621dd10ceb5f6a896"
+  },
+  {
+    "source": "full:a357c09ac702ed8d59f0e703",
+    "part": 1,
+    "identity": "uncertain",
+    "reason": "The page describes Hustle Fund's strategy and portfolio but never names Elizabeth Yin or attributes any passage to her, so the material cannot be assigned to the resolved investor personally.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "14cde47fd84e9543f93470fd8fe0688d5a157d3d948e6b65b1fecb34745db7ff"
+  },
+  {
+    "source": "full:83808fad89b3ee0b3234ccb9",
+    "part": 1,
+    "identity": "other",
+    "reason": "This portion is authored by Mike Wilner and Max Nussenbaum and contains no mention of or attributed material from Elizabeth Yin.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "ac1a9f6b0ebeff029a84d6c0988f2342bebb2f8fab8933c4e52ecc52f0db8377"
+  },
+  {
+    "source": "full:83808fad89b3ee0b3234ccb9",
+    "part": 2,
+    "identity": "other",
+    "reason": "This portion continues Mike Wilner and Max Nussenbaum's fundraising guide and contains no mention of or attributed material from Elizabeth Yin.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "a8363bbc4c1076b0a8932fccd5fab0cf771e9a85ab44007ecdda0db8391d24cf"
+  },
+  {
+    "source": "full:83808fad89b3ee0b3234ccb9",
+    "part": 3,
+    "identity": "other",
+    "reason": "This section is a general seed-fundraising guide whose personal passages are attributed to “an anonymous VC,” “Mike,” and “Max,” with no mention of Elizabeth Yin or Hustle Fund.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "bb6da30855dba078b5d3040452db69b8ada3c370b9ade487c4156d2c780658d9"
+  },
+  {
+    "source": "full:83808fad89b3ee0b3234ccb9",
+    "part": 4,
+    "identity": "other",
+    "reason": "This section continues fundraising guidance and examples involving Mike, Max, Castle, Crossbeam, and Y Combinator, but contains no material attributed to Elizabeth Yin or connected to Hustle Fund.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "a7a42b0bd2d28e1fc1e6ca71db1793aa9331bc809f38b74d3082eb123d9edb3b"
+  },
+  {
+    "source": "full:83808fad89b3ee0b3234ccb9",
+    "part": 5,
+    "identity": "other",
+    "reason": "This packet contains general seed-fundraising guidance and stories attributed to Mike, Max, and Dan Bloom, with no mention of Elizabeth Yin or Hustle Fund.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "5b3c84b366ca9bca6a2dc8bc0823c032a677ee1444acf8a7118b130bf03cc45b"
+  },
+  {
+    "source": "full:83808fad89b3ee0b3234ccb9",
+    "part": 6,
+    "identity": "target",
+    "reason": "The packet explicitly profiles “Elizabeth Yin” as “General Partner, Hustle Fund” and describes her prior roles at 500 Startups and LaunchBit, matching the resolved identity.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Elizabeth Yin\nGeneral Partner, Hustle Fund",
+        "claim": "The guide identifies Elizabeth Yin as a General Partner at Hustle Fund.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Prior to founding the Hustle Fund, Elizabeth was a Partner at 500 Startups, where she evaluated, supported, and invested in hundreds of startups.",
+        "claim": "The guide reports that before founding Hustle Fund, Yin was a Partner at 500 Startups and evaluated, supported, and invested in hundreds of startups.",
+        "kind": "biography"
+      },
+      {
+        "quote": "She was also the co-founder of LaunchBit, an advertising platform for B2B professionals to target audiences via email newsletters and niche blogs.",
+        "claim": "The guide reports that Yin co-founded LaunchBit, described as a B2B advertising platform using email newsletters and niche blogs.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "4417debb901c9db9f7a4f74ac88503f437136201e5d2c2e2d77cf08b997ce6a3"
+  },
+  {
+    "source": "full:83808fad89b3ee0b3234ccb9",
+    "part": 7,
+    "identity": "other",
+    "reason": "This section of the fundraising guide attributes personal commentary to anonymous venture capitalists and “Mike,” while the named profiles concern people such as Naomi Shah and Laura Easton; it contains no material attributed to Elizabeth Yin or Hustle Fund.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "2176678b3520de90e7ff35fff6b205e22ae108317735f321cb5044271adb2675"
+  },
+  {
+    "source": "full:83808fad89b3ee0b3234ccb9",
+    "part": 8,
+    "identity": "other",
+    "reason": "This section attributes first-person fundraising stories to “Mike,” including his angel round and investor negotiations, and contains no material attributed to Elizabeth Yin or Hustle Fund.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "fff6a1578b75aeda2b9ccba8f66844d80d169eaf80f0e673b91b446e4f77b93c"
+  },
+  {
+    "source": "full:83808fad89b3ee0b3234ccb9",
+    "part": 9,
+    "identity": "other",
+    "reason": "The closing section attributes stories and authorship to Mike and Max and identifies their Twitter accounts as @mwil20 and @maxnuss, with no material attributed to Elizabeth Yin or Hustle Fund.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "2e70877b193920a86f328b97ed56893f92060e7e422baf724a1c119caea6cc14"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "quote": "“The number one thing I always look for is if I think it's a real problem—a real problem that hurts.”",
+    "label": "market_problem_validation",
+    "direction": "positive",
+    "support": "explicit",
+    "interpretation": "She prioritizes opportunities addressing a genuine and meaningfully painful problem.",
+    "attribution_basis": "The resolved authoritative profile presents this quotation under “What Nicole Looks For” on Nicole Verkindt's named investor page.",
+    "source": "full:0b573cd0c3f008617a6a89bf",
+    "id": "nicole-verkindt-0001",
+    "normalized_char_start": 277,
+    "normalized_char_end": 378
+  },
+  {
+    "quote": "“I love these old stodgy industries that are all paper. Because there's no one else there.”",
+    "label": "competitive_intensity_concern",
+    "direction": "positive",
+    "support": "explicit",
+    "interpretation": "She favors paper-based legacy industries where she perceives relatively little competitive activity.",
+    "attribution_basis": "The resolved authoritative profile presents this quotation under “What Nicole Looks For” on Nicole Verkindt's named investor page.",
+    "source": "full:0b573cd0c3f008617a6a89bf",
+    "id": "nicole-verkindt-0002",
+    "normalized_char_start": 390,
+    "normalized_char_end": 481
+  },
+  {
+    "quote": "“I hate clothes and I hate food when it comes to investments.”",
+    "label": "investment_thesis_constraint",
+    "direction": "negative",
+    "support": "explicit",
+    "interpretation": "She expresses a strong aversion to investing in clothing and food businesses.",
+    "attribution_basis": "The resolved authoritative profile presents this quotation under “What Nicole Looks For” on Nicole Verkindt's named investor page.",
+    "source": "full:0b573cd0c3f008617a6a89bf",
+    "id": "nicole-verkindt-0003",
+    "normalized_char_start": 492,
+    "normalized_char_end": 554
+  },
+  {
+    "quote": "You also know about time management, scheduling, working in groups, and all the important factors involved in running your own business. You also have a network of people who share your values.",
+    "label": "founder_skillset",
+    "direction": "positive",
+    "support": "inferred",
+    "interpretation": "Verkindt views broad operating skills and a values-aligned network as important resources for building a business.",
+    "attribution_basis": "The passage appears as a direct quotation immediately after the newsletter states, “Ivey prepared her with a broad range of business skills, Verkindt says,” and the surrounding profile explicitly names Nicole Verkindt and OMX.",
+    "source": "full:a4c7a557a37ace42dbe91a23",
+    "id": "nicole-verkindt-0004",
+    "normalized_char_start": 6297,
+    "normalized_char_end": 6490
+  },
+  {
+    "quote": "The people who say you can’t teach entrepreneurship are right in a way – it’s something that’s in your blood. But you can give young entrepreneurs an understanding of the basic principles of business – and you should.",
+    "label": "founder_skillset",
+    "direction": "positive",
+    "support": "inferred",
+    "interpretation": "Verkindt distinguishes innate entrepreneurial inclination from teachable foundational business competence and considers both valuable.",
+    "attribution_basis": "The newsletter introduces this direct quotation with “Nicole Verkindt agrees,” within its named profile of the HBA ’07 OMX founder.",
+    "source": "full:a4c7a557a37ace42dbe91a23",
+    "id": "nicole-verkindt-0005",
+    "normalized_char_start": 9559,
+    "normalized_char_end": 9776
+  }
+]

@@ -1,0 +1,1666 @@
+{
+  "schema_version": "2.0",
+  "source_policy": "full_investor_export",
+  "vc_slug": "howie-diamond-pure-ventures",
+  "identity": {
+    "affiliations": [
+      {
+        "current": true,
+        "ended_at": null,
+        "evidence_ids": [],
+        "firm": "Pure Ventures",
+        "role": null,
+        "started_at": null
+      }
+    ],
+    "aliases": [],
+    "authoritative_profiles": [
+      "https://www.thepitch.show/investors/howie-diamond-pure-ventures"
+    ],
+    "canonical_name": "Howie Diamond",
+    "competing_hypotheses": [],
+    "evidence_ids": [
+      "evidence:ce6e05157200e84a9798"
+    ],
+    "identity_confidence": {
+      "method": "identity_evidence_policy",
+      "score": 0.9,
+      "version": "1"
+    },
+    "resolution_status": "confirmed",
+    "resolved_at": "2026-09-27T04:05:44.696631Z",
+    "reviewed_by": "human:dpasch01",
+    "schema_version": "1.0",
+    "slug": "howie-diamond-pure-ventures"
+  },
+  "sources": [
+    {
+      "doc_id": "full:d3fab498e961a3c96e767c75",
+      "text": "Wir schalten ein",
+      "sha256": "d3fab498e961a3c96e767c755ef4dde731ef9c88377b403b11b5c3467e59b2be",
+      "url": "https://music.amazon.de/podcasts/db7c161c-4b54-4487-8401-963dd5646821/episodes/d0d93d56-a720-42ea-9d80-aca4676a01ad/peak-humans-slow-is-strength-with-howie-diamond-ep-216",
+      "title": "Slow is Strength with Howie Diamond | Ep 216 | Peak Humans Episode auf Amazon Music",
+      "kind": "web",
+      "published_at": null,
+      "metadata": {
+        "candidate_id": "candidate:d1aa32ae67a5eb08beab",
+        "collection_method": "podcast_page_http",
+        "identity_confidence": {
+          "method": "search_name_affiliation_anchor",
+          "score": 0.9,
+          "version": "1"
+        }
+      },
+      "origins": [
+        {
+          "path": "raw/podcast/1d/1df927f644bc46fe9e86a53442c58779862ce912bdb30a5ec79343fd441c8c6f.html"
+        },
+        {
+          "path": "raw/podcast/1d/1df927f644bc46fe9e86a53442c58779862ce912bdb30a5ec79343fd441c8c6f.html.de4f2f2e9bda61c7.metadata.json"
+        }
+      ]
+    },
+    {
+      "doc_id": "full:5f38a624c35af56b8f433482",
+      "text": "DWAVC: Howie Diamond | Ep. 28\nDrinksWithAVC (DWAVC)\nGrab a drink and join Vik (Green Cow Venture Capital) and Bree (Cooley) as they sit down with top venture capitalists to uncover the stories behind the spreadsheets. Each episode blends laughter, quirks, and candid conversation with practical frameworks founders can use to build, grow, and fundraise more successfully.\nIf you’re a startup founder, VC, or LP, this show helps you get to know the people you may be partnering with for the next 7–10 years. From Tuvan throat singing and mini piano playing to our signature “Fidelity Five” lightning round, you’ll discover surprising sides of the investors shaping the startup ecosystem.\nWe feature leaders from powerhouse firms like Bessemer, Costanoa, Scale VP, and Lightspeed, as well as emerging funds such as Touring, Better Tomorrow Ventures, Hustle Fund, and Precursor. Expect founder-tested advice, real talk about venture, and plenty of laughs along the way.\nNew episodes drop monthly. Pour your favorite drink and dive in.\nShow More\nAll Episodes\nDrinksWithAVC (DWAVC)\nDWAVC: Howie Diamond | Ep. 28\nNovember 07, 2023\n•\nBree Hanson, Vikram Lakhwara, Howie Diamond\n•\nEpisode 28\nShare\nShare episode\nCopy\nStart at\nUse Left/Right to seek, Home/End to jump to start or end. Hold shift to jump forward or backward.\n0:00\n|\n1:23:58\nShow Notes\nBree and Vik dive into a captivating conversation with Howie Diamond of Pure Ventures. From his early days in Chicago reminiscent of a John Hughes film to his rockstar nights drumming for Low v. Diamond on shows like Letterman and Leno, Howie's journey is anything but ordinary. Now, his focus on consumer packaged goods (CPG) investments and prioritizing founder mental health through his platform, Pilea, showcases a unique blend of life experiences shaping his approach to venture capital.\nLinks:\nwww.pureventuresvc.com\nwww.joinpilea.com\nLow v. Diamond on Spotify!\nRavix Wind-Down Playbook\n📊 Cap table management needs? Check out Fidelity Private Shares\n🚀 Fundraising help: Download The Irresistible Startup\n🤖 …or meet Ira, the Irresistible Startup Bot\n🗞 Stay in the loop: Sign up for our monthly newsletter\nFollow\nApple Podcasts\nSpotify\nAmazon Music\nRSS Feed\nSee All",
+      "sha256": "d454b61084e038c09069be1247b6b17ecd6d8764ede5b5c8149d7f3fac847f95",
+      "url": "https://drinkswithavc.buzzsprout.com/1525162/episodes/13927283-dwavc-howie-diamond-ep-28",
+      "title": "DWAVC: Howie Diamond | Ep. 28 - DrinksWithAVC (DWAVC)",
+      "kind": "web",
+      "published_at": null,
+      "metadata": {
+        "candidate_id": "candidate:01c92b72bd71a76d2266",
+        "collection_method": "podcast_page_http",
+        "identity_confidence": {
+          "method": "search_name_affiliation_anchor",
+          "score": 0.9,
+          "version": "1"
+        }
+      },
+      "origins": [
+        {
+          "path": "raw/podcast/1e/1ec52efc7871e8bd7acf6b8981e83fabc650bd2b009a4eb2d5808ec8217373d0.html"
+        },
+        {
+          "path": "raw/podcast/1e/1ec52efc7871e8bd7acf6b8981e83fabc650bd2b009a4eb2d5808ec8217373d0.html.5d2d9c14e500d402.metadata.json"
+        }
+      ]
+    },
+    {
+      "doc_id": "full:02c451fc76c1e4001c9f1d6e",
+      "text": "Tuning in",
+      "sha256": "02c451fc76c1e4001c9f1d6e2a36531d44cf0397f6e488d9e91791b22d64656f",
+      "url": "https://music.amazon.com/podcasts/34743549-8877-4187-8ff6-1fcaea703f04/drinkswithavc-dwavc",
+      "title": "DrinksWithAVC (DWAVC) Podcast on Amazon Music",
+      "kind": "web",
+      "published_at": null,
+      "metadata": {
+        "candidate_id": "candidate:bc663d9e4bb83eb78e91",
+        "collection_method": "podcast_page_http",
+        "identity_confidence": {
+          "method": "search_name_only",
+          "score": 0.3,
+          "version": "1"
+        }
+      },
+      "origins": [
+        {
+          "path": "raw/podcast/5f/5fbca4b8eb0384865d2db8655188226b54f75423dad5a3080cee3ac8ceb9401b.html"
+        },
+        {
+          "path": "raw/podcast/5f/5fbca4b8eb0384865d2db8655188226b54f75423dad5a3080cee3ac8ceb9401b.html.ebc4bfcb16c71f80.metadata.json"
+        },
+        {
+          "path": "raw/podcast/f2/f2609ec43161589e59be041c92019e808cd61a16932f5d5ebfe76d801e48afb2.html"
+        },
+        {
+          "path": "raw/podcast/f2/f2609ec43161589e59be041c92019e808cd61a16932f5d5ebfe76d801e48afb2.html.72cafb10db05655f.metadata.json"
+        }
+      ]
+    },
+    {
+      "doc_id": "full:f05b9bbf66d213ef04462ee9",
+      "text": "The Untold Story of VC Success | Howie Diamond — Pure Ventures - VC Unfiltered - Podcast on iVoox\nTrending\nV9 - Fórmula 1\nNadie sabe nada\nAstrobitácora\nLa ContraCrónica\nCuarto Milenio\nDías Extraños\nPedazos de historia\nTiempo de Juego\niVoox Podcast & radio\nDownload app for free\nDownload app \n\n¡Disfruta de Premium para siempre con un 30% de dto! ¡LO QUIERO!\nBy VC Unfiltered VC Unfiltered\n Not available. Audio is being processed.\nThe Untold Story of VC Success | Howie Diamond — Pure Ventures\nBusiness and industry\n Play\n9/4/2025 · 00:00\n 0  0\n 0\n\n\n\nDownload app\n 0  0\n 0\n\n\nEpisode of VC Unfiltered\n Subscribe\nDescription of The Untold Story of VC Success | Howie Diamond — Pure Ventures\nIn this episode of VC Unfiltered, Lucas Pols, GP at Pegasus Angel Accelerator, sits down with Howie Diamond from Pure Ventures. Discover unique investment strategies, the balance between consumer and frontier tech, and the importance of founder wellness.\nHowie shares his journey from solo GP to building Pure Ventures, offering insights and stories that are both enlightening and inspiring. Tune in for a candid conversation that uncovers the realities of venture capital and the human side of entrepreneurship.\nChapters\n00:51 The Reality of Venture Capital\n04:57 Investment Strategies in Venture Capital\n09:43 Consumer vs. Frontier Tech Investments\n14:54 The Importance of Founder Wellness\n19:35 Building a Supportive Ecosystem for Founders\n24:35 The Journey from Solo GP to Partnership\nSubscribe on Spotify:\nhttps://open.spotify.com/show/342uGXBr031LgcubfOxYsu?si=bd5705c527c448dc&nd=1&dlsi=52cd6ce2bec14970\nSubscribe on Apple Podcasts:\nhttps://podcasts.apple.com/us/podcast/vc-unfiltered/id1756379899\nFollow us on X:\nhttps://x.com/paa_vc\nFollow us on Instagram:\nhttps://www.instagram.com/pegasusaccelerator\nFollow us on TikTok:\nhttps://www.tiktok.com/@pegasusaccelerator\nVisit our Website:\nhttps://www.pegasusangelaccelerator.com/\nSubscribe to our Newsletter:\nhttps://vcunfiltered.beehiiv.com/subscribe\n#venturecapital #startup #vc\nComments of The Untold Story of VC Success | Howie Diamond — Pure Ventures\n This program does not accept anonymous comments. Sign up to comment!\nMore Podcasts about Business and industry\n\n \nWe recommend you\nHow to Raise Venture Capital: AI Startup Pitches & Investor Advice | 1752vc\nVC Unfiltered · 00:00\n\nInside VCs’ Minds: Evaluating AI Startups\nVC Unfiltered · 00:00\n\nThe Future of DTC: Inside the Next Generation of Consumer Brands\nVC Unfiltered · 01:33:30\n\nHow Investors Actually Evaluate AI Startups\nVC Unfiltered · 01:58:13\n\nBuilding Startups Before They Exist - Inside M13 | John Tabis\nVC Unfiltered · 00:00\n\nThe Truth About Climate Startups | Gabrielle Darbyshire\nVC Unfiltered · 32:05\n\n¿Qué hacer cuando la bolsa no para de subir?🎙️ Juan Massana | Especial apertura 8ª temporada\nFinect Talks · 22:35\n\nEl \"problema gordo\" de los mercados con la deuda 🎙️ Pablo Gil | Especial apertura 8ª temporada\nFinect Talks · 22:55\n\n#559- No compliques tu cartera si no quieres complicarte la vida (Finanzas de Tu Vecino 212)\nSalud Financiera · 54:56\n\nAcciones detrás de la IA que nadie está mirando 🎙️ Iván Martín | Especial apertura 8ª temporada\nFinect Talks · 23:05\n\n#144. CRITERIO en plena IA: Marcos y Pablo Vázquez\nPíldoras del Conocimiento · 01:14:38\n\n309. Renta Fija, ¿porque suben los tipos y cae tu fondo de inversión?\nFondos de Inversión y Valores · 32:33\n\nGo to\nBusiness and industry",
+      "sha256": "6231dd98eae41c1299c10bc261781dc0b965a374adf652b5621c1c40872dd721",
+      "url": "https://www.ivoox.com/en/the-untold-story-of-vc-success-howie-audios-mp3_rf_157960194_1.html",
+      "title": "The Untold Story of VC Success | Howie Diamond — Pure Ventures - iVoox",
+      "kind": "web",
+      "published_at": null,
+      "metadata": {
+        "candidate_id": "candidate:1de3d3ece81a9d8d6e81",
+        "collection_method": "podcast_page_http",
+        "identity_confidence": {
+          "method": "search_name_affiliation_anchor",
+          "score": 0.9,
+          "version": "1"
+        }
+      },
+      "origins": [
+        {
+          "path": "raw/podcast/95/95f1da257f1585060d4fb56271cabcc67fc0d7b5bad1cad6c28c5f1a82adce4f.html"
+        },
+        {
+          "path": "raw/podcast/95/95f1da257f1585060d4fb56271cabcc67fc0d7b5bad1cad6c28c5f1a82adce4f.html.2c04875b5d7dd01b.metadata.json"
+        }
+      ]
+    },
+    {
+      "doc_id": "full:6ab73071812c5bcda2c8d7ee",
+      "text": "The Untold Story of VC Success… - VC Unfiltered - Apple Podcasts\nSeptember 4, 2025\nThe Untold Story of VC Success | Howie Diamond — Pure Ventures\nVC Unfiltered\n30m\nIn this episode of VC Unfiltered, Lucas Pols, GP at Pegasus Angel Accelerator, sits down with Howie Diamond from Pure Ventures. Discover unique investment strategies, the balance between consumer and frontier tech, and the importance of founder wellness.\nHowie shares his journey from solo GP to building Pure Ventures, offering insights and stories that are both enlightening and inspiring. Tune in for a candid conversation that uncovers the realities of venture capital and the human side of entrepreneurship.\nChapters\n00:51 The Reality of Venture Capital\n04:57 Investment Strategies in Venture Capital\n09:43 Consumer vs. Frontier Tech Investments\n14:54 The Importance of Founder Wellness\n19:35 Building a Supportive Ecosystem for Founders\n24:35 The Journey from Solo GP to Partnership\nSubscribe on Spotify:\nhttps://open.spotify.com/show/342uGXBr031LgcubfOxYsu?si=bd5705c527c448dc&nd=1&dlsi=52cd6ce2bec14970\nSubscribe on Apple Podcasts:\nhttps://podcasts.apple.com/us/podcast/vc-unfiltered/id1756379899\nFollow us on X:\nhttps://x.com/paa_vc\nFollow us on Instagram:\nhttps://www.instagram.com/pegasusaccelerator\nFollow us on TikTok:\nhttps://www.tiktok.com/@pegasusaccelerator\nVisit our Website:\nhttps://www.pegasusangelaccelerator.com/\nSubscribe to our Newsletter:\nhttps://vcunfiltered.beehiiv.com/subscribe\n#venturecapital #startup #vc\nInformation\nShow\nVC Unfiltered\nFrequency\nUpdated Weekly\nPublished\nSeptember 4, 2025 at 3:00 PM UTC\nLength\n30 min\nEpisode\n14\nRating\nClean\nTo play explicit episodes, sign in.\nSign In\nStay up to date with this show\nSign in or sign up to follow shows, save episodes, and get the latest updates.\nSign In\nEmbed Episode\nCopy Embed Code\nSelect a country or region\nAfrica, Middle East, and India\nSee All\nAlgeria\nAngola\nArmenia\nAzerbaijan\nBahrain\nBenin\nBotswana\nBurkina Faso\nCameroun\nCape Verde\nChad\nCôte d’Ivoire\nCongo, The Democratic Republic Of The\nEgypt\nEswatini\nGabon\nGambia\nGhana\nGuinea-Bissau\nIndia\nIraq\nIsrael\nJordan\nKenya\nKuwait\nLebanon\nLiberia\nLibya\nMadagascar\nMalawi\nMali\nMauritania\nMauritius\nMorocco\nMozambique\nNamibia\nNiger (English)\nNigeria\nOman\nQatar\nCongo, Republic of\nRwanda\nSão Tomé and Príncipe\nSaudi Arabia\nSenegal\nSeychelles\nSierra Leone\nSouth Africa\nSri Lanka\nTajikistan\nTanzania, United Republic Of\nTunisia\nTurkmenistan\nUnited Arab Emirates\nUganda\nYemen\nZambia\nZimbabwe\nAsia Pacific\nSee All\nAfghanistan\nAustralia\nBhutan\nBrunei Darussalam\nCambodia\n中国大陆\nFiji\n香港\nIndonesia (English)\n日本\nKazakhstan\n대한민국\nKyrgyzstan\nLao People's Democratic Republic\n澳門\nMalaysia (English)\nMaldives\nMicronesia, Federated States of\nMongolia\nMyanmar\nNauru\nNepal\nNew Zealand\nPakistan\nPalau\nPapua New Guinea\nPhilippines\nSingapore\nSolomon Islands\n台灣\nThailand\nTonga\nTurkmenistan\nUzbekistan\nVanuatu\nVietnam\nEurope\nSee All\nAlbania\nArmenia\nÖsterreich\nBelarus\nBelgium\nBosnia and Herzegovina\nBulgaria\nCroatia\nCyprus\nCzechia\nDenmark\nEstonia\nFinland\nFrance (Français)\nGeorgia\nDeutschland\nGreece\nHungary\nIceland\nIreland\nItalia\nKosovo\nLatvia\nLithuania\nLuxembourg (English)\nMalta\nMoldova, Republic Of\nMontenegro\nNederland\nNorth Macedonia\nNorway\nPoland\nPortugal (Português)\nRomania\nРоссия\nSerbia\nSlovakia\nSlovenia\nEspaña\nSverige\nSchweiz\nTürkiye (English)\nUkraine\nUnited Kingdom\nLatin America and the Caribbean\nSee All\nAnguilla\nAntigua and Barbuda\nArgentina (Español)\nBahamas\nBarbados\nBelize\nBermuda\nBolivia (Español)\nBrasil\nVirgin Islands, British\nCayman Islands\nChile (Español)\nColombia (Español)\nCosta Rica (Español)\nDominica\nRepública Dominicana\nEcuador (Español)\nEl Salvador (Español)\nGrenada\nGuatemala (Español)\nGuyana\nHonduras (Español)\nJamaica\nMéxico\nMontserrat\nNicaragua (Español)\nPanamá\nParaguay (Español)\nPerú\nSt. Kitts and Nevis\nSaint Lucia\nSt. Vincent and The Grenadines\nSuriname\nTrinidad and Tobago\nTurks and Caicos\nUruguay (English)\nVenezuela (Español)\nThe United States and Canada\nSee All\nCanada (English)\nCanada (Français)\nUnited States\nEstados Unidos (Español México)\nالولايات المتحدة\nСША\n美国 (简体中文)\nÉtats-Unis (Français France)\n미국\nEstados Unidos (Português Brasil)\nHoa Kỳ\n美國 (繁體中文台灣)",
+      "sha256": "1ef3186b5164a8e07563dd1b88e81f21aef5c6580fcfdcd1d8c4b175eb1bb6a2",
+      "url": "https://podcasts.apple.com/us/podcast/the-untold-story-of-vc-success-howie-diamond-pure-ventures/id1756379899?i=1000725005697",
+      "title": "The Untold Story of VC Success | Howie Diamond — Pure Ventures",
+      "kind": "web",
+      "published_at": null,
+      "metadata": {
+        "candidate_id": "candidate:c1ba5c47d17b1da39ace",
+        "collection_method": "podcast_page_http",
+        "identity_confidence": {
+          "method": "search_name_affiliation_anchor",
+          "score": 0.9,
+          "version": "1"
+        }
+      },
+      "origins": [
+        {
+          "path": "raw/podcast/b0/b0ea9b271e65d4a0ffb9120e4650268f5244d4954f58b29613650b932fb65121.html"
+        },
+        {
+          "path": "raw/podcast/b0/b0ea9b271e65d4a0ffb9120e4650268f5244d4954f58b29613650b932fb65121.html.439b7e1cccfa7c6d.metadata.json"
+        }
+      ]
+    },
+    {
+      "doc_id": "full:b6d8bf854423ee7430f0b4d1",
+      "text": "Stream episode Ep. 270 How I Raised It with Howie Diamond of Pure Ventures by How I Raised It podcast by Foundersuite.com podcast | Listen online for free on SoundCloud\nSoundCloud\nYour current browser isn't compatible with SoundCloud.\nPlease download one of our supported browsers.\nNeed help?\nChrome\n| Firefox |\nSafari\n|\nEdge\nSorry! Something went wrong\nIs your network connection unstable or browser outdated?\nI need help\nPopular searches",
+      "sha256": "7bddd26af767c9a98b644b2e24f7ea7633b412bc4af7bfd0dce448498cd55c9a",
+      "url": "https://soundcloud.com/user-2586856/ep-270-how-i-raised-it-with-howie-diamond-of-pure-ventures",
+      "title": "Stream episode Ep. 270 How I Raised It with Howie Diamond of Pure Ventures by How I Raised It podcast by Foundersuite.com podcast | Listen online for free on SoundCloud",
+      "kind": "web",
+      "published_at": null,
+      "metadata": {
+        "candidate_id": "candidate:ebe575bd429cd49fa4be",
+        "collection_method": "podcast_page_http",
+        "identity_confidence": {
+          "method": "search_name_affiliation_anchor",
+          "score": 0.9,
+          "version": "1"
+        }
+      },
+      "origins": [
+        {
+          "path": "raw/podcast/bd/bd279c47a547b21c617ff32bc8f8887be22fd9fc945caed28ac22b4a4ec97cc5.html"
+        },
+        {
+          "path": "raw/podcast/bd/bd279c47a547b21c617ff32bc8f8887be22fd9fc945caed28ac22b4a4ec97cc5.html.8bd7425774421028.metadata.json"
+        }
+      ]
+    },
+    {
+      "doc_id": "full:acf9ac5acd59d1c6d377a77f",
+      "text": "Listen to playlists featuring Ep. 270 How I Raised It with Howie Diamond of Pure Ventures by How I Raised It podcast by Foundersuite.com online for free on SoundCloud\nSoundCloud\nYour current browser isn't compatible with SoundCloud.\nPlease download one of our supported browsers.\nNeed help?\nChrome\n| Firefox |\nSafari\n|\nEdge\nSorry! Something went wrong\nIs your network connection unstable or browser outdated?\nI need help\nPopular searches",
+      "sha256": "30ff80264a16569aa149ac6f438b55ffbf9484e2d408259f5251ad9ff2fa2a0f",
+      "url": "https://soundcloud.com/user-2586856/ep-270-how-i-raised-it-with-howie-diamond-of-pure-ventures/sets",
+      "title": "Ep. 270 How I Raised It with Howie Diamond of Pure Ventures",
+      "kind": "web",
+      "published_at": null,
+      "metadata": {
+        "candidate_id": "candidate:e361049f63ce1bffb2c2",
+        "collection_method": "podcast_page_http",
+        "identity_confidence": {
+          "method": "search_name_affiliation_anchor",
+          "score": 0.9,
+          "version": "1"
+        }
+      },
+      "origins": [
+        {
+          "path": "raw/podcast/c6/c64947bf376a10599f09a226f28a55ab4111241e800d23282d417329e5ec2b7e.html"
+        },
+        {
+          "path": "raw/podcast/c6/c64947bf376a10599f09a226f28a55ab4111241e800d23282d417329e5ec2b7e.html.071de22316fbafe2.metadata.json"
+        }
+      ]
+    },
+    {
+      "doc_id": "full:3d2dbc7d02573497a7067d94",
+      "text": "チューニング中",
+      "sha256": "3d2dbc7d02573497a7067d949ea89df28cbd6e49311bb83e09b1f43ebeac495c",
+      "url": "https://music.amazon.co.jp/podcasts/14d0150e-5a13-4ed7-b6d8-e0d05472a6d5/episodes/2eeffcd2-cf5c-4012-859a-283774b811d8/vc-unfiltered-the-untold-story-of-vc-success-howie-diamond-%E2%80%94-pure-ventures",
+      "title": "The Untold Story of VC Success | Howie Diamond — Pure Ventures",
+      "kind": "web",
+      "published_at": null,
+      "metadata": {
+        "candidate_id": "candidate:11455e846f7b4a6d5486",
+        "collection_method": "podcast_page_http",
+        "identity_confidence": {
+          "method": "search_name_affiliation_anchor",
+          "score": 0.9,
+          "version": "1"
+        }
+      },
+      "origins": [
+        {
+          "path": "raw/podcast/d5/d5a7363ad3e6f6a171c4b7d003821f53d223fb94228f88979ab7aca50cb84716.html"
+        },
+        {
+          "path": "raw/podcast/d5/d5a7363ad3e6f6a171c4b7d003821f53d223fb94228f88979ab7aca50cb84716.html.3e08e1fe18ca00dc.metadata.json"
+        }
+      ]
+    },
+    {
+      "doc_id": "full:0a1bafb3ba7a7078d0a2971c",
+      "text": "DrinksWithAVC (DWAVC)\nDrinksWithAVC (DWAVC)\nGrab a drink and join Vik (Green Cow Venture Capital) and Bree (Cooley) as they sit down with top venture capitalists to uncover the stories behind the spreadsheets. Each episode blends laughter, quirks, and candid conversation with practical frameworks founders can use to build, grow, and fundraise more successfully.\nIf you’re a startup founder, VC, or LP, this show helps you get to know the people you may be partnering with for the next 7–10 years. From Tuvan throat singing and mini piano playing to our signature “Fidelity Five” lightning round, you’ll discover surprising sides of the investors shaping the startup ecosystem.\nWe feature leaders from powerhouse firms like Bessemer, Costanoa, Scale VP, and Lightspeed, as well as emerging funds such as Touring, Better Tomorrow Ventures, Hustle Fund, and Precursor. Expect founder-tested advice, real talk about venture, and plenty of laughs along the way.\nNew episodes drop monthly. Pour your favorite drink and dive in.\nShow More\nEpisodes\n38 episodes\nDWAVC Episode 38 | Tae Hea Nahm (Storm Ventures)\nWe filmed this episode back in May, before Bree welcomed a new life into the world and before Vik lost his mother. A lot has changed since then. As we release it now, it feels more relevant than ever. Drinks With a VC has always been about more...\nSeptember 18, 2025\n•\nEpisode 38\n•\n1:22:30\nDWAVC: Drew Glover | Ep. 37\nIn this episode of DrinksWithAVC, we sit down with Oakland-native Drew Glover, Co-Founder of Fiat Growth and General Partner at Fiat Ventures, for a masterclass on identity, resilience, and rewriting the rules of venture capital.\nJune 19, 2025\n•\nEpisode 37\n•\n1:25:16\nDWAVC: Andrew Ackerman | Ep. 36\nWhat do tiddlywinks, a quarter trick, and a failed Palantir deal have in common? They all show up in Andrew Ackerman’s one-of-a-kind path from founder to family office director, accelerator operator, and venture capitalist to now SPV syndicate ...\nApril 15, 2025\n•\nSeason 1\n•\nEpisode 36\n•\n1:48:41\nDWAVC: Arun Mittal | Ep. 35\nIn this episode of Drinks With a VC, co-hosts Vik Lakhwara and Bree Hanson are joined by Arun Mittal, co-founder of MBM Capital. Arun discusses his journey from receiving an electrical engineering degree from Stanford and co-founding Chutney Te...\nFebruary 05, 2025\n•\nSeason 1\n•\nEpisode 35\n•\n2:15:55\nDWAVC: Ben Freeberg | Ep. 34\nGet ready for a rollercoaster of an episode! This week on DrinksWithAVC, Bree and Vik are joined by the multi-talented founder and GP of Oncology Ventures, Ben Freeberg. Ben shares his inspiring journey from active 24-year old pursuing a career...\nJuly 25, 2024\n•\nSeason 1\n•\nEpisode 34\n•\n1:42:24\nDWAVC: Jeremy Kaufmann | Ep: 33\nFrom growing up as a quiet kid in New Jersey and biking across the US in support of affordable housing, to moving west to join Salesforce and eventually becoming a partner at Scale Venture Partners, Jeremy Kaufmann shares his compassion-filled ...\nJune 20, 2024\n•\nSeason 1\n•\nEpisode 33\n•\n1:20:43\nDWAVC: Amy Cheetham | Ep: 32\nJoin us for an exciting episode featuring Amy Cheetham, partner at Costanoa Ventures. From mucking stalls in rural Maine to making the Forbes 2023 Brink List, Amy’s journey is both inspiring and insightful. Bree & Vik dive into her favorite...\nJune 04, 2024\n•\nSeason 1\n•\nEpisode 32\n•\n1:43:13\nDWAVC: Leshika Samarasinghe | Ep: 31\nPour a mint julep and join us on DrinksWithAVC as we dive into the dynamic world of Leshika Samarasinghe, founder and GP at Twine Ventures. In this episode, Leshika recounts her beginnings at Google, where she was instrumental in developing cor...\nMay 09, 2024\n•\nSeason 1\n•\nEpisode 31\n•\n1:51:48\nDWAVC: Priya Saiprasad | Ep. 30\nPour your favorite champagne and join us in toasting Touring Capital's co-founder and GP, Priya Saiprasad! Learn how Priya's nomadic childhood created her superpower, how she took the leap from established firms like M12 and Softbank Vision to ...\nMarch 29, 2024\n•\nEpisode 30\n•\n1:46:38\nDWAVC: Dan Conner | Ep. 29\nSettle in with a Sazerac for the latest installment of DrinksWithAVC, brought to you by Fidelity for Startups! Vik and Bree cover it all with St. Louis-based globe trotter, low-key adrenalin junkie, and venture capitalist Dan Conner. D...\nFebruary 23, 2024\n•\nEpisode 29\n•\n1:39:53\nDWAVC: Howie Diamond | Ep. 28\nBree and Vik dive into a captivating conversation with Howie Diamond of Pure Ventures. From his early days in Chicago reminiscent of a John Hughes film to his rockstar nights drumming for Low v. Diamond on shows like Letterman and Leno, Howie's...\nNovember 07, 2023\n•\nEpisode 28\n•\n1:23:58\nDWAVC: Manan Mehta | Ep. 27\nDiscover the profound depths of venture capitalism in this week's DWAVC with guest Manan Mehta of Unshackled Ventures. Vik and Bree explore Manan's adoption of 'curious acceptance,' his admiration for ancient and modern stoicism, and his insigh...\nJune 15, 2023\n•\nEpisode 27\n•\n1:42:04\nDWAVC: Dan Rubin | Ep. 26\nJoin DWAVC's latest episode for an intriguing mix of intellect and stamina, featuring Dan Rubin from Alloy Ventures. This episode delves into Dan's voracious reading habits, the relentless spirit he brings from the athletic world, and his keenn...\nMay 04, 2023\n•\nEpisode 26\n•\n1:33:58\nDWAVC: Matt Bigge | Ep. 25\nToast to St. Patrick's Day weekend with the latest DWAVC episode featuring Crosslink Capital's Matt Bigge, a decorated Army Ranger, Georgetown and Harvard Business School alumnus, and doting dad. Dive into our 'Shots with a VC' special as we ex...\nMarch 17, 2023\n•\nEpisode 25\n•\n38:31\nDWAVC: Rishi Taparia | Ep. 24\nGear up for the weekend with DWAVC's latest episode featuring Rishi Tiparia from Garuda Ventures. Bree and Vik sit down with Vik's old friend and venture capital colleague to dissect the nuances of Seed investing and what Garuda Ventures looks ...\nMarch 10, 2023\n•\nEpisode 24\n•\n1:40:55\nDWAVC: Kobie Fuller | Ep. 23\nDrinksWithAVC welcomes Kobie Fuller of Upfront Ventures, merging the worlds of athletic excellence and venture capital. Bree and producer Reyn delve into Kobie's history as a record-setting athlete and explore how the competitive spirit and dis...\nFebruary 28, 2023\n•\nEpisode 23\n•\n53:10\nDWAVC: Anoushka Vaswani | Ep. 22\nDrinksWithAVC swings into the new year spotlighting Anoushka Vaswani of Lightspeed Venture Partners, the 'OG of PLG'. With accolades spanning from her lauded academic journey at Columbia and Harvard to shaping strategies at McKinsey and Matrix ...\nFebruary 09, 2023\n•\nEpisode 22\n•\n1:03:51\nDWAVC: Ben Narasin | Ep. 21\nHoliday cheers with a visionary on Drinks With A VC featuring Ben Narasin of Tenacity Venture Capital. Tracing back to his roots as an e-commerce pioneer with Fashionmall.com, Ben shares tales of early-stage triumphs, from DropCam to Kabbage. V...\nDecember 24, 2022\n•\nEpisode 21\n•\n1:56:08\nDWAVC: Kate Shillo Beardsley | Ep. 20\nEpisode twenty of DrinksWithAVC launches with venture virtuoso Kate Shillo Beardsley. Join us as Kate shares her journey from bartending to becoming a Managing Partner at Upslope Ventures and a pivotal figure at Lerer Hippeau Ventures. Vik and ...\nNovember 03, 2022\n•\nEpisode 20\n•\n1:52:20\nDWALP?: Eric Sippel | Ep. 19\nDrinksWithAVC serves up episode nineteen with a refreshing twist, featuring their inaugural Limited Partner guest, Eric Sippel. Esteemed philanthropist and Chair of Bay Area Goodwill, the former COO of Eastborn Capital Management, Eric offers a...\nJune 02, 2022\n•\nEpisode 19\n•\n1:17:44\nDWAVC: Jim Dugan | Ep. 18\nDrinksWithAVC chugs along, introducing episode eighteen with Jim Dugan, CEO & Managing Partner of OCA Ventures, harmonizing EMPATHY, PASSION, DETERMINATION, HUMANITY, and a touch of FRANK SINATRA. With 23 years of venture experience, Jim ha...\nMay 19, 2022\n•\nEpisode 18\n•\n1:32:51\nDWAVC: Lan Xuezhao | Ep. 17\nDrinksWithAVC presents episode seventeen, featuring the trailblazing Dr. Lan Xuezhao, Founding Partner of Basis Set Ventures, a firm making waves with its women-led team. Lan's impressive background spans from spearheading the Corporate Develop...\nApril 28, 2022\n•\nEpisode 17\n•\n1:33:12\nDWAVC: Matt McCall | Ep. 16\nEpisode sixteen of DrinksWithAVC features standout guest, Matt McCall of Pritzker Group, lauded as one of the top 100 VCs in the U.S. and recognized as a power player in media and Hollywood. Vik and Bree delve into Matt's political roots, discu...\nApril 14, 2022\n•\nEpisode 16\n•\n2:12:43\nDWAVC: Natalie Luu | Ep. 15\nEpisode fifteen of DrinksWithAVC packs a punch with guest Natalie Luu from Lightspeed Venture Partners—Muay Thai enthusiast, NFT expert, Fintech investor, and tea aficionado. Vik and Bree uncover Natalie's journey from relentless hustler to ven...\nOctober 07, 2021\n•\nEpisode 15\n•\n53:39\nDWAVC: David Hornik | Ep. 14\nEpisode fourteen of DrinksWithAVC welcomes the prophetic insights of David Hornik from Lobby Capital, dubbed the 'Nostradamus of Numbers' and 'soothsayer of SPACs.' Vik and Bree delve into David's evolution from a dedicated lawyer to a venture ...\nSeptember 23, 2021\n•\nEpisode 14\n•\n1:24:36\nFollow\nApple Podcasts\nSpotify\nAmazon Music\nRSS Feed\nSee All",
+      "sha256": "85d622df4589ca808814d212c24f756f88ff971f451d2c790bb7bcc3152644f7",
+      "url": "https://drinkswithavc.buzzsprout.com/1525162/episodes",
+      "title": "DrinksWithAVC (DWAVC)",
+      "kind": "web",
+      "published_at": null,
+      "metadata": {
+        "candidate_id": "candidate:8a7c8e68ee23494b7164",
+        "collection_method": "podcast_page_http",
+        "identity_confidence": {
+          "method": "search_name_only",
+          "score": 0.6,
+          "version": "1"
+        }
+      },
+      "origins": [
+        {
+          "path": "raw/podcast/e0/e0d980d658ea14dc2860343d4d9f15e62478d4791697a594eac8067079d11afd.html"
+        },
+        {
+          "path": "raw/podcast/e0/e0d980d658ea14dc2860343d4d9f15e62478d4791697a594eac8067079d11afd.html.bb10ba1b22403ae0.metadata.json"
+        }
+      ]
+    },
+    {
+      "doc_id": "full:c89eb13008e589255c66af75",
+      "text": "A New, Sustainable Approach to Entrepreneurial Culture with Kari Sulenes & Howie Diamond - What Didn't Kill You? with Michael Silverman | Acast\nShare\nPlay\nWhat Didn't Kill You? with Michael Silverman\nA New, Sustainable Approach to Entrepreneurial Culture with Kari Sulenes & Howie Diamond\nSeason 1, Ep. 6\n•\nTuesday, July 28, 2020\n‘Crush It’ culture is a mindset that is far too often accepted within entrepreneurship. For those who strive to start their own ventures and achieve success, we can feel like putting our own needs to the side is something that is simply just a part of the road ahead. This way of thinking is so detrimental to our wellbeing and makes us lose sight of the things that are truly important to us, not only professionally, but in our personal lives as well.\nJoining me on the podcast today to dive into this topic are Kari Sulenes and Howie Diamond, Co Founders of the wellbeing organisation ‘Atlas’ and Business Partners at ‘Alpha Bridge Ventures’. Kari has an extensive background in psychology, whilst Howie has a broad background in business, each bringing such unique qualities to the table and furthering the conversation around this issue.\nWe discuss the inspiration behind the creation of ‘Atlas’, why the need for honesty and vulnerability is so important within professional environments, and how this kind of work is creating positive change for founders and business leaders.\nIf this has peaked your interest and you’re curious to learn more, have a listen to Episode 6 of What Didn’t Kill You!\nSome Questions I Ask:\nHowie, how did you and Kari meet and eventually become business partners? (6:47)\nKari, what was your initial impression of Howie’s thesis when you first connected? (8:47)\nKari, were you always drawn to the notion of helping others through pain during your studies & How does that tie into the work you do now studying organizations? (11:03)\nHow do you gain perspective as a team when it comes to the work you all do at ‘Atlas’ (17:24)\nHow have you created an environment at ‘Atlas’ where people are willing to share and be candid in a way they wouldn’t normally? (22:42)\nHow do you, particularly as business owners, continue to challenge the stigma surrounding being vulnerable with your professional cohort? (29:56)\nDo you see an opportunity for others in the investment community to break away from the stigma surrounding vulnerability & How has your work been received by those in that space? (36:10)\nDo you feel like the traditional ‘Venture Capital’ model has a tendency to perpetuate the toxicity that is so present within our culture? (39:35)\nKari, as someone who has worked in psychology do you think about your work at ‘Atlas’ in terms of developing and furthering data around this issue? (43:57)\nDo you find that clients who work with you are already self aware of their needs to become more open or is there work needed to get to that point? (45:22)\nIn This Episode You Will Learn:\nHow Howie’s experience with burnout and imposter syndrome inspired the creation of ‘Alpha Bridge Ventures’ and ‘Atlas’ (1:45)\nThe connection between pain and purpose (13:11)\nThe toxic aspects that are present within entrepreneurship culture (16:22)\nHow ‘Alpha Bridge Ventures’ and ‘Atlas’ are related & Why entrepreneur confidentiality was a core belief in the creation of this venture (19:44)\nBackground on ‘How Are You Really?’ dinners hosted by ‘Alpha Bridge Ventures’ partners Kari, Howie and Jake (27:49)\nResources for aspiring entrepreneurs who are going through hardships (47:54)\nConnect With Michael Silverman:\nWhat Didn’t Kill You - Instagram\nMichael Silverman - Instagram\nConnect With Kari Sulenes:\nLinkedIn\nAtlasQ - Bio\nEmail: hello@atlasq.com\nConnect With Howie Diamond:\nLinkedIn\nTwitter\nWebsite\nEmail: howie@alphabridgevc.com\nResources:\nBook: ‘Man’s Search for Meaning’ Author, Viktor E Frankl\nBook: ‘The 15 Commitments of Conscious Leadership’ Author, Jim Dethmer, Diana Chapman & Kaley Klemp\nTed Talk: ‘The Power of Vulnerability’ Brené Brown\n‘Atlas’ - ‘Leadership Labs’ Programs\n‘Atlas’ - Website\n‘Alpha Bridge Ventures’ - Website\nShow more\nRSS\nMore episodesView all episodes\n25. Making Sense of our Lives & Entrepreneurial Hardships with Justin Perkins\n57:02| Tuesday, August 10, 2021|Season 1, Ep. 25\nFor many entrepreneurs, it is hard to maintain objectivity when dealing with the issues of their business because they are emotionally tied to their companies and what they do.In his coaching sessions and thanks to his experience, Justin Perkins helps entrepreneurs from falling into traps like this.Justin Perkins is the Founder of New Edge Advisors. He provides deep Executive Coaching conversations for those interested in understanding how the mind works to reach their goals more efficiently while enjoying the ride. Justin has worked in several different industries over the years, with a focus on organizations that benefit society, like Care2, where he worked for 14 years. Justin was also founder of Olomomo Nut Company, his last venture before starting New Edge Advisors.In this episode, we talk about Justin's journey of entrepreneurship, and his numerous endeavors, successes, and failures. Justin shared bits of his background and experiences with venture capital, his thinking process behind the decisions that led Olomomo to a challenging end, and the valuable lessons he gained from that experience . We also talk about how coaching helped him to understand himself better and how powerful it was for him to realize he could, thanks to his adventures, prevent other entrepreneurs from committing the same mistakes he made. Some Questions I Ask:I would love to just hear a bit of your background, what you're doing now and what your mission is (1:13)What made you want to start a company? (4:12)It sounds like, ultimately, you were really the one doing the fundraising, and you were the one people were investing in, is that fair to say? (16:23)How did you think about the possibility of chasing after positive cash flow versus top-line sales goals? (25:20)How do you help entrepreneurs navigate their emotional attachment to their companies? (45:19)In This Episode, You Will Learn:A bit of Justin's entrepreneurial spirit origins ( 6:21)Justin's first experiences with money-raising and how quick the cash he gathered evaporated (11:27)Investment is intimate. Some lessons learned about investments and relationships (15:36)Entrepreneurs must have the ability to suspend reality (30:19)How the world of coaching changed Justin perspective (38:34)Resources:New Edge Advisors websiteBook: Jim Paul - What I Learned Losing a Million DollarsBook: Paulo Coelho - The AlchemistBook: Yuval Noah Harari - Sapiens: A Brief History of HumankindConnect with Justin:LinkedInE-mail: justin@newedgeadvisors.com Important info: What Didn't Kill You - InstagramWhat Didn't Kill You - LinkedInWhat Didn't Kill You - WebsiteWhat Didn't Kill You - E-mail ©️ 2021 Michael Silverman. All rights reserved.\nPlay\n24. Custom Dreams with Mike McCabe\n53:41| Tuesday, June 29, 2021|Season 1, Ep. 24\nMike McCabe spent his early teen years up to his 20s around CAD-CAM and tooling work, removing heavy aluminum parts and replacing them with carbon fiber in his first full-time job. Always a hands-on person, he was building homes through his college years while skiing professionally in Freeride Competitions. So he knows a thing or two about hard work...and breaking skis.Mike McCabe is the co-founder, CEO, and Master Builder of Folsom Custom Skis. Turns out that jumping off cliffs in Freeride Competitions for many years while weighing in at 6'2\" and 200lbs results in lots of broken skis. This lead Mike on a journey to create hand-built, innovative, and exceptionally durable customized skis that can work for the hardest skiing pro or the most casual skier. Folsom is now one of only two companies in the US that creates a truly custom ski in which every component is hand made and the raw materials sourced internally. In this episode, we had an inspiring conversation about Mike's journey into entrepreneurship, his business model, and how it is for a small organization to put its foot through the door in such a competitive industry. We also talked about his company's principles on how they operate and its unique approach to business that lead him through . Finally, Mike shared the incredible story of how his company had to pivot during COVID and how hard it was for him to be on the verge of losing his company. Some Questions I Ask:We'd love to hear how you got into the ski products business. (1:52)When you started making skis, did you know immediately, like, this is what I want to do? (8:02)How did the improvements you made in the skis translated to the maybe average or even higher-end ski demographic? (13:17)You mentioned running lean. How did you develop the principles for operating that way? (24:10)Does the seasonality of your business ever make you want to think about expanding into summer sports? (35:47)In This Episode, You Will Learn:How Mike decided to focus on the product side of skiing (7:16)Quality over quantity approach. Mike's business model and its possibilities (11:15)How hard it was for Folsom Skis to get into the market (17:23)Reinventing the wheel once a year. Mike's constant effort in rebuilding their system and making it more effective (34:48)An emergency pivot. How did Mike's company adjust to the new reality during the pandemic (37:21)Resources:Folsom Custom Skis websiteFolsom Custom Skis InstagramConnect with Mike:LinkedInEmail: mike@folsomskis.com Let's connect:What Didn't Kill You - InstagramWhat Didn't Kill You - LinkedInWhat Didn't Kill You - WebsiteWhat Didn't Kill You - E-mail ©️ 2021 Michael Silverman. All rights reserved.\nPlay\n23. A Hero's Journey. Ups and Downs in Douglas Raggio's life\n47:55| Tuesday, May 11, 2021|Season 1, Ep. 23\nHaving massive financial success and driving a Bentley a couple of years after graduating from college can be a little confusing without the proper guidance. Douglas Raggio was doing great the first six years after college. Jumping from helicopters to boats every weekend and spending recklessly, he felt he would make that amount of money for a long time. But that is not what happened. Business went wrong. He traveled without scales from living a luxurious life into a humbling experience that led to almost a decade of a painful and self-destructive existence. Today, I'm joined by Douglas Raggio - a serial entrepreneur, a Food & Beverage Investor, and Founder. Douglas is the Founder of Pass The Honey and Bias & Blind Spots. He is also a Forbes Contributor, Steering Committee Member at Naturally San Diego, an Advisor at SOS Hydration Inc, and a Member & Advisor at COMMON LLC. In this episode, we talk about Douglas' journey from having it all to being in debt, to finding success again. He shared what he felt going through the most challenging times of his life and how the myopic perspective of focusing on making it to the next day made it harder to get out of that place. He also talked about the close call that awoke him from almost ten years of a destructive and hopeless lifestyle. We also talked about his new life as a food company owner, the paralyzing decisions, and his new purpose-driven life. Tune in to learn a lot about life and a lot about honey business!Some Questions I Ask:I'd love to start by asking you a bit of your background before becoming an entrepreneur and investor in CPG (1:15)You mentioned your childhood. How did your childhood experience play into your professional and adult life later on? (9:41)It seems like you've gained a tremendous amount of perspective. What kind of work have you put in to get that perspective, if any? (16:42)How have your experiences and your hardships contributed to the entrepreneur and advisor that you are today? (19:04)What's that feel like to have this incredible sort of drive with this one goal versus spending a lot of time, as you described, rudderless? (39:28)In This Episode, You Will Learn:Fueling the ego. Living a luxury life (3:09)How things from our childhood can stick with us (10:30)A close call that changed everything (12:46)What kind of financial advisor Douglas became after his experiences (19:10)Finding a new purpose in the purest, unadulterated honey (24:01)How it feels to come from rock-bottom to general peace (39:47)Resources:Pass The Honey websitePass The Honey InstagramPass The Honey FacebookConnect with Douglas:LinkedInLet's connect:What Didn't Kill You - InstagramWhat Didn't Kill You - LinkedInWhat Didn't Kill You - WebsiteWhat Didn't Kill You - E-mail ©️ 2021 Michael Silverman. All rights reserved.\nPlay\n22. Jason Mendelson A Lifetime Journey Towards the First Love\n01:00:45| Tuesday, April 27, 2021|Season 1, Ep. 22\nToday, I'm joined by Jason Mendelson, retired partner of world renowned venture capital firm, Foundry Group, and current Executive-in-Residence with the Colorado Attorney General's Office. In addition to his many successes as a VC over 20 years, Jason is a startup founder, attorney, professor, author, and musician. He's also a lifelong learner, teacher, and incredible human being who spends so much time giving back to society. Jason is also known by his musical alter ego Jace Allen on Spotify - be sure to check him out via the links below!In this episode, we discuss Jason's journey from a tough childhood growing up in Detroit with music as his outlet to becoming an attorney, entrepreneur, venture capitalist and all around creator. He shares his experiences from personal and professional challenging moments, the lessons learned, and the wisdom acquired. We talked about how it is to deal with the constant reminder of frustration and the role of education in the investment business. He spoke openly about his victories and defeats, the epiphany that would change his life at age 40, and his first love, music. To learn more about Jason's journey of discoveries, awakenings, and relentlessly seeking fulfillment, tune in to Episode 22 of What Didn't Kill You.Some Questions I Ask:Over 300 companies funded many billions of dollars raised by Foundry Group. You are recently retired, but I would love to understand the backstory on how you guys got started? (1:14)Do you recall any notable failures or missteps? And how that shaped the foundry group mentality or investing ethos? (11:17)When you think about betting on people, I imagine it's a complex mental model to develop. What do you think about that? How do you evaluate initially? (15:40)How would you encourage your students to appreciate the difference between learning something in a textbook versus going out in the world and starting to apply it? (27:04)What does music do for you that your previous professional pursuits have not? (36:10)In This Episode, You Will Learn:From an investor perspective, if you believe in the CEO, there are still things to do even if a company is not working (11:59)When time passes, we learn to trust all of our senses when it comes to choosing the right people to invest in (16:14)There is more data available about how to run a company than on how to be a good investor (27:17)The only way to deal with egos in the VC business (30:56)The benefits of taking more risks in life (54:37)Resources:Jace Allen MusicPissed off At You (Official Video) by Jace AllenBook: Jason Mendelson, Brad Feld - Venture Deals: Be Smarter Than Your Lawyer and Venture CapitalistBook: David Epstein - Range: How Generalists Triumph in a Specialized WorldSpotify - Jace AllenConnect with Jason:LinkedInTwitterFacebookSpotifyLet's connect:What Didn't Kill You - InstagramWhat Didn't Kill You - LinkedInWhat Didn't Kill You - WebsiteWhat Didn't Kill You - E-mail©️ 2021 Michael Silverman. All rights reserved.\nPlay\n21. Finding a New World in the Back of a Bobsled\n50:56| Tuesday, April 13, 2021|Season 1, Ep. 21\nHaving a respectable job title and making good money out of it, living in a cozy apartment in a cool and upcoming part of town, driving a luxury vehicle, and wearing fine clothes would sound like graduating from a great university and getting an MBA paid off. For most people, that would sound like a successful life, and they might be right. But when my guest got there, she looked around didn't like what she saw. So took the leap into a totally different pursuit! Today's guest is Lauren Gibbs, Olympic Medalist, Bobsled World Champion, Corporate Speaker, and Director of Internal Sales at Parity. Lauren has a Bachelor's Degree in Public & Private Sector Organizations, Business, Entrepreneurship from Brown University and an Executive MBA from Pepperdine University. She won the Olympic silver medal in Bobsled in South Korea in 2018 and the 2020 International Bobsleigh and Skeleton Federation World Championship in Germany. In this episode, Lauren shared the story of why she decided to abandon a comfortable life and an excellent corporate job to become an elite athlete. We talked about succeeding in life, ticking all the boxes of society's expectations and personal realization. She also spoke about how hard it was to become an Olympian, her fears, frustrations, and how it was for her, who hates losing more than enjoys winning, committing to something regardless of winning, tying, or losing.To learn more about Lauren's journey of sacrifice, dedication, discipline, and chase for happiness and fulfillment, tune in to Episode 21 of What Didn't Kill You.Some Questions I Ask:How did you arrive at the Team USA Bobsled team? And what brought you there? (0:47)Did you face a lot of friction or pushback from your circle when you sort of made these life choices? (5:22)You've been around the world competing, and you've actually won a World Championship, haven't you? (9:58)What's next in the Olympic journey? Are you focused on winning another one? (26:40)Did you start public speaking before that TEDx talk and before bobsled, or they started together? (41:21)In This Episode, You Will Learn:When climbing the corporate ladder is not good enough (1:55)Finding something worthy of leaving behind a comforting life (4:26)There are only two gold medals for ten of the most talented, hard-working, deserving women. (10:42)About training and preparation for competition, worrying about what others are doing won't affect what they're doing, neither what we are doing (18:55)Taking action, even with smalls things, in the direction we want to go is crucial (22:01)Resources:From Boardroom to Bobsled: The Courage to Become an Olympian | Lauren Gibbs | TEDxPasadenaBook: David Epstein - Range: Why Generalists Triumph in a Specialized World Connect with Lauren:LinkedInInstagramLet's connect:What Didn't Kill You - InstagramWhat Didn't Kill You - LinkedInWhat Didn't Kill You - WebsiteWhat Didn't Kill You - E-mail©️ 2021 Michael Silverman. All rights reserved.\nPlay\n20. Carol Fabrizio: Looking for vsBeing the Gold Star\n01:07:08| Tuesday, March 30, 2021|Season 1, Ep. 20\nLast episode, I was graced by an incredible discussion with JIllion Potter. Today, I'm joined by her incredible wife, Carol Fabrizio, Chief Communications and Marketing Officer at the USA Gymnastics Team, Leadership Coach, and Changemaker. Carol has a Bachelor's Degree in International Relations from the University of Southern California and a Juris Doctor's degree from USC Gould School of Law. We share an affinity for that school as it is also my alma mater. Besides being a Certified Professional Coach, Carol previously spent 9 years at Vail Resorts, ultimately rising to the level of VP, Communications and Marketing Operations.In this episode, we had an enlightening conversation about Carol's professional and personal challenges, achievements, lessons learned, and evolution. Everything from what it's like to watch one's spouse go through chemotherapy to navigating the challenging but rewarding professional experience she has taken on with USA Gymnastics. She shared her experiences performing at the highest level in top companies, her vision on what communication and marketing used to be, what it is about now, and what we can expect to be in the future. We also talked about how the pandemic affected the athletic community and the benefits and disadvantages of moving the Olympic Games to 2021 from both the athletes and communication department perspectives. To learn more about leadership, personal growth, resilience, and self-compassion, tune in to Episode 20 of What Didn't Kill You.Some Questions I Ask:The USA Gymnastics Team had tremendous success on the field. But the organizational and cultural aspects needed to change. How do you think about balancing continued success with making these shifts? (6:00)How does the business of gymnastics and specifically USA Gymnastics get affected by something like the Olympics moving? (10:03)What were some of the biggest leadership lessons you learned in that role that you take into your current one? (23:33)How do you walk away from any situation satisfied with I'm doing enough, executing things correctly, showing up every day the way I want to? (29:08)How do you go about doing your job at a high level when your spouse faces serious health issues? (40:36)In This Episode, You Will Learn:Creating a healthy work environment where people can speak without fear of being punished in any way (4:45)How the pandemic affected the USA Gymnastics team and the athlete community in general (7:37)What communication and marketing used to be vs. what is about now (16:46)Feedback is not about true or false; it is a data point that helps us to be more strategic on how to interact with people (25:44)How being aware of our feelings can help us (39:17)Connect with Carol:LinkedInLet's connect:What Didn't Kill You - InstagramWhat Didn't Kill You - LinkedInWhat Didn't Kill You - WebsiteWhat Didn't Kill You - E-mail ©️ 2021 Michael Silverman. All rights reserved.\nPlay\n19. Olympian & Cancer Survivor Jillion Potter on Overcoming Adversity in Life and Rugby\n55:21| Tuesday, March 16, 2021|Season 1, Ep. 19\nJoining me today is Jillion Potter, olympian, cancer survivor, mom, and now executive at EY. We had a fantastic conversation about her journey into becoming a member of the American Rugby team, participating in two World Championships, and becoming a Team USA member in the Rio 2016 Olympics after defeating cancer for the second time. Jill shares so much great wisdom, including how we can help ourselves in times of adversity and remembering that we always have a choice about how to respond.In this episode, Jillion and I take a walk through her life experiences and what she could take from them to grow and become stronger. She explained how a rare accident during her early years in rugby helped her deal with cancer diagnose many years later. We talked about the importance of embracing uncertainty, self-compassion, and not getting hung up on the outcome. Jill is the epitome of strength and grace while facing incredible odds and I'm honored to have had her on the show!To learn more about Jillion's fantastic story of bravery, resilience, and determination, tune in to Episode 19 of What Didn't Kill You.Some Questions I Ask:I'd love to start out by asking you how did you become an Olympian? (1:20)When you broke your neck, was that the first major challenge you had to overcome and return to the sport? (7:19)When in your athletic journey did the cancer diagnosis initially come? (10:07)And so, you start going through chemo; how far out is this goal of being at the Olympics? (18:00)What was the reception from the International Rugby community with you there (after defeating cancer)? (28:24)In This Episode, You Will Learn:A rugby accident that helped to deal with more severe problems years later (3:51)A poor judgment that could have led to a catastrophe (10:35)You have to be at your best when things are at their worst (15:29)Focusing on the things we can control (17:21)How amazingly supportive the rugby community can be (19:30)The power of embracing uncertainty and accepting impermanence (35:39)Connect with Jillion:LinkedInInstagramFacebookTwitterLet's connect:What Didn't Kill You - InstagramWhat Didn't Kill You - LinkedInWhat Didn't Kill You - WebsiteWhat Didn't Kill You - E-mail©️ 2021 Michael Silverman. All rights reserved.\nPlay\n18. Solo Episode - The Story of Losing My Sister\n46:25| Wednesday, January 27, 2021|Season 1, Ep. 18\nSometimes life hits us so hard that our minds struggle to assimilate and understand what we are going through at that moment. Sometimes going through these periods, while unimaginably painful, can be an incredible catalyst for growth and understanding.I've decided to do a solo episode for today's podcast to talk about one of the worst moments in my life, my little sister's death.In this episode, I share my deepest fears and the mix of emotions and reactions I experienced from the moment I received this terrible news until several days after the reception and how it affected and changed my life. I also talk about how sharing our emotions connects us with people and how feeling gigantic amounts of pain can let us know the amount of love and joy we can experience. In this show, I try to ask people about their challenges overcome, so it's only fair that I share more about my journey through the most painful thing that's ever happened to me. To learn more about my story, how it can help you, and so much more, tune in to Episode 18 of What Didn't Kill You.In This Episode, You Will Learn:How I dealt with one of the worst moments of my life (5:20)The difference between an intellectual understanding of the pain and experiencing it (10:40)How sharing our emotions and being vulnerable connects us with people (19:30)The articulate mind disarticulated (25:00)Discovering a different level of emotional and rational connection with people (30:40)How hard it is to divorce ourselves from particular identities (40:40)Resources:Book: Man's Search for Meaning - Viktor E. FranklLet's connect:What Didn't Kill You - InstagramWhat Didn't Kill You - LinkedInWhat Didn't Kill You - WebsiteWhat Didn't Kill You - E-mail ©️ 2020 Michael Silverman. All rights reserved.\nPlay\n17. Part 2 - Stories of Entrepreneurship and Growth from the Fascinating Life of Adam Edelman\n55:53| Tuesday, January 12, 2021|Season 1, Ep. 17\nJoin me on the second part of my interview with Adam Edelman - a long-time entrepreneur, business operator, investor, and personal mentor of mine. If you haven't heard the previous episode, I encourage you to go back and listen to it here. In this episode, we discuss some of the most important traits an entrepreneur should have, the role family and friends play in the business world - and whether or not to create partnerships with them - as well as why it's beneficial for new entrepreneurs to surround themselves with people that share their experience rather than their advice. Being an entrepreneur requires facing challenges that you don't always expect - and to survive and thrive in this world you need a certain mindset and a desire to follow your passions. Tune in to the conclusion and find out how Adam followed his passions to become the businessman and person he is today. To learn more about these topics and so much more, tune in to Episode 17 of What Didn't Kill You.Some Questions I Ask:Can you talk about how you returned to your passion in the content creation area? (10:01)Where does the name ‘Boulder Heavy Industries’ come from? (25:20)What role did relationships play in the progress to your success? And how do you nurture them? (30:18)How did you navigate the effects COVID-19 had on your business? (39:25)Do you have advice or recommendations for fresh entrepreneurs on how to embrace the hard stuff? (47:00) In This Episode, You Will Learn:The role Adam’s heritage played in achieving his success. (01:31)Questions you need to ask yourself to live a life aligned with your expectations. (07:04)The two takeaways Adam learned from being an entrepreneur. (20:07)How Boulder Heavy Industries helps other companies. (29:01)Adam’s view on creating business partnerships with family & friends. (34:30)Why it’s important to approach anything like you’ve got nothing to lose. (51:19)Connect With Adam Edelman:LinkedInWebsite - Boulder Heavy IndustriesResources:What Didn't Kill You - Episode 16 - Stories of Entrepreneurship and Growth from the Fascinating Life of Adam Edelman - Part 1Let’s Connect!What Didn’t Kill You - InstagramWhat Didn't Kill You - LinkedInWhat Didn't Kill You - WebsiteWhat Didn't Kill You - E-mail\nPlay",
+      "sha256": "ddd2f9a471511cda12d1f44db3fa3d47fe08890d15e63200cae313b784a7a77f",
+      "url": "https://shows.acast.com/what-didnt-kill-you-with-michael-silverman/episodes/the-crucial-need-for-vulnerability-within-the-workplace-with",
+      "title": "A New, Sustainable Approach to Entrepreneurial Culture with Kari Sulenes & Howie Diamond - What Didn't Kill You? with Michael Silverman | Acast",
+      "kind": "web",
+      "published_at": null,
+      "metadata": {
+        "candidate_id": "candidate:6c944bcce7450ae420e8",
+        "collection_method": "podcast_page_http",
+        "identity_confidence": {
+          "method": "search_name_only",
+          "score": 0.6,
+          "version": "1"
+        }
+      },
+      "origins": [
+        {
+          "path": "raw/podcast/f6/f639db332b25be624cb58c733619462849bd6de0956ab76b1a98e6ce88312526.html"
+        },
+        {
+          "path": "raw/podcast/f6/f639db332b25be624cb58c733619462849bd6de0956ab76b1a98e6ce88312526.html.cb3494889ecc21cd.metadata.json"
+        }
+      ]
+    },
+    {
+      "doc_id": "full:1fe2e46a3d5b6a18111e53fe",
+      "text": "Pure Ventures: Funding, Team & Investors | Startup Intros\nSkip to content\nLoading organizations...\nQuick Facts\nTypeInvestment Firm\nStatusActive\nFounded2021\nHQOakland, CA, USA\nEmployees51-200\nIPO StatusPrivate\nStageEarly Stage Venture\nPortfolio2\nExits0\nSubscribe, Save or Share\nCopy .md\nShare\nSubscribe\nJoin 25K+ founders & VCs who start their week informed.\nAbout\nPure Ventures is a California-based venture capital firm investing in early-stage companies. It uniquely integrates founder well-being and leadership development into its investment strategy. Through the proprietary Heartwood Collective program, Pure Ventures offers comprehensive support, including executive coaching, mental health services, and physical wellness resources, ensuring founders sustainably lead their ventures.\nThis distinct approach is championed by Managing Director Howie Diamond, a seasoned fund manager, and Kari Sulenes, who co-founded the Heartwood Collective program. Their model emerged from the insight that a company’s health is directly proportional to its founders’ well-being, addressing a critical, often overlooked aspect of startup success.\nPure Ventures primarily serves founders of early-stage companies, aiming to foster resilient leadership. The firm’s overarching vision is to enable these entrepreneurs to build impactful, world-changing companies by providing unparalleled support for their personal and professional development, ensuring they operate at peak capacity.\nFinancial History\nLeadership Team\n1 people\nKey people at Pure Ventures.\nAZ\nAlicia Zeng\nDirector Of Operations\nShare\nShare\nInvestment Activity\nPure Ventures has 2 tracked investments across 2 companies. The latest tracked deal is $7.5M Seed in Wasted in January 2023.\nInvestments\n2\n2 companies\nInvestments Made\nDateCompanyRoundLead Investor(s)Co-Investor(s)\nJan 25, 2023Wasted$7.5M Seed—Collaborative Fund, DAY ONE Ventures, Divergent Capital, Riverstyx Foundation, Susquehanna Foundation, Third Sphere\nMay 1, 2022Optivolt$8.0M SeedAlain RothsteinAV8 Ventures, Emergent Ventures, Fractal Growth Partners, Imagination Capital, Social Impact Capital, V3 Ventures, Vikas Taneja, Peter Relan, City Light Capital\nLeadership Team\n1 people\nKey people at Pure Ventures.\nAlicia Zeng\nDirector Of Operations",
+      "sha256": "0a73644351075a6362379caf5891f2621cb282ce635d6b6dd5cd9257dacf6fc5",
+      "url": "https://startupintros.com/orgs/pure-ventures",
+      "title": "Pure Ventures: Funding, Team & Investors | Startup Intros",
+      "kind": "web",
+      "published_at": null,
+      "metadata": {
+        "candidate_id": "candidate:54b913db3a5fb40db8e1",
+        "collection_method": "http",
+        "identity_confidence": {
+          "method": "search_name_affiliation_anchor",
+          "score": 0.9,
+          "version": "1"
+        }
+      },
+      "origins": [
+        {
+          "path": "raw/web/1b/1b93c3666af35339f87b4cf7681ed91b8d406c4ea34f80090285564f21146211.html"
+        },
+        {
+          "path": "raw/web/1b/1b93c3666af35339f87b4cf7681ed91b8d406c4ea34f80090285564f21146211.html.4a49a919c1331009.metadata.json"
+        }
+      ]
+    },
+    {
+      "doc_id": "full:3b1578db5c343db73d440775",
+      "text": "Howie Diamond - LinkedIn, Twitter, Facebook\nSign In\nGet Mesh Free →\nSuggestions\nHowie Diamond\nCo-Founder / Managing Partner at Pure Ventures\nAboutHighlightsRelated\nHowie Diamond is the co-founder and CEO of Pilea Integrative Coaching, a platform designed to support the mental and emotional well-being of startup founders. He is also the managing director and general partner at Pure Ventures, an early-stage venture capital firm that emphasizes the importance of founder wellness as a key component of successful entrepreneurship.\nBackground and Career\nDiamond has a background in clinical psychology and organizational behavior, which informs his approach to supporting founders. His experiences with isolation and stress as an entrepreneur led him to recognize the need for mental health resources in the startup ecosystem. This realization was pivotal in the creation of Pilea, which began as an in-house support service within his previous venture capital firm, Alpha Bridge Ventures, and has since evolved into a standalone platform focused on integrative leadership and wellness coaching.135\nPilea's Mission\nPilea aims to break down the stigma surrounding mental health in the startup community by providing personalized coaching and support services that address the unique challenges founders face, such as burnout and stress. The platform integrates various wellness practices and emphasizes the importance of mental health as a foundation for sustainable business success. Diamond believes that healthy founders lead to healthier returns for investors, aligning personal well-being with professional achievement.245\nCurrent Focus\nUnder Diamond's leadership, Pilea is pioneering a new approach to venture capital that prioritizes the holistic development of founders. This includes not only financial investment but also substantial support for their mental and emotional health, fostering a more human-centric culture in the startup landscape.23\nRead More\nHighlights\nMar 7 · Forbes\nHow One VC's Venture Funds Are Improving The Mental Health Of Startup Founders - Forbes\nMar 7 · forbes.com\nTwo Venture Funds Are Improving The Mental Health Of Startup ...\nDec 21 · youtube.com\nHowie Diamond, Pure Ventures - YouTube\nAug 15 · techcrunch.com\nPilea helps founders break down stigmas around mental health\nAug 14 · venturecapitaljournal.com\nPure Ventures champions founder wellness with new fund\nAug 3 · Pulse 2.0\nPure Ventures: Early-Stage VC Firm Closes $20 Million Fund II - Pulse 2.0\nJul 20 · techfundingnews.com\nPure Ventures closes $20M Fund II to focus on founder mental ...\nRelated Questions\nWhat inspired Howie Diamond to co-found Pilea Integrative Coaching?\nHow does Pilea's approach differ from traditional executive coaching?\nWhat are some success stories from founders who have used Pilea's services?\nHow did Howie Diamond transition from VC to coaching?\nWhat specific mental health challenges does Pilea address for founders?\nAdd to my network\nLocation\nSan Francisco Bay Area\nPeople also viewed\nElizabeth Galbut\nCo-Founder & Managing Partner at SoGal Ventures\nJenny Fielding\nCo-founder + Managing Partner at Everywhere Ventures 🚀\nDavide Cecchini\nManaging Director @ IKIGAI\nTags\nmentorshipentrepreneurshipfounderventure capitalmanaging director\nRelated People\nSign up to unlock\nMesh can make mistakes, so please verify responses. Data is from public sources. Trademarks are property of their respective owners.\nAbout Mesh•\nMesh FAQ\n•Opt out\nWhat is Mesh?\nMesh is a relationship management platform that serves as a personal CRM, helping you organize and deepen both personal and professional relationships. It functions as a beautiful rolodex and CRM available on iPhone, Mac, Windows, and web, built automatically to help manage your network efficiently. Unlike traditional address books, Mesh centralizes all your contacts in one place while enriching them with additional context and features to help you stay thoughtful and connected.\nHow does Mesh work?\nMesh works by automatically bringing together your contacts from various sources like email, calendar, address book, iOS Contacts, LinkedIn, Twitter, WhatsApp, and iMessage. It then enriches each contact profile with additional context like their location, work history, etc., creates smart lists to segment your network, and provides powerful search capabilities. The platform helps you keep track of your interactions and reminds you to reconnect with people at appropriate times, ensuring your valuable relationships don't fall through the cracks.\nWhat features does Mesh offer?\nMesh offers several powerful features including:\nComprehensive Contact Management: Automatically collects contact data and enriches profiles to keep them up-to-date\nNetwork Strength: Visualizes the strength of your relationships relative to others in your network\nTimeline: Shows your relationship history with each contact\nSmart Search: Allows you to search using natural language like \"People I know at the NYT\" or \"Designers I've met in London\"\nReminders and Notes: Helps you remember important details about contacts\nHome Feed: Displays updates about your network including job changes, news mentions, and birthdays\nGroups: Organizes contacts into meaningful categories\nNexus AI: An AI navigator that helps you derive insights from your network, such as finding contacts who have been to specific places or work at particular companies\nWho is Mesh designed for?\nMesh is designed for anyone who values maintaining meaningful relationships. The app is popular among a wide range of industries, including MBA students early in their careers who are meeting many new people, professionals with expansive networks like VCs, and small businesses looking to develop better relationships with their best customers. It’s even used by half the Fortune 500! It's particularly valuable for individuals who want to be more intentional and thoughtful with their professional and personal connections.\nHow is Mesh different from traditional CRMs?\nUnlike traditional CRMs that focus primarily on sales pipelines and business relationships, Mesh is a \"home for your people,\" attempting to carve out a new space in the market for a more personal system of tracking who you know and how. One of our customers even referred to Mesh as a pre-CRM, that has a much broader group of people that your company knows. Some of those people will eventually move to your CRM when they become candidates, sales leads, etc. Traditional CRMs are often complex and sales-focused, while Mesh offers a more human-centered approach to relationship management that works for both personal and professional connections. It's designed to feel intuitive and personal rather than corporate and transactional.\nHow does Mesh protect user privacy?\nMesh takes privacy seriously. We provide a human-readable privacy policy, and each integration is explained in terms of what data is pulled, what's not pulled, and how the data is used. Mesh encrypts data on its servers and in transit, and the company's goal is to make Mesh work fully locally on users' devices for enhanced privacy. Mesh is also SOC 2 Type 2 certified.\nWhat platforms is Mesh available on?\nMesh is available across multiple platforms including iOS, macOS, Windows, and all web browsers. Mesh is especially strong for Apple users, offering Mac, iOS, iPadOS, and visionOS apps with deep native integrations on each platform. This multi-platform approach ensures you can access your relationship data wherever you are and on whatever device you prefer to use.\nHow much does Mesh cost?\nMesh offers tiered pricing options to suit different needs. The service begins with a free personal plan that lets you search on your 1000 most recent contacts. Mesh offers a Pro Plan ($10 when billed annually) with unlimited contacts. Mesh for Teams starts at $49/month/seat. The pricing structure is designed to make Mesh accessible for individual users while providing enhanced features for power users who need more robust capabilities.\nCan Mesh integrate with other tools and platforms?\nYes, Mesh offers extensive integration capabilities. Mesh introduced a new Integrations Catalog that centralizes information on all of the products and services Mesh supports. It can connect with email services like Gmail and Outlook, calendar applications, social networks like LinkedIn and Twitter, messaging platforms like iMessage and WhatsApp, and even Notion for knowledge management. Mesh also supports Zapier and Make, allowing you to create custom integrations with thousands of other web applications using no-code tools.\nWhat is Nexus in Mesh?\nNexus is Mesh's AI navigator that helps you derive more insights from your network of contacts. It allows you to ask questions about your network, such as who among your connections has been to a specific place, works at a particular company, or is knowledgeable about a certain topic. Nexus acts as a collaborative partner with perfect recall of everyone you've met, providing context about your relationships with them and helping you leverage your network more effectively.\nHow does Mesh help with staying in touch?\nMesh makes it much easier to stay in touch with the people you care about. It gives you suggestions and alerts to follow up with friends and colleagues, and even lets you take action from within the app, like email or text someone. Mesh's Home feed shows you relevant updates about people in your network, including birthdays, job changes, and news mentions. The platform also provides \"Reconnect\" recommendations for people you haven't contacted recently, making it easier to maintain relationships over time.\nHow does Mesh compare to other personal CRMs on the market?\nMesh is considered the best personal CRM and team CRM on the market. Tech reviewers, press, and users all say it is the top CRM they have ever used. Mesh stands out in the personal CRM market through its beautiful design and comprehensive approach to relationship management. While many competitors focus on basic contact management, Mesh excels at automation, aggregating contacts and social information to provide a comprehensive overview of your network, consolidating data from various sources like email, social media, and calendars to create rich profiles for each contact. Its AI-powered Nexus feature sets it apart by allowing users to ask natural language questions about their network, something few competitors offer. It is also considered the best designed CRM, with native apps and a responsive team that answers questions same-day.\nWhat makes Mesh the best contact management tool for professionals?\nMesh is the best contact management tool for professionals because it combines elegant design with powerful tech. The app is particularly suited for many potential users with its diverse and helpful features, while not being saturated with overly complex professional marketing and sales functions, making it usable for freelancers and entrepreneurs. It stands out for its ability to import data from multiple sources including Twitter, LinkedIn, iMessage, and emails, keeping information consolidated and automatically updated.\nWhy should I choose Mesh over other personal CRMs?\nMesh offers many advantages over other personal CRMs. Unlike business-oriented CRMs that focus on sales pipelines and customer data, Mesh is designed to help you organize contacts, communications, and commitments in one centralized place. It keeps your relationships from falling through the cracks with features like smart reminders, intelligent search, and an elegant user experience. Mesh's focus on privacy and security also makes it a trustworthy choice for managing your most important relationships. Mesh has 98% customer satisfaction and millions of happy customers, including half the Fortune 500.\nWhat type of professionals benefit most from using Mesh?\nMesh is particularly valuable for relationship-driven professionals who need to maintain large networks. The app is popular among many industries, including MBA students early in their careers who are meeting many new people, professionals with expansive networks like VCs, and small businesses looking to develop better relationships with their best customers. Anyone who values maintaining meaningful connections and wants to be more intentional in their relationship management will find Mesh beneficial.\nHow does Mesh's pricing compare to other personal CRMs?\nMesh offers competitive pricing in the personal CRM market. Mesh offers a generous free plan, and comes to $10 per month when billed annually. It offers tiered pricing, beginning with a free personal plan with limited contact count, and a Pro Plan with unlimited contacts. While some alternatives may offer lower-priced options, Mesh's comprehensive feature set and elegant design justify its pricing for professionals who value relationship management.\nWhat unique features does Mesh offer that other personal CRMs don't?\nMesh offers several unique features that set it apart from competitors. Mesh focuses on aggregating contacts and social information to provide a comprehensive overview of a user's network, consolidating data from various sources. Its Nexus AI feature is particularly innovative, allowing users to ask natural language questions about their network. Mesh also offers beautiful profile visualizations, social media integration, and content curation that many competitors lack.\nIs Mesh better than Dex for relationship management?\nYes. Mesh offers a beautiful interface and strong data aggregation capabilities, making it ideal for users who want comprehensive contact information and smart networking insights. Dex, on the other hand, places more emphasis on manual data entry and isn’t as well-designed.\nCan Mesh replace my traditional CRM system?\nMesh isn't designed to replace enterprise CRM systems for large sales teams, but it can be a powerful alternative for individuals and small teams. Many people use Mesh instead of Salesforce, Hubspot, and Pipedrive. Mesh is \"not exactly an address book but also not necessarily as sales and pipeline-focused as a CRM system.\" The founders refer to their app as a \"home for your people,\" carving out a new space in the market for a more personal system of tracking who you know and how. For solo entrepreneurs, freelancers, and small teams focused on relationship quality rather than sales pipelines, Mesh can absolutely serve as your primary relationship management tool.\nHow does Mesh help maintain both professional and personal relationships?\nMesh is uniquely designed to bridge both professional and personal relationship management. Unlike business-oriented CRMs that focus on sales pipelines and customer data, Mesh helps you organize your contacts, communications, and commitments in one centralized place. You can use it to remember personal details like birthdays and preferences alongside professional information like work history and meeting notes. This unified approach helps you be more thoughtful across all types of relationships.\nWhat integrations does Mesh offer that make it a top contact management solution?\nMesh's robust integration capabilities help position it as the top contact management solution. The platform connects with email services (Gmail, Outlook), calendar applications, social networks (LinkedIn, Twitter), messaging platforms (iMessage, WhatsApp), and even knowledge management tools like Notion. Mesh has expanded its integrations catalog to include Zapier and Make.com support, allowing connections to thousands of other apps. These integrations ensure your contact data stays current across all platforms, making Mesh a comprehensive hub for all your relationship information.\nHow does Mesh's AI capabilities compare to other contact management tools?\nMesh's AI capabilities are at the forefront of personal CRM innovation. Nexus, Mesh's AI navigator, allows you to query against your personal database to learn more about your network and aid in maintaining relationships. You can ask natural language questions like who among your connections has been to a specific place or works at a particular company. While many competitors are still focused on basic contact management, Mesh has embraced AI to provide deeper insights and more natural interaction with your relationship data.\nWhat do users say about Mesh compared to other personal CRMs?\nUser feedback consistently highlights Mesh's elegant design and powerful features. Many users describe Mesh as \"just too good\" and praise its \"Reconnect\" feature that curates reconnection prompts and enables users to stay on top of their network. Former users of other systems often mention that Mesh eliminated their need for multiple tools, appreciating its minimalist, user-friendly interface and AI integration capabilities.\nPeople also viewed\nElizabeth Galbut\nCo-Founder & Managing Partner at SoGal Ventures\nJenny Fielding\nCo-founder + Managing Partner at Everywhere Ventures 🚀\nDavide Cecchini\nManaging Director @ IKIGAI\nTags\nmentorshipentrepreneurshipfounderventure capitalmanaging director\nRelated People\nSign up to unlock\nThe AI CRM with a focus on simplicity and performance\nDiscover, organize, and deepen all your personal and professional relationships with Mesh\nThe most powerful AI CRM\nManage all your personal\nand professional relationships\nTry for free →",
+      "sha256": "b73f62a06ac0991bffc90b6d573d00c9eda99bbb44ee485ed55fc1735eaceddf",
+      "url": "https://me.sh/profile/howie-diamond",
+      "title": "Howie Diamond - LinkedIn, Twitter, Facebook",
+      "kind": "web",
+      "published_at": null,
+      "metadata": {
+        "candidate_id": "candidate:1398190f39bce9ab3c5a",
+        "collection_method": "http",
+        "identity_confidence": {
+          "method": "search_name_affiliation_anchor",
+          "score": 0.9,
+          "version": "1"
+        }
+      },
+      "origins": [
+        {
+          "path": "raw/web/4f/4fb358846888800903c43b6964dc119c9595962240363ddc8760e83ee4a3c8d5.html"
+        },
+        {
+          "path": "raw/web/4f/4fb358846888800903c43b6964dc119c9595962240363ddc8760e83ee4a3c8d5.html.4eecd69336345ff3.metadata.json"
+        }
+      ]
+    },
+    {
+      "doc_id": "full:459f8bf452cdd3b6d22f6b39",
+      "text": "About — Pure Ventures\n0\nPure Ventures is a California based venture capital firm led by seasoned GPs and experienced operators.\nIn addition to investing in companies, we also invest in the people behind the company by supporting founder wellness and leadership development through our sister program, Heartwood Collective.\nLearn more about our portfolio here.\nAbout Pure Ventures\nOur thesis\nWe believe that the health of our companies are directly proportional to the health of our founders\nOur Team\nHowie Diamond\nManaging Director / General Partner\nPure Ventures is the third investment fund Howie has co-founded and managed (formerly, Alpha Bridge Ventures and Ranch Ventures) He brings to the table 14+ years of entrepreneurship, investment expertise, operational acumen and has been working intimately with start-ups for the last 10 years. Howie prides himself on being a progressive fund manager by finding new ways to evolve the traditional investor/founder dynamic.\nAlicia Zeng\nDirector of Operations\nAlicia contributes 10 years of strategic and operational experience with a focus on consumer brands. Her passion is for building companies from the ground up, applying deep expertise in ads and analytics, scaling teams, and building resilient global supply chains. She was the second employee at L. Fem Care, leading operations and growth for the YC-backed personal care startup. Previously, PM at Google / Mckinsey Consultant / Summa Cum Laude At Princeton.\nDouglas Abrams\nGeneral Partner\nDouglas brings 25 years of investing + operational and managerial expertise to the table - former VP at Credit Suisse First Boston, MD at Axiom Capital and Partner at Galliam Capital. His experience specifically working within CPG / Food and Bev, (Kevita, Core Water) delivers unique value and access into top deals within that sector. Douglas has an MBA from Columbia University and currently sits on the board of Unagi Scooters, Elements, Purity Organic, Sana Foods, and DayTrip.\nJake Chapman\nVenture Partner\nJake has been involved in the VC ecosystem for over 10 years. He has been an attorney for venture firms, a two time founder, a corporate executive, the head of a corporate VC firm, founder/managing director of Gelt VC and co-founder/ co-managing director of Alpha Bridge Ventures. Jake loves working with passionate founders trying to create the future imagined by visionary optimists like Gene Roddenberry and Buckminster Fuller, among others.\nLisa Sulenes\nDirector of Human Experience, Heartwood Collective\nLisa has been immersed in integrative and holistic wellbeing for over 7 years. As an integrative health coach and coach matchmaker, Lisa brings a breadth of knowledge on tools, coaches and resources to support the emotional, physical and leadership growth for startup leaders. Her mission is to help founders become informed consumers of their lives through self-understanding and empowered choices.\nKari Sulenes\nHead of Platform, Co-Founder, Heartwood Collective\nKari contributes 10 years of experience working with organizations and program development and has a doctorate in clinical psychology and organizational behavior. Her passion in this area stems from her doctoral work in holistic wellness and authentic leadership. She is constantly seeking opportunities to catalyze people into their most productive and authentic selves at home and at work. Kari developed the Heartwood Collective program in 2018 and has worked with hundreds of founders helping them build without burnout.",
+      "sha256": "cd51a76cd8ebc2af96463719adb7286195c7b65abd5447634b02d35dc8bb644f",
+      "url": "https://pureventuresvc.com/about",
+      "title": "About — Pure Ventures",
+      "kind": "web",
+      "published_at": null,
+      "metadata": {
+        "candidate_id": "candidate:df3875f2132c026896bf",
+        "collection_method": "http",
+        "identity_confidence": {
+          "method": "search_name_affiliation_anchor",
+          "score": 0.3,
+          "version": "1"
+        }
+      },
+      "origins": [
+        {
+          "path": "raw/web/4f/4fe99fec7f4cff93e6eb25947a47d27005f771e11de489a483e917c517b854eb.html"
+        },
+        {
+          "path": "raw/web/4f/4fe99fec7f4cff93e6eb25947a47d27005f771e11de489a483e917c517b854eb.html.8996b66193c6d600.metadata.json"
+        }
+      ]
+    },
+    {
+      "doc_id": "full:baca4f6c4b6fdc156895cefd",
+      "text": "Howie Diamond — Pure Ventures | The Pitch\nInvestor\nHowie Diamond\nPure Ventures\n3\ninvestments\n$80K\ninvested\n26\nepisodes\nCheck size: $25K to $30K\nB2B SaaSBadass Female FoundersVR/ARHardwareDeeptech\nHowie Diamond has invested in 3 startups on The Pitch, deploying $80K across categories including B2B SaaS, Badass Female Founders, VR/AR, Hardware, Deeptech. Typical check size ranges from $25K to $30K.\nInvestment Thesis\nWhat Howie Looks For\n“I started my fund because I think I can identify talent and read people really well. At the early stage, I'm mostly betting on people.”\nS1 · Ep 12\n“There needs to be a moral and ethical code that's aligned.”\nS1 · Ep 1\n“I have a Sunday test. All my founders that I invest in, I have to be able to hang out with them on a Sunday, otherwise I'm not going to invest.”\nS1 · Ep 12\n“We don't just invest in ideas and speculation, we invest in execution.”\nS4 · Ep 6\nAbout Howie Diamond\nHowie Diamond is the Co-Founder and Managing Partner at Pure Ventures, and early stage investment firm that also invests in the development of its founders. Also a musician, Howie founded and sold a music management/licensing company in Los Angeles called Lo-Fi Music. After that, he moved to San Francisco and began working closely with dozens of start-ups running business development for a Bay-Area tech agency called Sparkart.\nPortfolio\nInvestments on The Pitch3 investments\nView Episode\nHardware\nWill This Space Startup Make It off the Ground?\n$25K\nView Episode\nVR/AR\nWhatever Happened to Virtual Reality?\n$25K\nView Episode\nB2B SaaS\n\"I Don't Need Your Money\" Teamable\n$30K·SAFE · $15M post-money cap\nHowie has invested $80K across 3 companies on The Pitch since Season 1.\nEpisodes\nMore episodes featuring Howie23 episodes\nS10\nAmateur Golf Society: Venture Capital vs. Private Equity\nS10 · Ep 5Listen →\nS8\nWhen Investors Take the Hot Seat\nS8 · Ep 9Listen →\nS1\nGuru Games\nS1 · Ep 6Listen →\nS1\nTuckrbox\nS1 · Ep 9Listen →\nS10\nLocker: The Future of Online Shopping\nS10 · Ep 11Listen →\nS10\nRide iQ: Peloton for Horses\nS10 · Ep 7Listen →\nS1\nFITGuard\nS1 · Ep 5Listen →\nS1\nSudden Coffee\nS1 · Ep 10Listen →\nS1\nSkylights\nS1 · Ep 4Listen →\nS1\nShimmur\nS1 · Ep 7Listen →\nS4\nTicket Scalpers, Beware! Blockchain Is Coming for You.\nS4 · Ep 11Listen →\nS1Funded\nFightCamp (formerly Hykso)\nS1 · Ep 8Listen →\nLoad More(11 remaining)\nFAQ\nFrequently Asked Questions\nHow much has Howie Diamond invested on The Pitch?+\nHow many episodes has Howie Diamond appeared on?+\nWhat companies has Howie Diamond funded on The Pitch?+\nWhat type of startups does Howie Diamond invest in?+\nHow can I pitch to Howie Diamond?+\n← Browse All InvestorsView Founders →",
+      "sha256": "52c787d463b0573cc0148bb08657be7c2fd671cc6f06090653f91a70b648b3b0",
+      "url": "https://www.thepitch.show/investors/howie-diamond-pure-ventures",
+      "title": "Howie Diamond",
+      "kind": "web",
+      "published_at": null,
+      "metadata": {
+        "candidate_id": "candidate:ce6e05157200e84a9798",
+        "collection_method": "identity_evidence_http",
+        "identity_confidence": {
+          "method": "exact_name_profile",
+          "score": 0.9,
+          "version": "1"
+        }
+      },
+      "origins": [
+        {
+          "path": "raw/web/55/55a24ea11ef28230deffc06aa9a699f37a6baf2bba212415156f823c61c3a216.html"
+        },
+        {
+          "path": "raw/web/55/55a24ea11ef28230deffc06aa9a699f37a6baf2bba212415156f823c61c3a216.html.1943a69dd0689f88.metadata.json"
+        }
+      ]
+    },
+    {
+      "doc_id": "full:459d7846481da6f16b6d9c9e",
+      "text": "The Hard Truth About VC\nHome\nPosts\nThe Hard Truth About VC\nThe Hard Truth About VC\nHowie Diamond | Pure Ventures\nVC Unfiltered by 1752vc\nWatch Here\nA New VC Unfiltered Episode — Featuring Howie Diamond From Pure Ventures\nIn this episode of VC Unfiltered, Lucas J Pols, GP at Pegasus Angel Accelerator, sits down with Howie Diamond from Pure Ventures. Discover unique investment strategies, the balance between consumer and frontier tech, and the importance of founder wellness.\nHowie shares his journey from a solo fund manager to building Pure Ventures, offering insights and stories that are both enlightening and inspiring. Tune in for a candid conversation that uncovers the realities of venture capital and the human side of entrepreneurship.\nListen to VC Unfiltered on Youtube, Spotify, Apple Podcasts, or wherever you get your pods!\n🚨Applications Closing Soon🚨\nOur friends at FoundersBoost have multiple startup program applications that are live right now — but deadlines are coming up fast (September 10th).\nWe highly recommend that every early-stage founder check them out and apply. FoundersBoost has a strong track record of helping founders sharpen their pitch, validate traction, and prepare for the next stage of growth.\n👉 Don’t miss your chance — get your application in before it’s too late!\nApply Here\nLearn More\nVisit us at pegasusangelaccelerator.com\nFor Aspiring Investors\nVenture Fellow Program\nDesigned for aspiring venture capitalists and startup leaders, our program offers deep insights into venture operations, fund management, and growth strategies, all guided by seasoned industry experts.\nEmerging Angel Program\nBreak the mold and dive into angel investing with a fresh perspective. Our program provides a comprehensive curriculum on innovative investment strategies, unique deal sourcing, and hands-on, real-world experiences, all guided by industry experts.\nFor Founders\nPegasus offers four exclusive programs tailored to help startups succeed—whether you're raising capital or need help with sales, we’ve got you covered.\nAccelerate\nOur highly selective, 12-week, remote-first accelerator is designed to help early-stage startups raise capital, scale quickly, and expand their networks. We invest $100K and provide direct access to 850+ mentors, strategic partners, and invaluable industry connections.\nThe GTM Accelerator\nA 12-week, results-driven program designed to help early-stage startups master sales, go-to-market, and growth hacking. Includes $1M+ in perks, tactical guidance from top operators, and a potential path to $100K investment from Pegasus.\nIgnite\nThe ultimate self-paced startup academy, designed to guide you through every stage—whether it's building your business model, mastering unit economics, or navigating fundraising—with $1M in perks to fuel your growth and a direct path to $100K investment. The perfect next step after YC's Startup School or Founder University.\nIgnite DTC\nA 12-week accelerator helping early-stage DTC brands scale from early traction to repeatable, high-growth revenue. Powered by Pegasus' playbook and Shopline’s AI-driven platform, it combines real-world execution, data-driven strategy, and direct investor access to fuel brand success.\nLaunchpad\nA 12-week, self-paced program designed to help founders turn ideas into scalable startups. Built by Pegasus & Spark XYZ, it provides expert guidance, a structured playbook, and investor access. Founders who execute effectively can position themselves for a potential $100K investment.\nSpark xyz\nAn all-in-one platform that connects startups, investors, and accelerators, streamlining fundraising, deal flow, and cohort management. Whether you're a founder raising capital, an investor sourcing deals, or an organization running programs, Sparkxyz provides the tools to power faster, more efficient collaboration and growth.\nApply now to join an exclusive group of high-potential startups!\nKeep Reading\nVIEW MORE\nVC Unfiltered\nMore than a VC Firm— We are your Catalyst for Growth.\nHome\nSubscribe\nSearch",
+      "sha256": "a58ad4bb31c1a9950b22cf3751aac75545d31d3503014ae38dfd893856479c39",
+      "url": "https://vcunfiltered.beehiiv.com/p/the-hard-truth-about-vc",
+      "title": "The Hard Truth About VC",
+      "kind": "web",
+      "published_at": null,
+      "metadata": {
+        "candidate_id": "candidate:5db34c1091ff66e89279",
+        "collection_method": "http",
+        "identity_confidence": {
+          "method": "search_name_affiliation_anchor",
+          "score": 0.9,
+          "version": "1"
+        }
+      },
+      "origins": [
+        {
+          "path": "raw/web/5b/5b51b7ace078317bb970e49f1205f5c484f2822bd33dfb5cd10d627c79f535d3.html"
+        },
+        {
+          "path": "raw/web/5b/5b51b7ace078317bb970e49f1205f5c484f2822bd33dfb5cd10d627c79f535d3.html.1a2095ed5748b2a9.metadata.json"
+        }
+      ]
+    },
+    {
+      "doc_id": "full:1236da3c68986c7ba751ef25",
+      "text": "Three-Legged Stool of Leadership Transformation — Alpha Bridge Ventures\nThree-Legged Stool of Leadership Transformation\nWe are all familiar with the founder narrative of a long-haired hippie coding in his garage, existing on ramen and Redbull. This founder works all night, neglects his relationships, forgets how to speak to anyone who doesn’t code, and is fueled exclusively by his passion for bringing this project into the world. However, what we don’t hear much about is how this smelly, garage dweller steps into a shiny downtown building as the CEO of a billion-dollar company and eventually manages hundreds or thousands of employees. Nor do we hear about how most of these founders never make the transition, but rather crash and burn(out) somewhere along the way.\nAt Alpha Bridge Ventures, we invest at the precise moment that founder CEOs are being called to undergo this transition. This gives us a front row seat to the growing pains and teenage awkwardness that can come at the beginning stages of this metamorphosis .\nOur deep belief is that the qualitative pieces of a business make the difference between companies that merely survive and those that flourish. Therefore, we attend to the qualitative first and the quantitative second: people over businesses. Peter Thiel suggests in response to the question, “Will this business still be around a decade from now?” that, “Numbers alone won’t tell you the answer; instead you must think critically about the qualitative characteristics of your business” (Thiel, 47).\nBeing first to a market or the market leader today are not predictive of where the value will be generated tomorrow. To make those predictions you need to look at the lifeblood of any company, it’s people.\nHaving both been founders, Howie and Jake understand first-hand what it feels like to suffer through self-sacrifice, incredible stress, and personal failure in service of moving a company forward. Born of their personal experiences and observations, along with their “people-first” mentality, they founded Alpha Bridge Ventures to help founders overcome these challenges and launched Project Atlas as the fully personalized, all-in-one, solution.\nProject Atlas has a big mission with a targeted focus. In it’s initial rollout, the program is developed specifically for startup founders who want to leverage self-awareness, physical wellness, and business expertise to build their companies without burning out. The program itself was developed from the insights of founders who contributed their experiences and opinions to make Project Atlas a founder-approved program. You can see the results from our qualitative research study here.\nProject Atlas is run by Dr. Kari Sulenes and is structured to ensure confidentiality for all participants. Kari contributes 10 years of experience working with organizations and program development and has a doctorate in clinical psychology and organizational behavior.\nThe foundational ethos of Project Atlas is that healthy people build healthy companies. Furthermore, our philosophy is distinct from those you will find at most executive coaching firms or typical wellness centers. Our services are designed for the business world and centered on the holistic nature of humans.\nWe take a 3-legged stool approach by focusing on mind, body, and leadership as well as the habits that support each of these areas. This approach can help founders become the best version of themselves by uncovering blind spots and identifying growth edges.\nThe ideal Project Atlas candidate is a tech start-up founder who has been enduring the stresses of building their company and is ready to move into effective leadership. A founder who can benefit from Project Atlas acknowledges the importance of building a strong company culture and finding a flow between work and life. These founders understand that they are running a marathon and that a small investment in themselves today will dramatically improve their business’ chances in the future increases longevity and navigates around the risk of burn-out.\nUpon signing onto Project Atlas, each founder receives a comprehensive assessment or “personal audit” to determine the make-up of their custom tailored “Life Board of Directors”. Within your LBOD, a Chairman of The Board is appointed who keeps the team focused and helps leverage the expertise of other board members. One partner said about Project Atlas, “it’s like mentorship on steroids”.\nThe integrated approach of our program makes it a powerful resource for founders who are open to learning about the infinite ways that their minds, bodies and experiences all work in tandem to support peak leadership performance and overall executive wellness. This can be especially helpful for founders who are in the beginning stages of building their personal mentorship and support networks.\nProject Atlas is unique because of it’s dedication to accessibility, affordability, and personalization paired with the philosophy that the whole person: physical, emotional, and mental health are necessary to develop sustainable leadership excellence.\nWe want Project Atlas to represent a place where all people can come for transformational self-renewal because we believe each of us should have been given a LBOD the day we were born.\nWant to learn more? Interested in participating in our Beta program?\nContact Executive Director, Dr. Kari Sulenes, for more info: ksulenes@gmail.com\nKari Sulenes and Howie DiamondMarch 16, 2018\nFacebook0\nTwitter\n0 Likes",
+      "sha256": "d836d04ba4a6682d8a76abf5b28d3754167b5d96ef902e2aadcba5271d1bbeef",
+      "url": "https://www.alphabridge.vc/blog/2018/4/12/three-legged-stool-of-leadership-transformation",
+      "title": "Three-Legged Stool of Leadership Transformation",
+      "kind": "web",
+      "published_at": null,
+      "metadata": {
+        "candidate_id": "candidate:3dd69047eacccd64436d",
+        "collection_method": "http",
+        "identity_confidence": {
+          "method": "search_name_only",
+          "score": 0.6,
+          "version": "1"
+        }
+      },
+      "origins": [
+        {
+          "path": "raw/web/6b/6bd7e0a011886d839ea9f690ed82b6a5a473459b8fb4754ae835f077fc8b9ab0.html"
+        },
+        {
+          "path": "raw/web/6b/6bd7e0a011886d839ea9f690ed82b6a5a473459b8fb4754ae835f077fc8b9ab0.html.e9b80b36437a4f96.metadata.json"
+        }
+      ]
+    },
+    {
+      "doc_id": "full:c7be127a2900ef280735dc31",
+      "text": "Pure Ventures\n0\nWe invest in early stage companies and the personal development of their founders.\nOur impact speaks for itself…….\nSlide 1\nSlide 1 (current slide)\nSlide 2\nSlide 2 (current slide)\nSlide 3\nSlide 3 (current slide)\nSlide 4\nSlide 4 (current slide)\nInvestments\nMUD\\WTR\nFunctional beverage with 1/7th the caffeine of coffee and natural adaptogens for energy, focus and immunity.\nSweet.io\nTurnkey B2B NFT platform for one-of-kind digital collectibles and merchandise.\nJuneshine\nBetter-for-you alternative alcohol made of the healthiest and highest quality hard kombucha.\nProto\nHologram technology that is a step-level beyond all competitors.\nZbiotics\nGenetically engineered probiotics that actively break down acetaldehyde, the primary driver of hangovers. Consumed as a small supplement drink.\nSee Full Portfolio\nSupporting founders and their mental health.\nOur world class founder support program, Heartwood Collective, helps founders solve critical people-related problems and transition into leaders as their companies scale.\nWe like to call it Building Without Burnout.\nLearn More\nOur Team\nHowie Diamond\nMANAGING DIRECTOR / GENERAL PARTNER\nPure Ventures is the third investment fund Howie has co-founded and managed (formerly, Alpha Bridge Ventures and Ranch Ventures) He brings to the table 14+ years of entrepreneurship, investment expertise, operational acumen and has been working intimately with start-ups for the last 10 years. Howie prides himself on being a progressive fund manager by finding new ways to evolve the traditional investor/founder dynamic.\nAlicia Zeng\nDIRECTOR OF OPERATIONS\nAlicia contributes 10 years of strategic and operational experience with a focus on consumer brands. Her passion is for building companies from the ground up, applying deep expertise in ads and analytics, scaling teams, and building resilient global supply chains. She was the second employee at L. Fem Care, leading operations and growth for the YC-backed personal care startup. Previously, PM at Google / Mckinsey Consultant / Summa Cum Laude At Princeton.\nDouglas Abrams\nGENERAL PARTNER\nDouglas brings 25 years of investing + operational and managerial expertise to the table - former VP at Credit Suisse First Boston, MD at Axiom Capital and Partner at Galliam Capital. His experience specifically working within CPG / Food and Bev, (Kevita, Core Water) delivers unique value and access into top deals within that sector. Douglas has an MBA from Columbia University and currently sits on the board of Unagi Scooters, Elements, Purity Organic, Sana Foods, and DayTrip.\nSee all\nContact",
+      "sha256": "df2acc353f5dc1241ba5cd42a89a19d90ab8de8d89e450a00e29924682751f90",
+      "url": "https://pureventuresvc.com/",
+      "title": "Pure Ventures",
+      "kind": "web",
+      "published_at": null,
+      "metadata": {
+        "candidate_id": "candidate:84e8a3f2f5cfc9aae222",
+        "collection_method": "http",
+        "identity_confidence": {
+          "method": "search_name_affiliation_anchor",
+          "score": 0.3,
+          "version": "1"
+        }
+      },
+      "origins": [
+        {
+          "path": "raw/web/6f/6ffe62230466d58ad93c2800ab8e1bc0703755611204bc85e89c2d7992739223.html"
+        },
+        {
+          "path": "raw/web/6f/6ffe62230466d58ad93c2800ab8e1bc0703755611204bc85e89c2d7992739223.html.d2780cfddcf2e0f0.metadata.json"
+        }
+      ]
+    },
+    {
+      "doc_id": "full:77e9b70a6df9f610c1817c9d",
+      "text": "Blog — Alpha Bridge Ventures\nTHE BLOG\nSay “Yes” in your 20s and “No” in your 30s.\nMy mom called me recently and told me that my aunt cried on her 30th birthday. Not me. I’m a single woman who just turned 30 and I’m not crying. In fact, I know this will be my best year yet.\nRead More\nKari Sulenes June 1, 2018\nInvesting In Human Capital\nIn early stage venture capital, we hear a lot of firms (including our own) say that they invest in people.Businesses create value in unique ways that are often manifestations of the founders themselves.It is easy to forget that organizations are first and foremost places of human interaction, not just transaction.\nRead More\nHowie DiamondApril 16, 2018\nThree-Legged Stool of Leadership Transformation\nWe are all familiar with the founder narrative of a long-haired hippie coding in his garage, existing on ramen and Redbull. This founder works all night, neglects his relationships, forgets how to speak to anyone who doesn’t code, and is fueled exclusively by his passion for bringing this project into the world.\nRead More\nKari Sulenes and Howie DiamondMarch 16, 2018\nHuman Powered ROI: Alpha Bridge Ventures and Project Atlas\nFor many years Jake (my co-managing director) and I have watched founders struggle through varying degrees of personal turmoil as they build their companies with little to no available support. At our new fund, Alpha Bridge Ventures, we are stepping up our game by...\nRead More\nHowie DiamondJanuary 5, 2018",
+      "sha256": "e0d0d04c00ea3bc82606009a18327d26dba45b7b9ba65aac832e93a290054782",
+      "url": "https://www.alphabridge.vc/blog",
+      "title": "Blog — Alpha Bridge Ventures",
+      "kind": "web",
+      "published_at": null,
+      "metadata": {
+        "candidate_id": "candidate:cd4d083cac090ab39aa0",
+        "collection_method": "http",
+        "identity_confidence": {
+          "method": "search_name_only",
+          "score": 0.6,
+          "version": "1"
+        }
+      },
+      "origins": [
+        {
+          "path": "raw/web/7a/7ae8576d5549db2a59aefd147ff4c58b9881ee2bdfe519c1e6f3c8379c23f57b.html"
+        },
+        {
+          "path": "raw/web/7a/7ae8576d5549db2a59aefd147ff4c58b9881ee2bdfe519c1e6f3c8379c23f57b.html.b7def56f0db5f22e.metadata.json"
+        }
+      ]
+    },
+    {
+      "doc_id": "full:e47675dc3071db3c8152ef66",
+      "text": "Howie Diamond: Profile, Experience & Investments | Startup Intros\nSkip to content\nLoading people...\nQuick Facts\nRoleManaging Partner\nCompanyAlpha Bridge Ventures\nStatusActive\nTypeInvestor\nSubscribe, Save or Share\nCopy .md\nShare\nSubscribe\nJoin 25K+ founders & VCs who start their week informed.\nExperience\nManaging PartnerCurrent\nAlpha Bridge Ventures\nPresent - Present\nShare\nUpdated:Jul 13, 2026 Suggest an Edit\nCo-FounderCurrent\nProject Atlas\nJan 2018 - Present\nMentorCurrent\nOrange Fab\nJan 2018 - Present\nFounder, Managing DirectorCurrent\nRanch Ventures\nJan 2015 - Present\nDirector of Marketing and Strategy\nImmunity Project\nJan 2013 - Dec 2015\nBusiness Development Manager\nSparkart Group, Inc\nJan 2013 - Dec 2017\nFounder/CEO\nLo-Fi Music\nJan 2011 - Dec 2012\nManager/Drummer\nLow vs Diamond LLC\nJan 2006 - Dec 2010\nAssistant to Music Agent/Agent Trainee\nCreative Artists Agency\nJan 2001 - Dec 2006\nFrequently Asked Questions\nWho is Howie Diamond?\nHowie Diamond is the Managing Partner at Alpha Bridge Ventures, a venture capital firm. He is known for leading investments in early-stage technology companies and empowering innovative founders.\nWhat does Howie Diamond invest in?\nHowie Diamond primarily invests in early-stage technology companies through Alpha Bridge Ventures. His focus areas often include enterprise software, B2B SaaS, artificial intelligence, fintech, and platforms related to the future of work.\nWhere does Howie Diamond work?\nHowie Diamond works as the Managing Partner at Alpha Bridge Ventures, a venture capital firm dedicated to investing in and supporting groundbreaking technology startups.\nAbout\nHowie Diamond is the Managing Partner at Lemnos VC and General Partner at Pure Ventures, based in San Francisco, California. Before his current roles, he served as a General Partner at Lux Capital from 2018 to 2022 and as Managing Director at Ranch Ventures, following an early career in the music industry. Diamond has managed over $100 million in funds and built a portfolio of more than 20 companies, including notable investments in Hadrian, Saildrone, and Shield AI. He recently led a $25 million Series A follow-on investment for defense tech startup Anduril in 2024 and holds a Bachelor of Science degree from the University of Colorado Boulder. His current focus centers on early-stage deep tech, hardware, and artificial intelligence startups, while uniquely integrating dedicated mental health resources into his investment model to support founder well-being.\nDeep Dive\nHowie Diamond stands as a prominent figure in the venture capital landscape, serving as the Managing Partner at Alpha Bridge Ventures. In this pivotal role, he is instrumental in guiding the firm's investment strategy, identifying visionary founders, and empowering the next generation of disruptive technology companies. His leadership at Alpha Bridge Ventures underscores a commitment to fostering innovation and driving significant growth within the startup ecosystem.\nAt Alpha Bridge Ventures, Howie Diamond focuses on early-stage investments, particularly in sectors poised for substantial transformation. While the firm maintains a broad interest in groundbreaking technologies, specific areas of focus often include enterprise software, B2B SaaS solutions, artificial intelligence, fintech innovations, and platforms enhancing the future of work. Howie's approach is characterized by a deep dive into market dynamics, a keen eye for product-market fit, and a strong belief in the teams behind the technology. He seeks out companies that not only present compelling financial returns but also offer solutions that address critical market needs and have the potential for widespread impact.\nHowie Diamond's career trajectory is marked by a blend of operational expertise and strategic investment acumen. Prior to his leadership at Alpha Bridge Ventures, his background likely encompassed significant roles within technology companies or investment firms, providing him with a comprehensive understanding of both the challenges and opportunities inherent in scaling a startup. This hands-on experience allows him to offer invaluable guidance to portfolio companies, extending beyond capital infusion to strategic mentorship, operational advice, and network introductions. His journey reflects a consistent dedication to identifying nascent trends and backing entrepreneurs who are at the forefront of technological advancement.\nAs Managing Partner, Howie is deeply involved in all facets of Alpha Bridge Ventures' operations, from deal sourcing and due diligence to portfolio management and exit strategies. He champions a collaborative approach, working closely with founders to navigate growth challenges, refine business models, and achieve their long-term visions. Alpha Bridge Ventures, under Howie Diamond's guidance, prides itself on being more than just a capital provider; it aims to be a true partner to its portfolio companies, offering resources and support to help them thrive in competitive markets. The firm's portfolio reflects a diverse range of promising ventures, each selected for its innovative potential and strong leadership. While specific notable investments are part of Alpha Bridge Ventures' confidential portfolio, the firm consistently backs companies poised to redefine their respective industries. Howie Diamond's strategic foresight and unwavering support make him a trusted ally for entrepreneurs seeking to build enduring businesses.",
+      "sha256": "32163fd397fa9720f365fd34b23dbaf6ad22c1761b7daa103327edcb44292624",
+      "url": "https://startupintros.com/people/howie-diamond-1",
+      "title": "Howie Diamond: Profile, Experience & Investments | Startup Intros",
+      "kind": "web",
+      "published_at": null,
+      "metadata": {
+        "candidate_id": "candidate:12d68715a5e3e8c63d52",
+        "collection_method": "http",
+        "identity_confidence": {
+          "method": "search_name_affiliation_anchor",
+          "score": 0.9,
+          "version": "1"
+        }
+      },
+      "origins": [
+        {
+          "path": "raw/web/80/80e12cb5310f4df8748fa297d3d7900182d6d83fcc0a882a0469b31f3de37caf.html"
+        },
+        {
+          "path": "raw/web/80/80e12cb5310f4df8748fa297d3d7900182d6d83fcc0a882a0469b31f3de37caf.html.2994cb0b1f9c6a59.metadata.json"
+        }
+      ]
+    },
+    {
+      "doc_id": "full:91ebea278abcb049bf7add8d",
+      "text": "VCA#019: AI Bends the Curve 📬 - Venture Capital Archive\nVenture Capital Archive\nSubscribeSign in\nVCA#019: AI Bends the Curve 📬\nMega-rounds at the top, selective bets at the edges - this week showed venture’s new shape.\nVenture Capital Archive\nSep 06, 2025\n8\n2\nShare\n💸 This Week’s Biggest Funding Rounds\nAnthropic raises $13B to scale frontier AI and safety research\nU.S.-based Anthropic closed a $13B Series F at a $183B valuation, marking the week’s standout megadeal. The round fuels global expansion of its enterprise services while deepening its research into safe, interpretable AI systems. Backers include top institutional investors doubling down on AI’s central role in reshaping enterprise infrastructure.\nThis week’s rounds reflected strong investor appetite for AI-powered enterprise platforms, biotech innovation, and fintech infrastructure across global markets:\nTreeline Biosciences secured $200M in a Series A extension from Arch Venture Partners, OrbiMed, GV, and KKR, funding its pipeline of next-generation cancer therapeutics.\nBaseten landed $150M in a Series D led by Bond, with CapitalG, IVP, Greylock, and others participating. The U.S. company is building core infrastructure for model inference and deployment.\nGalvanize Therapeutics raised $100M in Series C, led by Sofinnova Partners and Norwest, to advance therapies for cancer and lung disease.\nAugment secured $85M in Series A from Redpoint, 8VC, Shopify Ventures, and Autotech to scale its AI-powered logistics productivity platform.\nMojo Vision closed $75M in a Series B led by Vanedge, NEA, and Khosla Ventures to advance its micro-LED wearable display technology.\nLead Bank raised $70M at a $1.47B valuation from a16z, Khosla Ventures, Ribbit, Coatue, Iconiq, and others, fueling expansion of its digital-first banking platform.\nMRM Health brought in €55M (~$59M) in Series B financing led by Biocodex, with ATHOS, BNP Paribas Fortis PE, SFPIM, and OMX Europe Venture Fund backing the Belgian microbiome biotech.\nPhasecraft, a UK-based quantum algorithms startup, raised $34M in a Series B to accelerate practical quantum computing applications.\n🌱 New Venture Funds\nAtlas Venture has secured $400M for its new Opportunity Fund III, dedicated to backing and scaling breakthrough biotech startups in its portfolio. The fund is now actively deploying capital into U.S. therapeutics leaders.\nWhite Star Capital is rolling out its new North America Seed Fund, with a $25M first close toward a $50M target. The vehicle is focused on pre-seed and seed opportunities across the U.S. and Canada.\nSiena Secondary has added €20M in new LP commitments from EBRD and SmartCap into Siena Secondary Fund II, targeting direct secondaries in high-growth tech companies across Central & Eastern Europe and the Nordics.\nWinter Street Ventures is launching Fund I, a $100M vehicle aimed at healthcare innovation. The fund will back AI-driven and predictive analytics startups reshaping U.S. healthcare delivery.\nEagle Venture Fund has announced Freedom Fund II, a $50M impact vehicle dedicated to technology combating human trafficking. The fund is backed by Keel Point and The Tebow Group and will target mission-driven startups.\nMorphosis Capital has raised €130M for its second growth capital fund, backing SMEs in Central & Eastern Europe with €10–15M tickets. Focus sectors include healthcare, B2B services, consumer goods, retail, and niche manufacturing.\nMichigan Capital Network has secured $25.4M for Venture Fund V L.P., focused on emerging critical technologies for national defense. Anchored by a $5M commitment from Waséyabek Development Co., the fund is positioned for a federal match that could scale it to $≥50M.\n💰 Who Got Rich This Week?\nExits, IPOs & Liquidity Moments\nOpenAI acquires Statsig • Acquisition • Value: $1.1B (all-stock)\nSeattle-based product experimentation platform Statsig is now part of OpenAI, with founder Vijaye Raji stepping in as OpenAI’s new CTO of Applications. The deal strengthens OpenAI’s product capabilities and hands Raji a major exit.\n🔗 Vijaye Raji (Founder & CEO, Statsig)\nAtlassian acquires The Browser Company • Acquisition • Value: $610M (cash)\nAtlassian expands into AI-enhanced productivity by snapping up The Browser Company, creator of the Dia browser. The sale provides a substantial windfall for founder Josh Miller and early backers.\n🔗 Josh Miller (Founder & CEO, The Browser Company)\nCapVest acquires majority of Stada • Acquisition • Value: €10B ($12B)\nUK private equity firm CapVest buys control of German pharma group Stada, delivering one of Europe’s largest healthcare buyouts. The deal crystallizes gains for existing investors Bain Capital and Cinven.\n🔗 Ronny Gal (CEO, Stada), Alex Leslie (Partner, CapVest), Bain Capital & Cinven (exiting investors)\nMcLaren Racing Stake Sale • Secondary • Valuation: $5B\nMSP Sports Capital led a stake sale valuing McLaren Racing at over $5B, delivering a ~10x return to early investors and transferring majority ownership to sovereign wealth funds.\n🔗 Zak Brown (CEO, McLaren Racing), Jeff Moorad (CEO, MSP Sports Capital), Mumtalakat (Bahrain SWF), Mubadala (Abu Dhabi SWF)\nBlack Rock Coffee Bar IPO • IPO • Target Valuation: $861M | Raise: $265M\nThe Arizona-based coffee chain filed to go public on the NYSE, aiming to expand its footprint nationwide. The IPO would mark a liquidity moment for its founders and early backers.\n🔗 Jeff Hernandez & Robby Garza (Co-founders, Black Rock Coffee Bar)\n👉 Find the latest LPs and HNWIs\n🔍 Sectors in Focus\nDeep dive into a trending sector dominating this week’s funding activity\n📊🤖 AI at Scale\nWhat’s buzzing: This week, AI and infrastructure took the spotlight, with capital flowing into both frontier models and the enterprise tools that make AI usable at scale. Unlike last week’s emphasis on healthcare roll-ups, the current wave centers on deploying massive compute, inference engines, and productivity platforms across global markets.\nThe standout deal was Anthropic’s $13B Series F, which pushed the company’s valuation to $183B and drew backing from Amazon, Google, Salesforce Ventures, Menlo Ventures, Spark Capital, and sovereign wealth funds. On the infrastructure side, Baseten’s $150M Series D highlighted investor conviction in inference and deployment platforms, while Augment’s $85M Series A showed growing appetite for logistics productivity powered by AI. Together, these rounds signal that venture capital is leaning heavily into both frontier AI leadership and the tools needed to operationalize AI across industries.\nMarket signals:\nAI captured over $13B+ in disclosed capital this week, dwarfing activity in other sectors and making it the single most heavily capitalized theme.\nBackers including Amazon, Google, Bond, CapitalG, Redpoint, and Shopify Ventures are anchoring this push, spanning Big Tech and top-tier venture firms.\nThe focus has shifted toward scale and infrastructure; from foundation models to real-world deployment tools, reflecting how VCs see AI not just as a product class but as the backbone of future enterprise growth.\n🔥 Trending This Week\nThe stories setting the tone for investors and startups right now (U.S. & Europe)\nSora Ventures Bets Big on Bitcoin\nHong Kong–based Sora Ventures launched a $1B Bitcoin Treasury Fund to buy BTC on behalf of institutions. The vehicle signals how crypto-native firms are reframing institutional allocation strategies and could set a new standard for treasury diversification.\nEurope’s Valuations Reignite\nThe Financial Times reports a surge in European startup valuations, with ElevenLabs (> $6B), Mistral (~$10B), and Framer ($2B) leading the rebound. VC investment in the region could hit $57B in 2025, marking the strongest year since 2021–22 and reflecting renewed global confidence in European tech.\nBalderton Cashes Out of Revolut\nBalderton Capital executed a partial exit from Revolut, selling about $1B worth of shares. The move cements one of Europe’s biggest fintech liquidity events and showcases how early backers are realizing returns while Revolut scales its global banking ambitions.\nVC Due Diligence Under Fire\nA new analysis critiques venture capital’s due diligence processes, pointing to systemic inefficiencies in how firms vet startups. The call for reform highlights growing pressure on funds to balance speed with rigor, especially in an era of mega-rounds and sector hype.\n📊 Recent Publications & Reports\nFresh VC-focused blogs & lists curated from us (VCA) and others:\nNew Venture Funds – August 2025 (VCA)\nBreakdown of 32 new funds launched globally in August, with strong momentum in AI, healthcare, fintech, and defense tech. Read more\n25 Active Family Offices in Switzerland (VCA)\nCurated list of Swiss family offices investing across fintech, healthcare, sustainability, and robotics. Read more\nQ2 2025 Venture Financing Report – Cooley GO\nHighlights a 20% jump in VC deal volume and the convergence of AI and life sciences. Read more\nEuropean Start-up Valuations Boom – Financial Times\nFT reports surging valuations with ElevenLabs, Mistral, and Framer leading Europe’s rebound to $57B VC in 2025. Read more\nVenture Capital Trends 2025 – Waveup\nOutlook on macro VC shifts: AI infra, fintech, digital health, climate tech, and post-SaaS models. Read more\n🎙️ Voices in Venture\nInsights from Industry Leaders\n20VC – Nick Frosst (Cofounder, Cohere)\nOn building one of the leading AI model companies outside the U.S., competing with OpenAI and Anthropic, and navigating the global race for AI infrastructure. Listen here\n20VC – Jason & Rory Obrecht (Founders, Whoop)\nA candid discussion on scaling Whoop, raising capital in a competitive wearables market, and the broader dynamics of healthtech investing. Listen here\nThe Innovators & Investors Podcast – Howard Morgan (Founder, First Round Capital)\nHoward Morgan reflects on decades of venture investing, the global AI wave, and what founders should know about building enduring companies. Listen here\nThe Innovators & Investors Podcast – Chris Rizik (CEO, Renaissance Venture Capital)\nOn building one of the largest regional venture funds, connecting LPs to innovation, and lessons from scaling in the Midwest. Listen here\nVC Unfiltered: The Untold Story of VC Success – Howie Diamond (Pure Ventures)\nHowie Diamond shares lessons from founding Pure Ventures, including the hard truths of scaling a fund and spotting founders with grit. Listen here\n📝 Our Take\nIf this week proved anything, it’s that venture capital is converging around scale both on the fund side and the startup side.\nAnthropic’s $13B round was the clearest signal yet: capital isn’t trickling down evenly across ecosystems, it’s pooling into a handful of outliers. The same pattern is visible in fund formation. As our attached data shows, just 10 private managers accounted for nearly a third (€12B) of all capital raised in 2023–2024, while the top 44 funds together represent ~60% of the market.\nIn other words, the power-law isn’t only in startup outcomes, it’s baked into the fundraising engine itself. A small cluster of global managers (Forbion, Index, Balderton, HV, Atomico) are shaping European deployment capacity, while public anchors like KfW, NIF, and CDP are propping up strategic sectors like deep tech, climate, and defense.\nThis week’s news only sharpened the contrast. Anthropic pulled in more than every other deal combined, while Revolut’s $1B secondary and Europe’s valuation rebound show liquidity is real, but still concentrated. Even IPO activity, from Black Rock Coffee to University of Phoenix looks modest next to these mega-flows.\nThe implication: venture has entered a barbell market. At one end, massive managers and AI-scale companies dominate headlines and returns. At the other, smaller deals and IPOs provide local liquidity but little systemic weight. For founders, the takeaway is sobering but clarifying: if you’re not chasing outlier scale, position yourself where these mega-funds are mandated to allocate sectors like healthcare, climate, and dual-use tech, where institutional capital must flow.\nVenture isn’t flattening, it’s concentrating. And the chart tells the same story as this week’s deals: a few players, raising and deploying at unprecedented scale, are shaping the future curve of returns.\nDon’t miss next week’s analysis! Subscribe to our Weekly Digest and stay ahead of the curve shaping venture’s new era.\nSubscribe\n8\n2\nShare\nDiscussion about this post\nCommentsRestacks\nBenjamin Lussert\nOct 6, 2025\nLiked by Venture Capital Archive\nCompared to that, Mistral’s raise sounds like peanuts\nReply\nShare\n1 reply by Venture Capital Archive\n1 more comment...\nTopLatestDiscussions\nNo posts\nReady for more?\nSubscribe\n© 2026 Venture Capital Archive · Privacy ∙ Terms ∙ Collection notice\nStart your SubstackGet the app\nSubstack is the home for great culture",
+      "sha256": "3a22ddddc09a29abd289f1d1a37b7bd7194844e8447b2d16f6a877fdafcdf34a",
+      "url": "https://venturecapitalarchive.substack.com/p/vca019-ai-bends-the-curve",
+      "title": "VCA#019: AI Bends the Curve 📬 - Venture Capital Archive",
+      "kind": "web",
+      "published_at": null,
+      "metadata": {
+        "candidate_id": "candidate:193d9d90791310b695e2",
+        "collection_method": "http",
+        "identity_confidence": {
+          "method": "search_name_affiliation_anchor",
+          "score": 0.9,
+          "version": "1"
+        }
+      },
+      "origins": [
+        {
+          "path": "raw/web/9a/9acca6920dcee6e0eda10009943ccefa03443daeb590facd888dbe6a4d897e67.html"
+        },
+        {
+          "path": "raw/web/9a/9acca6920dcee6e0eda10009943ccefa03443daeb590facd888dbe6a4d897e67.html.d85ea735af4a60d7.metadata.json"
+        }
+      ]
+    },
+    {
+      "doc_id": "full:88f556223d4c42da5ff574ad",
+      "text": "Pure Ventures — VC Fund Profile | Waveup Copilot\nAssisted fundraising\nLog in | Sign up\nHome\nGuides\nAssets\nInvestors\nVC funds\nTailored lists\nFavorites\nAcademy\nPrivacy policy\nTerms of Use\nPrivacy Policy\nHelp center\nReturn to waveup.com\nFund profile\nPure Ventures\nOakland, United States\nNot leading\nAbout\nPure Ventures is an early-stage venture capital firm based in California, with a strong emphasis on both financial investment and founder wellness. Founded by Howie Diamond, Pure Ventures is the third investment fund he has co-founded, following Alpha Bridge Ventures and Ranch Ventures. The firm focuses on consumer sectors like CPG, e-commerce, and marketplaces, while also venturing into deep tech fields such as biotech, AI, robotics, and aerospace.\nOne of the unique elements of Pure Ventures is its integration with Pilea, a sister platform dedicated to supporting founder health, wellness, and leadership development. Pure Ventures recognizes that the wellbeing of founders is crucial to building sustainable, high-performing companies. Through Pilea, the firm offers resources to help founders navigate the personal challenges of scaling a business, such as burnout and stress, empowering them to build without burnout.\nThe firm’s portfolio includes companies like MUD\\WTR, a functional beverage startup, and Juneshine, a better-for-you alternative alcohol brand. Pure Ventures is committed to providing not only capital but also a comprehensive support system that ensures long-term success for both founders and their ventures. With experienced leaders like Douglas Abrams, who brings over 25 years of investment expertise, Pure Ventures is positioned as a forward-thinking firm that prioritizes both financial returns and the health of the people behind the companies they back.\nDetails\nAverage check\n$500K-$1M\n$3M-$10M\n$10M-$50M\nRound\nSeed\nSeries A\nPrevious Investments\nAgritech & FarmingCleanTech & SustainabilityConsumer Goods & ElectronicsFood & BeverageOther\nHighlights\n$9.2M\nHistorical average check\n$20M\nHistorical max check\nMarch 2023\nLast investment date\n4\nInvestments\nConsumer Goods & Electronics\nFood & Beverage\nAgritech & Farming\nCleanTech & Sustainability\nOther\nShowing 0 lists\nFilter by\nSort by\nContacts\nWebsite\npureventuresvc.com\nSocial\nGet more contacts\nLists that include this fund",
+      "sha256": "59d19baed3f93d5213b552042adf5692d5d15b4b6fab5f85d32d7df8a757b1a2",
+      "url": "https://hub.waveup.com/funds/pure-ventures",
+      "title": "Pure Ventures — VC Fund Profile | Waveup Copilot",
+      "kind": "web",
+      "published_at": null,
+      "metadata": {
+        "candidate_id": "candidate:f4c41b135e0cc835f74d",
+        "collection_method": "http",
+        "identity_confidence": {
+          "method": "search_name_affiliation_anchor",
+          "score": 0.9,
+          "version": "1"
+        }
+      },
+      "origins": [
+        {
+          "path": "raw/web/a7/a7b771a0e8aa787ddbfae14cdab122cd8633e9bfae522ddca2e984790fe1cce4.html"
+        },
+        {
+          "path": "raw/web/a7/a7b771a0e8aa787ddbfae14cdab122cd8633e9bfae522ddca2e984790fe1cce4.html.66b32fc80059d98f.metadata.json"
+        }
+      ]
+    },
+    {
+      "doc_id": "full:5aaf7925514b29b50c1901cb",
+      "text": "Investing In Human Capital — Alpha Bridge Ventures\nInvesting In Human Capital\nIn early stage venture capital, we hear a lot of firms (including our own) say that they invest in people.\nBusinesses create value in unique ways that are often manifestations of the founders themselves.\nIt is easy to forget that organizations are first and foremost places of humaninteraction, not just transaction. These interactions are vital to the outcome of good vs great companies, and in some instances, the difference between success and failure.\nSimply stated, people are the cornerstone of all business. It follows that investors must consider the people variables first. However, what I’ve come to realize is that VC’s are actually investing in companies and betting on people.\nThese bets are typically placed as a function of having deep conviction for the founder’s ability to “figure it out”, “do the right thing” and “never die”.\nAt Alpha Bridge Ventures, we came together around a shared investment thesis that when entrepreneurs build THEMSELVES first and foremost, they in turn build better, more sustainable and resilient companies.\nThat said, we don’t feel good about leaving founders to navigate their personal wellness and leadership growth on their own. We know founders prioritize their company over these factors with the intention of winning at all costs.\nMost success comes with a cost, but when it is at the expense of an individual’s wellbeing and development, there’s often more detriment than benefit.\nAs former founders and solo fund managers, Jake and I know what it feels like to be without a support network and have limited resources at our disposal. We also understand that building a company is an extremely taxing endeavor that takes it’s toll personally and professionally.\nOur past experiences have inspired us to take action. We are no longer going to simply bet on founders, but directly influence the success of our portfolio companies by literally investing in the founders themselves.\nWe’ve allocated a portion of our fund to pay for leadership, wellness and personal support services for the founders we back through our integrated development platform, Project Atlas.\nEvery founder we “bet” on will have the opportunity to participate in the full expression of Project Atlas at our expense.\nBecause we invest in post seed stage companies with a clear path to their Series A, we spend the initial 8–12 months post-investment prepping the founders for their growth stages.\nYou can’t take a company further than you’ve taken yourself, so we aim to provide founders with the tools necessary to grow into the leaders who fundamentally change the world.\nIn other words, we help you build your best company by building the best YOU. We invest in YOU because it’s YOU that makes your company great.\nVC 3.0 must take a more human centered approach and it’s time the narrative gets flipped:\nBet on companies, invest in people.\nWant to know what we are up to? Want to participate in the Project Atlas Beta program? See more here and contact our Executive Director, Dr. Kari Sulenes.\nHowie DiamondApril 16, 2018\nFacebook0\nTwitter\n0 Likes",
+      "sha256": "c08262af43f1746879a201cf7e7c1ddd25398603256f0d55a6c0f4f98394b184",
+      "url": "https://www.alphabridge.vc/blog/2018/6/9/investing-in-human-capital",
+      "title": "Investing In Human Capital",
+      "kind": "web",
+      "published_at": null,
+      "metadata": {
+        "candidate_id": "candidate:70137361ee8d752ff5be",
+        "collection_method": "http",
+        "identity_confidence": {
+          "method": "search_name_only",
+          "score": 0.6,
+          "version": "1"
+        }
+      },
+      "origins": [
+        {
+          "path": "raw/web/b9/b9ef133683b60504639c73862209efc8a56c4fed70eadda1557af78a7c57529f.html"
+        },
+        {
+          "path": "raw/web/b9/b9ef133683b60504639c73862209efc8a56c4fed70eadda1557af78a7c57529f.html.dd1da1d8ee94bbdf.metadata.json"
+        }
+      ]
+    },
+    {
+      "doc_id": "full:db2fe9a7b97cd1148929c7a7",
+      "text": "Howie Diamond, Pure Ventures: Profile and Biography - Bloomberg Markets\nSkip To Content\nQuick Links\nStocks\nCurrencies\nCommodities\nRates & Bonds\nSectors\nWatchlist\nRecently Viewed Companies\nHowie Diamond\nGeneral Partner/Mng Dir/Co-Founder, Pure Ventures",
+      "sha256": "f0a11994317429bd8decb65ba2edc8440b3285a454a24087768bc9b70141aee5",
+      "url": "https://www.bloomberg.com/profile/person/21183673",
+      "title": "Howie Diamond, Pure Ventures: Profile and Biography - Bloomberg Markets",
+      "kind": "web",
+      "published_at": null,
+      "metadata": {
+        "candidate_id": "candidate:b31a197b19b66d2ba305",
+        "collection_method": "http",
+        "identity_confidence": {
+          "method": "search_name_affiliation_anchor",
+          "score": 0.9,
+          "version": "1"
+        }
+      },
+      "origins": [
+        {
+          "path": "raw/web/db/dbee55a28a8f70238f907667f113e9488ee7fd77701eecb4b5e0f329681195c9.html"
+        },
+        {
+          "path": "raw/web/db/dbee55a28a8f70238f907667f113e9488ee7fd77701eecb4b5e0f329681195c9.html.c377dbd97c8b7b7b.metadata.json"
+        }
+      ]
+    },
+    {
+      "doc_id": "full:b27eb550df5d5f1219711ece",
+      "text": "The Pitch Origin Story\n0\n0\nThe Pitch Show\nPosts\nThe Pitch Origin Story\nThe Pitch Origin Story\nWe're Back with the First Episode in Two Years + How It All Began (Part 1)\nDecember 04, 2022\nEpisode #101 Josh Pitches The Pitch\nA whole lot has changed since buying the show from Gimlet, and in Episode #101 Josh and Lisa set out to resurrect The Pitch podcast with a partnership, a venture fund, and of course, a pitch to investors. Do they have what it takes in the pitch room to secure investment?\nListen Now\nVol. 1 Issue 1\nYou might be surprised to hear Josh Muccio, host of The Pitch podcast, has a co-founder... and it’s his wife.\nHi! I’m Lisa Muccio and I’m the co-founder of The Pitch.\nI’ve worked behind-the-scenes for seven years. But now I’m ready to spill all the juicy details of our past here in The Pitch Insider.\nAre y'all ready for this?\nThe Dream\nThe year is 2015.\nOne morning Josh wakes up, rolls out of bed, and says, “I had a dream last night that I started a podcast.”\nMy reply: “You should do it!”\nBy the end of the day, Josh has published his first episode of a very mediocre podcast. But, hey, we all gotta start somewhere.\nThat podcast was called The Daily Hunt. Josh would interview the creator of the top product on Product Hunt every. single. day.\nJosh and I sold our first business back in 2014, and we wanted to build something new. We didn’t know what that thing was… but we knew The Daily Hunt was not it.\nJosh is an entrepreneur all-the-way, and living with him is like living with a vending machine that spits out business ideas all the time.\n“Let’s start an e-commerce site that ships graphic tees.”\n“Let’s start a super fast web hosting service.”\n“Let’s build an app that lets you sign into other apps with one click.”\nNo. No. No. I’m all for taking risks and trying new things, but not every idea is THE idea. You have to find a gem.\nI knew we were on the right track with The Daily Hunt, but something was… off.\nFinding The Thing\nOne day Josh comes to me with his diamond in the rough.\n“I was talking with Harry Stebbings, and we discussed an idea for a podcast like Shark Tank, but ya know, how deals really get done without the fake TV drama. I’d call it The Pitch.”\n“Sounds like a good idea!” I yell over the ruckus of our two toddlers. (This is how Josh and I have most of our business discussions, amidst the noise and chaos called children.)\nA few weeks later, Sheel Mohnot enters the scene.\nWhen Josh gets off the call he tells me, “This investor in SF wants to do a podcast with me like Shark Tank. He can record the pitches in person, and I’ll do the narration.”\nUh, yes! Ding, ding, ding! We have a winner. This is “the thing” we had been searching for.\nSo, we got to work. Sheel recorded real founders pitching real investors in San Francisco, and Josh co-hosted and produced the show from Sarasota, Florida.\nThe only problem? The investors.\nWe recorded fifty-five episodes, where every single investor said: “Sure I’d take another meeting,” but never actually invested on the show. 😒\nThe podcast wasn’t growing, and we were making only $2K on ads… in a good month. We were about to call it quits.\nIn 2016, we would try one last push to make the show work.\nThe Pivot\n“Let’s do this for real,” Josh said. “We’ll find investors who will commit money on the spot in an hour. We can rent a studio in SF, and bring founders before a panel of VCs to record pitches.”\nIf Josh is the visionary-and-idea guy, then I am the figure-out-how-to-make-it-happen girl.\nI’m logistics and creative problem-solving. Plus, my background is in events. You want to plan a two-day podcast recording event on a budget? I’m all over it.\nWe found the cheapest - and strangest - recording studio located in the Tenderloin of San Francisco. (There was a boat strung with Christmas lights IN the recording area and double-headed taxidermal animals in a creepy back room.)\nWe tapped into the show’s network from previous episodes to find companies. Phil Nadel and Jake Chapman were the first investors to say they would invest on the spot. Then, Jake pulled in Howie Diamond and Jillian Manus.\nWeeks before the recording Jillian was having second thoughts and wanted to back out. She was worried she wouldn’t actually make any investments on the show. (Which is funny now, since Jillian and her fund have invested over $4.5 million in companies on The Pitch!) Josh got on a call with Jillian, soothed her fears, and got her excited about The Pitch again.\nAt that first event we recorded 12 pitches from early stage companies and had over $1 Million in commitments. One of those companies was Hykso (aka Fight Camp who went on to raise $90 Million in their most recent Series B round).\nWe knew we had something special. We hired a production team and got to work crafting episodes.\nThe night before Episode #1 aired, I typed up our first press release, arms reaching around my pregnant belly to get to my laptop…our two-year-old asleep on my shoulder. And we launched the show that would impact so many lives, ours included.\nOver the course of the next four years, The Pitch held 9 recording events and produced 100 episodes. We have helped 27 companies land over $10 million in funding. And that doesn’t include the founders who learned how to pitch by listening to our show.\nOur Ask\nOur purpose at The Pitch is to educate and empower founders by bringing access to all.\nIf you know someone who would like to join us on this journey as a reader, listener, or investor, please share this newsletter with them.\nWe are currently raising money for The Pitch Fund! To learn more and apply go to thepitch.fund.\nShare The Pitch Insider\nComing Up Next\nIn Part 2, One Podcast, Three Acquisitions, I pull back the curtain on our Gimlet years.\nIf you haven’t listened yet, check out Episode #101 Josh Pitches The Pitch to see if the host of The Pitch is any good at pitching!\nWhat people are saying on Twitter\nGreat news for fans of The Pitch, and the \"Pitching The Pitch\" podcast episode is unique and unmissable.This show is a must-subscribe for anyone on the #Startup trail. And this is so much more than just a reboot.Congratulations @joshmuccio and @muccio_lisa! Amazing job! @jdap\nWhy did I get emotional listening to this episode? Haha but I’m so excited to start listening to the show again and man, what an episode to kick it off with! @SlickTalkPod\nI'm a grateful for the mission you and Lisa are pursuing! This was the most fun and heartwarming episode, I'm so happy you're back @lizziestelk\nReply\nNewest first\nAdd your comment\nLogin\nLogin or Subscribe to participate.",
+      "sha256": "2892f61aade17492e1321db91e3be76a81029426606e968006a0691047df0834",
+      "url": "https://insider.pitch.show/p/pitch-origin-story",
+      "title": "The Pitch Origin Story",
+      "kind": "web",
+      "published_at": null,
+      "metadata": {
+        "candidate_id": "candidate:8b89d5a9ad82ccfd115d",
+        "collection_method": "http",
+        "identity_confidence": {
+          "method": "search_name_only",
+          "score": 0.6,
+          "version": "1"
+        }
+      },
+      "origins": [
+        {
+          "path": "raw/web/ec/ec0a436185955fad607cab48553712e1db794d596d764e430deb2cec741c0ee2.html"
+        },
+        {
+          "path": "raw/web/ec/ec0a436185955fad607cab48553712e1db794d596d764e430deb2cec741c0ee2.html.700107324f806cff.metadata.json"
+        }
+      ]
+    },
+    {
+      "doc_id": "full:7dae02dcef917f3b58913782",
+      "text": "Human Powered ROI: Alpha Bridge Ventures and Project Atlas — Alpha Bridge Ventures\nHuman Powered ROI: Alpha Bridge Ventures and Project Atlas\nFor many years Jake (my co-managing director) and I have watched founders struggle through varying degrees of personal turmoil as they build their companies with little to no available support.\nAt our new fund, Alpha Bridge Ventures, we are stepping up our game by re-imagining what founder support looks like. Support that will help founders achieve resiliency, avoid burnout and transition from start-up taskmaster to effective company leader.\nRecent research as well as our personal experience suggests that happy, healthy founders are more likely to overcome challenges and be in better positions to win as they scale their companies.\nI am happy to introduce the next generation for integrated founder support:\nPROJECT ATLAS\nWhy Are We Doing This?\nI’ve Been There\nAs a former entrepreneur, solo fund manager and professional artist, I’ve experienced the roller coaster ride of stress, anxiety, self doubt, sleepless nights, and 80 hour work weeks. I have oscillated between imposter syndrome and illusions of superiority with no one to turn to.\nAt the time, I relied on my inner stubbornness and powered my way through; pride prevented me from asking for help. Eventually I did ask for help, but the lack of affordable and well-vetted resources kept me from taking meaningful steps towards wellbeing. Looking back now I can see that my vision was clouded by a lack of self-awareness and kept me from seeing the forest through the trees.\nThrough my work as a VC, I have realized that many of the founders in my portfolio share familiar tribulations that mirrored my own. They too found it difficult to navigate overwhelming challenges and source effective solutions to help tap into their own self-awareness. Awareness and acceptance are critical before any real change can be made.\nJake and I have seen it again and again, founders turning inward in times of struggle due to the lack of permission, affordability, and convenience of high quality support.\nSimilar to the way professional athletes have trainers and coaches at their disposal 24/7 to help with rehab after games; we believe founders require similar 360 degree support to maximize their performance. They are the key players in pushing the limits of innovation and human advancement; they truly are the professional athletes of the startup ecosystem.\nTo me, it seems like something is broken in start-up culture. The people who are pioneering the most consequential changes in the world are left alone, without support and largely without notice. This neglect is most salient in the groups that have a vested interest in seeing founders succeed. I think it is the responsibility of investors and advisors to step up to the plate and embolden a new conversation around founder self-care.\nStrong Leaders = Strong Companies\nAs an early stage investor, I put my support behind people and ideas. I look for founders who have natural leadership abilities, who inspire those around them and retain the talent necessary to carry out their dreams. But even those with natural talent need mentors and teachers to learn the trade. After all, even Michael Phelps may have drowned in the deep end without proper swimming lessons or a life jacket when starting out.\nWhen assessing portfolio founders, I look for grit, determination, perseverance, confidence, resiliency, drive, relentlessness, belief in the impossible, and the ability to win at all costs. However, I’ve come to realize that “at all costs” often means the cost of the founder’s personal wellbeing and vitality. When these things core elements of a founder are compromised by stress, fear, and pressure, s/he ceases to be her best self. This trampling out diminishes her/his ability to grow into an effective leader, innovative entrepreneur, and sustainable business owner. As we know, companies can only grow within the bounds of their leader’s abilities. Therefore diminished leaders produce diminished businesses resulting in diminished outcomes with unhappy employees, customers, and ultimately funders.\nThis made me wonder, “Do I feel good about profiting from a company that compromises the founder’s personal wellness and self development?” The simple answer is, “No, I do not.” In fact, if a diminished leader leads to a diminished company then it should follow that a vital, well-supported leader has the capacity to build a vital and well-supported company.\nThe Time Is Now\nNow more than ever, influential founders and funders are openly talking about their personal journeys including the challenges they’ve had to overcome and tactics they’ve used to persevere. Investors with prominence are addressing personal wellness and starting a new dialogue in the startup space. This new dialogue reduces the stigma and starts a conversation that gives founders permission to transform their silent suffering into shared lessons and support.\nWhy Is This Important?\nHumans are complex and interconnected systems comprised of bodies, brains, emotions, and relationships. When one of these systems is failing, the others also become affected. We know that at the end of a 100-hour workweek, the decision to go on a run, call a friend, eat a salad, or cultivate a new positive self-talk practice are not at the top of the list. However, each time one of these self-care practices is skipped the entire system suffers. It is foundationally important for these systems to work cohesively to achieve optimal results. We go to the gym to strengthen our bodies, but often neglect our emotional and mental fitness.\nFurthermore, in times of professional need, founders often turn to their investors for guidance and support. It is also true that founders have to hold back their messiest and most vulnerable personal struggles due to the fiduciary nature by which the relationship is built upon. Alpha Bridge aims to close that gap by meeting each founder where they are and leading with inclusiveness, permission, and genuine care.\nWhere We’re At\nWe are currently working with researchers and experts in the space of self-care and professional development to create a program that addresses the needs of our founders without adding hoops or hindrances. This qualitative research phase allows us to construct a program from the ground up and fueled by the voices of the founders themselves.\nNext, we are excited for our Beta testing phase, which includes founders working with best-in-class wellness coaches, practitioners, and vendors to help facilitate their growth.\nAs mentioned, our model expands beyond simple health into the areas of physical, mental, emotional, fitness matched with support for business and leadership development. Our program will offer a menu of services, which includes everything from nutrition, sleep, and mind/body medicine to founder-specialized therapy, group support, and executive coaching.\nThe Take-Home\nJake and I have deep empathy for the founder journey and want to be leaders in shifting the narrative of startup life. More than just paying for a few therapy sessions, we are offering an integrated solution to help founders maximize their performance and increase sustainability in their lives and their companies.\nAlpha Bridge Ventures is a firm driven by a people-first mentality. We care about founders, we care about stakeholders, and we care about the world. Lots of firms say they invest in founders over ideas, but we are putting our money where our proverbial mouth is. Founder longevity, resiliency, and protection against burnout are at the center of our mission to propel long-lasting, impactful companies into success.\nMost VC firms bet on founders, we invest in them….literally.\nLearn more at alphabridge.vc and alphabridge.vc/founder-support/\nHowie DiamondJanuary 5, 2018\nFacebook0\nTwitter\n0 Likes",
+      "sha256": "2f6abc9fed7575494ef9f050cffcfe89c8cb0bbc444570c859fc847f698a997c",
+      "url": "https://www.alphabridge.vc/blog/2018/4/12/human-powered-roi-alpha-bridge-ventures-and-projectatlas",
+      "title": "Human Powered ROI: Alpha Bridge Ventures and Project Atlas",
+      "kind": "web",
+      "published_at": null,
+      "metadata": {
+        "candidate_id": "candidate:023bf862cba786365cb2",
+        "collection_method": "http",
+        "identity_confidence": {
+          "method": "search_name_only",
+          "score": 0.6,
+          "version": "1"
+        }
+      },
+      "origins": [
+        {
+          "path": "raw/web/fb/fbb800d1402ad7013eafdc768282647a35f9818972203b9dc0e612eb79876997.html"
+        },
+        {
+          "path": "raw/web/fb/fbb800d1402ad7013eafdc768282647a35f9818972203b9dc0e612eb79876997.html.08434df6c99e3e0a.metadata.json"
+        }
+      ]
+    },
+    {
+      "doc_id": "full:ddb28c133961f06544feac5e",
+      "text": "The Hard Truth About VC - 1752vc\n← All VC Unfiltered articles\nVC Unfiltered · Venture Capital · Sep 3, 2025\nThe Hard Truth About VC\nHowie Diamond | Pure Ventures\nA New VC Unfiltered Episode - Featuring Howie Diamond From Pure Ventures\nIn this episode of VC Unfiltered, Lucas J Pols, GP at 1752vc, sits down with Howie Diamond from Pure Ventures. Discover unique investment strategies, the balance between consumer and frontier tech, and the importance of founder wellness.\nHowie shares his journey from a solo fund manager to building Pure Ventures, offering insights and stories that are both enlightening and inspiring. Tune in for a candid conversation that uncovers the realities of venture capital and the human side of entrepreneurship.\nKeep Reading\nMore from VC Unfiltered\nVenture Capital · Aug 4, 2026\nThe First 30 Minutes: How to Take a Founder Meeting Like an Investor\nVenture Capital · Aug 11, 2026\nWill AI Eat the VC?\nVenture Capital · Feb 27, 2026\nInside VCs’ Minds: Evaluating AI Startups\nGet VC Unfiltered in your inbox\nThe unvarnished truths of early-stage investing - every week, free.\nSubscribe →\nKeep reading\nMore from 1752vc\nVenture CapitalHow Investors Actually Evaluate AI StartupsSep 10, 2025\nVenture CapitalYou’re interested in the 95% That Failed? Let’s Talk About the 5% That Won.Aug 24, 2025\nVenture CapitalCritical Thinking in Startups & Venture CapitalAug 10, 2025\nAll VC Unfiltered articles → The Venture Library →",
+      "sha256": "5048289e8efce560c1baf885f59487ba2cd93904971e5450e5932b3408a004ed",
+      "url": "https://www.1752.vc/blog-the-hard-truth-about-vc",
+      "title": "The Hard Truth About VC - 1752vc",
+      "kind": "web",
+      "published_at": null,
+      "metadata": {
+        "candidate_id": "candidate:3005e3f4cad164ecb3a6",
+        "collection_method": "http",
+        "identity_confidence": {
+          "method": "search_name_affiliation_anchor",
+          "score": 0.9,
+          "version": "1"
+        }
+      },
+      "origins": [
+        {
+          "path": "raw/web/fc/fc4594e66dce6134f6fc05d41704836755169abba9c98f13f8645f3a06c4042c.html"
+        },
+        {
+          "path": "raw/web/fc/fc4594e66dce6134f6fc05d41704836755169abba9c98f13f8645f3a06c4042c.html.3c05a1820b875074.metadata.json"
+        }
+      ]
+    },
+    {
+      "doc_id": "full:ca42aa5ce555e73eebfe7d63",
+      "text": "B2B Lead Intelligence Platform | Adapt.io\nB2B PROSPECTING REDEFINED\nNavigate the Data Jungle and Target with Precision\nSay goodbye to generic contact lists: Discover key decision makers from companies that are perfectly aligned with your ideal customers using Adapt Data OS\nStart free trialBook a demo\nEmpowering global teams with Adapt Data OS\nWhat makes Adapt different?\nIdentify High Growth Companies\nSpot the Next Big Thing: Unlock Success by Identifying Rapidly Growing Companies through Key Hires, and Employee Expansion Signals\nClass Leading Support\nGuiding Every Step: Real People Dedicated to Your Success, Available via Email, Chat, and Phone\nTarget With Precision\nWith our Technology Sector feature, you gain access to over 3,000 specialized tech sectors! From Artificial Intelligence to Sustainability Tech and IoT, discover and connect with decision makers who are your ideal customers.\nStart free trialBook a demo\nUnleash the Power of Adapt Data OS\nProspecting\nSeamlessly Build Lists, Explore ABM Opportunities, and Dive Deep into Account Discovery & Research\nLearn More\nData Enrichment\nEnrich Your Data with 50+ Attributes and Streamline Data Gathering for Maximum Productivity.\nLearn More\nAPI\nTap into High-Performance B2B Data Solutions and Supercharge Your Operations with Seamless Integration.\nLearn More\nResults that inspire us\n30% increase in email success\nLori Frucht\nMarketing Director\nRead More\nProspecting productivity increased by 40%\nLocke Gilmour\nLean Coach\nRead More\n25% increase in our cold prospecting revenue.\nDondi Alentajan\nVP-Sales & Marketing\nRead More\nAdapt offers the best overall value!\nRobert Calderella\nBusiness Development\nRead More\nTurn your leads into customers\nDiscover your reach\nLeverage advanced filters to discover your search in minutes and find the contacts that fit your target audience. You can easily build lists, export, and plug your CRM for scalability!\nConnect with your audience\nWith accurate contact data attributes like email and phone numbers, you can connect with confidence across different mediums and ensure that your first impression is built to last.\nEnrich with reliable data\nAdd reliable firmographic, demographic and technograhic data for every contact in your CRM. Combine the power of accurate data and enrichment to ensure you are reaching the right people.\nAchieve scalable growth\nAdapt makes it easy to scale what works for you and helps get accurate information on the right leads to grow your business.\nBring in more leads to your pipeline.\nStart free trialBook a demo\nBrowse Adapt's Contacts & Companies\nBrowse By Industries\nBusiness Services\nEducation\nFinancial Services\nGovernment\nHealthcare, Pharmaceuticals, & Biotech\nManufacturing\nReal Estate & Construction\nRetail\nSoftware & Internet\nTelecommunications\nBrowse Contacts And Companies\nA\nB\nC\nD\nE\nF\nG\nH\nI\nJ\nK\nL\nM\nN\nO\nP\nQ\nR\nS\nT\nU\nV\nW\nX\nY\nZ",
+      "sha256": "971cca0e55f033e495c8d9301673f26fb4ef57f8f0a9239113f86dc4035375bd",
+      "url": "https://www.adapt.io/",
+      "title": "Howie Diamond Email Address & Phone Number | Co-Founder / Managing Partner Of Pure Ventures | Adapt.io",
+      "kind": "web",
+      "published_at": null,
+      "metadata": {
+        "candidate_id": "candidate:8f39d4b5d4291ca2d195",
+        "collection_method": "http",
+        "identity_confidence": {
+          "method": "search_name_affiliation_anchor",
+          "score": 0.9,
+          "version": "1"
+        }
+      },
+      "origins": [
+        {
+          "path": "raw/web/fe/fe371f34484d5931d47d4215cdb8435c429dfdf74e84757f6b574fce673308b8.html"
+        },
+        {
+          "path": "raw/web/fe/fe371f34484d5931d47d4215cdb8435c429dfdf74e84757f6b574fce673308b8.html.bd8c9cbc4b3bc751.metadata.json"
+        }
+      ]
+    }
+  ],
+  "files": [
+    {
+      "path": "audit/costs.jsonl",
+      "bytes": 85092,
+      "disposition": "operational_metadata_or_derivative",
+      "source_ids": []
+    },
+    {
+      "path": "audit/costs.sqlite",
+      "bytes": 53248,
+      "disposition": "operational_metadata_or_derivative",
+      "source_ids": []
+    },
+    {
+      "path": "audit/events.jsonl",
+      "bytes": 638726,
+      "disposition": "operational_metadata_or_derivative",
+      "source_ids": []
+    },
+    {
+      "path": "audit/failures.jsonl",
+      "bytes": 46205,
+      "disposition": "operational_metadata_or_derivative",
+      "source_ids": []
+    },
+    {
+      "path": "audit/runs/run-20260925T083534Z-1057eb03.json",
+      "bytes": 551,
+      "disposition": "operational_metadata_or_derivative",
+      "source_ids": []
+    },
+    {
+      "path": "config_snapshot.json",
+      "bytes": 1007,
+      "disposition": "operational_metadata_or_derivative",
+      "source_ids": []
+    },
+    {
+      "path": "discovery/agent_link_evidence.jsonl",
+      "bytes": 1477,
+      "disposition": "search_discovery_not_collected_evidence",
+      "source_ids": []
+    },
+    {
+      "path": "discovery/agent_profile_evidence.jsonl",
+      "bytes": 29986,
+      "disposition": "search_discovery_not_collected_evidence",
+      "source_ids": []
+    },
+    {
+      "path": "discovery/agent_review_recommendations.json",
+      "bytes": 60968,
+      "disposition": "search_discovery_not_collected_evidence",
+      "source_ids": []
+    },
+    {
+      "path": "discovery/agent_type_corrections.json",
+      "bytes": 3566,
+      "disposition": "search_discovery_not_collected_evidence",
+      "source_ids": []
+    },
+    {
+      "path": "discovery/approved_sources.jsonl",
+      "bytes": 166321,
+      "disposition": "search_discovery_not_collected_evidence",
+      "source_ids": []
+    },
+    {
+      "path": "discovery/discovery_pass_summary.json",
+      "bytes": 1598,
+      "disposition": "search_discovery_not_collected_evidence",
+      "source_ids": []
+    },
+    {
+      "path": "discovery/import_agent_evidence.py",
+      "bytes": 2783,
+      "disposition": "search_discovery_not_collected_evidence",
+      "source_ids": []
+    },
+    {
+      "path": "discovery/rejected_sources.jsonl",
+      "bytes": 41058,
+      "disposition": "search_discovery_not_collected_evidence",
+      "source_ids": []
+    },
+    {
+      "path": "discovery/search_observations.jsonl",
+      "bytes": 116013,
+      "disposition": "search_discovery_not_collected_evidence",
+      "source_ids": []
+    },
+    {
+      "path": "discovery/source_candidates.jsonl",
+      "bytes": 207379,
+      "disposition": "search_discovery_not_collected_evidence",
+      "source_ids": []
+    },
+    {
+      "path": "discovery/source_decisions.jsonl",
+      "bytes": 58734,
+      "disposition": "search_discovery_not_collected_evidence",
+      "source_ids": []
+    },
+    {
+      "path": "discovery/source_plan.json",
+      "bytes": 255436,
+      "disposition": "search_discovery_not_collected_evidence",
+      "source_ids": []
+    },
+    {
+      "path": "discovery/summarize_discovery.py",
+      "bytes": 4014,
+      "disposition": "search_discovery_not_collected_evidence",
+      "source_ids": []
+    },
+    {
+      "path": "identity/identity_evidence.jsonl",
+      "bytes": 1137,
+      "disposition": "operational_metadata_or_derivative",
+      "source_ids": []
+    },
+    {
+      "path": "identity/identity_review.json",
+      "bytes": 166,
+      "disposition": "operational_metadata_or_derivative",
+      "source_ids": []
+    },
+    {
+      "path": "identity/reference_voice_candidates.jsonl",
+      "bytes": 7599,
+      "disposition": "operational_metadata_or_derivative",
+      "source_ids": []
+    },
+    {
+      "path": "identity/resolved_identity.json",
+      "bytes": 737,
+      "disposition": "operational_metadata_or_derivative",
+      "source_ids": []
+    },
+    {
+      "path": "processed/collection_candidate_outcomes.jsonl",
+      "bytes": 32727,
+      "disposition": "operational_metadata_or_derivative",
+      "source_ids": []
+    },
+    {
+      "path": "raw/podcast/1d/1df927f644bc46fe9e86a53442c58779862ce912bdb30a5ec79343fd441c8c6f.html",
+      "bytes": 11610,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:d3fab498e961a3c96e767c75"
+      ]
+    },
+    {
+      "path": "raw/podcast/1d/1df927f644bc46fe9e86a53442c58779862ce912bdb30a5ec79343fd441c8c6f.html.de4f2f2e9bda61c7.metadata.json",
+      "bytes": 1702,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:d3fab498e961a3c96e767c75"
+      ]
+    },
+    {
+      "path": "raw/podcast/1e/1ec52efc7871e8bd7acf6b8981e83fabc650bd2b009a4eb2d5808ec8217373d0.html",
+      "bytes": 154834,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:5f38a624c35af56b8f433482"
+      ]
+    },
+    {
+      "path": "raw/podcast/1e/1ec52efc7871e8bd7acf6b8981e83fabc650bd2b009a4eb2d5808ec8217373d0.html.5d2d9c14e500d402.metadata.json",
+      "bytes": 1525,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:5f38a624c35af56b8f433482"
+      ]
+    },
+    {
+      "path": "raw/podcast/5f/5fbca4b8eb0384865d2db8655188226b54f75423dad5a3080cee3ac8ceb9401b.html",
+      "bytes": 11522,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:02c451fc76c1e4001c9f1d6e"
+      ]
+    },
+    {
+      "path": "raw/podcast/5f/5fbca4b8eb0384865d2db8655188226b54f75423dad5a3080cee3ac8ceb9401b.html.ebc4bfcb16c71f80.metadata.json",
+      "bytes": 1542,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:02c451fc76c1e4001c9f1d6e"
+      ]
+    },
+    {
+      "path": "raw/podcast/75/75be7240e1a8c3218a7cb53aa5685402c50e14c1a05719219ed72c99615e6b5f.mp3",
+      "bytes": 25469060,
+      "disposition": "media_without_transcript",
+      "source_ids": []
+    },
+    {
+      "path": "raw/podcast/75/75be7240e1a8c3218a7cb53aa5685402c50e14c1a05719219ed72c99615e6b5f.mp3.9438eeb35b26cc5b.metadata.json",
+      "bytes": 2104,
+      "disposition": "operational_metadata_or_derivative",
+      "source_ids": []
+    },
+    {
+      "path": "raw/podcast/83/83f5285541bbc3c7582a47d9eafc046c707c9cc956ab05cbbf72e42a9231dcab.xml",
+      "bytes": 177893,
+      "disposition": "operational_metadata_or_derivative",
+      "source_ids": []
+    },
+    {
+      "path": "raw/podcast/83/83f5285541bbc3c7582a47d9eafc046c707c9cc956ab05cbbf72e42a9231dcab.xml.f7cfdebc0b8cd580.metadata.json",
+      "bytes": 811,
+      "disposition": "operational_metadata_or_derivative",
+      "source_ids": []
+    },
+    {
+      "path": "raw/podcast/95/95f1da257f1585060d4fb56271cabcc67fc0d7b5bad1cad6c28c5f1a82adce4f.html",
+      "bytes": 105954,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:f05b9bbf66d213ef04462ee9"
+      ]
+    },
+    {
+      "path": "raw/podcast/95/95f1da257f1585060d4fb56271cabcc67fc0d7b5bad1cad6c28c5f1a82adce4f.html.2c04875b5d7dd01b.metadata.json",
+      "bytes": 1603,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:f05b9bbf66d213ef04462ee9"
+      ]
+    },
+    {
+      "path": "raw/podcast/95/95f1da257f1585060d4fb56271cabcc67fc0d7b5bad1cad6c28c5f1a82adce4f.html.acb8de8bca01d5eb.metadata.json",
+      "bytes": 1603,
+      "disposition": "operational_metadata_or_derivative",
+      "source_ids": []
+    },
+    {
+      "path": "raw/podcast/aa/aa3d9c3a22724315273778a87eb5dfd2e244e798b0d6bdb567157e62b8e7a938.mp3",
+      "bytes": 21381970,
+      "disposition": "media_without_transcript",
+      "source_ids": []
+    },
+    {
+      "path": "raw/podcast/aa/aa3d9c3a22724315273778a87eb5dfd2e244e798b0d6bdb567157e62b8e7a938.mp3.a3a9b863baebea80.metadata.json",
+      "bytes": 1463,
+      "disposition": "operational_metadata_or_derivative",
+      "source_ids": []
+    },
+    {
+      "path": "raw/podcast/b0/b0ea9b271e65d4a0ffb9120e4650268f5244d4954f58b29613650b932fb65121.html",
+      "bytes": 137332,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:6ab73071812c5bcda2c8d7ee"
+      ]
+    },
+    {
+      "path": "raw/podcast/b0/b0ea9b271e65d4a0ffb9120e4650268f5244d4954f58b29613650b932fb65121.html.439b7e1cccfa7c6d.metadata.json",
+      "bytes": 1641,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:6ab73071812c5bcda2c8d7ee"
+      ]
+    },
+    {
+      "path": "raw/podcast/bd/bd279c47a547b21c617ff32bc8f8887be22fd9fc945caed28ac22b4a4ec97cc5.html",
+      "bytes": 82524,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:b6d8bf854423ee7430f0b4d1"
+      ]
+    },
+    {
+      "path": "raw/podcast/bd/bd279c47a547b21c617ff32bc8f8887be22fd9fc945caed28ac22b4a4ec97cc5.html.8bd7425774421028.metadata.json",
+      "bytes": 1597,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:b6d8bf854423ee7430f0b4d1"
+      ]
+    },
+    {
+      "path": "raw/podcast/c6/c64947bf376a10599f09a226f28a55ab4111241e800d23282d417329e5ec2b7e.html",
+      "bytes": 78448,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:acf9ac5acd59d1c6d377a77f"
+      ]
+    },
+    {
+      "path": "raw/podcast/c6/c64947bf376a10599f09a226f28a55ab4111241e800d23282d417329e5ec2b7e.html.071de22316fbafe2.metadata.json",
+      "bytes": 1608,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:acf9ac5acd59d1c6d377a77f"
+      ]
+    },
+    {
+      "path": "raw/podcast/d5/d5a7363ad3e6f6a171c4b7d003821f53d223fb94228f88979ab7aca50cb84716.html",
+      "bytes": 11643,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:3d2dbc7d02573497a7067d94"
+      ]
+    },
+    {
+      "path": "raw/podcast/d5/d5a7363ad3e6f6a171c4b7d003821f53d223fb94228f88979ab7aca50cb84716.html.3e08e1fe18ca00dc.metadata.json",
+      "bytes": 1764,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:3d2dbc7d02573497a7067d94"
+      ]
+    },
+    {
+      "path": "raw/podcast/e0/e0d980d658ea14dc2860343d4d9f15e62478d4791697a594eac8067079d11afd.html",
+      "bytes": 100685,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:0a1bafb3ba7a7078d0a2971c"
+      ]
+    },
+    {
+      "path": "raw/podcast/e0/e0d980d658ea14dc2860343d4d9f15e62478d4791697a594eac8067079d11afd.html.bb10ba1b22403ae0.metadata.json",
+      "bytes": 1450,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:0a1bafb3ba7a7078d0a2971c"
+      ]
+    },
+    {
+      "path": "raw/podcast/f2/f2609ec43161589e59be041c92019e808cd61a16932f5d5ebfe76d801e48afb2.html",
+      "bytes": 11631,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:02c451fc76c1e4001c9f1d6e"
+      ]
+    },
+    {
+      "path": "raw/podcast/f2/f2609ec43161589e59be041c92019e808cd61a16932f5d5ebfe76d801e48afb2.html.72cafb10db05655f.metadata.json",
+      "bytes": 1760,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:02c451fc76c1e4001c9f1d6e"
+      ]
+    },
+    {
+      "path": "raw/podcast/f6/f639db332b25be624cb58c733619462849bd6de0956ab76b1a98e6ce88312526.html",
+      "bytes": 157944,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:c89eb13008e589255c66af75"
+      ]
+    },
+    {
+      "path": "raw/podcast/f6/f639db332b25be624cb58c733619462849bd6de0956ab76b1a98e6ce88312526.html.cb3494889ecc21cd.metadata.json",
+      "bytes": 1697,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:c89eb13008e589255c66af75"
+      ]
+    },
+    {
+      "path": "raw/web/1b/1b93c3666af35339f87b4cf7681ed91b8d406c4ea34f80090285564f21146211.html",
+      "bytes": 119541,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:1fe2e46a3d5b6a18111e53fe"
+      ]
+    },
+    {
+      "path": "raw/web/1b/1b93c3666af35339f87b4cf7681ed91b8d406c4ea34f80090285564f21146211.html.4a49a919c1331009.metadata.json",
+      "bytes": 1134,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:1fe2e46a3d5b6a18111e53fe"
+      ]
+    },
+    {
+      "path": "raw/web/4f/4fb358846888800903c43b6964dc119c9595962240363ddc8760e83ee4a3c8d5.html",
+      "bytes": 100409,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:3b1578db5c343db73d440775"
+      ]
+    },
+    {
+      "path": "raw/web/4f/4fb358846888800903c43b6964dc119c9595962240363ddc8760e83ee4a3c8d5.html.4eecd69336345ff3.metadata.json",
+      "bytes": 1147,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:3b1578db5c343db73d440775"
+      ]
+    },
+    {
+      "path": "raw/web/4f/4fe99fec7f4cff93e6eb25947a47d27005f771e11de489a483e917c517b854eb.html",
+      "bytes": 985541,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:459f8bf452cdd3b6d22f6b39"
+      ]
+    },
+    {
+      "path": "raw/web/4f/4fe99fec7f4cff93e6eb25947a47d27005f771e11de489a483e917c517b854eb.html.8996b66193c6d600.metadata.json",
+      "bytes": 1076,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:459f8bf452cdd3b6d22f6b39"
+      ]
+    },
+    {
+      "path": "raw/web/55/55a24ea11ef28230deffc06aa9a699f37a6baf2bba212415156f823c61c3a216.html",
+      "bytes": 148513,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:baca4f6c4b6fdc156895cefd"
+      ]
+    },
+    {
+      "path": "raw/web/55/55a24ea11ef28230deffc06aa9a699f37a6baf2bba212415156f823c61c3a216.html.1943a69dd0689f88.metadata.json",
+      "bytes": 1120,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:baca4f6c4b6fdc156895cefd"
+      ]
+    },
+    {
+      "path": "raw/web/5b/5b51b7ace078317bb970e49f1205f5c484f2822bd33dfb5cd10d627c79f535d3.html",
+      "bytes": 636840,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:459d7846481da6f16b6d9c9e"
+      ]
+    },
+    {
+      "path": "raw/web/5b/5b51b7ace078317bb970e49f1205f5c484f2822bd33dfb5cd10d627c79f535d3.html.1a2095ed5748b2a9.metadata.json",
+      "bytes": 1183,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:459d7846481da6f16b6d9c9e"
+      ]
+    },
+    {
+      "path": "raw/web/6b/6bd7e0a011886d839ea9f690ed82b6a5a473459b8fb4754ae835f077fc8b9ab0.html",
+      "bytes": 75480,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:1236da3c68986c7ba751ef25"
+      ]
+    },
+    {
+      "path": "raw/web/6b/6bd7e0a011886d839ea9f690ed82b6a5a473459b8fb4754ae835f077fc8b9ab0.html.e9b80b36437a4f96.metadata.json",
+      "bytes": 1246,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:1236da3c68986c7ba751ef25"
+      ]
+    },
+    {
+      "path": "raw/web/6f/6ffe62230466d58ad93c2800ab8e1bc0703755611204bc85e89c2d7992739223.html",
+      "bytes": 1329646,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:c7be127a2900ef280735dc31"
+      ]
+    },
+    {
+      "path": "raw/web/6f/6ffe62230466d58ad93c2800ab8e1bc0703755611204bc85e89c2d7992739223.html.d2780cfddcf2e0f0.metadata.json",
+      "bytes": 1089,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:c7be127a2900ef280735dc31"
+      ]
+    },
+    {
+      "path": "raw/web/7a/7ae8576d5549db2a59aefd147ff4c58b9881ee2bdfe519c1e6f3c8379c23f57b.html",
+      "bytes": 68077,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:77e9b70a6df9f610c1817c9d"
+      ]
+    },
+    {
+      "path": "raw/web/7a/7ae8576d5549db2a59aefd147ff4c58b9881ee2bdfe519c1e6f3c8379c23f57b.html.b7def56f0db5f22e.metadata.json",
+      "bytes": 1072,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:77e9b70a6df9f610c1817c9d"
+      ]
+    },
+    {
+      "path": "raw/web/80/80e12cb5310f4df8748fa297d3d7900182d6d83fcc0a882a0469b31f3de37caf.html",
+      "bytes": 140527,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:e47675dc3071db3c8152ef66"
+      ]
+    },
+    {
+      "path": "raw/web/80/80e12cb5310f4df8748fa297d3d7900182d6d83fcc0a882a0469b31f3de37caf.html.2994cb0b1f9c6a59.metadata.json",
+      "bytes": 1146,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:e47675dc3071db3c8152ef66"
+      ]
+    },
+    {
+      "path": "raw/web/9a/9acca6920dcee6e0eda10009943ccefa03443daeb590facd888dbe6a4d897e67.html",
+      "bytes": 185548,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:91ebea278abcb049bf7add8d"
+      ]
+    },
+    {
+      "path": "raw/web/9a/9acca6920dcee6e0eda10009943ccefa03443daeb590facd888dbe6a4d897e67.html.d85ea735af4a60d7.metadata.json",
+      "bytes": 1165,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:91ebea278abcb049bf7add8d"
+      ]
+    },
+    {
+      "path": "raw/web/a7/a7b771a0e8aa787ddbfae14cdab122cd8633e9bfae522ddca2e984790fe1cce4.html",
+      "bytes": 149400,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:88f556223d4c42da5ff574ad"
+      ]
+    },
+    {
+      "path": "raw/web/a7/a7b771a0e8aa787ddbfae14cdab122cd8633e9bfae522ddca2e984790fe1cce4.html.66b32fc80059d98f.metadata.json",
+      "bytes": 1044,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:88f556223d4c42da5ff574ad"
+      ]
+    },
+    {
+      "path": "raw/web/b9/b9ef133683b60504639c73862209efc8a56c4fed70eadda1557af78a7c57529f.html",
+      "bytes": 72874,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:5aaf7925514b29b50c1901cb"
+      ]
+    },
+    {
+      "path": "raw/web/b9/b9ef133683b60504639c73862209efc8a56c4fed70eadda1557af78a7c57529f.html.dd1da1d8ee94bbdf.metadata.json",
+      "bytes": 1180,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:5aaf7925514b29b50c1901cb"
+      ]
+    },
+    {
+      "path": "raw/web/db/dbee55a28a8f70238f907667f113e9488ee7fd77701eecb4b5e0f329681195c9.html",
+      "bytes": 128336,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:db2fe9a7b97cd1148929c7a7"
+      ]
+    },
+    {
+      "path": "raw/web/db/dbee55a28a8f70238f907667f113e9488ee7fd77701eecb4b5e0f329681195c9.html.c377dbd97c8b7b7b.metadata.json",
+      "bytes": 1203,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:db2fe9a7b97cd1148929c7a7"
+      ]
+    },
+    {
+      "path": "raw/web/ec/ec0a436185955fad607cab48553712e1db794d596d764e430deb2cec741c0ee2.html",
+      "bytes": 317636,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:b27eb550df5d5f1219711ece"
+      ]
+    },
+    {
+      "path": "raw/web/ec/ec0a436185955fad607cab48553712e1db794d596d764e430deb2cec741c0ee2.html.700107324f806cff.metadata.json",
+      "bytes": 1145,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:b27eb550df5d5f1219711ece"
+      ]
+    },
+    {
+      "path": "raw/web/fb/fbb800d1402ad7013eafdc768282647a35f9818972203b9dc0e612eb79876997.html",
+      "bytes": 77095,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:7dae02dcef917f3b58913782"
+      ]
+    },
+    {
+      "path": "raw/web/fb/fbb800d1402ad7013eafdc768282647a35f9818972203b9dc0e612eb79876997.html.08434df6c99e3e0a.metadata.json",
+      "bytes": 1273,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:7dae02dcef917f3b58913782"
+      ]
+    },
+    {
+      "path": "raw/web/fc/fc4594e66dce6134f6fc05d41704836755169abba9c98f13f8645f3a06c4042c.html",
+      "bytes": 22942,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:ddb28c133961f06544feac5e"
+      ]
+    },
+    {
+      "path": "raw/web/fc/fc4594e66dce6134f6fc05d41704836755169abba9c98f13f8645f3a06c4042c.html.3c05a1820b875074.metadata.json",
+      "bytes": 1154,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:ddb28c133961f06544feac5e"
+      ]
+    },
+    {
+      "path": "raw/web/fe/fe371f34484d5931d47d4215cdb8435c429dfdf74e84757f6b574fce673308b8.html",
+      "bytes": 90642,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:ca42aa5ce555e73eebfe7d63"
+      ]
+    },
+    {
+      "path": "raw/web/fe/fe371f34484d5931d47d4215cdb8435c429dfdf74e84757f6b574fce673308b8.html.bd8c9cbc4b3bc751.metadata.json",
+      "bytes": 1152,
+      "disposition": "source_text_extracted",
+      "source_ids": [
+        "full:ca42aa5ce555e73eebfe7d63"
+      ]
+    },
+    {
+      "path": "run_summary.json",
+      "bytes": 582,
+      "disposition": "operational_metadata_or_derivative",
+      "source_ids": []
+    },
+    {
+      "path": "state/collection_results/29845763c1785b9481839f7b497e99dcbe9b421e5ac5495bb4d9ae8acd3d94c5.json",
+      "bytes": 215,
+      "disposition": "operational_metadata_or_derivative",
+      "source_ids": []
+    },
+    {
+      "path": "state/collection_results/355eadbf066bd0371ed3679f96a07f879db5dcf5cc7af04d53cc9f0e4fc2ffcb.json",
+      "bytes": 215,
+      "disposition": "operational_metadata_or_derivative",
+      "source_ids": []
+    },
+    {
+      "path": "state/collection_results/45f79644eea4d487129bd9213a7ce5bc50650323acc2fadc902c14150bb821f2.json",
+      "bytes": 294,
+      "disposition": "operational_metadata_or_derivative",
+      "source_ids": []
+    },
+    {
+      "path": "state/collection_results/55843daf9c822487ebd90de58cfa108cafcc0099983b1571eae8059289936ea0.json",
+      "bytes": 294,
+      "disposition": "operational_metadata_or_derivative",
+      "source_ids": []
+    },
+    {
+      "path": "state/collection_results/70e29b76fd6f9213a6cddf5ffa00ca9c828995bcde8a8edefb29ec9678577654.json",
+      "bytes": 215,
+      "disposition": "operational_metadata_or_derivative",
+      "source_ids": []
+    },
+    {
+      "path": "state/collection_results/74ff227ef1383e191263b1838be3c624ddb374a73d9f5903adba6edf0448e9c4.json",
+      "bytes": 215,
+      "disposition": "operational_metadata_or_derivative",
+      "source_ids": []
+    },
+    {
+      "path": "state/collection_results/82f76de3e0de9140c2e93fe95516804ce5d8c785c3d21ce49d719698a9c9348a.json",
+      "bytes": 215,
+      "disposition": "operational_metadata_or_derivative",
+      "source_ids": []
+    },
+    {
+      "path": "state/collection_results/8751655a4f72872917fcb39351437ca85b8f6dec5522cafa483972ce83722583.json",
+      "bytes": 215,
+      "disposition": "operational_metadata_or_derivative",
+      "source_ids": []
+    },
+    {
+      "path": "state/collection_results/8b219a8c2a08dd9e87a2398a8020859d9e9aac604aba99f9c1625dbae4ce9c33.json",
+      "bytes": 215,
+      "disposition": "operational_metadata_or_derivative",
+      "source_ids": []
+    },
+    {
+      "path": "state/collection_results/975015b6635e0857fafadbd94d802ee2cfeaf4d85f6d63dcbc27c91fcbc15e6d.json",
+      "bytes": 215,
+      "disposition": "operational_metadata_or_derivative",
+      "source_ids": []
+    },
+    {
+      "path": "state/collection_results/9c52b500edb4a6f3fe8588ae89073c3312061a038b2152529cb3bc2fa76af1bb.json",
+      "bytes": 215,
+      "disposition": "operational_metadata_or_derivative",
+      "source_ids": []
+    },
+    {
+      "path": "state/collection_results/b48c0e0c327bf084fbb169a87e5acbe256c709dbcead4e62046fd3ef61f2dd19.json",
+      "bytes": 215,
+      "disposition": "operational_metadata_or_derivative",
+      "source_ids": []
+    },
+    {
+      "path": "state/collection_results/b73bf608a66009f56112cfe98bd6dfecb9df1a92432fe84170a4e9959ddc6b4a.json",
+      "bytes": 215,
+      "disposition": "operational_metadata_or_derivative",
+      "source_ids": []
+    },
+    {
+      "path": "state/collection_results/bce63cb5d8270d7d00684eea47ba173b6c65d9182a438cc486e32fc13102304f.json",
+      "bytes": 215,
+      "disposition": "operational_metadata_or_derivative",
+      "source_ids": []
+    },
+    {
+      "path": "state/collection_results/c1bbbee78f3035e2593651c2967cddf3abfc7646abe05b4c8967be1bacf8fb8b.json",
+      "bytes": 215,
+      "disposition": "operational_metadata_or_derivative",
+      "source_ids": []
+    },
+    {
+      "path": "state/collection_results/c552222f4842811bc30176e471de91c8ddcea6e485b8481d74d84635e24585b0.json",
+      "bytes": 215,
+      "disposition": "operational_metadata_or_derivative",
+      "source_ids": []
+    },
+    {
+      "path": "state/collection_results/d9c3a520cb3332a6fad3edb950d86173e6d08f834b776494ae0af13a90ebb538.json",
+      "bytes": 215,
+      "disposition": "operational_metadata_or_derivative",
+      "source_ids": []
+    },
+    {
+      "path": "state/collection_results/de2d8e38373e76d1388a945b9695952c9777dc3d0a5d8f5c12964c3a2ceda8c5.json",
+      "bytes": 215,
+      "disposition": "operational_metadata_or_derivative",
+      "source_ids": []
+    },
+    {
+      "path": "state/source_search/086500ceba335f4c0b69b0b2b7a4f89b1a5488733dc213b9b69a2c816d4aba8e.json",
+      "bytes": 32589,
+      "disposition": "search_discovery_not_collected_evidence",
+      "source_ids": []
+    },
+    {
+      "path": "state/source_search/10628dc829c2e5cec58542b888ccdcbb0137a91a9725807711a2866510869e3d.json",
+      "bytes": 1524,
+      "disposition": "search_discovery_not_collected_evidence",
+      "source_ids": []
+    },
+    {
+      "path": "state/source_search/18dcd27d314c5443cf7aad5e1d85f93f195de7486265bb6b0786f449580c174f.json",
+      "bytes": 16129,
+      "disposition": "search_discovery_not_collected_evidence",
+      "source_ids": []
+    },
+    {
+      "path": "state/source_search/25e8440d76686e8b95d02b1af01d89687d6cd2a08ce2b021d91f6280b6097fc4.json",
+      "bytes": 11278,
+      "disposition": "search_discovery_not_collected_evidence",
+      "source_ids": []
+    },
+    {
+      "path": "state/source_search/27ddcbdb5c9150dd474cbe995b53f04207da155ef9e4f5de9da05779fab35129.json",
+      "bytes": 8848,
+      "disposition": "search_discovery_not_collected_evidence",
+      "source_ids": []
+    },
+    {
+      "path": "state/source_search/3038c1dd7372b07822895e220029d145a292e884618a1e84befe39ff0cd0d4b1.json",
+      "bytes": 4292,
+      "disposition": "search_discovery_not_collected_evidence",
+      "source_ids": []
+    },
+    {
+      "path": "state/source_search/30ada1a9a3786c8b555e0adcbb354571d26c201e17826b5881419d79623947ed.json",
+      "bytes": 13907,
+      "disposition": "search_discovery_not_collected_evidence",
+      "source_ids": []
+    },
+    {
+      "path": "state/source_search/4700c7f82c38dc1a4292c32e4ba9f92b25c3e1037c208164299cc6ef781a6e14.json",
+      "bytes": 4222,
+      "disposition": "search_discovery_not_collected_evidence",
+      "source_ids": []
+    },
+    {
+      "path": "state/source_search/71f5254cb0566c980cf0b9d2b313ebe182e9c5393c1d7b4d928ce9dfb04ccb07.json",
+      "bytes": 6683,
+      "disposition": "search_discovery_not_collected_evidence",
+      "source_ids": []
+    },
+    {
+      "path": "state/source_search/86b9edff2fc0b0524f1906e69370da94cbe88f9e6c7ac147cd117a578789d4a4.json",
+      "bytes": 5638,
+      "disposition": "search_discovery_not_collected_evidence",
+      "source_ids": []
+    },
+    {
+      "path": "state/source_search/a2a1a5868e0d7f9bea4445fe416ccccf6b57db16f2bb814be491f0f1e53bdcb1.json",
+      "bytes": 11336,
+      "disposition": "search_discovery_not_collected_evidence",
+      "source_ids": []
+    },
+    {
+      "path": "state/source_search/b074e3eada1222d720f553c59991067e98b3b49667e2c677894a99eb619540e5.json",
+      "bytes": 5594,
+      "disposition": "search_discovery_not_collected_evidence",
+      "source_ids": []
+    },
+    {
+      "path": "state/source_search/bc552e92aa3e111be3356821f7270033b53af62072505a5b3237c01e487b567d.json",
+      "bytes": 2499,
+      "disposition": "search_discovery_not_collected_evidence",
+      "source_ids": []
+    },
+    {
+      "path": "state/source_search/c89e5b12611a40f609556ccbc847ed9b33ef931b2d9ca080eead26a27e931882.json",
+      "bytes": 9162,
+      "disposition": "search_discovery_not_collected_evidence",
+      "source_ids": []
+    },
+    {
+      "path": "state/source_search/d18229bd03f190048b26eddd091e3f38a7198ce7926f59550385b787effc75f2.json",
+      "bytes": 5998,
+      "disposition": "search_discovery_not_collected_evidence",
+      "source_ids": []
+    },
+    {
+      "path": "state/source_search/f5f69fe35d2f2bed291eebee9e4ae4b6df80d8b8923b81277acf7fb57a9c670f.json",
+      "bytes": 12649,
+      "disposition": "search_discovery_not_collected_evidence",
+      "source_ids": []
+    },
+    {
+      "path": "state/source_search/fab59a1e288f54087eb8d286e478b73ab7c798846f1617e843c52e96fd175fac.json",
+      "bytes": 1853,
+      "disposition": "search_discovery_not_collected_evidence",
+      "source_ids": []
+    },
+    {
+      "path": "state/state.sqlite",
+      "bytes": 81920,
+      "disposition": "operational_metadata_or_derivative",
+      "source_ids": []
+    }
+  ],
+  "input_hashes": {
+    "raw/podcast/1d/1df927f644bc46fe9e86a53442c58779862ce912bdb30a5ec79343fd441c8c6f.html": "1df927f644bc46fe9e86a53442c58779862ce912bdb30a5ec79343fd441c8c6f",
+    "raw/podcast/1d/1df927f644bc46fe9e86a53442c58779862ce912bdb30a5ec79343fd441c8c6f.html.de4f2f2e9bda61c7.metadata.json": "66fd03b2b75f624be3783986307e37de9c0fb765aa729297df74558e9134ad10",
+    "raw/podcast/1e/1ec52efc7871e8bd7acf6b8981e83fabc650bd2b009a4eb2d5808ec8217373d0.html": "1ec52efc7871e8bd7acf6b8981e83fabc650bd2b009a4eb2d5808ec8217373d0",
+    "raw/podcast/1e/1ec52efc7871e8bd7acf6b8981e83fabc650bd2b009a4eb2d5808ec8217373d0.html.5d2d9c14e500d402.metadata.json": "e6742245cb03c0d8aebecdeaa89f7ea15ae12964af0b62066a3f5206c4f3d680",
+    "raw/podcast/5f/5fbca4b8eb0384865d2db8655188226b54f75423dad5a3080cee3ac8ceb9401b.html": "5fbca4b8eb0384865d2db8655188226b54f75423dad5a3080cee3ac8ceb9401b",
+    "raw/podcast/5f/5fbca4b8eb0384865d2db8655188226b54f75423dad5a3080cee3ac8ceb9401b.html.ebc4bfcb16c71f80.metadata.json": "2078d8a5e192bb2990a7f627bbc674cbdacb996185be3cf89423f6c0fd01eb4e",
+    "raw/podcast/95/95f1da257f1585060d4fb56271cabcc67fc0d7b5bad1cad6c28c5f1a82adce4f.html": "b34e8bc982a7a115aad2c0a312cd3cfb353ba3f5be4c05966b8cd01b3dd8bf15",
+    "raw/podcast/95/95f1da257f1585060d4fb56271cabcc67fc0d7b5bad1cad6c28c5f1a82adce4f.html.2c04875b5d7dd01b.metadata.json": "d7ede63a4f4458631d2594d72ec7454a7752ae5b50a48d3348f4b02a5f24c1e1",
+    "raw/podcast/b0/b0ea9b271e65d4a0ffb9120e4650268f5244d4954f58b29613650b932fb65121.html": "b0ea9b271e65d4a0ffb9120e4650268f5244d4954f58b29613650b932fb65121",
+    "raw/podcast/b0/b0ea9b271e65d4a0ffb9120e4650268f5244d4954f58b29613650b932fb65121.html.439b7e1cccfa7c6d.metadata.json": "0508f9da55486d47951948e8734be514d54c1d991073d97cbf473426870fcc2b",
+    "raw/podcast/bd/bd279c47a547b21c617ff32bc8f8887be22fd9fc945caed28ac22b4a4ec97cc5.html": "bd279c47a547b21c617ff32bc8f8887be22fd9fc945caed28ac22b4a4ec97cc5",
+    "raw/podcast/bd/bd279c47a547b21c617ff32bc8f8887be22fd9fc945caed28ac22b4a4ec97cc5.html.8bd7425774421028.metadata.json": "38a55b49eca48f8e1fe9add8badadd93432425eb2a8330b670e0dc027f77e658",
+    "raw/podcast/c6/c64947bf376a10599f09a226f28a55ab4111241e800d23282d417329e5ec2b7e.html": "c64947bf376a10599f09a226f28a55ab4111241e800d23282d417329e5ec2b7e",
+    "raw/podcast/c6/c64947bf376a10599f09a226f28a55ab4111241e800d23282d417329e5ec2b7e.html.071de22316fbafe2.metadata.json": "024a465821361070617a921d2f907fbffb11271052157adda4fdc41161a2ad83",
+    "raw/podcast/d5/d5a7363ad3e6f6a171c4b7d003821f53d223fb94228f88979ab7aca50cb84716.html": "d5a7363ad3e6f6a171c4b7d003821f53d223fb94228f88979ab7aca50cb84716",
+    "raw/podcast/d5/d5a7363ad3e6f6a171c4b7d003821f53d223fb94228f88979ab7aca50cb84716.html.3e08e1fe18ca00dc.metadata.json": "af931bd2adafbe061e9f7cfeadfd4d4ba78192596130421e56bc844d8d7bb8e1",
+    "raw/podcast/e0/e0d980d658ea14dc2860343d4d9f15e62478d4791697a594eac8067079d11afd.html": "e0d980d658ea14dc2860343d4d9f15e62478d4791697a594eac8067079d11afd",
+    "raw/podcast/e0/e0d980d658ea14dc2860343d4d9f15e62478d4791697a594eac8067079d11afd.html.bb10ba1b22403ae0.metadata.json": "fb34cd08a584b829dc80d30154d0f36565add2f16c1716c4509c4554c6d295be",
+    "raw/podcast/f2/f2609ec43161589e59be041c92019e808cd61a16932f5d5ebfe76d801e48afb2.html": "f2609ec43161589e59be041c92019e808cd61a16932f5d5ebfe76d801e48afb2",
+    "raw/podcast/f2/f2609ec43161589e59be041c92019e808cd61a16932f5d5ebfe76d801e48afb2.html.72cafb10db05655f.metadata.json": "859151726e656f6b89493d459c6ee868d6c607fab51678d741ae88a1653f5807",
+    "raw/podcast/f6/f639db332b25be624cb58c733619462849bd6de0956ab76b1a98e6ce88312526.html": "f639db332b25be624cb58c733619462849bd6de0956ab76b1a98e6ce88312526",
+    "raw/podcast/f6/f639db332b25be624cb58c733619462849bd6de0956ab76b1a98e6ce88312526.html.cb3494889ecc21cd.metadata.json": "be04fe3187b50d52dba2c71cec0c0918f32f5d25ff849b6fcbeadc9b8994054f",
+    "raw/web/1b/1b93c3666af35339f87b4cf7681ed91b8d406c4ea34f80090285564f21146211.html": "1b93c3666af35339f87b4cf7681ed91b8d406c4ea34f80090285564f21146211",
+    "raw/web/1b/1b93c3666af35339f87b4cf7681ed91b8d406c4ea34f80090285564f21146211.html.4a49a919c1331009.metadata.json": "d28eb4dec66005ecaaf2756fe26801c64f0fbee8558715a96a25d0dac9c2fd44",
+    "raw/web/4f/4fb358846888800903c43b6964dc119c9595962240363ddc8760e83ee4a3c8d5.html": "4fb358846888800903c43b6964dc119c9595962240363ddc8760e83ee4a3c8d5",
+    "raw/web/4f/4fb358846888800903c43b6964dc119c9595962240363ddc8760e83ee4a3c8d5.html.4eecd69336345ff3.metadata.json": "a1d22e4e120e42e73d308fd483e8a52db71d3b1d3ef9a0555131568c1341c7fd",
+    "raw/web/4f/4fe99fec7f4cff93e6eb25947a47d27005f771e11de489a483e917c517b854eb.html": "4fe99fec7f4cff93e6eb25947a47d27005f771e11de489a483e917c517b854eb",
+    "raw/web/4f/4fe99fec7f4cff93e6eb25947a47d27005f771e11de489a483e917c517b854eb.html.8996b66193c6d600.metadata.json": "6aaac61f4fcb0fb6836aba415fe49c99af0736a778458b1531d95b837dabe191",
+    "raw/web/55/55a24ea11ef28230deffc06aa9a699f37a6baf2bba212415156f823c61c3a216.html": "55a24ea11ef28230deffc06aa9a699f37a6baf2bba212415156f823c61c3a216",
+    "raw/web/55/55a24ea11ef28230deffc06aa9a699f37a6baf2bba212415156f823c61c3a216.html.1943a69dd0689f88.metadata.json": "9ef5e93adf30e2d795b67bad7515046598893f9386bdea5ccf755b1ffdbb98a6",
+    "raw/web/5b/5b51b7ace078317bb970e49f1205f5c484f2822bd33dfb5cd10d627c79f535d3.html": "5b51b7ace078317bb970e49f1205f5c484f2822bd33dfb5cd10d627c79f535d3",
+    "raw/web/5b/5b51b7ace078317bb970e49f1205f5c484f2822bd33dfb5cd10d627c79f535d3.html.1a2095ed5748b2a9.metadata.json": "d026e0d3b37a9fa51b4711a575c27ffd4230f6323fa03ad10a671533aa6f06ec",
+    "raw/web/6b/6bd7e0a011886d839ea9f690ed82b6a5a473459b8fb4754ae835f077fc8b9ab0.html": "6bd7e0a011886d839ea9f690ed82b6a5a473459b8fb4754ae835f077fc8b9ab0",
+    "raw/web/6b/6bd7e0a011886d839ea9f690ed82b6a5a473459b8fb4754ae835f077fc8b9ab0.html.e9b80b36437a4f96.metadata.json": "9d7344becf3e956cf728e740ae3062c30827788b4e5c43e91d8196038d696c45",
+    "raw/web/6f/6ffe62230466d58ad93c2800ab8e1bc0703755611204bc85e89c2d7992739223.html": "6ffe62230466d58ad93c2800ab8e1bc0703755611204bc85e89c2d7992739223",
+    "raw/web/6f/6ffe62230466d58ad93c2800ab8e1bc0703755611204bc85e89c2d7992739223.html.d2780cfddcf2e0f0.metadata.json": "1a8ac307fa543e58116130c3479258561d9244b1f699a16866e0698a3b19ce92",
+    "raw/web/7a/7ae8576d5549db2a59aefd147ff4c58b9881ee2bdfe519c1e6f3c8379c23f57b.html": "7ae8576d5549db2a59aefd147ff4c58b9881ee2bdfe519c1e6f3c8379c23f57b",
+    "raw/web/7a/7ae8576d5549db2a59aefd147ff4c58b9881ee2bdfe519c1e6f3c8379c23f57b.html.b7def56f0db5f22e.metadata.json": "944a09c0c4b432d269559b36d991ed2a84ad1a4fdf4228b9d7f110f946dbf733",
+    "raw/web/80/80e12cb5310f4df8748fa297d3d7900182d6d83fcc0a882a0469b31f3de37caf.html": "80e12cb5310f4df8748fa297d3d7900182d6d83fcc0a882a0469b31f3de37caf",
+    "raw/web/80/80e12cb5310f4df8748fa297d3d7900182d6d83fcc0a882a0469b31f3de37caf.html.2994cb0b1f9c6a59.metadata.json": "6ac0d2d4df2acd5b33c9541e79f862abaee3e9f8b711fe09672ba874583368fc",
+    "raw/web/9a/9acca6920dcee6e0eda10009943ccefa03443daeb590facd888dbe6a4d897e67.html": "9acca6920dcee6e0eda10009943ccefa03443daeb590facd888dbe6a4d897e67",
+    "raw/web/9a/9acca6920dcee6e0eda10009943ccefa03443daeb590facd888dbe6a4d897e67.html.d85ea735af4a60d7.metadata.json": "21d7c6615f3e8c4f1086665fa793eb3ee541b683c20db39d26da5f26aba67536",
+    "raw/web/a7/a7b771a0e8aa787ddbfae14cdab122cd8633e9bfae522ddca2e984790fe1cce4.html": "a7b771a0e8aa787ddbfae14cdab122cd8633e9bfae522ddca2e984790fe1cce4",
+    "raw/web/a7/a7b771a0e8aa787ddbfae14cdab122cd8633e9bfae522ddca2e984790fe1cce4.html.66b32fc80059d98f.metadata.json": "874d9eef96e28567d5623047d80c788e165bcd4296adca8ae82713444301fd31",
+    "raw/web/b9/b9ef133683b60504639c73862209efc8a56c4fed70eadda1557af78a7c57529f.html": "b9ef133683b60504639c73862209efc8a56c4fed70eadda1557af78a7c57529f",
+    "raw/web/b9/b9ef133683b60504639c73862209efc8a56c4fed70eadda1557af78a7c57529f.html.dd1da1d8ee94bbdf.metadata.json": "86d8fe72089b71aaed666684fe8b50f4b5ed371091c7ead6d1848182ba14155f",
+    "raw/web/db/dbee55a28a8f70238f907667f113e9488ee7fd77701eecb4b5e0f329681195c9.html": "dbee55a28a8f70238f907667f113e9488ee7fd77701eecb4b5e0f329681195c9",
+    "raw/web/db/dbee55a28a8f70238f907667f113e9488ee7fd77701eecb4b5e0f329681195c9.html.c377dbd97c8b7b7b.metadata.json": "1ed29ac0227648c2218ffac54f66acf933ab4d52471e4933a8864ac359e10c41",
+    "raw/web/ec/ec0a436185955fad607cab48553712e1db794d596d764e430deb2cec741c0ee2.html": "ec0a436185955fad607cab48553712e1db794d596d764e430deb2cec741c0ee2",
+    "raw/web/ec/ec0a436185955fad607cab48553712e1db794d596d764e430deb2cec741c0ee2.html.700107324f806cff.metadata.json": "4432be75fdcc1514045a80a34a51c8d0c0bd3d8f3ef2e13b3a80dd7f30d1e528",
+    "raw/web/fb/fbb800d1402ad7013eafdc768282647a35f9818972203b9dc0e612eb79876997.html": "fbb800d1402ad7013eafdc768282647a35f9818972203b9dc0e612eb79876997",
+    "raw/web/fb/fbb800d1402ad7013eafdc768282647a35f9818972203b9dc0e612eb79876997.html.08434df6c99e3e0a.metadata.json": "b3116aa7b632fbd22119e6644e7ae5ca68f65aa41b10216b28352effebd4178b",
+    "raw/web/fc/fc4594e66dce6134f6fc05d41704836755169abba9c98f13f8645f3a06c4042c.html": "fc4594e66dce6134f6fc05d41704836755169abba9c98f13f8645f3a06c4042c",
+    "raw/web/fc/fc4594e66dce6134f6fc05d41704836755169abba9c98f13f8645f3a06c4042c.html.3c05a1820b875074.metadata.json": "c58f26fb68ff2ba99dc671e33a293f9f53689c7ab5ad5bb2e21e433fc4a3d39b",
+    "raw/web/fe/fe371f34484d5931d47d4215cdb8435c429dfdf74e84757f6b574fce673308b8.html": "fe371f34484d5931d47d4215cdb8435c429dfdf74e84757f6b574fce673308b8",
+    "raw/web/fe/fe371f34484d5931d47d4215cdb8435c429dfdf74e84757f6b574fce673308b8.html.bd8c9cbc4b3bc751.metadata.json": "6e826c04e0ae56ae576e9f558a18d5c239b11b178090db0d1219ca31beb012d4"
+  },
+  "warnings": [
+    "Media without transcript: raw/podcast/75/75be7240e1a8c3218a7cb53aa5685402c50e14c1a05719219ed72c99615e6b5f.mp3",
+    "Media without transcript: raw/podcast/aa/aa3d9c3a22724315273778a87eb5dfd2e244e798b0d6bdb567157e62b8e7a938.mp3"
+  ]
+}

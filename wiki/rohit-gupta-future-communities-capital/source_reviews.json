@@ -1,0 +1,668 @@
+[
+  {
+    "source": "full:44a0dd8753a394ca0b52bd03",
+    "part": 1,
+    "identity": "target",
+    "reason": "The episode explicitly identifies Rohit Gupta as an impact investor at Future Communities Capital, matching the resolved affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "January 14, 2023 #16 Rohit Gupta - Founder & Impact Investor @ Future Communities Capital (FCC)",
+        "claim": "The podcast page reports that an episode identifying Rohit Gupta as a founder and impact investor at Future Communities Capital was published on January 14, 2023.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "In this episode we chat with Rohit Gupta, a passionate impact investor at Future Communities Capital (FCC) where he focuses on helping accelerate the growth of early stage mission-driven companies ensuring they can put fuel on the Doing Well by Doing Good fire.",
+        "claim": "The podcast description portrays Gupta as a Future Communities Capital impact investor focused on accelerating early-stage, mission-driven companies.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "From introducing founders to potential customers to providing timely advice, Rohit and team help their portfolio companies sustainably Do Well while Doing Good.",
+        "claim": "The podcast description says Gupta and his team support portfolio companies through customer introductions and advice.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "a8820d774f1fa958b49a2a7567653d71151cb0e7213dda25175b9298551a8c2d"
+  },
+  {
+    "source": "full:c9f96cf7692f7f448803c9cb",
+    "part": 1,
+    "identity": "target",
+    "reason": "The featured episode explicitly identifies Rohit Gupta as an impact investor at Future Communities Capital, matching the resolved investor.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "#16 Rohit Gupta - Founder & Impact Investor @ Future Communities Capital (FCC) The Good AI PodcastJan 14, 2023",
+        "claim": "Spotify reports that the Good AI Podcast episode identifying Gupta as a founder and impact investor at Future Communities Capital was dated January 14, 2023.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "In this episode we chat with Rohit Gupta, a passionate impact investor at Future Communities Capital (FCC) where he focuses on helping accelerate the growth of early stage mission-driven companies ensuring they can put fuel on the Doing Well by Doing Good fire.",
+        "claim": "The episode description characterizes Gupta as a Future Communities Capital impact investor focused on early-stage, mission-driven companies.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "From introducing founders to potential customers to providing timely advice, Rohit and team help their portfolio companies sustainably Do Well while Doing Good.",
+        "claim": "The episode description reports that Gupta and his team help portfolio companies with customer introductions and timely advice.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "df837e77990abee7f9f9f219f3c9646e65f1422a840c7f81d44da225e9f846fa"
+  },
+  {
+    "source": "full:1d79372dd17891a1d73e8fbd",
+    "part": 1,
+    "identity": "target",
+    "reason": "The appearance listing labels Rohit Gupta as an investor from Future Communities Capital, matching the resolved identity, although its substantive summaries are AI-generated rather than attributed quotations.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Doctours: VC Funded Hair Transplants?! The Pitch Oct 22, 202542 minInvestor, Future Communities Capital",
+        "claim": "SignalCast lists Gupta as a Future Communities Capital investor on an October 22, 2025 episode of The Pitch.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Rohit Gupta has appeared on 1 podcast we summarize, including The Pitch — 3 episodes in total.",
+        "claim": "SignalCast reports that Gupta appeared in three episodes of The Pitch tracked by the site.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "00ec3641374adbca2c1f1c3566d854d2159d32f7ed2b72354d1c037266516b69"
+  },
+  {
+    "source": "full:2d5f712337b91991cfef9c87",
+    "part": 1,
+    "identity": "target",
+    "reason": "This is the authoritative The Pitch profile for Rohit Gupta and explicitly names Future Communities Capital, the resolved affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Rohit Gupta is the Managing Director of Future Communities Capital (FCC).",
+        "claim": "The Pitch identifies Gupta as Managing Director of Future Communities Capital.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Rohit has led investments into Coupang, Counsyl, Biomeme, SpaceX, Akido, Lyft, Roofr, and more.",
+        "claim": "The Pitch reports that Gupta has led investments into Coupang, Counsyl, Biomeme, SpaceX, Akido, Lyft, and Roofr, without specifying dates or investment vehicles.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Rohit looks for technology entrepreneurs focused on disrupting legacy industries such as government, healthcare, finance, and real estate.",
+        "claim": "The Pitch describes Gupta as seeking technology entrepreneurs disrupting legacy industries including government, healthcare, finance, and real estate.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Portfolio companies are tackling problems ranging from smart city infrastructure to disease outbreak management.",
+        "claim": "The Pitch describes the associated portfolio as addressing areas ranging from smart-city infrastructure to disease-outbreak management.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Rohit Gupta has invested in 4 startups on The Pitch, deploying $200K across categories including AI, Badass Female Founders, B2B SaaS, Fund I Portfolio, Fund II Portfolio, EV Tech.",
+        "claim": "The Pitch reports that Gupta deployed $200,000 across four startups through the show in the listed categories.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Deeptech #186 Supercool Earth: Making It Rain, Literally $50K·SAFE · $12M post-money cap",
+        "claim": "The Pitch lists a $50,000 SAFE investment in Supercool Earth at a $12 million post-money cap.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "EV Tech it’s electric: Beating Tesla Was the Easy Part $50K·Priced Round · $25M pre-money",
+        "claim": "The Pitch lists a $50,000 priced-round investment in it’s electric at a $25 million pre-money valuation.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "AI Pitz: Car Repair as Fast as an F1 Pit Stop $50K·SAFE · $20M post-money cap",
+        "claim": "The Pitch lists a $50,000 SAFE investment in Pitz at a $20 million post-money cap.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "AI Mappa: Can This Voice AI Startup Find You a Job… or a Date? $50K·SAFE · $15M post-money cap",
+        "claim": "The Pitch lists a $50,000 SAFE investment in Mappa at a $15 million post-money cap.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "20eae03a807394ec09e2834d75d0f1d3f65ebe0b5b16b1ed2cd18c78adddc4c5"
+  },
+  {
+    "source": "full:fca0d66ffa14fd2e202b6036",
+    "part": 1,
+    "identity": "target",
+    "reason": "The January 2024 event attendee list explicitly names Rohit Gupta as Managing Director of Future Communities Capital, matching the resolved identity.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "HealthcareInvestor BrunchJanuary 7, 2024 10:30am - 1:30pm PST San Francisco, CA",
+        "claim": "The program identifies the event as a Healthcare Investor Brunch held in San Francisco on January 7, 2024.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Rohit Gupta Managing Director Future Communities Capital",
+        "claim": "The event program lists Rohit Gupta as Managing Director of Future Communities Capital among its attendees.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "ae4b5ebedd864d251630564e2477934c8eec916fb1a2c7933178c1e657533a3a"
+  },
+  {
+    "source": "full:fca0d66ffa14fd2e202b6036",
+    "part": 2,
+    "identity": "other",
+    "reason": "This packet contains only generic Opus8 investor-meeting material and does not mention Rohit Gupta or Future Communities Capital.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "b64893c4943cbe2c74c4555e5c99989a589224146b33428fa7cae091ce6b9709"
+  },
+  {
+    "source": "full:044ce2b59f04d698f95df028",
+    "part": 1,
+    "identity": "other",
+    "reason": "The source identifies its Rohit Gupta as an Indian-American film director, producer, and founder of Dot & Feather Entertainment, not the investor associated with Future Communities Capital.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "510e2e6e781ea4210b2f82369796531bac4363c6f33a05d9d936b59724d45dc9"
+  },
+  {
+    "source": "full:099d9a13c7464d63fafb3c4d",
+    "part": 1,
+    "identity": "target",
+    "reason": "The episode description explicitly identifies Rohit Gupta as Managing Director at Future Communities Capital, matching the resolved investor and affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Rohit Gupta is Managing Director at Future Communities Capital, a fund backing founders transforming legacy industries.",
+        "claim": "The episode describes Gupta as Managing Director of Future Communities Capital and characterizes the fund as backing founders transforming legacy industries.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "His investments span companies like SpaceX and Lyft, and in Buffalo include HELIX Intel and Ognomy.",
+        "claim": "The episode reports that Gupta's investments include SpaceX, Lyft, HELIX Intel, and Ognomy.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "In this episode, Rohit breaks down why he’s betting on places outside Silicon Valley and what he sees in Buffalo specifically.",
+        "claim": "The episode says Gupta invests in markets outside Silicon Valley and discusses Buffalo specifically.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "We also get into what founders still get wrong when raising capital, how much networks actually matter, and his view on building companies in the age of AI.",
+        "claim": "The episode reports that Gupta discusses founder fundraising mistakes, the importance of networks, and company-building in the AI era.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Release Date 4/13/2026",
+        "claim": "The page lists the episode's release date as April 13, 2026.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "3c004bdce0816a285016c659803f03cb8f89bd07662a7eeb96596e18acec557f"
+  },
+  {
+    "source": "full:89473ae8f993ccb6275fa243",
+    "part": 1,
+    "identity": "uncertain",
+    "reason": "The document names a Rohit Gupta only as one of four authors of an MSCI private-credit blog post and supplies no Future Communities Capital affiliation or other anchor resolving him as the target investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "ee7b0c7f43ab2f12d7beba445597efd0acb4e06523db158e1d170c59798fb584"
+  },
+  {
+    "source": "full:89473ae8f993ccb6275fa243",
+    "part": 2,
+    "identity": "other",
+    "reason": "This packet contains only MSCI legal and product disclaimers, with no mention of Rohit Gupta or material attributable to the target investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "46d34c53ca54e5e11b76aba9cf24215815ed32d2de98b4bb06ed6dcbb283a4d4"
+  },
+  {
+    "source": "full:38c0c0f599c89734d41ba826",
+    "part": 1,
+    "identity": "target",
+    "reason": "The memo explicitly identifies Rohit Gupta as a Berkeley-based venture capitalist, founder of Future Communities Capital, and Managing Partner of the newly announced Future Frontier Capital fund.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "In early 2021, I was introduced to Rohit Gupta, a Berkeley based Venture Capitalist.",
+        "claim": "The memo's first-person author says he was introduced to Berkeley-based venture capitalist Rohit Gupta in early 2021.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Rohit began his career in real-estate, working with his family to invest in real estate in the Bay Area and beyond.",
+        "claim": "The memo reports that Gupta began his career investing in real estate with his family in and beyond the Bay Area.",
+        "kind": "biography"
+      },
+      {
+        "quote": "In 2008, during the great recession, Rohit was inspired to branch out. He began making Venture Capital investments out of his family office.",
+        "claim": "The memo reports that Gupta began making venture-capital investments through his family office in 2008.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Several of his early investments were big winners, yet his family was uninterested in diversifying their investments. Rohit went out alone as a solo General Partner and raised two funds under the name Future Communities Capital (FCC).",
+        "claim": "The memo reports that Gupta became a solo general partner and raised two Future Communities Capital funds after several early investments succeeded.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "When Rohit and I met, he was fascinated by our unique approach to spotting and mentoring early-stage startups. He was also impressed by our early deal-ﬂow and the quality of our founders and startups.",
+        "claim": "The memo's author reports that Gupta responded positively to the team's approach to identifying and mentoring early-stage startups, its deal flow, and founder quality.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "He suggested that Mark and I join FCC and we raise a new preseed fund focused on writing the ﬁrst check to frontier technology companies.",
+        "claim": "The memo reports that Gupta proposed a new pre-seed fund focused on making the first investment in frontier-technology companies.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "In early 2023, Rohit (Managing Partner), Mark Garner Casaña (CTO/Data Scientist), and I announced our new fund, Future Frontier Capital.",
+        "claim": "The memo reports that Gupta, identified as Managing Partner, and his colleagues announced Future Frontier Capital in early 2023.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "35f4244c23be8adf88ef3b29c846dee41fb979c0120a184fa879d5bb8a981511"
+  },
+  {
+    "source": "full:1cb8ba17463bc03a32be1e5d",
+    "part": 1,
+    "identity": "target",
+    "reason": "Future Communities Capital's team page explicitly identifies Rohit Gupta as its Managing Director, matching the resolved affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Rohit Gupta is the Managing Director of Future Communities Capital (FCC).",
+        "claim": "Future Communities Capital identifies Gupta as its Managing Director.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Rohit has led investments into Coupang, Counsyl, Biomeme, SpaceX, Akido, Lyft, Roofr, and more.",
+        "claim": "The firm's team page reports that Gupta led investments in Coupang, Counsyl, Biomeme, SpaceX, Akido, Lyft, and Roofr.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "FCC looks for technology entrepreneurs focused on disrupting legacy industries such as government, healthcare, finance, and real estate.",
+        "claim": "The firm says its investment approach targets technology entrepreneurs disrupting government, healthcare, finance, real estate, and other legacy industries.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Portfolio companies are tackling problems ranging from smart city infrastructure to disease outbreak management.",
+        "claim": "The firm describes its portfolio scope as ranging from smart-city infrastructure to disease-outbreak management.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Rohit holds an MS in Environmental Engineering from Cornell University. He completed his BS at the University of Southern California.",
+        "claim": "The team page reports that Gupta earned an MS in Environmental Engineering from Cornell University and a BS from the University of Southern California.",
+        "kind": "biography"
+      }
+    ],
+    "input_fingerprint": "d4319646d38d12bbcd906acb26c7c5579f4e75956317c38db7df4b419a4254fb"
+  },
+  {
+    "source": "full:00799d22ec1bc534a3df6e58",
+    "part": 1,
+    "identity": "unusable",
+    "reason": "The packet contains only a page title and no substantive text from which identity, investor views, or contextual facts can be reviewed.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "aca1fb15bf8fa8eb6f18bfa4dbd41d61df5082ce65c86e158eaaf8811b0d2b93"
+  },
+  {
+    "source": "full:b5640d544fe3167beb778256",
+    "part": 1,
+    "identity": "target",
+    "reason": "The profile identifies Rohit Gupta as managing director of Future Communities Capital, matching the resolved investor affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Future Communities Capital is a venture capital firm based in Berkeley, California.",
+        "claim": "The database describes Future Communities Capital as a Berkeley-based venture-capital firm.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Managing Director Rohit Gupta",
+        "claim": "The database lists Rohit Gupta as Future Communities Capital's managing director.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Our records indicate that Future Communities Capital invested in the VC transactions listed below. Dollar amounts are for the entire raise, which may include other investors.",
+        "claim": "The database characterizes its transaction list as investments by Future Communities Capital and cautions that round amounts may include other investors.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Akido Labs 5/16/2025 Series B $60,000,000",
+        "claim": "The database reports a May 16, 2025 Series B transaction involving Future Communities Capital and Akido Labs; the displayed $60 million is the entire raise rather than necessarily the firm's investment.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Sparxell 4/2/2024 Undisclosed $3,200,000",
+        "claim": "The database reports an April 2, 2024 transaction involving Future Communities Capital and Sparxell; the displayed $3.2 million is the entire raise rather than necessarily the firm's investment.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Strive Tech 6/29/2022 Series A $6,000,000",
+        "claim": "The database reports a June 29, 2022 Series A transaction involving Future Communities Capital and Strive Tech; the displayed $6 million is the entire raise rather than necessarily the firm's investment.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "3604b174b7f2ee4c096a34b295edb430c967535ae8884636fa80d2a786d58e74"
+  },
+  {
+    "source": "full:c31b3accd27398b1b7a21506",
+    "part": 1,
+    "identity": "target",
+    "reason": "The organization profile names Rohit Gupta as founder and managing director of Future Communities Capital, the resolved investor's confirmed firm.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Future Communities Capital was founded in 2018 by Rohit Gupta (Founder&Managing Director).",
+        "claim": "Startup Intros reports that Rohit Gupta founded Future Communities Capital in 2018 and serves as its managing director.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Future Communities Capital is a Berkeley, California-based early-stage venture capital firm that provides pre-seed and seed funding to technology entrepreneurs disrupting legacy industries.",
+        "claim": "Startup Intros describes Future Communities Capital as an early-stage firm funding pre-seed and seed technology companies that disrupt legacy industries.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "The investment vehicle focuses on backing mission-driven companies building innovative solutions to address complex global challenges, ranging from smart city infrastructure development to infectious disease outbreak management.",
+        "claim": "Startup Intros reports that the firm focuses on mission-driven companies addressing complex global challenges.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Beyond supplying initial financial backing, the organization actively assists its portfolio companies by leveraging its network to facilitate high-value customer introductions that accelerate commercial growth.",
+        "claim": "Startup Intros reports that the firm supports portfolio companies through customer introductions intended to accelerate growth.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "The firm targets traditional sectors requiring modernization, specifically allocating capital toward startups operating within healthcare, government, finance, real estate, property technology, energy, and supply chain logistics.",
+        "claim": "Startup Intros reports that the firm targets startups modernizing healthcare, government, finance, real estate, property technology, energy, and supply-chain logistics.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "The latest tracked deal is $60.0M Series B in Akido Labs in May 2025.",
+        "claim": "Startup Intros reports that its latest tracked Future Communities Capital deal was Akido Labs' $60 million Series B in May 2025; this describes the round size, not necessarily the firm's contribution.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "dbdf230ca0a316479db1472e0eaf75ddff52b4f612cdd1235175479375e9fc23"
+  },
+  {
+    "source": "full:4b9cbd9c5b79adb784d992b3",
+    "part": 1,
+    "identity": "target",
+    "reason": "The post explicitly describes an interview with Rohit Gupta, founder and impact investor at Future Communities Capital, but presents paraphrased notes rather than direct quotations from him.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "In this episode recorded in March 2022 we chatted with Rohit Gupta , founder and impact investor at Future Communities Capital (FCC) focused on mission-driven companies across all industries with a slight bend toward healthcare because of how the fund started and Rohit’s own background in the biotech space.",
+        "claim": "Anand Sampat reports that the March 2022 episode featured Rohit Gupta as Future Communities Capital's founder and impact investor, with a cross-industry mission focus and some healthcare emphasis.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Worked in genetic labs in undergrad and met the Counsyl (acq. by Myriad Genetics in 2018) team 14 years ago which lead to the first investment.",
+        "claim": "The episode notes report that Gupta worked in genetic laboratories as an undergraduate and that meeting the Counsyl team led to his first investment.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Future Communities Capital came out of this desire to invest in healthtech, biotech and finding opportunities for large-scale change (e.g. Counsyl’s vision was to eliminate inherited diseases)",
+        "claim": "The episode notes attribute Future Communities Capital's origin to an interest in healthtech, biotech, and opportunities for large-scale change.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Unique differentiator - focused on mission-driven companies primarily but not exclusively in healthcare and committed to delivering value via high-value intros to accelerate sales (e.g. a novel healthtech looking to sell to health systems)",
+        "claim": "The episode notes describe the firm's approach as backing mission-driven companies and helping them obtain valuable introductions that can accelerate sales.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Key is to identify that the founder knows the industry they are selling to, have built trusted relationships with customers and are able and willing to roll up their sleeves and get their hands dirty.",
+        "claim": "The episode notes attribute importance to founder industry knowledge, trusted customer relationships, and willingness to perform hands-on work.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Prior to Series B / A, the metrics are often off anyways so it’s best to look at the model rather than the absolute numbers.",
+        "claim": "The episode notes report an early-stage assessment approach that emphasizes the model over absolute metrics before Series A or B.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Goal setting and plan-making is more important than the absolute numbers at the early stage.",
+        "claim": "The episode notes report that early-stage goal setting and planning matter more than absolute numbers.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Board formation is critical at the early stage for that reason.",
+        "claim": "The episode notes characterize early-stage board formation as critical to maintaining alignment between founders and the board.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "5683a608a694543a836b470e5bb192d6d87675d94ec6cd67c22552b716ecea5a"
+  },
+  {
+    "source": "full:702b70599d053ed890d74582",
+    "part": 1,
+    "identity": "target",
+    "reason": "The host explicitly introduces Rohit Gupta as managing director of Future Communities Capital, after which Speaker 2 answers the interview questions consistently as that guest.",
+    "evidence": [
+      {
+        "quote": "I say, don't put all your eggs in onebasket, don't put a lot of your money in this asset class because it's super risky.",
+        "label": "investment_upside_assessment",
+        "direction": "negative",
+        "support": "explicit",
+        "interpretation": "Gupta views venture investing as sufficiently risky that new investors should limit exposure and diversify.",
+        "attribution_basis": "The host names Rohit Gupta of Future Communities Capital immediately before the dialogue, and this is Speaker 2's answer."
+      },
+      {
+        "quote": "And you know,really, you have to dig down past sort of the slide deck.",
+        "label": "business_viability_concern",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "Gupta says investors must investigate beyond a startup's presentation materials.",
+        "attribution_basis": "The host names Rohit Gupta of Future Communities Capital immediately before the dialogue, and this is Speaker 2's answer."
+      },
+      {
+        "quote": "How are these? How are these this team? How arethese folks going to sell this thing?",
+        "label": "go_to_market_strategy_assessment",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "Gupta treats the team's ability to sell the product as a core diligence question.",
+        "attribution_basis": "The host names Rohit Gupta of Future Communities Capital immediately before the dialogue, and this is Speaker 2's answer."
+      },
+      {
+        "quote": "Having their story in place,being able to pitch it well and assuming that's done, get a warm intro.",
+        "label": "founder_communication_quality",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "His fundraising advice implies that a coherent story and effective pitch help founders gain investor consideration.",
+        "attribution_basis": "The host names Rohit Gupta of Future Communities Capital immediately before the dialogue, and this is Speaker 2's answer."
+      },
+      {
+        "quote": "We're looking at kind of the underserved, weird businesses, you know, startups who kind ofare not from, you know, the valley.",
+        "label": "investment_thesis_constraint",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Gupta says the fund seeks unconventional, underserved startups outside Silicon Valley.",
+        "attribution_basis": "The host names Rohit Gupta of Future Communities Capital immediately before the dialogue, and this is Speaker 2's description of the fund's strategy."
+      },
+      {
+        "quote": "I think a key to our success is thatsecondary tertiary markets and the founders out there have better returns in sort of the folkswho kind of here in the bay already and have a high priced high valuation.",
+        "label": "stage_valuation_mismatch",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Gupta favors secondary and tertiary markets partly because he associates them with better returns than highly valued Bay Area opportunities.",
+        "attribution_basis": "The host names Rohit Gupta of Future Communities Capital immediately before the dialogue, and this is Speaker 2's description of the fund's experience."
+      },
+      {
+        "quote": "I'm I'm a coffee and handshake guy always have, and I want to meet afounder face to face, get a cup of coffee, and we'll just sort of hash it out.",
+        "label": "decision_context_constraint",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "Gupta expresses a preference for evaluating founders through face-to-face conversation.",
+        "attribution_basis": "The host names Rohit Gupta of Future Communities Capital immediately before the dialogue, and this is Speaker 2's first-person statement."
+      },
+      {
+        "quote": "Youcan think government health care, transportation, prop tech, big big markets, very slow, verydifficult to innovate. We like those spaces.",
+        "label": "investment_thesis_constraint",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Gupta favors large legacy sectors such as government, healthcare, transportation, and property technology where innovation is difficult.",
+        "attribution_basis": "The host asks for Gupta's investment thesis, and Speaker 2 answers after the host's explicit introduction of him."
+      },
+      {
+        "quote": "We think that they're ripe for innovation, ripe fordisruption, and we think that we can sort of help those startups bridge that gap.",
+        "label": "investor_value_add_fit",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Gupta believes his firm can help startups bridge the difficulty of innovating in legacy industries.",
+        "attribution_basis": "The host asks for Gupta's investment thesis, and Speaker 2 answers after the host's explicit introduction of him."
+      },
+      {
+        "quote": "Having a sort of deep understanding of any deal makes it a lotless risky.",
+        "label": "investor_domain_knowledge_constraint",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Gupta believes investor understanding of a deal reduces investment risk.",
+        "attribution_basis": "The host names Rohit Gupta of Future Communities Capital immediately before the dialogue, and this is Speaker 2's investment advice."
+      },
+      {
+        "quote": "But if they're smart and they'repassionate and you want to get behind them, I would totally do it.",
+        "label": "founder_qualities",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Gupta is willing to back a very early founder when he perceives intelligence and passion.",
+        "attribution_basis": "The host names Rohit Gupta of Future Communities Capital immediately before the dialogue, and Speaker 2 explicitly states that he would back such a founder."
+      },
+      {
+        "quote": "But the best way to find me is through a warm introduction. Theconversation moves so much faster if you just get somebody in the middle of say, like, youshould talk to this guy. I'll do it every time.",
+        "label": "decision_context_constraint",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Gupta strongly prefers deal introductions through a trusted intermediary.",
+        "attribution_basis": "The host asks how listeners should contact Gupta, and Speaker 2 answers in the first person after the host's explicit introduction of him."
+      }
+    ],
+    "context": [
+      {
+        "quote": "Well, hello, this is Hall Martin with Investor Connect the here with RohitGupta, managing director at Future Communities Capital.",
+        "claim": "Host Hall Martin introduces the guest as Rohit Gupta, managing director of Future Communities Capital.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "I was at another fund and this was early twothousand eight and we were heavily focused on real estate, but we sort of had a broad mandateof what we could do with our capital.",
+        "claim": "Gupta says he worked at another broadly mandated, real-estate-focused fund in early 2008.",
+        "kind": "biography"
+      },
+      {
+        "quote": "We just did some early deals that,you know, our first for our first four deals were absolutely tremendous and that kind of startedthings for us.",
+        "claim": "Gupta says strong outcomes from his first four venture deals helped launch his investing path.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Where we sit, though, as a fund is,we don't want to have those problems. We don't want to look at the same stuff they're lookingat.",
+        "claim": "Gupta distinguishes his fund's strategy from large funds pursuing heavily trafficked opportunities.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "We wantfolks in the middle of nowhere. You know, there's there's a market for both of them. It's a littletougher to say, I'm going to go out to Buffalo, New York and find, you know, great founder outthere, but we'll do it.",
+        "claim": "Gupta says the fund deliberately searches for founders in locations such as Buffalo rather than limiting sourcing to established hubs.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Youcan think government health care, transportation, prop tech, big big markets, very slow, verydifficult to innovate.",
+        "claim": "Gupta identifies government, healthcare, transportation, and property technology as large, slow-moving legacy markets relevant to the fund's thesis.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "1709a8fdf8b7fd650576ad144a2395ad823820b217cfff3ae470562852053923"
+  },
+  {
+    "source": "full:6dcdbff006ec13e08c4c854f",
+    "part": 1,
+    "identity": "target",
+    "reason": "The speaker biography identifies Rohit Gupta as managing director of Future Communities Capital, matching the resolved investor affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Rohit Gupta is the Managing Director of Future Communities Capital (FCC).",
+        "claim": "Innovate South identifies Rohit Gupta as managing director of Future Communities Capital.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Rohit has led investments since 2018 into startups such as Coupang, Counsyl, SpaceX, Akido, Lyft, Roofr, Groq, and more.",
+        "claim": "Innovate South reports that Gupta has led investments since 2018 in companies including Coupang, Counsyl, SpaceX, Akido, Lyft, Roofr, and Groq.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "FCC looks for technology entrepreneurs focused on disrupting legacy industries such as government, healthcare, finance, supply chain and climate.",
+        "claim": "Innovate South reports that Future Communities Capital seeks technology entrepreneurs disrupting government, healthcare, finance, supply-chain, and climate sectors.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Rohit holds an MS in Environmental Engineering from Cornell University. He completed his BS at the University of Southern California.",
+        "claim": "Innovate South reports that Gupta earned an MS in Environmental Engineering from Cornell University and a BS from the University of Southern California.",
+        "kind": "biography"
+      },
+      {
+        "quote": "April 23, 2026 Decoding the Term Sheet: What Local vs. National Investors Actually Want",
+        "claim": "Innovate South lists Gupta for an April 23, 2026 session titled “Decoding the Term Sheet: What Local vs. National Investors Actually Want.”",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "cd9dcb1d25f638e4327d635b91d98bb878f29558724096e07dbc538c9ce01931"
+  },
+  {
+    "source": "full:307d27898dd839def0e0a317",
+    "part": 1,
+    "identity": "unusable",
+    "reason": "The packet contains only a matching YouTube title plus site-navigation and copyright boilerplate, with no transcript or substantive investor material.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "74d6afd95fb1564badd82ebe45cbd4feb4e88db43e2fd8a2dd7c9ce8b2f65e2e"
+  },
+  {
+    "source": "full:69c76a4a74662e1da96a1d55",
+    "part": 1,
+    "identity": "target",
+    "reason": "The post explicitly identifies an interview with Rohit Gupta of Future Communities Capital, but its substantive points are unattributed summaries rather than verbatim guest quotations.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "In this episode recorded in March 2022 we chatted with Rohit Gupta, founder and impact investor at Future Communities Capital (FCC) focused on mission-driven companies across all industries with a slight bend toward healthcare because of how the fund started and Rohit’s own background in the biotech space.",
+        "claim": "Anand Sampat reports that the March 2022 episode featured Rohit Gupta as Future Communities Capital's founder and impact investor, with a cross-industry mission focus and some healthcare emphasis.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Worked in genetic labs in undergrad and met the Counsyl (acq. by Myriad Genetics in 2018) team 14 years ago which lead to the first investment.",
+        "claim": "The episode notes report that Gupta worked in genetic laboratories as an undergraduate and that meeting the Counsyl team led to his first investment.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Future Communities Capital came out of this desire to invest in healthtech, biotech and finding opportunities for large-scale change (e.g. Counsyl’s vision was to eliminate inherited diseases)",
+        "claim": "The episode notes attribute Future Communities Capital's origin to an interest in healthtech, biotech, and opportunities for large-scale change.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Unique differentiator - focused on mission-driven companies primarily but not exclusively in healthcare and committed to delivering value via high-value intros to accelerate sales (e.g. a novel healthtech looking to sell to health systems)",
+        "claim": "The episode notes describe the firm's approach as backing mission-driven companies and helping them obtain valuable introductions that can accelerate sales.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Key is to identify that the founder knows the industry they are selling to, have built trusted relationships with customers and are able and willing to roll up their sleeves and get their hands dirty.",
+        "claim": "The episode notes attribute importance to founder industry knowledge, trusted customer relationships, and willingness to perform hands-on work.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Prior to Series B / A, the metrics are often off anyways so it’s best to look at the model rather than the absolute numbers.",
+        "claim": "The episode notes report an early-stage assessment approach that emphasizes the model over absolute metrics before Series A or B.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Goal setting and plan-making is more important than the absolute numbers at the early stage.",
+        "claim": "The episode notes report that early-stage goal setting and planning matter more than absolute numbers.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Board formation is critical at the early stage for that reason.",
+        "claim": "The episode notes characterize early-stage board formation as critical to maintaining alignment between founders and the board.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "1e84c0adc10d9866e8724a08dff8b6da5fc2eb0949a948e8d070819d5754e49d"
+  }
+]

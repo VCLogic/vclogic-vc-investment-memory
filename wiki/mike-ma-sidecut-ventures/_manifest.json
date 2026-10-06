@@ -1,0 +1,170 @@
+{
+  "vc_slug": "mike-ma-sidecut-ventures",
+  "corpus_chars": 121171,
+  "thin_corpus": true,
+  "no_pitch_sources": false,
+  "sources_consumed": [
+    "full:a1726c9f9618857803af1542",
+    "full:cc1bb664b511f8201aecd970",
+    "full:48b5ae7232d94d6b4d59101a",
+    "full:1dd1e23193f9d5c1724f95dc",
+    "full:560ddf28405db3b06bdc87a1",
+    "full:d1faaf548d5292ae88a17fdc",
+    "full:4bf6f5151c7032c74d3ed10b",
+    "full:701e8abe3ac3034b76203cdc",
+    "full:d367c42345a9ad091919799b",
+    "full:abe414497de01e3424e7205a",
+    "full:df6ed975fa56f250ceeb575c",
+    "full:d0a9e2e5f2c55f40c35ff239",
+    "full:c68fc7ebe724ed0e82003d0a",
+    "full:a9bddd3ab483adb7140f4b73"
+  ],
+  "evidence_count": 12,
+  "persona_tokens": 4076,
+  "persona_tokens_method": "ceil_characters_divided_by_4_estimate",
+  "taxonomy_version": "v_final",
+  "generated_at": "2026-10-06T09:27:35.435237+00:00",
+  "schema_version": "2.0",
+  "generation": {
+    "model": "gpt-5.6-sol",
+    "revision": "full-export-v2",
+    "calls": [
+      {
+        "key": "133238ff7a0afb2041bab0ca07502b013cd989596f6d40307a3852b35c6fbfa5",
+        "cached": false,
+        "repaired": false,
+        "seconds": 37.73
+      },
+      {
+        "key": "a73ae0ba8b15c367e11df8289be4f4ade0a7fb0ba1cea16140a973462c610733",
+        "cached": false,
+        "repaired": false,
+        "seconds": 24.8
+      },
+      {
+        "key": "8da6e157b3599f72c349a80a36a9aaa5ae366931d887edd82c7f4eddcce96bcb",
+        "cached": false,
+        "repaired": false,
+        "seconds": 9.65
+      },
+      {
+        "key": "d3dc7ba5a74f204b1a62376fb36e972933ddc63e992882b6932d793fccbae96f",
+        "cached": false,
+        "repaired": false,
+        "seconds": 7.74
+      },
+      {
+        "key": "55ab38ec0f47e801156ee58387ed5ccb1caa2b55fdc88bde8ff2c263311fee1e",
+        "cached": false,
+        "repaired": false,
+        "seconds": 8.5
+      },
+      {
+        "key": "11e319338caab2d1eac090eb8b9ad14071e66aad677b0808bdd3944305832a13",
+        "cached": false,
+        "repaired": false,
+        "seconds": 6.94
+      },
+      {
+        "key": "acf91152aeb966897802e01a435b23fc57ca3ff8f7cecce0c87c9044ee7e53a0",
+        "cached": false,
+        "repaired": false,
+        "seconds": 10.46
+      },
+      {
+        "key": "7132c9035376faf879782495d1ab31bc3d3113deb12f3b71f17c6e0cc39d1313",
+        "cached": false,
+        "repaired": true,
+        "seconds": 121.71
+      },
+      {
+        "key": "7f293179b3211435a3bd836edd0c42a30467f4cc166b8bf0cab90496edbcab1a",
+        "cached": false,
+        "repaired": false,
+        "seconds": 27.21
+      },
+      {
+        "key": "b0b067b2de7ac62700c6aeebcf4e6ea9975e3948c0ae8b40a39d2a6ea4c244d1",
+        "cached": false,
+        "repaired": false,
+        "seconds": 31.02
+      },
+      {
+        "key": "4d1f5bd5ad94695a32e86a9109e6e4f07854d97f82e14bb37ed4728edbc4730a",
+        "cached": false,
+        "repaired": true,
+        "seconds": 249.68
+      }
+    ],
+    "synthesis_input": "full_receipts"
+  },
+  "warnings": [
+    "Media without transcript: raw/podcast/56/56e4ff11ebf97f38d3cb9490001a9f987de0316e2f81ea6d810668ae611e4955.mp3",
+    "Media without transcript: raw/podcast/5f/5fde578cabafbd496ba2cf5b8be463b1e5f2aa589d39f5e4d1b3e9daa035da1b.mp3",
+    "Media without transcript: raw/podcast/79/799de320b993484f7fe3b3b82cfaaf987a493c9da790091d4f165bbda22abe27.mp3",
+    "Media without transcript: raw/podcast/d5/d5512316e1df4b48dca783ce1841e52897a45b17b2a091fa43c1dd31a7892d27.mp3",
+    "Media without transcript: raw/podcast/e0/e0cc055cc3c87470e684a1942c7f2a34d756303a0f1d9a94334396249ec30ca3.mp3",
+    "Media without transcript: raw/podcast/fe/fe064b47135bf6dfc76c0e8d492a605da755078e936f7f8edf8625ecada88c32.mp3",
+    "Full-export sources were reviewed for identity and attribution; automated review is not independent verification.",
+    "Company relationships are source-reported; founder/adviser roles are not inferred portfolio holdings.",
+    "Multiple pages may repeat one interview or report; source count is not independent corroboration.",
+    "Some publication dates and speaker identities remain unresolved; read coverage.md."
+  ],
+  "input_hashes": {
+    "raw/podcast/09/095ec286f8b104ebd81ea425aa4904aa0837d92146bfca365f9a47262c8b27d1.html": "095ec286f8b104ebd81ea425aa4904aa0837d92146bfca365f9a47262c8b27d1",
+    "raw/podcast/09/095ec286f8b104ebd81ea425aa4904aa0837d92146bfca365f9a47262c8b27d1.html.ae9615e94cfbb49d.metadata.json": "2256f603b0ecff7371e31b394f1a87d75f7cca28549735b94154784edc9a4493",
+    "raw/podcast/87/87213849ccf1963433d2c04ee6c861b0c6ce5a00adc49115f47b0502d29fdc6b.html": "87213849ccf1963433d2c04ee6c861b0c6ce5a00adc49115f47b0502d29fdc6b",
+    "raw/podcast/87/87213849ccf1963433d2c04ee6c861b0c6ce5a00adc49115f47b0502d29fdc6b.html.406e40cba37991ad.metadata.json": "7f72c9f5b758836a89a209be4d9e99fcc270d5b8358cbebc337227f9967a862d",
+    "raw/podcast/ba/baf3a66d5399b2ae2509e1d3473be86ba6c1c0f3f2310926e434282cfa7feef8.html": "baf3a66d5399b2ae2509e1d3473be86ba6c1c0f3f2310926e434282cfa7feef8",
+    "raw/podcast/ba/baf3a66d5399b2ae2509e1d3473be86ba6c1c0f3f2310926e434282cfa7feef8.html.012964e7883ede78.metadata.json": "2897ab9da9f4469cecd1022a5c8e5d32bdcb91d45094524584f3ada760af2cb9",
+    "raw/podcast/c7/c736b6a57207fe2e0b52bd4b4a25703db490b45006177e50f4649ad029ff9343.html": "c736b6a57207fe2e0b52bd4b4a25703db490b45006177e50f4649ad029ff9343",
+    "raw/podcast/c7/c736b6a57207fe2e0b52bd4b4a25703db490b45006177e50f4649ad029ff9343.html.553c3e67f05fceb9.metadata.json": "78aefd9f982c8a2781d8f5f8e8e0607b8403f814b4a37492034e7534e716f0c4",
+    "raw/podcast/d6/d6ef9567e6c41e6ac8eb416138ef80d9397c6abf4fe7374a7fd901858b59fcf2.html": "d6ef9567e6c41e6ac8eb416138ef80d9397c6abf4fe7374a7fd901858b59fcf2",
+    "raw/podcast/d6/d6ef9567e6c41e6ac8eb416138ef80d9397c6abf4fe7374a7fd901858b59fcf2.html.cdb519088313b6cc.metadata.json": "7288994ea13427b34ab3f2aa86db00e9a7f4358262cc2d71d5bc5483a596eb80",
+    "raw/podcast/f3/f309bc9137b5c8c4815d8d84a08df7fe5dfe10070fcdbf00f7186c05a1313aa7.html": "f309bc9137b5c8c4815d8d84a08df7fe5dfe10070fcdbf00f7186c05a1313aa7",
+    "raw/podcast/f3/f309bc9137b5c8c4815d8d84a08df7fe5dfe10070fcdbf00f7186c05a1313aa7.html.36dce2ac3060ce8e.metadata.json": "7711d1379e40abd76765471a642530781e1c350227eb4bf24b83b767ffa46f05",
+    "raw/podcast/f6/f6864c79107406c390b75a19ef0060e2c66893c9789c6f6ac1349b59d1b0c6fb.html": "f6864c79107406c390b75a19ef0060e2c66893c9789c6f6ac1349b59d1b0c6fb",
+    "raw/podcast/f6/f6864c79107406c390b75a19ef0060e2c66893c9789c6f6ac1349b59d1b0c6fb.html.dd610850aee3069e.metadata.json": "0cbe6bbb8a816030212e1153187259f3cc1e7be9fb4bd1a66956ed1a2a3f3872",
+    "raw/podcast/fc/fc276476778a4fd009f6d7e949d4c1658aca20c1f9c90935ea2ce4178b23301e.html": "fc276476778a4fd009f6d7e949d4c1658aca20c1f9c90935ea2ce4178b23301e",
+    "raw/podcast/fc/fc276476778a4fd009f6d7e949d4c1658aca20c1f9c90935ea2ce4178b23301e.html.d5108a5c4817e719.metadata.json": "54937fc0c6e7bffa8c873d9438675dd72dc12d57f3b11ca1c5fb18fce1d24840",
+    "raw/web/0a/0ae3f802f2e9d3be23db7440ff746668f3fd4b5f575251281d92b0e0bb1f9fe8.html": "0ae3f802f2e9d3be23db7440ff746668f3fd4b5f575251281d92b0e0bb1f9fe8",
+    "raw/web/0a/0ae3f802f2e9d3be23db7440ff746668f3fd4b5f575251281d92b0e0bb1f9fe8.html.43a0e1714ab96f1d.metadata.json": "29913a36f8b758936002cb3d2ba9a1e7e1a07587d8b56865c3918431144a805c",
+    "raw/web/13/138d1bdd3245f241c85636ac79430231c76b2bfbfc4cbdbfe9808bc35ff234eb.html": "138d1bdd3245f241c85636ac79430231c76b2bfbfc4cbdbfe9808bc35ff234eb",
+    "raw/web/13/138d1bdd3245f241c85636ac79430231c76b2bfbfc4cbdbfe9808bc35ff234eb.html.53871e381e234b2e.metadata.json": "576635e28ca83acada9872d5702048446824dd753c29d9c53b9676af0ec8eeb4",
+    "raw/web/17/170b946a217c0c32cb01d3baf70329fae8d79f3ef3439d4a798c4de1e8fad82e.html": "170b946a217c0c32cb01d3baf70329fae8d79f3ef3439d4a798c4de1e8fad82e",
+    "raw/web/17/170b946a217c0c32cb01d3baf70329fae8d79f3ef3439d4a798c4de1e8fad82e.html.7a5870aa2d109637.metadata.json": "95d4c7d24ccfb37649957867497987b8caf2150430b7c28eff9ad4c176589a09",
+    "raw/web/19/19792e03fcc65a6d1adc68c712c867a6567b1a2a8bfb293cc7f83a4776bc2afe.html": "19792e03fcc65a6d1adc68c712c867a6567b1a2a8bfb293cc7f83a4776bc2afe",
+    "raw/web/19/19792e03fcc65a6d1adc68c712c867a6567b1a2a8bfb293cc7f83a4776bc2afe.html.8fe2506e55ab4d51.metadata.json": "cc8de5a1f3430337d8f066a839bb93d72ff5d9a0258393f9a2a8db5a9accb391",
+    "raw/web/2f/2fd6751a4c9d1cb12a330dca603a93c7bc245b68088345e4edf5fd5d1b71d635.html": "2fd6751a4c9d1cb12a330dca603a93c7bc245b68088345e4edf5fd5d1b71d635",
+    "raw/web/2f/2fd6751a4c9d1cb12a330dca603a93c7bc245b68088345e4edf5fd5d1b71d635.html.1e5c98a934095329.metadata.json": "30f09dff1b723a21c514de3b70db0870becba395550a9f73d9b090ed1c764853",
+    "raw/web/33/33a627bf59179cbca6a7275a32f9d879bc41dc2f62db2e5a8c9bdd473862073f.html": "61753593833ce6087c481e62b27d9c8f716e0d9750f1e4b9594c75b80abc8239",
+    "raw/web/33/33a627bf59179cbca6a7275a32f9d879bc41dc2f62db2e5a8c9bdd473862073f.html.733208b136befa31.metadata.json": "e5052ab5628d25b3ad3fc3ffbf2c12197c83b057324c6153ec2a674924d29341",
+    "raw/web/51/51eca021349d894775e2ae858a15e21859f1fd7199b6819191757af9d51c1207.html": "51eca021349d894775e2ae858a15e21859f1fd7199b6819191757af9d51c1207",
+    "raw/web/51/51eca021349d894775e2ae858a15e21859f1fd7199b6819191757af9d51c1207.html.ce6e86100958b045.metadata.json": "c1bf53ed702d50cd7f982f79d86589dcf858db65807afb013079f07f7e2dff5e",
+    "raw/web/64/64a7af2c2bc6bcd19a2540e469cd4246049427d35cd4129dc2fd9cc998d137ba.pdf": "64a7af2c2bc6bcd19a2540e469cd4246049427d35cd4129dc2fd9cc998d137ba",
+    "raw/web/64/64a7af2c2bc6bcd19a2540e469cd4246049427d35cd4129dc2fd9cc998d137ba.pdf.fc8e55ef3589f3c8.metadata.json": "71dfb849dc684abecbc471c9e70b63a735c7fe549cae0b19d17bb125d6502f7d",
+    "raw/web/94/94caa60050216f2986b001d634876ebc276fc815287377a9170f88022eade248.html": "94caa60050216f2986b001d634876ebc276fc815287377a9170f88022eade248",
+    "raw/web/94/94caa60050216f2986b001d634876ebc276fc815287377a9170f88022eade248.html.6a0fc8eefa1f782f.metadata.json": "161122624b0b17feb5fe38f90f3efa6bbb6f5be7cef8d0647e83d0a36b5334bf",
+    "raw/web/a1/a1387053f75a5a3e1eeca1375a0cca7c25fe8cae4b08e022af65f6f8aaf5d8c2.html": "a1387053f75a5a3e1eeca1375a0cca7c25fe8cae4b08e022af65f6f8aaf5d8c2",
+    "raw/web/a1/a1387053f75a5a3e1eeca1375a0cca7c25fe8cae4b08e022af65f6f8aaf5d8c2.html.055d383f5c586406.metadata.json": "6e18a97d8a6e903ceee47aba0e5e53ae40da4c353c4c6237826390c490ed3124",
+    "raw/web/a2/a2409aedd73414f346ea3a9de581dc6b3f23fff7cd9239c747a8bb9532803877.html": "a2409aedd73414f346ea3a9de581dc6b3f23fff7cd9239c747a8bb9532803877",
+    "raw/web/a2/a2409aedd73414f346ea3a9de581dc6b3f23fff7cd9239c747a8bb9532803877.html.24751c65cb6ccd9f.metadata.json": "299ca868237090f53bebc4bad2f16cba21d09af06eef9a361104536a189a7666",
+    "raw/web/ce/ce203b82bbbfea5d1301031981f0db97093af5b5e6136c3992df6c762efd918c.html": "ce203b82bbbfea5d1301031981f0db97093af5b5e6136c3992df6c762efd918c",
+    "raw/web/ce/ce203b82bbbfea5d1301031981f0db97093af5b5e6136c3992df6c762efd918c.html.de2b144063485180.metadata.json": "37bb5ae57c9642e2f4b2c667cdeb02b1e4ff0ee960bbce217e8d862c7f64b3e1",
+    "raw/web/e2/e236d56ac25bef3cda444815276666d06811aff9ddf075a6c28e7d2bf35d4c9c.html": "e236d56ac25bef3cda444815276666d06811aff9ddf075a6c28e7d2bf35d4c9c",
+    "raw/web/e2/e236d56ac25bef3cda444815276666d06811aff9ddf075a6c28e7d2bf35d4c9c.html.9064b95f3051f1e2.metadata.json": "31cffac1362e568e8d71a11cded63783c81fd8639c7e959b6f03d0ee5e389c93",
+    "raw/web/f8/f8ca3b048b0f77f7bd9c8ae81e5fdb189d845305aaca0f1b65f619268a0e4295.pdf": "f8ca3b048b0f77f7bd9c8ae81e5fdb189d845305aaca0f1b65f619268a0e4295",
+    "raw/web/f8/f8ca3b048b0f77f7bd9c8ae81e5fdb189d845305aaca0f1b65f619268a0e4295.pdf.df0846d2612565d2.metadata.json": "36579e4b5e5d312db0bdb75395326460cb4689560c34bbcf13f3514c35d4dea6",
+    "raw/web/fe/fe24f198485e98650602b0ff2e22808b5f59bec853aa1b888fba5bd36f7de5ba.html": "fe24f198485e98650602b0ff2e22808b5f59bec853aa1b888fba5bd36f7de5ba",
+    "raw/web/fe/fe24f198485e98650602b0ff2e22808b5f59bec853aa1b888fba5bd36f7de5ba.html.80d1609ed3639e6a.metadata.json": "925a87d3416343557be7073bc37efcfca085ff312aed8d13f8d32a5504333aa5",
+    "raw/web/ff/ffba7a54b8a4137d55353b4cd3067941746ec07c1895295f7fb2bc6c1f986069.html": "ffba7a54b8a4137d55353b4cd3067941746ec07c1895295f7fb2bc6c1f986069",
+    "raw/web/ff/ffba7a54b8a4137d55353b4cd3067941746ec07c1895295f7fb2bc6c1f986069.html.ca4757c713ac6814.metadata.json": "4a8c7305248196eff4d6ce3ea1c6fc0bd5c7b8b2460fba7bd111b2a77177478d",
+    "raw/web/ff/ffd5d8cea7bc3db7c25d3ec408baf65121db2e91db37916ffc8e62ab32eefcbf.html": "ffd5d8cea7bc3db7c25d3ec408baf65121db2e91db37916ffc8e62ab32eefcbf",
+    "raw/web/ff/ffd5d8cea7bc3db7c25d3ec408baf65121db2e91db37916ffc8e62ab32eefcbf.html.b40fc55553222382.metadata.json": "367959c39acabaf7760e9ab1cc6844a1217012c015b3d2c8da9d4801a78757fb"
+  },
+  "source_policy": "full_investor_export",
+  "sources_reviewed": 25,
+  "source_packets_reviewed": 40,
+  "context_count": 53,
+  "files_inventoried": 132
+}

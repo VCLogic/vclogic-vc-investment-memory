@@ -1,0 +1,1168 @@
+[
+  {
+    "source": "full:05aa3e79a6ef485b48797294",
+    "part": 1,
+    "identity": "other",
+    "reason": "This packet is a biography of Canadian comedian Norm Macdonald and contains no material about resolved investor Beck Bamberger or Bad Ideas Group.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "30ab5e230f9dffeb676204947d049187129a63036fa356722ae597e4f629dd4f"
+  },
+  {
+    "source": "full:05aa3e79a6ef485b48797294",
+    "part": 2,
+    "identity": "other",
+    "reason": "This packet continues Norm Macdonald's biography, covering his comedy, gambling, illness, and filmography, with no connection to Beck Bamberger or Bad Ideas Group.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "bbae9a205c5565aaef9d7b787e9e8bdb89abdf46a2e27be8f1ce10eb4f371114"
+  },
+  {
+    "source": "full:05aa3e79a6ef485b48797294",
+    "part": 3,
+    "identity": "other",
+    "reason": "This packet consists of references and metadata for the Norm Macdonald article and provides no material attributable to Beck Bamberger or associated with Bad Ideas Group.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "405ba13f1c5d784872e6f23e3f896ca7dd8663aabfaa55312130c79e113afc5d"
+  },
+  {
+    "source": "full:98aa4e62bd6d0285d44adcd3",
+    "part": 1,
+    "identity": "uncertain",
+    "reason": "The page identifies a OnePitch co-founder named Beck Bamberger but provides no BAM, Bad Ideas Group, or other supplied identity anchor connecting that person to the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "b82aa262f0902e85a82913c4865ce27121718a08ee110e7d9ee07d22bc96ee09"
+  },
+  {
+    "source": "full:e3871f85cf762046ba56a52c",
+    "part": 1,
+    "identity": "other",
+    "reason": "This BAM webinar index contains no passage about or attributed to Beck Bamberger.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "b8b504258a5e1897fe4c49891d83f1a1679ac8ea5c5f5c33014f43f82fd8ad9e"
+  },
+  {
+    "source": "full:95529cb1f5ad90f1728c80c0",
+    "part": 1,
+    "identity": "target",
+    "reason": "This Beck Bamberger personal-site post belongs to the same domain whose supplied rap post explicitly connects its author to BAM, an affiliation confirmed by the authoritative investor profile.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "4be452fadb3d95c181b0d93e4e874ec346eba16c8a1e73371636bc907c6fa296"
+  },
+  {
+    "source": "full:0e39179821ca1e90180b0abb",
+    "part": 1,
+    "identity": "target",
+    "reason": "This Beck Bamberger personal-site post belongs to the same domain whose supplied rap post explicitly connects its author to BAM, an affiliation confirmed by the authoritative investor profile.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "bc694dde8b896da7b1d6840b08e789a2dc4482ff7b19f30c236aa54c775e2929"
+  },
+  {
+    "source": "full:a97075292675d51c09e751ea",
+    "part": 1,
+    "identity": "target",
+    "reason": "This Beck Bamberger personal-site post belongs to the same domain whose supplied rap post explicitly connects its author to BAM, an affiliation confirmed by the authoritative investor profile.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "723c2e029f01650bfcba2fe531240442c9a6a9863e83436ce986a2831544a2f4"
+  },
+  {
+    "source": "full:4139542feb0e6e380cbe1dcd",
+    "part": 1,
+    "identity": "other",
+    "reason": "The material is only a subscription page for The Inktober Newsletter and contains no reference to Beck Bamberger or her investing activities.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "c6ab6c28722b54011a675bac0132b873bf09535ec7c4299b5511ed66cd9c5d40"
+  },
+  {
+    "source": "full:0ff74b5e79af093f6cb3d55a",
+    "part": 1,
+    "identity": "target",
+    "reason": "The article is explicitly authored by Beck Bamberger and says she started BAM, matching the authoritative profile's identification of the resolved investor as BAM's founder.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "In 2008, I started this agency with one mission in mind: to move stories forward.",
+        "claim": "In this first-person BAM article, Bamberger says she started the agency in 2008.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Today, I’m excited to announce our rebrand from BAM Communications to BAM.",
+        "claim": "In the article dated June 23, 2020, Bamberger announced the agency's rebrand from BAM Communications to BAM.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "We’ve worked with over 120 badass startups, unicorns, and public companies and helped our clients raise $1.5B+ in funding through our extensive network of 500+ venture capitalist partners.",
+        "claim": "Bamberger reported that BAM had worked with more than 120 companies and helped clients raise over $1.5 billion through a network of more than 500 venture-capital partners.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "00c3be8f1a589c60c6cfc4e1dfd053fabc8d898985eedcb1d0cbf0963a041998"
+  },
+  {
+    "source": "full:5542ff78dfa0ca1a166fd31a",
+    "part": 1,
+    "identity": "target",
+    "reason": "The personal-site author describes recording a rap for her BAM employees and team, directly connecting Beck Bamberger to BAM and therefore to the resolved investor.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Next level: I’d record a rap for my team about BAM and let my employees judge me, which I did.",
+        "claim": "In this first-person post, Bamberger describes BAM's team members as her employees.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "462934211a303388388dd92d175d0da59b77a98f3e53e4112c50d17d0fea9d61"
+  },
+  {
+    "source": "full:dd6941a87742ee09f4642294",
+    "part": 1,
+    "identity": "other",
+    "reason": "This BAM marketing-category index contains no passage about or attributed to Beck Bamberger.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "55c10fdec5a2233733faceeadf488b01b870da5178cfb03ce75edeeae1224a4c"
+  },
+  {
+    "source": "full:ae3e9670e805d2009f1e218a",
+    "part": 1,
+    "identity": "other",
+    "reason": "This BAM public-relations category index contains no passage about or attributed to Beck Bamberger.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "8fbe4d684ffa01a3cba9348f47c8c8f44e1183c50dc403acaae0a11c1ca7aac7"
+  },
+  {
+    "source": "full:7ac4b3b937234784008d20d4",
+    "part": 1,
+    "identity": "target",
+    "reason": "This authoritative investor profile explicitly identifies Beck Bamberger with Bad Ideas Group and matches the resolved identity URL and affiliation.",
+    "evidence": [
+      {
+        "quote": "It sounds like a bad idea, which I like. Hence, Bad Ideas.",
+        "label": "investment_thesis_constraint",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Bamberger expresses an affirmative preference for opportunities that initially appear unconventional or counterintuitive.",
+        "attribution_basis": "The authoritative Beck Bamberger investor profile presents this quotation under “Investment Thesis” and “What Beck Looks For.”"
+      },
+      {
+        "quote": "I love where there's a deep connective fiber to a certain audience. If you get in with one, you're easily sold to the next five, because they're all super connected.",
+        "label": "go_to_market_strategy_assessment",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She favors tightly connected customer communities in which one successful sale can facilitate several additional sales.",
+        "attribution_basis": "The authoritative Beck Bamberger investor profile presents this quotation under “Investment Thesis” and “What Beck Looks For.”"
+      },
+      {
+        "quote": "I want to hear that intensity. That's what I want to hear where I'm like, you're gonna fight to the end because you know this is a $4 billion company.",
+        "label": "founder_qualities",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She looks for founders who communicate intense commitment and determination to pursue a very large outcome.",
+        "attribution_basis": "The authoritative Beck Bamberger investor profile presents this quotation under “Investment Thesis” and “What Beck Looks For.”"
+      }
+    ],
+    "context": [
+      {
+        "quote": "Beck Bamberger — Bad Ideas Group | The Pitch Investor Beck Bamberger Bad Ideas Group 2 investments $75K invested 14 episodes Check size: $25K to $50K",
+        "claim": "The Pitch identifies Bamberger as a Bad Ideas Group investor and reports two investments totaling $75,000, with a typical check size of $25,000–$50,000.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Beck is the founder of BAM, a PR agency for venture backed technology startups. In 2023, Beck sold the agency to focus on Bad Ideas Group, her VC fund that aims to help people and the planet live better and last longer.",
+        "claim": "The profile reports that Bamberger founded BAM and sold it in 2023 to focus on Bad Ideas Group, described as her VC fund focused on helping people and the planet live better and longer.",
+        "kind": "biography"
+      },
+      {
+        "quote": "ChurchSpace: Airbnb for Churches $25K·SAFE · $8M post-money cap",
+        "claim": "The Pitch reports a $25,000 SAFE investment by Bamberger in ChurchSpace at an $8 million post-money cap.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Outlines: A Venture-Backed Shower Curtain? $50K·SAFE · $6M pre-money cap",
+        "claim": "The Pitch reports a $50,000 SAFE investment by Bamberger in Outlines at a $6 million pre-money cap.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "6b706195b78bcd150039d4de6c84784ec7fa15ab40879ccee87851a0d9b51eaa"
+  },
+  {
+    "source": "full:5b4bff55cb080a8cee65e532",
+    "part": 1,
+    "identity": "target",
+    "reason": "The BAM article explicitly introduces a letter from CEO Beck Bamberger, matching the authoritative profile's identification of her as BAM's founder.",
+    "evidence": [
+      {
+        "quote": "Every company, every founder, and every venture capital fund needs to understand that the time is now to make changes. Not because you have to or want to, but simply because it’s the right thing to do.",
+        "label": "mission_alignment_preference",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "Her statement suggests strong personal alignment with organizations and founders that take substantive action on diversity, equity, and inclusion, though it does not state an investment rule.",
+        "attribution_basis": "The article explicitly introduces the material as “A letter from BAM CEO Beck Bamberger,” and the quotation appears within that first-person letter."
+      }
+    ],
+    "context": [
+      {
+        "quote": "06- Nov-2020 BECK BAMBERGER 5 minute read BAM's Diversity, Equity, and Inclusion Commitment A letter from BAM CEO Beck Bamberger:",
+        "claim": "BAM published Bamberger's letter announcing its diversity, equity, and inclusion commitment on November 6, 2020 and identified her as its CEO.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "My first step was to complete a DEI certification course by Cornell. Now, I’m starting my PhD from Pepperdine in Global Leadership and Organization Change by 2024 with coursework focused on DEI.",
+        "claim": "In 2020, Bamberger said she had completed a Cornell DEI certification course and was beginning a Pepperdine PhD focused partly on DEI, with completion planned by 2024.",
+        "kind": "biography"
+      }
+    ],
+    "input_fingerprint": "6d4f2e2142bc7b30ac4e397343d4660a390e50220d26534d529f1f1ffee5f9ea"
+  },
+  {
+    "source": "full:c57bc5f0ede41a76af290d3d",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page is explicitly headed “Latest uncomfortable experience: interview with a QAnon devotee. — Beck Bamberger” and contains her first-person account, although it offers no startup-investment evaluation evidence.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Now that I’m transitioning into conducting a few hundred interviews this year for my dissertation work, I’m completely curtailing my active practice of being uncomfortable so I can put on my academia hat.",
+        "claim": "In this first-person essay, Bamberger says she was beginning several hundred interviews for dissertation research.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Recently, at BAM, we’ve been doing a lot of work to “respond,” the emotional intelligence choice rather than “react,” the pure emotion choice.",
+        "claim": "Bamberger describes herself as participating in emotional-intelligence work at BAM, without specifying her formal role.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "da263f2919810de7250a974c1ebfcc8d612d7b2546d8812649b5a323ea6fe847"
+  },
+  {
+    "source": "full:b21070f92230c20e33496346",
+    "part": 1,
+    "identity": "other",
+    "reason": "This is a generic BAM careers-category index listing posts and unrelated named subjects, with no mention of Beck Bamberger or material attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "b7b7852cb20711221160897c04e518eba7e57097431559f7f89b0b069444c9fe"
+  },
+  {
+    "source": "full:ccddcc969533ea31aa84271f",
+    "part": 1,
+    "identity": "other",
+    "reason": "This is a generic BAM health-tech category index containing post listings and navigation but no mention of Beck Bamberger or attributable material about her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "d621b8f93cec34b0a17d2ece07d1461d0d1defe3ccc238684c7d97a1bd7a7fb3"
+  },
+  {
+    "source": "full:acbebc475720444e1aecd4d1",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page is explicitly headed “Latest uncomfortable experience: Standup comedy. — Beck Bamberger” and presents her first-person stand-up experience, but contains no decision-relevant investment material.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "60547787b4dc19ae6b1fe0c9d3914e9ee72328f82691b36a397737cf5f50fcb6"
+  },
+  {
+    "source": "full:9718b3cbfe6ddc2002bf60fd",
+    "part": 1,
+    "identity": "other",
+    "reason": "This is a generic BAM technology-category index listing posts about various people and topics, without naming Beck Bamberger or attributing any statements to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "a0db7d2d8985d1737c0f881257b2335ff60db6fb6085b30f27c25dbd916a40dd"
+  },
+  {
+    "source": "full:efbbd9e3da88ffe773fe5b43",
+    "part": 1,
+    "identity": "other",
+    "reason": "This is a generic BAM startups-category index containing navigation and article listings but no Beck Bamberger identification or attributable investor views.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "793a59f8eb97ffac0c74f80afc037ac8efa33c1eae462f897704ad94d62e24a3"
+  },
+  {
+    "source": "full:26974fd79740f3e94fbff179",
+    "part": 1,
+    "identity": "target",
+    "reason": "The BAM author archive is explicitly labeled “BECK BAMBERGER” and lists her posts, but supplies no direct investment-evaluation statements or sufficiently substantive relationship facts.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "0450272a961ddd6701c40b3cd7e9dfffe859cccf83ecc59095dc03c2d24041d8"
+  },
+  {
+    "source": "full:885f5ad36aaa14a6aef2b49d",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page is explicitly headed “Latest Uncomfortable Experience: An Interview to join a White Supremacist Group — Beck Bamberger” and contains her first-person account, but no startup-investment insight.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "35b10b65740049d79ed677a945091db53128d3cdf757247c169c053610fef40b"
+  },
+  {
+    "source": "full:874f21654ff84aaaa0e3494e",
+    "part": 1,
+    "identity": "other",
+    "reason": "This is a generic BAM client-stories category index listing unrelated posts and people, with no mention of Beck Bamberger or statements attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "162bfc836e9cb42efa5ade3e1d3e9277cc9b68b19ef058c366fe9f6ca882a901"
+  },
+  {
+    "source": "full:19fc18166f6842b6a3e14418",
+    "part": 1,
+    "identity": "target",
+    "reason": "The collection is explicitly titled “Uncomfortability — Beck Bamberger” and contains her first-person essays, but none of the material states a startup-investment evaluation preference.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Now that I’m transitioning into conducting a few hundred interviews this year for my dissertation work, I’m completely curtailing my active practice of being uncomfortable so I can put on my academia hat.",
+        "claim": "In this first-person collection, Bamberger says she was beginning several hundred interviews for dissertation research.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Recently, at BAM, we’ve been doing a lot of work to “respond,” the emotional intelligence choice rather than “react,” the pure emotion choice.",
+        "claim": "Bamberger describes herself as participating in emotional-intelligence work at BAM, without specifying her formal role.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Next level: I’d record a rap for my team about BAM and let my employees judge me, which I did.",
+        "claim": "Bamberger refers to BAM personnel as her team and employees, indicating a leadership relationship without stating a formal title.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "3fa1f43133554d2aefb396eea46dff51d8c34dafa85e5508aeb3261990e2af42"
+  },
+  {
+    "source": "full:19fc18166f6842b6a3e14418",
+    "part": 2,
+    "identity": "target",
+    "reason": "The page is explicitly titled “Uncomfortability — Beck Bamberger,” and its first-person author identifies herself as the creator of BAM and as a business owner who previously sold a company.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Aren’t we all in some cult of some sort whether it be Soul Cycle or Game of Thrones or being “a New Yorker” or even a company I created called BAM?",
+        "claim": "In this first-person essay, Bamberger says she created a company called BAM.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "I did note that my guide abruptly ended his questions about what I do in the world when I said I own my own business, have sold one before, have dozens of employees, and so on.",
+        "claim": "Bamberger reports that she owned a business with dozens of employees and had previously sold a business.",
+        "kind": "biography"
+      },
+      {
+        "quote": "We walked the fields, admiring the greenhouse, the peach trees, the dirt where carrots would be planted soon, and the irrigation system. We chatted easily, about how a lot of farming is about failure, much like the startups I work with, and how dealing with people is always hard, even if you love all 50 of them.",
+        "claim": "Bamberger says she works with startups and compares startup work with farming in terms of encountering failure and managing people.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "d8624794e0c8650b3ff831c74837ed085d1ac345e5c66e44c1ee4dc6a17c5720"
+  },
+  {
+    "source": "full:19fc18166f6842b6a3e14418",
+    "part": 3,
+    "identity": "target",
+    "reason": "This packet continues the first-person essay explicitly titled “Uncomfortability — Beck Bamberger,” with no contradictory identity indicators, but it contains no distinct investment-decision evidence or material investment context.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "22fadb1c6794bb7232089ad68c607ddb5744a3cc9c2860992732600175a7b981"
+  },
+  {
+    "source": "full:19fc18166f6842b6a3e14418",
+    "part": 4,
+    "identity": "uncertain",
+    "reason": "The packet is a first-person page titled “Uncomfortability — Beck Bamberger,” but it provides no Bad Ideas Group or other resolved-identity anchor beyond the name and personal-site URL.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "70ed34cbc342bedab7467f550e7efc95e321ad96f011a2bbeed94ffb70effb2f"
+  },
+  {
+    "source": "full:19fc18166f6842b6a3e14418",
+    "part": 5,
+    "identity": "uncertain",
+    "reason": "This continuation describes the author's uncomfortable-experience project and links a Beck Bamberger talk, but it does not connect the author to Bad Ideas Group or another supplied resolved-identity anchor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "59d23647f89ae9e4ab1d9bfd8ca2418d5eaae939906415347a766211230d7ca6"
+  },
+  {
+    "source": "full:6fb4bf6bd954accf384a04fb",
+    "part": 1,
+    "identity": "uncertain",
+    "reason": "The transcript explicitly identifies its host as Beck Bamberger, Co-founder of OnePitch and CEO of BAM Communications, but the supplied material does not connect those affiliations to the resolved Bad Ideas Group investor identity.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "f37eaf696ff91790b157ff07af943daa0c40cf8f9caf3f7acbce660765bb7774"
+  },
+  {
+    "source": "full:6fb4bf6bd954accf384a04fb",
+    "part": 2,
+    "identity": "uncertain",
+    "reason": "The packet attributes interviewer turns only to “Beck,” without a full-name introduction, accepted-speaker metadata, or another supplied anchor that unambiguously identifies the speaker as Beck Bamberger.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "9706b736eeca20df3b50808d7443a66eb0b90947f3aabe9df03708fef9343ef5"
+  },
+  {
+    "source": "full:cddc3e586981577a4924e668",
+    "part": 1,
+    "identity": "other",
+    "reason": "This is a BAM blog tag index about COVID-19 that neither names Beck Bamberger nor contains attributable material about her investing.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "c9c1f628a6efff45e81927d8098b5cb1942bbc7a7dee984b028ed3f983fc0556"
+  },
+  {
+    "source": "full:96cc1cc9174f67d16f8dea72",
+    "part": 1,
+    "identity": "other",
+    "reason": "This BAM Team article discusses client publicity for Yardstik, Numa, Percent, and Metricool but neither names Beck Bamberger nor attributes any views or investment activity to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "4cb7c8f01ab35f0bfe433ad33d535420f2c734c73e7d49721103dbfe834352e5"
+  },
+  {
+    "source": "full:ff86d4bd3685fbd549fd2f12",
+    "part": 1,
+    "identity": "other",
+    "reason": "This is a BAM category index listing blog posts and webinars, with no named or attributable material about Beck Bamberger.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "b971661c614cd75100219936877507e6264a1d96a29ba8e1401b9f9fd0f409bd"
+  },
+  {
+    "source": "full:a7478234302dc094e9329432",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page explicitly identifies Beck Bamberger as BAM’s founder, CEO, and AMA moderator and supplies biographical details about her prior media work.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Beck Bamberger is BAM's Founder and CEO.",
+        "claim": "The BAM page identifies Beck Bamberger as the founder and CEO of BAM.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "She is also the moderator of BAM's AMAs.",
+        "claim": "The BAM page reports that Bamberger moderates its Ask Media Anything events.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Prior to BAM, Beck worked in TV at NBC, hosted a show on the CW, and won an Emmy.",
+        "claim": "The BAM page reports that before BAM, Bamberger worked at NBC, hosted a CW show, and won an Emmy.",
+        "kind": "biography"
+      }
+    ],
+    "input_fingerprint": "f5f17b73a191aa7052846f99161c35fcb0367ab4b7bd4377345e99cbd247e36d"
+  },
+  {
+    "source": "full:352d14caea4704728754f3e9",
+    "part": 1,
+    "identity": "target",
+    "reason": "A full-name transcript turn identifies Beck Bamberger as OnePitch’s co-founder, Ban Communications’ CEO, and the podcast host, although it contains no investment-evaluation views from her.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "And I'm Beck Bamberger. I'm also theco-founder of OnePitch, the CEO of BanCommunications, and your host for today's podcast, talking to Kerry Flynn fromDigiday.",
+        "claim": "In her own introduction, Bamberger identifies herself as a OnePitch co-founder, CEO of Ban Communications, and host of the podcast.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "bfb93074584427992dfe9334a32eeabdad75884b87832ffc7ec375a72cfabb92"
+  },
+  {
+    "source": "full:352d14caea4704728754f3e9",
+    "part": 2,
+    "identity": "target",
+    "reason": "The transcript explicitly labels Beck Bamberger as Kerry Flynn’s interviewer in a OnePitch podcast, consistent with the resolved investor’s separately supplied OnePitch association, but her turns contain no material investing criteria or biographical facts.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "bb65702cfba1393796828126129ac9fa77b54dfae1c0dfc98bb96f4881521021"
+  },
+  {
+    "source": "full:5e861601b6a13266f9d780cd",
+    "part": 1,
+    "identity": "target",
+    "reason": "The profile identifies Beck Bamberger through the distinctive combination of BAM founder, OnePitch co-founder, and angel-investor roles and reports her investment and company history.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Beck Bamberger is the San Diego-based founder and CEO of BAM, a communications agency for venture-backed technology companies and funds.",
+        "claim": "The profile reports that Bamberger is the San Diego-based founder and CEO of BAM, which serves venture-backed technology companies and funds.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "She began angel investing in 2018, backing companies and funds including Cooler Heads, Voyager Ventures, Noemis Ventures, Mogul and Leche.",
+        "claim": "The profile reports that Bamberger began angel investing in 2018 and names Cooler Heads, Voyager Ventures, Noemis Ventures, Mogul, and Leche among her company and fund investments.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "In March 2023, the global communications firm LLYC acquired 80 percent of BAM. The transaction valued the San Diego agency at $13.2 million.",
+        "claim": "The profile reports that LLYC acquired an 80% interest in BAM in March 2023 at a $13.2 million valuation.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "In January 2025, LLYC announced that Bamberger had repurchased its 80 percent stake for $9 million. The agreement included $2.5 million paid up front and installments through 2030.",
+        "claim": "The profile reports that LLYC announced in January 2025 that Bamberger repurchased its 80% BAM stake for $9 million, with payments extending through 2030.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "14d9b7e261384092e405e5d58c0e034dea595ae4ee8c762c61565017448b1816"
+  },
+  {
+    "source": "full:8f5c98601f990832bca237a2",
+    "part": 1,
+    "identity": "target",
+    "reason": "The article names Beck Bamberger as its author and BAM’s CEO and founder, while its first-person discussion of her firm’s venture-backed startup clients establishes attribution to the resolved investor.",
+    "evidence": [
+      {
+        "quote": "None of these adjectives matter unless you can prove to the committee, with hard and specific data, how you back up your audacious claims.",
+        "label": "founder_communication_quality",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "In an awards and media context, Bamberger favors specific quantitative substantiation over unsupported superlatives when a startup presents its claims.",
+        "attribution_basis": "The page carries a BECK BAMBERGER byline, identifies her as BAM’s CEO and founder, and presents this passage in first person as her advice."
+      },
+      {
+        "quote": "All of our winning award and speaking submissions over the last two years have included customer quotes, testimonials and narratives.",
+        "label": "product_adoption",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "Bamberger treats concrete customer testimony and usage narratives as valuable third-party validation when presenting a startup.",
+        "attribution_basis": "The page carries a BECK BAMBERGER byline, identifies her as BAM’s CEO and founder, and presents this passage as a first-person account of her firm’s successful submissions."
+      },
+      {
+        "quote": "Nearly all of our successful submissions have clocked in at around half the word limit.",
+        "label": "founder_communication_quality",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "Bamberger associates concise presentation with stronger award and speaking applications, suggesting a preference for economical communication.",
+        "attribution_basis": "The page carries a BECK BAMBERGER byline, identifies her as BAM’s CEO and founder, and states this observation in first person."
+      }
+    ],
+    "context": [
+      {
+        "quote": "BAM CEO and Founder, Beck Bamberger, recently took the time to outline six proven strategies our clients have used to successfully secure spots on prestigious stages and coveted lists like CNBC’s Disruptor 50 and TIME100.",
+        "claim": "The BAM page identifies Bamberger as its CEO and founder and attributes the six application strategies to her.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Only some of my firm’s VC-backed startup clients take the time to submit themselves for awards or speaking engagements (or pay us to submit them).",
+        "claim": "In this first-person article, Bamberger describes her firm as serving VC-backed startup clients on award and speaking submissions.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "13486ad1c1a11caaa37a895f54697c943172e75a7ac00cd0fa46f682a3e54eb6"
+  },
+  {
+    "source": "full:24e4943aeaa503f66a740791",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Beck Bamberger personal-site post’s first-person account of deliberate discomfort and an ultramarathon matches the resolved investor’s distinctive supplied biography, but it provides no material investment criteria or company facts.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "3a7bc30a0744609239b33ab132b1acbfb8b87610e7d74e3c85b568f42c7421c5"
+  },
+  {
+    "source": "full:6272cf607a431f23a16eb805",
+    "part": 1,
+    "identity": "other",
+    "reason": "The article is attributed to the BAM TEAM and contains no Beck Bamberger quotation or individually attributed view, so its general advice to venture funds cannot be assigned to the target.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "f1b181bd3101d24cc8751f871fb1fc644ef98aec2a727a34cc839df6b3e7abf2"
+  },
+  {
+    "source": "full:45d2f0ebbb118ae4fe322e70",
+    "part": 1,
+    "identity": "other",
+    "reason": "This is a BAM climate-tech tag and navigation page containing article listings but no mention, quotation, or attributable material about Beck Bamberger.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "aecc12190a8ef9cd0cf97dc9240e3e430c9be0cb7e6a5fa10a1967326324e942"
+  },
+  {
+    "source": "full:ed735b4f5a6aa7c741619b40",
+    "part": 1,
+    "identity": "other",
+    "reason": "The article is attributed to “BAM TEAM” and discusses BAM’s funding-announcement PR practices without mentioning Beck Bamberger or attributing any statement to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "3f8f5f67010a851b1e538f8dfb4077d9a36665c11b69211d83c9951f66b199d9"
+  },
+  {
+    "source": "full:294b0916da7947fbd2227077",
+    "part": 1,
+    "identity": "other",
+    "reason": "This is a BAM venture-capital blog index containing article listings and category navigation, with no material about or statements attributed to Beck Bamberger.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "40edaaeee406f055c776448948d9446ec40f1132dc65ba4bf52c06b08ccee768"
+  },
+  {
+    "source": "full:8bce25d0de39e34b4cbe708c",
+    "part": 1,
+    "identity": "target",
+    "reason": "Jered Martin explicitly introduces Beck Bamberger as the OnePitch cofounder and BAM Communications CEO, and the transcript then assigns her remarks to named “Beck Bamberger” turns.",
+    "evidence": [
+      {
+        "quote": "What I have to say though that I think is so distinct and whyyou guys are flourishing, if I may say, versus some other more outlets that can't pivot is just what youwere mentioning, like this org chart, those specific calls, the community that you can get involved with.",
+        "label": "product_success_factor_assessment",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "Bamberger attributes a media outlet’s ability to flourish partly to differentiated subscriber features such as organizational charts, expert calls, and community participation.",
+        "attribution_basis": "The passage appears in a named “Beck Bamberger” transcript turn after Jered Martin explicitly introduces Beck as the episode host, OnePitch cofounder, and BAM Communications CEO; this is textual rather than acoustic attribution."
+      }
+    ],
+    "context": [
+      {
+        "quote": "Our host for the show is Beck Bamberger, the cofounder of OnePitchCEO of BAM Communications and a current journalist.",
+        "claim": "In the podcast introduction, Jered Martin identifies Beck Bamberger as a cofounder of OnePitch, CEO of BAM Communications, and a journalist.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "1ad19f9f74eca37cdbbb3aef97bdb39b4fba146a2306cb5072da5ad8b5c8d0c8"
+  },
+  {
+    "source": "full:8bce25d0de39e34b4cbe708c",
+    "part": 2,
+    "identity": "target",
+    "reason": "This continuation contains multiple explicitly labeled “Beck Bamberger” turns in her interview with Alex Heath, but her remarks here do not provide a distinct investment-decision insight or material contextual fact.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "c1377efc6840aedaf0f5d0c5fcdbb95beab1a8ade107ca520f2944228f133796"
+  },
+  {
+    "source": "full:4539cba51047b8c80d6c9411",
+    "part": 1,
+    "identity": "other",
+    "reason": "The product-launch checklist is attributed to “BAM TEAM” and contains no mention of Beck Bamberger or words explicitly attributed to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "fe7429cfc10fff124913f30aa176f2d87cfb6f022d3458e1e8dcb07477bf09c6"
+  },
+  {
+    "source": "full:7cd69e2317faaf50f98c0f41",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page is titled “Articles — Beck Bamberger,” uses first-person language to describe its author’s PR and entrepreneurship articles, and aligns with the transcript’s independent identification of Beck as BAM Communications CEO and a journalist.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "A few of my published articles in Inc, Forbes, Fast Company, CNBC, Huffington Post and more.",
+        "claim": "Beck Bamberger’s personal articles page reports that she has published articles in Inc, Forbes, Fast Company, CNBC, Huffington Post, and other outlets.",
+        "kind": "biography"
+      }
+    ],
+    "input_fingerprint": "3f0082b99d632122f94c14daf20aaa661d7c4d7f1e78e5a549b83f14fa9ebe9f"
+  },
+  {
+    "source": "full:c68850a57b98a2b8dc2a2ea4",
+    "part": 1,
+    "identity": "target",
+    "reason": "The transcript explicitly labels the host's turns as “Beck Bamberger,” but this part consists of questions and casual comments about journalism, coffee, entertainment, and advertising rather than investment-relevant views or facts.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "55b5ed4575446a2908aaf684b6a9cda04a622008152bf2e93918743003d74a41"
+  },
+  {
+    "source": "full:c68850a57b98a2b8dc2a2ea4",
+    "part": 2,
+    "identity": "target",
+    "reason": "The transcript explicitly labels Beck Bamberger's closing Mad Libs prompts and thanks to guest Peter Adams, but contains no decision-relevant investing material or useful investor context.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "5a0c9e17ba14dfbf22fdb46c7ef6514df1004f64a9c1397e770b9dc920294670"
+  },
+  {
+    "source": "full:b882013472f2ec8d06024ab5",
+    "part": 1,
+    "identity": "other",
+    "reason": "This is a BAM blog category index listing podcast articles and site navigation, with no mention of Beck Bamberger or attributable material about the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "d3be96017072e34f83270ecb3c90f83154b96e00f1230862a39bbeafd43d3877"
+  },
+  {
+    "source": "full:1529d8401b057e180e2c1d83",
+    "part": 1,
+    "identity": "other",
+    "reason": "This is a Dear BAMf Podcast category index listing episodes and guests, with no mention of Beck Bamberger or attributable material about the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "1c0774ccb05ff2f155c7c93880f8b093b96fa77c2ca14255d044ef2a871dfeb4"
+  },
+  {
+    "source": "full:9e2299c69c799b979b066ebd",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page title explicitly identifies Beck Bamberger and presents a first-person account of dumpster diving, but the account contains no investment-relevant assessment or useful investor context.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "590af5e6243be4885df466387bfc258143acf34122434225a04e9ba38be5668b"
+  },
+  {
+    "source": "full:012e14edfedbf76eb124d9d5",
+    "part": 1,
+    "identity": "other",
+    "reason": "This is a BAM blog AI category index listing articles by topic and date, with no mention of Beck Bamberger or attributable material about the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "769792fa49bca8e3f29e8a4c0d44556b68dd13c6c20ff9c5e0adab4458c63d8f"
+  },
+  {
+    "source": "full:a70b1ad7ca4217a47a6c32f3",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page title explicitly identifies Beck Bamberger and presents a first-person account of rappelling down the Grand Hyatt, but it contains no investment-relevant assessment or useful investor context.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "aae5ad00eab705cded7c2b2d80a45ade41bdb9ebecac1d24777b8e5562829dc5"
+  },
+  {
+    "source": "full:9b575cd42818bad8290b1039",
+    "part": 1,
+    "identity": "other",
+    "reason": "This is a BAM blog crisis-communications category index listing articles and site navigation, with no mention of Beck Bamberger or attributable material about the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "56ae248345d61a225476adaeaec9553d38439c6c415aa1d53f86b82efb55bb1b"
+  },
+  {
+    "source": "full:f98cc5bd51b8ed7bed80d31a",
+    "part": 1,
+    "identity": "other",
+    "reason": "This is a BAM blog enterprise/B2B category index listing two articles, with no mention of Beck Bamberger or attributable material about the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "b04890b0f4e5db0e829de1185e79faaf56265ad30ebd45b5d3b73f3d1fb80729"
+  },
+  {
+    "source": "full:54be4829ad5f849c521a9afc",
+    "part": 1,
+    "identity": "other",
+    "reason": "This is a BAM blog featured-content category index listing articles and navigation, with no mention of Beck Bamberger or attributable material about the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "dc23e76af29917fc90b8959343593ab89af7bfc35bb250fd1f88e16330ddbdc2"
+  },
+  {
+    "source": "full:4d42427a1b3da1273b252d35",
+    "part": 1,
+    "identity": "other",
+    "reason": "This is a BAM blog category index containing one “Coffee with a Founder” article listing, with no mention of Beck Bamberger or attributable material about the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "9835d8a5de5eab330076accc51b09f1b957ab6dfd0b4481f31612d8b123e4db3"
+  },
+  {
+    "source": "full:90482ac2d7e76072dd41230e",
+    "part": 1,
+    "identity": "other",
+    "reason": "Although Beck Bamberger is the named interviewer, this portion concerns Max Willens’s journalism work and contains no material about Bamberger’s investing activity, criteria, or relevant professional background.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "b29b6ecd15c551b004c49e89fecef177c33c0d91b3343c351b7af16aad8d07b9"
+  },
+  {
+    "source": "full:90482ac2d7e76072dd41230e",
+    "part": 2,
+    "identity": "other",
+    "reason": "This continuation consists of Beck Bamberger interviewing Max Willens about journalism and leading a word-association game, with no investor-relevant material attributable to Bamberger.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "7ffffbdf15234c0bd4ed0a4cdd79711670ba45023320af8c5a7afadd3500bda6"
+  },
+  {
+    "source": "full:bdf7ac8f86eab48d8564f35b",
+    "part": 1,
+    "identity": "other",
+    "reason": "The first-person Beck Bamberger post is solely a personal account of a two-mile open-ocean swim and provides no investor-relevant views or professional facts.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "78e2156da71dee9db7be6822a11bd4a216a1ab791bdd285abb23898df4d701d1"
+  },
+  {
+    "source": "full:d6eb9578742b8283096cd3a7",
+    "part": 1,
+    "identity": "other",
+    "reason": "The first-person Beck Bamberger post discusses egg freezing and self-administered injections, not her investing activity, evaluation criteria, or relevant professional background.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "50f36a8545930f9e29c87db095f5e1b1ef65acda46cdf22fd140a3c327af8011"
+  },
+  {
+    "source": "full:99f76e5a5ef21250a5c3b130",
+    "part": 1,
+    "identity": "other",
+    "reason": "The first-person Beck Bamberger post recounts attending a Native American sweat-lodge ceremony and contains no investor-relevant material.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "ec18a955de56d2d8b09a9ca98b8df2136a5d8f0271c7c249b1d306ec9abc8f40"
+  },
+  {
+    "source": "full:79836a4551f9386b75cc34fc",
+    "part": 1,
+    "identity": "other",
+    "reason": "This Iowa PBS Market to Market podcast index covers agriculture, rural economics, weather, and commodity-market guests, with no mention of Beck Bamberger or Bad Ideas Group.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "3f96cd47cae4bf73b93f2af02e535cd945d3ad2fc7a66a0ec96a2ace0d3cbc2b"
+  },
+  {
+    "source": "full:79836a4551f9386b75cc34fc",
+    "part": 2,
+    "identity": "other",
+    "reason": "This continuation of the Iowa PBS agricultural podcast index lists farming, livestock, weather, energy, and rural-policy episodes, with no mention of Beck Bamberger or Bad Ideas Group.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "d6d2f836e4a33534dde427b461337c4e72f595fbc90e680fc003827513fcecd4"
+  },
+  {
+    "source": "full:79836a4551f9386b75cc34fc",
+    "part": 3,
+    "identity": "other",
+    "reason": "This Iowa PBS podcast index covers agriculture, commodities, energy, and unrelated guests, with no mention of Beck Bamberger, Bad Ideas Group, or her companies.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "00c90c42185bb3e623c7d93002c917002d3619e2655432c1126c4aa8a81ebd72"
+  },
+  {
+    "source": "full:79836a4551f9386b75cc34fc",
+    "part": 4,
+    "identity": "other",
+    "reason": "This continuation of the Iowa PBS agriculture podcast index contains unrelated rural-policy and farming material and no reference to Beck Bamberger or her affiliations.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "d99084f734ba81768c311eabc6a783fe71dc4cb83974ff50c3e0aae18101f138"
+  },
+  {
+    "source": "full:f1ad554d6e6eb371f36f912c",
+    "part": 1,
+    "identity": "unusable",
+    "reason": "The packet contains only a headline about the BAM Communications founder followed by a PRWeek sign-in and subscription wall, without usable article content or attributable statements.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "2e0821063c9b70a7e13989aaca3fd37b74b021514da141ec4973741bf700fa6e"
+  },
+  {
+    "source": "full:f3fa771fbad82e94acc3522c",
+    "part": 1,
+    "identity": "target",
+    "reason": "The article is presented as a Beck Bamberger personal-site post on the same domain whose supplied homepage identifies her companies and startup-investing activity, although this post contains no decision-relevant investment material.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "3ee6b16295fa2023e5ffdad663eb9295a2f30edf5dac8b9d9e2421347fea6f89"
+  },
+  {
+    "source": "full:0a5ec28fa005537b2a056e1d",
+    "part": 1,
+    "identity": "target",
+    "reason": "Beck Bamberger's first-person personal homepage explicitly describes her founding of OnePitch, association with BAM, and investments through the section titled BIG Ventures.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Some of my loves, delights, companies, and more.\nBAM\nBAM is a full service public relations and marketing firm representing venture backed startups and venture capital funds.",
+        "claim": "On her personal homepage, Bamberger lists BAM among her companies and describes it as a public-relations and marketing firm serving venture-backed startups and venture-capital funds.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "OnePitch is a company I founded to address a big problem in public relations: bad pitching.",
+        "claim": "Bamberger states that she founded OnePitch to address poor public-relations pitching.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "I’m an investor in several startups and venture capital funds including Cooler Heads, Voyager Ventures, Noemis Ventures, Mogul, and Leche.",
+        "claim": "Bamberger reports investing in several startups and venture-capital funds, naming Cooler Heads, Voyager Ventures, Noemis Ventures, Mogul, and Leche.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "4f36648e2545f870468d7aadc1c95db22fdd922460db183bdb14f7355b768702"
+  },
+  {
+    "source": "full:636b62ef3bcb5585a50b81b5",
+    "part": 1,
+    "identity": "other",
+    "reason": "This BAM inclusion-tag index lists organizational posts and categories but contains no mention of Beck Bamberger or attributable material about her investing.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "b175a5e69436b77d71d62f5b72100b1d4cbff0633fa56f88271e6a45a051d6c3"
+  },
+  {
+    "source": "full:3d7d8eec722028c803b6939d",
+    "part": 1,
+    "identity": "other",
+    "reason": "The startup-story article is attributed to “BAM TEAM,” not Beck Bamberger, and contains no passage explicitly about or attributed to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "3bfcbb10bc547a1e334fa6959538ad81515ed7b420f8f12561a36d3d9a409ef8"
+  },
+  {
+    "source": "full:ecfdc47c78e94a4391822772",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page explicitly credits Beck Bamberger and presents first-person advice grounded in “our experience at BAM,” though its judgments concern public-relations readiness rather than investment selection.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "01- Mar-2022\nBECK BAMBERGER\n1 minute read\nWhen A VC Fund Shouldn’t Hire A Public Relations Agency",
+        "claim": "The page presents Beck Bamberger as the author of this article dated March 1, 2022.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Based on our experience at BAM, here are a few reasons why venture funds should skip the PR agency:",
+        "claim": "Writing in the first person, Bamberger grounds the article's venture-fund public-relations advice in experience at BAM.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "99a524e176248457dc909865cb71089e945a5a8d1ba1a4380f5dbd08d36a5f94"
+  },
+  {
+    "source": "full:619cd43ce973810df73e0930",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page explicitly credits Beck Bamberger, identifies her as BAM's CEO, and includes first-person descriptions of BAM's workplace experiments, but no investment-evaluation views.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "BAM CEO Beck Bamberger shares her thoughts on the 4-day workweek and the seven steps for implementing this experiment at any organization.",
+        "claim": "The BAM article identifies Beck Bamberger as the company's CEO.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Since 2020, BAM has been a fully remote company, currently with team members in 13+ states across the country.",
+        "claim": "The article reports that BAM had operated fully remotely since 2020 and had team members across more than 13 states when written.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Starting in 2023, we introduced our latest experiment, the 4-day workweek.",
+        "claim": "Bamberger reports that BAM introduced a four-day-workweek experiment in 2023.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "67c97482be06872cae899afa981ceeead0d6c13fdc61d988147e34bc3fc61078"
+  },
+  {
+    "source": "full:d9b5da5154f5a0a92a48d584",
+    "part": 1,
+    "identity": "other",
+    "reason": "The article identifies Beck Bamberger as BAM's CEO but concerns measuring startup PR campaigns through UVM, domain authority, share of voice, and marketing-qualified leads rather than her investment decisions or Bad Ideas Group activity.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "f8d122824e170e5e9c612891aa8f63d3904027772378ed38f8c7664f835687ad"
+  },
+  {
+    "source": "full:3511054ba343e6a92949d2dd",
+    "part": 1,
+    "identity": "other",
+    "reason": "This is a BAM blog category index listing early-stage articles and site navigation, with no attributable material about Beck Bamberger's investing approach or professional relationships.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "5b23caf7cd52895f1350891ef18ae71cbfa87602b870d92a243cddae1f3ca522"
+  },
+  {
+    "source": "full:4a12864a5071dd03014fade3",
+    "part": 1,
+    "identity": "other",
+    "reason": "This is a BAM fintech category index containing article listings, navigation, and webinar promotions rather than attributable material about Beck Bamberger as an investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "76578a28ce2219d1ce963d1b73033a88acff9121800aa8b89467692f70acc798"
+  },
+  {
+    "source": "full:6407e5d34ffb133c88dc93d4",
+    "part": 1,
+    "identity": "other",
+    "reason": "The personal essay attributed in its title to Beck Bamberger discusses conversations at a gun show and challenging social biases, not startup evaluation or investment activity.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "2a5cc93ec0eaefb21ec1737f44faccf65fd0fb07e13b058f7533a9140138ab92"
+  },
+  {
+    "source": "full:b5ec49ce4df41e7e59455268",
+    "part": 1,
+    "identity": "other",
+    "reason": "The personal essay attributed in its title to Beck Bamberger recounts visiting a nude beach and contains no investment-related evaluation, activity, or company relationship.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "4b694b2886d327f25793ffef262c1c4a345611c8c11964dd406c49e2243aa12b"
+  },
+  {
+    "source": "full:cf1cbdec834eb7955fa394c1",
+    "part": 1,
+    "identity": "other",
+    "reason": "Although Beck Bamberger is explicitly identified as the Coffee with a Journalist host, her turns are interviewer questions and show commentary, while the substantive venture-capital and pitching views belong to guest Ilona Limonta-Volkova.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "c48cbe7fc3cf505222b784b46d5b2e9aae64b9bff58232d46c6f07a2170707eb"
+  },
+  {
+    "source": "full:84f80a985ae41ecb76b393c6",
+    "part": 1,
+    "identity": "other",
+    "reason": "The personal essay attributed in its title to Beck Bamberger describes serving as an abortion-clinic patient escort and listening to opposing views, with no material about investing or startup assessment.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "b1e61df401ec4a1e8047d1ae55ad825b26a15bacec25f73861183372ad2e0da9"
+  },
+  {
+    "source": "full:e52ad2bf5e77259954519ea4",
+    "part": 1,
+    "identity": "other",
+    "reason": "The personal essay attributed in its title to Beck Bamberger recounts confronting a fear of needles and blood, which is unrelated to her investment approach or professional company relationships.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "1b3974d55b53bbcc16f38fd28e3c9d49bb35f2614c8bc18ba0436ef010ebd566"
+  },
+  {
+    "source": "full:cd4a10666a1155d876513c76",
+    "part": 1,
+    "identity": "uncertain",
+    "reason": "The transcript explicitly attributes host turns to a person who says “I'm Beck Bamberger,” but it provides no Bad Ideas Group or other supplied identity anchor and has no accepted-speaker metadata tying that host to the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "2083c54d38680eac67be40cdf601a27410137944c536363406e232fb5af848e8"
+  },
+  {
+    "source": "full:cd4a10666a1155d876513c76",
+    "part": 2,
+    "identity": "unusable",
+    "reason": "This packet contains only a page footer identifying the Sissi Cao episode and no substantive material about Beck Bamberger.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "9765ff41761d2138de6f85296b330c58b6e9130ee564446be6718984d0f5fa75"
+  },
+  {
+    "source": "full:e56027b42b47d6495d42e02e",
+    "part": 1,
+    "identity": "uncertain",
+    "reason": "The first-person essay appears on an eponymous Beck Bamberger site and mentions creating BAM and working with startups, but it contains no supplied affiliation anchor connecting its author to the resolved Bad Ideas Group investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "0f0d95bcec4c0b352d79df45b09cc97b8db09ed537a21d23ff747721a6a5f449"
+  },
+  {
+    "source": "full:1e3600334a4de8ac77298fee",
+    "part": 1,
+    "identity": "other",
+    "reason": "This packet is a BAM blog category index for growth articles and contains no attributed material about Beck Bamberger or the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "1a08ae53cf686d7d3616431467f9d9863580a4ea4183a546215ea0da15960831"
+  },
+  {
+    "source": "full:4f468d4f426f71af64666dd8",
+    "part": 1,
+    "identity": "other",
+    "reason": "This packet is a BAM blog category index for people-tech articles and contains no attributed material about Beck Bamberger or the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "1226cf7f5eeccba94aeb0e0d533c307f0c6929fdb2a0cedb6f16db0142c775a6"
+  },
+  {
+    "source": "full:737fe5400fac821f2731bba7",
+    "part": 1,
+    "identity": "uncertain",
+    "reason": "The first-person ice-bath essay appears on an eponymous Beck Bamberger site, but the text supplies no Bad Ideas Group or other resolved-identity anchor establishing that its author is the target investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "a776ee06b31faf59ba6b41dab7034b5ddbcc364c1621287b43f580d0325a839b"
+  },
+  {
+    "source": "full:520d13a79010d1cbc2c395d9",
+    "part": 1,
+    "identity": "uncertain",
+    "reason": "The article names its author as Beck Bamberger and identifies her as BAM CEO and Founder, but BAM is not among the supplied resolved affiliations and the text provides no link to Bad Ideas Group establishing target identity.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "1e50cb31e018184fb7e7beaa3dc739bbe2e05db8b5aa7c6b3fc2845ff9757e6a"
+  },
+  {
+    "source": "full:478535f34248f35227d01bee",
+    "part": 1,
+    "identity": "other",
+    "reason": "This packet is a BAM blog category index for staff-related articles and contains no attributed material about Beck Bamberger or the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "1030f6f96a677875d18662eac0d6acf6b5bbb11b9af467f12c1b157b85a246e9"
+  },
+  {
+    "source": "full:98f8e67e6a0391f0ac4b5a56",
+    "part": 1,
+    "identity": "uncertain",
+    "reason": "The transcript labels the interviewer “Beck Bamberger,” but it provides no accepted-speaker metadata or explicit affiliation such as Bad Ideas Group that connects the named speaker to the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "0f6151e0493b78d93d59c4035de6c92e846fdbc0705fa7a2916e7ab3609b6993"
+  },
+  {
+    "source": "full:98f8e67e6a0391f0ac4b5a56",
+    "part": 2,
+    "identity": "uncertain",
+    "reason": "This continuation attributes interviewer turns to “Beck Bamberger” but still lacks accepted-speaker metadata or a concrete identity anchor linking her to Bad Ideas Group.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "2d043c621e2bbfb7ae5c833cb48180f6741343c0979fc0f292e307b2c975f7cf"
+  },
+  {
+    "source": "full:41be2d446e9ddcac4a6f2d10",
+    "part": 1,
+    "identity": "target",
+    "reason": "The profile explicitly identifies Beck Bamberger as the founder of Bad Ideas Group, matching the resolved investor affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Beck Bamberger is an investor at Plum Alley Investments and the founder of the venture capital fund Bad Ideas Group, based in San Diego, California.",
+        "claim": "The profile reports that Bamberger is an investor at Plum Alley Investments and founded the Bad Ideas Group venture fund in San Diego.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "She previously founded BAM Communications in 2008, a public relations agency focused on venture-backed technology startups, which she sold to the global communications firm LLYC in 2023.",
+        "claim": "The profile reports that Bamberger founded BAM Communications in 2008 and sold it to LLYC in 2023.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "As an active angel investor and mentor for Techstars, she typically writes checks ranging from $25,000 to $50,000 for early-stage companies and allocates capital to funds like Backstage Capital and Voyager Ventures.",
+        "claim": "The profile reports that Bamberger is an angel investor and Techstars mentor who typically makes $25,000–$50,000 early-stage investments and allocates capital to funds including Backstage Capital and Voyager Ventures.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Her current investment strategy centers on frontier technologies and diverse founders building solutions for human and planetary impact.",
+        "claim": "The profile characterizes Bamberger's current strategy as investing in frontier technologies and diverse founders addressing human and planetary impact.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "433c6f3e02389c82ab82ba1cbdbda653feae880599a3bebd9932119053e9ae0f"
+  },
+  {
+    "source": "full:2f6809f72ecd8a7aa3309161",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Pitch biography identifies Beck as the founder of Bad Ideas Group, directly matching the resolved investor and authoritative profile.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Beck is the founder of BAM, a PR agency for venture backed technology startups.",
+        "claim": "The Pitch biography reports that Bamberger founded BAM, a PR agency serving venture-backed technology startups.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "In 2023, Beck sold the agency to focus on Bad Ideas Group, her VC fund that aims to help people and the planet live better and last longer.",
+        "claim": "The Pitch biography reports that Bamberger sold BAM in 2023 to focus on her VC fund, Bad Ideas Group, whose stated aim concerns human and planetary longevity and well-being.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Holding a recent PhD in Organizational Change and Global Leadership, Beck also volunteers on the San Diego Police Department's Crisis Interventionist team.",
+        "claim": "The Pitch biography reports that Bamberger holds a PhD in Organizational Change and Global Leadership and volunteers with the San Diego Police Department's Crisis Interventionist team.",
+        "kind": "biography"
+      }
+    ],
+    "input_fingerprint": "4c5264ebb624152667d612fca9d3a3b98dbc56a114fb85ab9bbcb3361408bf6f"
+  }
+]

@@ -1,0 +1,343 @@
+{
+  "vc_slug": "jillian-manus-structure-capital",
+  "corpus_chars": 1442603,
+  "thin_corpus": false,
+  "no_pitch_sources": true,
+  "sources_consumed": [
+    "full:05e9e4c1d050f0a7f52c7020",
+    "full:67885b52fae7df32556c68d5",
+    "full:b6c8d6629324755b9d48a609",
+    "full:c390a30e90ebab315542893b",
+    "full:2cfa59a2cd0a8c131933ffd7",
+    "full:f1bcf718739daaf005c31f14",
+    "full:43bc74468220bf10019533d8",
+    "full:a08d274eab1acd84e1d6a494",
+    "full:592bcbab6c9bca34bdc4db0d",
+    "full:328c687ca931eca4b0a8c6e4",
+    "full:ddb019426ef350728a105f0f",
+    "full:873a8dc8d5607bddc57a32f0",
+    "full:b684fb74361b04580154d710",
+    "full:74a306d49d251653a298b277",
+    "full:39b01d0a0b9f9fcdbe395530",
+    "full:8d8148c94e603e8e57d02d65",
+    "full:a2ce900468b67bbf952e010e",
+    "full:80788b501c489e57205e0b70",
+    "full:a9af61a9f7dee2aa96679699",
+    "full:7c99120032a58b9c75900127",
+    "full:a040b48f873d4f902405608a",
+    "full:831c5119a4ac281d6b1f12ff",
+    "full:aac3b9596dc4ee770ec77e2a",
+    "full:fb31bf702b6b545305ce756d",
+    "full:d851e375d7567704c353ad37",
+    "full:35dc32ef7e7f7ed7afe3055a"
+  ],
+  "evidence_count": 26,
+  "persona_tokens": 5578,
+  "persona_tokens_method": "ceil_characters_divided_by_4_estimate",
+  "taxonomy_version": "v_final",
+  "generated_at": "2026-10-06T09:00:45.590600+00:00",
+  "schema_version": "2.0",
+  "generation": {
+    "model": "gpt-5.6-sol",
+    "revision": "full-export-v2",
+    "calls": [
+      {
+        "key": "cd51c41d8850fe097a05e5532ace228afaaaf1cce93f9aa2f6f5c3106743416e",
+        "cached": false,
+        "repaired": false,
+        "seconds": 7.65
+      },
+      {
+        "key": "4ac524a5bd51c071dbf0e137976a2376becac70d4bfd1076fbaedf173640af70",
+        "cached": false,
+        "repaired": false,
+        "seconds": 24.61
+      },
+      {
+        "key": "75ac00ac25750e8bede53467c58bcf311e4188bad3c2b8649d5458adc45e6b9b",
+        "cached": false,
+        "repaired": true,
+        "seconds": 94.29
+      },
+      {
+        "key": "36742e0eae903874c8da54932216bc912176d221b78cc736529bf24192924bcf",
+        "cached": false,
+        "repaired": false,
+        "seconds": 42.09
+      },
+      {
+        "key": "06a4e4fe9bd454b669b929457f1654494b4b5081fc68ff30d94bf9e5f8d5596e",
+        "cached": false,
+        "repaired": false,
+        "seconds": 7.99
+      },
+      {
+        "key": "d49319b43cb1f7dc4c96c844c8e11c5c8da5afb64e2bc46e5aca5de07c1e5721",
+        "cached": false,
+        "repaired": false,
+        "seconds": 9.5
+      },
+      {
+        "key": "e30579e826a11c6dd9bf2a422aa998b0e04d18921d250c5758178964c0ab967b",
+        "cached": false,
+        "repaired": false,
+        "seconds": 20.96
+      },
+      {
+        "key": "90e84a73134d95f03c4791229943268dc47da977f21a56b0a0a1b9fb18b9d68d",
+        "cached": false,
+        "repaired": true,
+        "seconds": 198.57
+      },
+      {
+        "key": "2c1ee6c20fab4cc47f64fe52be68201376211169e0917ac2c32dd646d21655d9",
+        "cached": false,
+        "repaired": true,
+        "seconds": 43.83
+      },
+      {
+        "key": "15f3609d4345b9b461e7cb9210aeba806d44fd799dfc24829251e4bdd2d718f4",
+        "cached": false,
+        "repaired": false,
+        "seconds": 7.94
+      },
+      {
+        "key": "ba971b841be131204a36a0eb59cca0fce9a9a967205623b55f948d13c346caa1",
+        "cached": false,
+        "repaired": false,
+        "seconds": 7.64
+      },
+      {
+        "key": "48c3a25c0626f65b8d824f35ad1a8476675311385f1ab63ab78f86bf8418c152",
+        "cached": false,
+        "repaired": false,
+        "seconds": 7.34
+      },
+      {
+        "key": "52f6f85011d6a22d9cd1b0256f7cfcd26dd7db0d32a00af2166def4b31cc0c63",
+        "cached": false,
+        "repaired": false,
+        "seconds": 8.9
+      },
+      {
+        "key": "835c10c9a3727854d438d48681c46bb0d3f3ad9f86c41d23aef08be11e9046de",
+        "cached": false,
+        "repaired": false,
+        "seconds": 8.7
+      },
+      {
+        "key": "25efc222c836507891f37de2939d486a3c788beb98d24c3f23e8a23db536a797",
+        "cached": false,
+        "repaired": false,
+        "seconds": 10.4
+      },
+      {
+        "key": "7688f4d97be22cd08858d1486cc1ca72c7d3ca853530d66326f41f187738777b",
+        "cached": false,
+        "repaired": false,
+        "seconds": 10.96
+      },
+      {
+        "key": "71ea79c0442e76e50f3fedab79ec2a49b45eaa962d5ec24f44070c86a8618bf7",
+        "cached": false,
+        "repaired": false,
+        "seconds": 7.9
+      },
+      {
+        "key": "c5b48cdb6bf440917c8df572dc53b94c4f411cdaf7ec58781c1c5df42c22bb86",
+        "cached": false,
+        "repaired": false,
+        "seconds": 8.75
+      },
+      {
+        "key": "86c8ec5d925fe118fa1d067867fe36cc2e5f057044848f5ef4d1ea8e6758da71",
+        "cached": false,
+        "repaired": false,
+        "seconds": 8.01
+      },
+      {
+        "key": "38f2eeebeee90d6a8377ad7663725d7b9c0eb3327168d708873516edd906b9f8",
+        "cached": false,
+        "repaired": false,
+        "seconds": 7.8
+      },
+      {
+        "key": "67595127eb375d17357f98ff059525f5cbd8ad59825959b89638d1b704e4aaba",
+        "cached": false,
+        "repaired": false,
+        "seconds": 9.7
+      },
+      {
+        "key": "4d54a161d595bc9451f3d015b1d20389713415d1a70c7e4bb1333f0047eb5288",
+        "cached": false,
+        "repaired": false,
+        "seconds": 9.9
+      },
+      {
+        "key": "66caa1e835370c01ecc1ccd70d650f6bc0fe3bef8b2812317c8c9760e6c9c42b",
+        "cached": false,
+        "repaired": false,
+        "seconds": 7.95
+      },
+      {
+        "key": "e1492ac804ec1c018b35319075e42d77b622f92656c5233bf706e08b62c53467",
+        "cached": false,
+        "repaired": false,
+        "seconds": 8.4
+      },
+      {
+        "key": "98452d204838b0dce4661cdc2a1c59bb646aa374b417322c345d21cdc8bf2dc1",
+        "cached": false,
+        "repaired": false,
+        "seconds": 11.21
+      },
+      {
+        "key": "cc92e319d07313a245bdf14579683f2ece78115a3627d507a012790548a8cfda",
+        "cached": false,
+        "repaired": false,
+        "seconds": 9.1
+      },
+      {
+        "key": "279d178b1f26f7b3dc7f347b1d9eefc530aaaf95df866fa45040343e6af01bb5",
+        "cached": false,
+        "repaired": false,
+        "seconds": 10.9
+      },
+      {
+        "key": "6cb3b36e230ecd8060c3ae31c89904e0753e1972484fc11d1c2eba5b2496301b",
+        "cached": false,
+        "repaired": false,
+        "seconds": 9.5
+      },
+      {
+        "key": "221d06c0b93b759bde1e5167813c36dc16d090219b7db18381cb6588fea4cc9c",
+        "cached": false,
+        "repaired": false,
+        "seconds": 9.5
+      },
+      {
+        "key": "05c9542233593d143857f79c63ab53d51663260f58093ac60f3807ad0494297f",
+        "cached": false,
+        "repaired": false,
+        "seconds": 7.74
+      },
+      {
+        "key": "625fcc34fb66ce1fccde0a325157b63b800fd17c061f6ca7fd21591d4879f82f",
+        "cached": false,
+        "repaired": false,
+        "seconds": 9.55
+      },
+      {
+        "key": "28f119e568aaa1b5b40574a4bef53d9beb2baa01e8dace749a03b8b91a14e969",
+        "cached": false,
+        "repaired": false,
+        "seconds": 7.74
+      },
+      {
+        "key": "6faaa2ef48b0a5a3b5f146865a455686eb9df0a6f2eeea2b1883ed611ba31872",
+        "cached": false,
+        "repaired": false,
+        "seconds": 8.05
+      },
+      {
+        "key": "bfb74ebdf9cd9b186b003a5be92fb0317368f8ce24b2755ab16e61fd257ee507",
+        "cached": false,
+        "repaired": false,
+        "seconds": 10.9
+      },
+      {
+        "key": "eca10bf6247cc76d447d291c9296046e26f10e445286700c18db5523b771dec6",
+        "cached": false,
+        "repaired": false,
+        "seconds": 20.09
+      },
+      {
+        "key": "6857bc382be0818af02b4572fa88370e374067f6700598bf23dbe0a4306ce851",
+        "cached": false,
+        "repaired": true,
+        "seconds": 366.14
+      }
+    ],
+    "synthesis_input": "full_receipts"
+  },
+  "warnings": [
+    "Media without transcript: raw/podcast/7a/7a4fd2c2b5b111909180f63407e303cce2ca86f754a26f3f0562f60e6aa743c5.m4a",
+    "Media without transcript: raw/podcast/88/88136751e6db5d934c8a1ec1df668e35e9d12aff3a32a94bcacc0a36b5768ec1.mp3",
+    "Media without transcript: raw/podcast/96/966bdf38e16021223c1b0a6e46dbffb8c8856906059880f6413e965b1c036e83.m4a",
+    "Full-export sources were reviewed for identity and attribution; automated review is not independent verification.",
+    "Company relationships are source-reported; founder/adviser roles are not inferred portfolio holdings.",
+    "Multiple pages may repeat one interview or report; source count is not independent corroboration.",
+    "Some publication dates and speaker identities remain unresolved; read coverage.md."
+  ],
+  "input_hashes": {
+    "raw/podcast/06/062fd5ed1d0f088ac7fa7de8209f901e91765d2008f05aa13054f30e44d9b654.html": "062fd5ed1d0f088ac7fa7de8209f901e91765d2008f05aa13054f30e44d9b654",
+    "raw/podcast/06/062fd5ed1d0f088ac7fa7de8209f901e91765d2008f05aa13054f30e44d9b654.html.41b6f91c7b1d3a23.metadata.json": "71af884c12c2d7fa9e09d13730a21eaee5567e79fc1f5618c85247bdfc5e2a0e",
+    "raw/podcast/25/25032e4df86978aca8145ab281a781d4a14131a8d7d8614d40c6b38f2eb2504e.html": "25032e4df86978aca8145ab281a781d4a14131a8d7d8614d40c6b38f2eb2504e",
+    "raw/podcast/25/25032e4df86978aca8145ab281a781d4a14131a8d7d8614d40c6b38f2eb2504e.html.3442d79bce309a8d.metadata.json": "59eda57b27e0d6d2ac88f14de5f3ed94aecad08818402bc41835ee84c062a02d",
+    "raw/podcast/2e/2e385dac566c13dafbd88e8d9fa0c897966c08eaea6c1fd067cbcdb01a0922c0.html": "2e385dac566c13dafbd88e8d9fa0c897966c08eaea6c1fd067cbcdb01a0922c0",
+    "raw/podcast/2e/2e385dac566c13dafbd88e8d9fa0c897966c08eaea6c1fd067cbcdb01a0922c0.html.af3cdf4faf2a0cef.metadata.json": "da1b3009e579773f232a7c5d50b022bc96393f42b5dcc8265819605374266426",
+    "raw/podcast/97/9735cf13af858f209cc72cfbe90d406c92409a4b5def11794ea1124f2bce2d5d.html": "9735cf13af858f209cc72cfbe90d406c92409a4b5def11794ea1124f2bce2d5d",
+    "raw/podcast/97/9735cf13af858f209cc72cfbe90d406c92409a4b5def11794ea1124f2bce2d5d.html.8488e18e62f16361.metadata.json": "fbb67446aac0d47146467d7f2592652367de43dfa327e22f073bd029bef6f429",
+    "raw/podcast/9f/9f6fce2bffead23f21536e1c112378e88812151807b363abd5407912600c58fa.html": "9f6fce2bffead23f21536e1c112378e88812151807b363abd5407912600c58fa",
+    "raw/podcast/9f/9f6fce2bffead23f21536e1c112378e88812151807b363abd5407912600c58fa.html.3ec7df1c86c4c7cc.metadata.json": "c9331780389dfdd6a701b806b128773ffc7c5a7435e79d6c69ba124748083c96",
+    "raw/podcast/9f/9fb0635ce8227f21327502b0c76678c05acc1687ad2e9caeb1780b8f6b45e4f2.html": "2d492757a340109ed50c656949f935ab7d0be6431799ecfb19b10741abdd4b4b",
+    "raw/podcast/9f/9fb0635ce8227f21327502b0c76678c05acc1687ad2e9caeb1780b8f6b45e4f2.html.5222a09d0be9ef01.metadata.json": "9ca306e7f6e5ee7fb250112835d928d6e3e616d79ea9b4d50c3dc3d1885dd1cc",
+    "raw/podcast/f8/f8c14cb2d72658ad6f2cde8ace0252408519e53cb30092b94e6729c9e7c936bf.html": "f8c14cb2d72658ad6f2cde8ace0252408519e53cb30092b94e6729c9e7c936bf",
+    "raw/podcast/f8/f8c14cb2d72658ad6f2cde8ace0252408519e53cb30092b94e6729c9e7c936bf.html.503cd62d5744465d.metadata.json": "b57dba8ec8b6b5c17c65c77292ab9fd6039304e6d87f2c93e480561e75d4546a",
+    "raw/web/08/082b7bfe3c3435a188e21b9cfaee8a19107ffbbcae248091742a3db470a03c00.html": "082b7bfe3c3435a188e21b9cfaee8a19107ffbbcae248091742a3db470a03c00",
+    "raw/web/08/082b7bfe3c3435a188e21b9cfaee8a19107ffbbcae248091742a3db470a03c00.html.cfe0d64afff798d7.metadata.json": "60d4efb66543d9fc84d07ed34465d3afd2b0be901fd3a6b4ab1da9d8e47fd3ad",
+    "raw/web/19/1940c7c57f272483485f3f9edfff61918fb0d6008387801386a97998f3e6ed66.html": "e77a4e7d44933aa8a787a76d5131ce73d1ddfcac56b8abba1300886fb10e536f",
+    "raw/web/19/1940c7c57f272483485f3f9edfff61918fb0d6008387801386a97998f3e6ed66.html.eb87c69b8badc6a8.metadata.json": "556a1a8f80701d04c6ef83975fa84dbe9baae34b7174db01e57241f1e8a6da17",
+    "raw/web/1d/1d40523b6dab06df7c6e21233ae3ae57559be2394c065f04f6aaabf8025e8883.html": "b586905f90bbbf3d4c36351afa259527c72c21968c4ae16ac58c69303f51d139",
+    "raw/web/1d/1d40523b6dab06df7c6e21233ae3ae57559be2394c065f04f6aaabf8025e8883.html.d75e285d00ae5326.metadata.json": "676064890ad1ff863ab4956bfabe787cf9a437673dac37d7964e5126441c2dd6",
+    "raw/web/22/2202bc21437c98032d4efbe74a0486f5e8fadc430ca61882227a022b0b5d7c77.html": "2202bc21437c98032d4efbe74a0486f5e8fadc430ca61882227a022b0b5d7c77",
+    "raw/web/22/2202bc21437c98032d4efbe74a0486f5e8fadc430ca61882227a022b0b5d7c77.html.7e416b32eb0252aa.metadata.json": "4cb84132bc07cc472f04d9a0d58b97f970a273a25310493acd48ba4c0a0743ae",
+    "raw/web/4b/4bbf215a5b6e37a0bb5a51f897a343cbe5eb57f4c17460a1b863209a437d6271.html": "4bbf215a5b6e37a0bb5a51f897a343cbe5eb57f4c17460a1b863209a437d6271",
+    "raw/web/4b/4bbf215a5b6e37a0bb5a51f897a343cbe5eb57f4c17460a1b863209a437d6271.html.ce0b4cef22048768.metadata.json": "6898c2d30ae625af5daf958df4d145fe8c9dd5e6931e3132ebb7f313489e0bae",
+    "raw/web/4f/4f28ba8bfbbdda5a251d77ba5e76ee29aec3fd8f7204a5fb03cfd14a97bdfa23.html": "b915450175a720cf7301d0bea999859d8878262b110407fe57f0a5a7f2ae805b",
+    "raw/web/4f/4f28ba8bfbbdda5a251d77ba5e76ee29aec3fd8f7204a5fb03cfd14a97bdfa23.html.1621b81ccce10820.metadata.json": "1aec0bdfd5a2f1bc4f243f6f1304f00d0b2a8585c02730ee400b844aa91be8b0",
+    "raw/web/5b/5b355d01f293bf5e03790436116243aa31d9c177b31a9a8becc9ae129a40588e.html": "1d23487e7c6c18a31b7a170b73f8f5ce9370b55c802da85ddb577ca0ea030dfa",
+    "raw/web/5b/5b355d01f293bf5e03790436116243aa31d9c177b31a9a8becc9ae129a40588e.html.a7a86a54cb034ccd.metadata.json": "3f7461ba10cddba118aeec41f7dabcd12e0a58438e8da49d8d72b5c0eab177d5",
+    "raw/web/67/67d85cc3a0288ef72b792158e0ae627b0338131980845e5059499436aa8d9fa3.html": "67d85cc3a0288ef72b792158e0ae627b0338131980845e5059499436aa8d9fa3",
+    "raw/web/67/67d85cc3a0288ef72b792158e0ae627b0338131980845e5059499436aa8d9fa3.html.fb15d259eb1b9b32.metadata.json": "d195b9871309e9ebb4bc1b27a2c7b488176fc0ef88dde3b8475ce3925ca7773c",
+    "raw/web/76/7632ce6b23b805db783ec84bae2599d396f5436ab38bd66d7a64820af7807901.html": "7632ce6b23b805db783ec84bae2599d396f5436ab38bd66d7a64820af7807901",
+    "raw/web/76/7632ce6b23b805db783ec84bae2599d396f5436ab38bd66d7a64820af7807901.html.be1f0849115bdabf.metadata.json": "2d3c06a9b46de42f9825c18ed67a40b582a6344ccc4d820ef3fb83b5286b133a",
+    "raw/web/78/78f3235c3269a160f45f9b1f48b502c841f50bdae7c2e26a7132843982c07226.html": "78f3235c3269a160f45f9b1f48b502c841f50bdae7c2e26a7132843982c07226",
+    "raw/web/78/78f3235c3269a160f45f9b1f48b502c841f50bdae7c2e26a7132843982c07226.html.80cf6ffd096ddc2a.metadata.json": "c8a6a267faee21a4234548f295e9d7320826f251ce314e10794502090cfdc247",
+    "raw/web/87/8743156f17073278211cab3081c6d70e037020e9b8e52893512c98695e0495a2.html": "8743156f17073278211cab3081c6d70e037020e9b8e52893512c98695e0495a2",
+    "raw/web/87/8743156f17073278211cab3081c6d70e037020e9b8e52893512c98695e0495a2.html.aa2754e2ab804039.metadata.json": "a3de40fc48576e1723dcdb5a37056ab0f48a92c5dccc2fe7e3dd6866af12b814",
+    "raw/web/8a/8a275fd02be1beac0ba71ebd339794605999b59fc732e0d8485d0aaf73caafe1.html": "8a275fd02be1beac0ba71ebd339794605999b59fc732e0d8485d0aaf73caafe1",
+    "raw/web/8a/8a275fd02be1beac0ba71ebd339794605999b59fc732e0d8485d0aaf73caafe1.html.b43f0dc202a73381.metadata.json": "94a17f41cd1c75603e60f896ec4da5f434a229529ec5a3b8b09b828d5bcb888b",
+    "raw/web/8d/8dbb4e27b4bc18f618c7d64a075615dce0a1ce44a1b286761fea1fdf11536bcd.html": "8dbb4e27b4bc18f618c7d64a075615dce0a1ce44a1b286761fea1fdf11536bcd",
+    "raw/web/8d/8dbb4e27b4bc18f618c7d64a075615dce0a1ce44a1b286761fea1fdf11536bcd.html.c7cb12727b0010d4.metadata.json": "df928472b148338ead81a2e550351b33cccda3200aaf8ccfe157bf49c6f91c9b",
+    "raw/web/aa/aa8151b9eff4dd363da76f2017d93e1225e139c636a7244117c958d79bd191a1.html": "aa8151b9eff4dd363da76f2017d93e1225e139c636a7244117c958d79bd191a1",
+    "raw/web/aa/aa8151b9eff4dd363da76f2017d93e1225e139c636a7244117c958d79bd191a1.html.d75e64c4660153f2.metadata.json": "a694292832def4f53ea62994b7c3d168033f18805d304e19dfe04e76fa6e60cb",
+    "raw/web/b3/b3f2761a4a81fbf421666f9c2d6eccd130f89eaf3ca2876ecf5dddb4639f005b.html": "62b4dbee4cf441e74a91d1c77f7600823051755f125f817f0d718dce976a35aa",
+    "raw/web/b3/b3f2761a4a81fbf421666f9c2d6eccd130f89eaf3ca2876ecf5dddb4639f005b.html.acc5aad2bd64cd00.metadata.json": "93d5f20749be63b876202a8e49400c55518ae640474d680c406327bc3cdaefbf",
+    "raw/web/b8/b8d16b00796f0d0c62c916c6047f9983362a8836ffd80b5406646313c2d48821.html": "b8d16b00796f0d0c62c916c6047f9983362a8836ffd80b5406646313c2d48821",
+    "raw/web/b8/b8d16b00796f0d0c62c916c6047f9983362a8836ffd80b5406646313c2d48821.html.51258112cf9355e9.metadata.json": "0f9213606461f03baa485d5ff5b237dd29e40e38f8603dd48a3e185c52510352",
+    "raw/web/c1/c1a36ae8ee4da6b1f3d298b6d47e17de7aa1e7979b40c05bf502800dbcaf90ea.html": "c1a36ae8ee4da6b1f3d298b6d47e17de7aa1e7979b40c05bf502800dbcaf90ea",
+    "raw/web/c1/c1a36ae8ee4da6b1f3d298b6d47e17de7aa1e7979b40c05bf502800dbcaf90ea.html.0ad37c541cc6c604.metadata.json": "6a66b2c4cb67e903a42ba00795713feabba3103110554f81ef48ffb490fcc560",
+    "raw/web/d8/d8c9e54d0fa2740de83fc2af33336f0ad4fb0c5d174ae2c06ddd3cd040936b02.html": "d8c9e54d0fa2740de83fc2af33336f0ad4fb0c5d174ae2c06ddd3cd040936b02",
+    "raw/web/d8/d8c9e54d0fa2740de83fc2af33336f0ad4fb0c5d174ae2c06ddd3cd040936b02.html.2ed58542bd15825c.metadata.json": "81b22f5c9c81f228c07e1ae9f366d8315bad9065cd25415d5e9b7a54d75a0cd8",
+    "raw/web/de/de5195ce54280c395d31f79ae6bdb56f3da14e40718c74cdf217f8c2ded99088.html": "f0d05ac8a63649db55f6fb1109abd6c335d51dcde9719f35a1b7af5b568d3319",
+    "raw/web/de/de5195ce54280c395d31f79ae6bdb56f3da14e40718c74cdf217f8c2ded99088.html.67f242e37b2c632c.metadata.json": "d935e89ec759667d8443ae5e59e1bc4bd12bcce8ce9d7b8d6dc18a77328de846",
+    "raw/web/de/de7614fee98aca1d9a52817cd2305164c08310a791321110de5e170a32ec67f0.pdf": "de7614fee98aca1d9a52817cd2305164c08310a791321110de5e170a32ec67f0",
+    "raw/web/de/de7614fee98aca1d9a52817cd2305164c08310a791321110de5e170a32ec67f0.pdf.c42f1980956f0028.metadata.json": "6531cb60f81141e5064120dbe1500d184fb37a3a09cf00fb74558a5d0a731cde",
+    "raw/web/e5/e5aaf33f6496373e9b06f3fb38193b634dfbe1d4ae9ba79476c8f9d4f4795b49.pdf": "e5aaf33f6496373e9b06f3fb38193b634dfbe1d4ae9ba79476c8f9d4f4795b49",
+    "raw/web/e5/e5aaf33f6496373e9b06f3fb38193b634dfbe1d4ae9ba79476c8f9d4f4795b49.pdf.758e96d44c103459.metadata.json": "fc15c1b5cc57181d08910309af3484721a822bea5667ed214745330ea9752842",
+    "raw/web/e6/e65dc43abd7f81a79147dc09e54f7f67427b88eccf4c54573e95e76d344fa017.html": "e65dc43abd7f81a79147dc09e54f7f67427b88eccf4c54573e95e76d344fa017",
+    "raw/web/e6/e65dc43abd7f81a79147dc09e54f7f67427b88eccf4c54573e95e76d344fa017.html.725884c9328ba72e.metadata.json": "06be6f02f2ceba468b25b496562db4c6e1c69c11e65408ae1c786514cabced4d",
+    "raw/web/eb/ebf32f8cc3c1eb0e1c42fef556cb4c43b33a189bc43dfb17563cf71259b58b0f.html": "ebf32f8cc3c1eb0e1c42fef556cb4c43b33a189bc43dfb17563cf71259b58b0f",
+    "raw/web/eb/ebf32f8cc3c1eb0e1c42fef556cb4c43b33a189bc43dfb17563cf71259b58b0f.html.47a68fe2515ad5be.metadata.json": "e97155ce97410ab28f7987e1820bef932de63f367b538bfc943d7ecff5b1d5e5",
+    "raw/web/f3/f3cc9ffac9ff1e700080ac5d2a8f54d213ed0062e1511a7704321a50d5219e89.pdf": "f3cc9ffac9ff1e700080ac5d2a8f54d213ed0062e1511a7704321a50d5219e89",
+    "raw/web/f3/f3cc9ffac9ff1e700080ac5d2a8f54d213ed0062e1511a7704321a50d5219e89.pdf.dbff8221076f49e0.metadata.json": "509cbc5e9ef7b91f2ce584df90e1b617687016968677cab57fff93910b8d92ab",
+    "raw/web/fd/fd47f947a89c470c2bb85a7b210c31a3d0bc640c6f8532b77596e2ab190988f0.html": "fd47f947a89c470c2bb85a7b210c31a3d0bc640c6f8532b77596e2ab190988f0",
+    "raw/web/fd/fd47f947a89c470c2bb85a7b210c31a3d0bc640c6f8532b77596e2ab190988f0.html.fbbd340b72e61fd5.metadata.json": "56da41de309cabd994e91c7b9038c5a33a38ea2500edba27102172ae45418948"
+  },
+  "source_policy": "full_investor_export",
+  "sources_reviewed": 30,
+  "source_packets_reviewed": 96,
+  "context_count": 99,
+  "files_inventoried": 142
+}

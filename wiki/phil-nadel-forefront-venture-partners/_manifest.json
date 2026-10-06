@@ -1,0 +1,170 @@
+{
+  "vc_slug": "phil-nadel-forefront-venture-partners",
+  "corpus_chars": 349285,
+  "thin_corpus": true,
+  "no_pitch_sources": true,
+  "sources_consumed": [
+    "full:ce1db68c5f14148619a11e31",
+    "full:a80844a89e4a09522b16a817",
+    "full:8433a589fe0c7b02f3e2f752",
+    "full:a65e8081ccd545a06ffbe9e2",
+    "full:5aff2f7597ebd05a9a053eca",
+    "full:33e28576c783b957f365fcd5",
+    "full:6ed3cb0d1eedfb2f2688b1df",
+    "full:6b0783093f356fe51c0d607b",
+    "full:c2a64aeaa97dc52dff7dfd70",
+    "full:f242d07b7a94819c4f9f1c41",
+    "full:6102fdbab6a399ac9c430580",
+    "full:896dc6e0ffc029ff4ef257fd",
+    "full:05347d4610f3011f7c086e35",
+    "full:a145413419bc32d3738df0a9",
+    "full:58508c1c703132954287cfdb",
+    "full:7d638bd5808d0e820883698c",
+    "full:6d6fc150ff1485447b20d164",
+    "full:097f6c16ecb3c32daf3e2dc0",
+    "full:c77fc17702dbe95bf0c6a47a",
+    "full:3adac344016c95036d01fed6",
+    "full:00ac2f62bd1c8d7852e12cf9"
+  ],
+  "evidence_count": 50,
+  "persona_tokens": 4685,
+  "persona_tokens_method": "ceil_characters_divided_by_4_estimate",
+  "taxonomy_version": "v_final",
+  "generated_at": "2026-10-06T09:29:37.508236+00:00",
+  "schema_version": "2.0",
+  "generation": {
+    "model": "gpt-5.6-sol",
+    "revision": "full-export-v2",
+    "calls": [
+      {
+        "key": "017972bd77815467054094dca5ee635f675a7bde8dd52bd889f6ce6feabb2fa2",
+        "cached": false,
+        "repaired": true,
+        "seconds": 134.6
+      },
+      {
+        "key": "6911d0e30be93e13b2c0618bb665003dc17f947f8fa63b81c45df08edd905daa",
+        "cached": false,
+        "repaired": true,
+        "seconds": 139.18
+      },
+      {
+        "key": "60b47e38f4f1ddef3d2006fa3cbc83801243e6ad8826cdebaa1d3ca34028830a",
+        "cached": false,
+        "repaired": false,
+        "seconds": 8.65
+      },
+      {
+        "key": "8a0552eaec3ea220f454ab9337adc28c7b44bc977b14fcf5d4960436116443dd",
+        "cached": false,
+        "repaired": false,
+        "seconds": 9.2
+      },
+      {
+        "key": "6054e9e6bb380831fea2638a13c508f71a24e6f448f06fa5f54da9ad2d571104",
+        "cached": false,
+        "repaired": false,
+        "seconds": 9.55
+      },
+      {
+        "key": "9880a7d9af59ffad4267b6bac782dd499b6b0cbe10ef722c024e94c6214aee03",
+        "cached": false,
+        "repaired": false,
+        "seconds": 28.08
+      },
+      {
+        "key": "a79097fc75900967aacfbe2c1eb35f5e61769f779fdd686175e0dfc7e9ed23c5",
+        "cached": false,
+        "repaired": false,
+        "seconds": 63.62
+      },
+      {
+        "key": "64df3753b31c78b4f1fd6d7346d345f9b8444c26cbc03cf16f5d49a492b9740e",
+        "cached": false,
+        "repaired": false,
+        "seconds": 13.23
+      },
+      {
+        "key": "efc0e66479da1cdd8b56b1f202cdba0359d9e8e29b7a5dc65aefa81ad1e99065",
+        "cached": false,
+        "repaired": false,
+        "seconds": 30.17
+      },
+      {
+        "key": "f20380279bf1e096271e6202f410d03ac96d984a14d2b0d3b48cdbd2604ebc16",
+        "cached": false,
+        "repaired": false,
+        "seconds": 57.12
+      },
+      {
+        "key": "a683266a7a2a5f7de3622e08f719046c4f55f2f00529e4a8a1caaf404dce8c20",
+        "cached": false,
+        "repaired": false,
+        "seconds": 199.03
+      }
+    ],
+    "synthesis_input": "full_receipts"
+  },
+  "warnings": [
+    "Media without transcript: raw/podcast/02/028936a9e37ee198b376b6dfda0516f22d6aac82c5f304a672f771987dcfb48b.mp3",
+    "Media without transcript: raw/podcast/b2/b2374e526f30e41e20d7958605128aa174f9f6fdf131269e0e6a2760546538d1.mp3",
+    "Media without transcript: raw/podcast/f2/f20b70f464fae2814a5c89ed5fe1583a24fc0bae2c3be6d20574d82e40f39900.mp3",
+    "Full-export sources were reviewed for identity and attribution; automated review is not independent verification.",
+    "Company relationships are source-reported; founder/adviser roles are not inferred portfolio holdings.",
+    "Multiple pages may repeat one interview or report; source count is not independent corroboration.",
+    "Some publication dates and speaker identities remain unresolved; read coverage.md."
+  ],
+  "input_hashes": {
+    "raw/podcast/14/148cce246b9478605f3e732dffa97c210a316170beac34e206227a534cecd3e1.html": "2b6df526bcfefa0271edbb892ea41666c9cf3ecd5c523e9489a5d3d88f80df28",
+    "raw/podcast/14/148cce246b9478605f3e732dffa97c210a316170beac34e206227a534cecd3e1.html.04e5af3135e3cf96.metadata.json": "16af3badc6eca27f53eb160ed59d3e2d4d8e4a9adc3141b500111ce41bd4b1dc",
+    "raw/podcast/39/3903618f787d76c9093540808c3bf815e4ea5bde1468bb3eb013149b6c8b1b19.html": "3903618f787d76c9093540808c3bf815e4ea5bde1468bb3eb013149b6c8b1b19",
+    "raw/podcast/39/3903618f787d76c9093540808c3bf815e4ea5bde1468bb3eb013149b6c8b1b19.html.e1ffdc4f4f71fbbe.metadata.json": "1217d271d78403bfb5aad9cfa4d6b2f470a54f061b007afe0925a38ad15c1932",
+    "raw/podcast/49/496d3370e09014d2af5127d517e3d9ddab05618971cf00b7701961dd8d797145.html": "496d3370e09014d2af5127d517e3d9ddab05618971cf00b7701961dd8d797145",
+    "raw/podcast/49/496d3370e09014d2af5127d517e3d9ddab05618971cf00b7701961dd8d797145.html.74abf9f31a87a40f.metadata.json": "017b6fbc6c678e8661d8c5e16327fd9d81b50bf60a8f98169052c4960f23e0af",
+    "raw/web/0a/0ae13b201103ae543146b9ce9ec1ce53f8463293e08e54a67964f630dd48a7ff.html": "fad534c79d3c58ed1add0bb5da28f56df696f08a2e4513a8b88dcda2e43912d7",
+    "raw/web/0a/0ae13b201103ae543146b9ce9ec1ce53f8463293e08e54a67964f630dd48a7ff.html.6f18bc591b45e0a3.metadata.json": "64c010b7d0b1fa16ecc2f751ee98eee388162c6d3e1cfc661aae206825871f7e",
+    "raw/web/13/137f179e8971726baa17816a9574e77c6f39251b2b4933511e1b53088f9c8b0f.html": "137f179e8971726baa17816a9574e77c6f39251b2b4933511e1b53088f9c8b0f",
+    "raw/web/13/137f179e8971726baa17816a9574e77c6f39251b2b4933511e1b53088f9c8b0f.html.6e02e0601e062f5c.metadata.json": "a1966601c7b917b9c1a170ff385473ec21672bf4716ddb0e88c1f172ed35009e",
+    "raw/web/1c/1c868d2e4f71aad4b3c181e4aba7b0a076af79c88ee89b540c50e45a85d4a8fd.html": "1c868d2e4f71aad4b3c181e4aba7b0a076af79c88ee89b540c50e45a85d4a8fd",
+    "raw/web/1c/1c868d2e4f71aad4b3c181e4aba7b0a076af79c88ee89b540c50e45a85d4a8fd.html.54b72306a1a92ee4.metadata.json": "63465aa853a0822d2a500d51797b6d7f69a7f9d1370c9035a5f7c6622619ddbe",
+    "raw/web/21/21ae3216e62dec4724567f1793da531cc575548347b51070b853c14a5c305c24.pdf": "21ae3216e62dec4724567f1793da531cc575548347b51070b853c14a5c305c24",
+    "raw/web/21/21ae3216e62dec4724567f1793da531cc575548347b51070b853c14a5c305c24.pdf.cd638870472fe004.metadata.json": "8c121791eb3b8accd93e7792a85644c31b757517f8ba025a56690a148e1bca75",
+    "raw/web/28/28e3403264329c25f561a74c1c4ee0092ef6615930dfa23155471e326ec9b0bc.pdf": "28e3403264329c25f561a74c1c4ee0092ef6615930dfa23155471e326ec9b0bc",
+    "raw/web/28/28e3403264329c25f561a74c1c4ee0092ef6615930dfa23155471e326ec9b0bc.pdf.4249f7b1297cfead.metadata.json": "21451be664751e8ae8c4b8153bbefb07e71e312d77cd1084d702695cb5d9af51",
+    "raw/web/2b/2b20b0edb2136582d294791bb0bf974ef9918e33f8ee00351c5581f1e2617cef.html": "c2f4f1799ddcffcdc1141f836199ad2f31863967a23a3c97aff1603d44b322d4",
+    "raw/web/2b/2b20b0edb2136582d294791bb0bf974ef9918e33f8ee00351c5581f1e2617cef.html.2d0f7a055e9febc4.metadata.json": "f3c6d25a0a0912a010df43ef38c14ecd59a3850d9191851b4f6bd5ec7b6d1f7d",
+    "raw/web/2f/2f39a07332d7c0bba9b6bb3a6bbeb8059aba99986ffddffdf542ce55d4259328.html": "2f39a07332d7c0bba9b6bb3a6bbeb8059aba99986ffddffdf542ce55d4259328",
+    "raw/web/2f/2f39a07332d7c0bba9b6bb3a6bbeb8059aba99986ffddffdf542ce55d4259328.html.274c94e9f0998106.metadata.json": "b48f2741dbbb718a39d64fff36f44dea99d0f30c3966132f1a5a1211f9492bfb",
+    "raw/web/54/54da0b62a2d60c8f125371b219d5dbd26dd4198a5d7c17317ea2beff55fba11e.html": "54da0b62a2d60c8f125371b219d5dbd26dd4198a5d7c17317ea2beff55fba11e",
+    "raw/web/54/54da0b62a2d60c8f125371b219d5dbd26dd4198a5d7c17317ea2beff55fba11e.html.d6767f9099adda4f.metadata.json": "8ce361fb672c2b44e654e780e4b46cf92f09f75e7272af3acd227092741721d1",
+    "raw/web/5c/5c85af5c42200062280dd0697ab4e2ca4117ec76e754f342b19db64d24198c90.html": "5c85af5c42200062280dd0697ab4e2ca4117ec76e754f342b19db64d24198c90",
+    "raw/web/5c/5c85af5c42200062280dd0697ab4e2ca4117ec76e754f342b19db64d24198c90.html.9e8c88087e3673a9.metadata.json": "147843c8b5c6e82d1330a90a14f305255f24dccd8f6895aed1262893847399e8",
+    "raw/web/6d/6de300507a5d4f9cb2a9c4f60835136b00c827f9da47b279ccdd8474758574cd.html": "6de300507a5d4f9cb2a9c4f60835136b00c827f9da47b279ccdd8474758574cd",
+    "raw/web/6d/6de300507a5d4f9cb2a9c4f60835136b00c827f9da47b279ccdd8474758574cd.html.30e64c019b793e63.metadata.json": "3b880e0f79a9c1a2b2813cb7cd4623a063adb22f5f7165396e9c4d9762b2bdd1",
+    "raw/web/6e/6e1ffba150eff01cb0b04f87c6bcc8f20d7ab4db57d2fe2d6000a50859fc48b5.html": "6e1ffba150eff01cb0b04f87c6bcc8f20d7ab4db57d2fe2d6000a50859fc48b5",
+    "raw/web/6e/6e1ffba150eff01cb0b04f87c6bcc8f20d7ab4db57d2fe2d6000a50859fc48b5.html.937739833bcb746f.metadata.json": "604e356f2f0103131811c1fd00e6fbf1b8bd7f022df9e89713fc5b5e34630f14",
+    "raw/web/6e/6edbbead9e8175e89fb75e6b2a9f53c823b84fd72c1b4f620dff11f5cb979831.html": "6edbbead9e8175e89fb75e6b2a9f53c823b84fd72c1b4f620dff11f5cb979831",
+    "raw/web/6e/6edbbead9e8175e89fb75e6b2a9f53c823b84fd72c1b4f620dff11f5cb979831.html.a39864b4bd382e6e.metadata.json": "e3d79c182b77da500476a81cab2351bf871639fb8dee0ebd871a33ada2e11292",
+    "raw/web/7b/7b6af4847bd22a284416ac68ee99a18253b6036eeb15d468e20d852945a8bc39.html": "7b6af4847bd22a284416ac68ee99a18253b6036eeb15d468e20d852945a8bc39",
+    "raw/web/7b/7b6af4847bd22a284416ac68ee99a18253b6036eeb15d468e20d852945a8bc39.html.39045a027925ec60.metadata.json": "110f3c60f0ffbe8ca771fb9f93c11ce9553ccd3fbb09665963c633078527abf3",
+    "raw/web/83/834876ede08c6fc0aa70158ced25d15fe4337b2210559f8a3df7768f5dff6606.pdf": "834876ede08c6fc0aa70158ced25d15fe4337b2210559f8a3df7768f5dff6606",
+    "raw/web/83/834876ede08c6fc0aa70158ced25d15fe4337b2210559f8a3df7768f5dff6606.pdf.7bfe24e0957e76a5.metadata.json": "bea96890ddcf3b92c28c665063e9507e6cb82744c110c7d7a437ab31dd0d2470",
+    "raw/web/94/946f0d03ee6cd105004b6bba38d0171b2b237757679aad9337ae117cd8d60d8b.pdf": "946f0d03ee6cd105004b6bba38d0171b2b237757679aad9337ae117cd8d60d8b",
+    "raw/web/94/946f0d03ee6cd105004b6bba38d0171b2b237757679aad9337ae117cd8d60d8b.pdf.0c76ee9a49da889b.metadata.json": "630c58dee13256e7e02748fc33a330c5fb2302ea2bb74a8c600c93cf6316345c",
+    "raw/web/c4/c4afcd3e190b005c66ea5e535895bf69cc9d191ca65435adc1154cc4b4f39275.html": "a4f3d4489ca427072eb7b5731bfed56010f0853fa2916ec9b193acc24fac0bcd",
+    "raw/web/c4/c4afcd3e190b005c66ea5e535895bf69cc9d191ca65435adc1154cc4b4f39275.html.3f8cf2386bea99fd.metadata.json": "aeecc46f4599cb04d7d4d0adfe7e6b70c83ece4d63e108d1bfca0380f4210f89",
+    "raw/web/d0/d0819f0d6a05c22401b14884aa42c382fdb252bd3c08ae7b3b7f8d4dacca0769.html": "8ae8fa9b7ddb27690bed46ffc580cc472dc20069c842d615f721934d8d49e179",
+    "raw/web/d0/d0819f0d6a05c22401b14884aa42c382fdb252bd3c08ae7b3b7f8d4dacca0769.html.94eeb4fe77647111.metadata.json": "3752c3c24bfb92d04eab6864542bb9c173f5244ac2887ac8a622b96ce576137d",
+    "raw/web/de/de508c914253ed77a5ffafa826c59be74fa3cc757d3750681f5c58fdd042eab4.pdf": "de508c914253ed77a5ffafa826c59be74fa3cc757d3750681f5c58fdd042eab4",
+    "raw/web/de/de508c914253ed77a5ffafa826c59be74fa3cc757d3750681f5c58fdd042eab4.pdf.9a90a21553659fb8.metadata.json": "daf9ed3ae0e9ee596fe65753efa32aa28953a265793d071a8d80cefe1d101d91",
+    "raw/web/f6/f60e6ecb2c48803fb84aa7c7abd20c7b65b0b26079bf187f1920dbf2f531023c.html": "f60e6ecb2c48803fb84aa7c7abd20c7b65b0b26079bf187f1920dbf2f531023c",
+    "raw/web/f6/f60e6ecb2c48803fb84aa7c7abd20c7b65b0b26079bf187f1920dbf2f531023c.html.260ad4bec9c6419e.metadata.json": "c6f60b24cca48ac7022b8f9a7fdc453f257a25b5b22d887f852235d64b800683",
+    "raw/web/f7/f76d24c4d281435b040b0962f233d0d9fbadccdab84cb4e9ba217a3dc007aee2.html": "f76d24c4d281435b040b0962f233d0d9fbadccdab84cb4e9ba217a3dc007aee2",
+    "raw/web/f7/f76d24c4d281435b040b0962f233d0d9fbadccdab84cb4e9ba217a3dc007aee2.html.9b310b03f1ff035e.metadata.json": "795537cf330d506b2ed564edca74143fb901f7ab56e354b011a6d6d900ccef9f"
+  },
+  "source_policy": "full_investor_export",
+  "sources_reviewed": 22,
+  "source_packets_reviewed": 38,
+  "context_count": 121,
+  "files_inventoried": 119
+}

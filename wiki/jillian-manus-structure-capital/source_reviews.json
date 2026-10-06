@@ -1,0 +1,1601 @@
+[
+  {
+    "source": "full:02c451fc76c1e4001c9f1d6e",
+    "part": 1,
+    "identity": "unusable",
+    "reason": "The packet contains only the loading placeholder “Tuning in,” with no usable article or transcript material.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "ceac1f3d95674af96f3ededc1adb7c95a5157bb660b12e509d7338ddace75e02"
+  },
+  {
+    "source": "full:151b23be8b53b642d7ecd92a",
+    "part": 1,
+    "identity": "uncertain",
+    "reason": "The page lists an episode named “Jillian Manus” dated Aug 26, 2022, but supplies no affiliation anchor, named dialogue, accepted speaker attribution, or substantive passage establishing that this is the resolved Structure Capital investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "ab9e7a5288181121a9350692a4c4e2fc61a7b4db4ab5a608cdd7906b674379d3"
+  },
+  {
+    "source": "full:151b23be8b53b642d7ecd92a",
+    "part": 2,
+    "identity": "other",
+    "reason": "This packet consists entirely of listings about other guests—including Kevin Damoa, Paul Powers, Trip Hawkins, Clint Chao, and others—and contains no passage about Jillian Manus.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "d3ff3ca41d05128b439ac4540080e1a76365ae8eb719872eeb6089675c9726a3"
+  },
+  {
+    "source": "full:151b23be8b53b642d7ecd92a",
+    "part": 3,
+    "identity": "other",
+    "reason": "This packet contains promotional descriptions of Liftoff episodes featuring Lukas Gentele, Dean Nelson, Anthony Vinci, Steven Pivnik, and other guests, but no material about or attributed to Jillian Manus.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "07fae3dd228bf60ff4034ee175ddaf7f53138446cbb1dc4f43a7244f29c844b8"
+  },
+  {
+    "source": "full:151b23be8b53b642d7ecd92a",
+    "part": 4,
+    "identity": "other",
+    "reason": "This packet contains promotional descriptions of Liftoff episodes featuring Henry Schuck, Sreedhar Peddineni, Houlie Duque, and other guests, but no material about or attributed to Jillian Manus.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "6f00cbac79c9ada78bc5f91fa34a97872f7e03fe534c159c9c5cbd1b3c32d06d"
+  },
+  {
+    "source": "full:151b23be8b53b642d7ecd92a",
+    "part": 5,
+    "identity": "other",
+    "reason": "This packet contains descriptions of unrelated Liftoff guests including Michael Palmer, Steven Falowski, Luis Derechin, and others, with no substantive passage about Jillian Manus.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "64b00b2a7625d4e527e27ac7edf68fabf4fedf76ef98edf48152411a4bb7be61"
+  },
+  {
+    "source": "full:151b23be8b53b642d7ecd92a",
+    "part": 6,
+    "identity": "other",
+    "reason": "This packet contains episode listings about Claudionor Coelho, Justin Baer, Luke Norris, Krish Ramineni, and Anil Ravindranath rather than Jillian Manus.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "4b71e2e2202aa87eceb5ab3edd7544a74c8da264607e6288ae53d54f960dcd6f"
+  },
+  {
+    "source": "full:05e9e4c1d050f0a7f52c7020",
+    "part": 1,
+    "identity": "target",
+    "reason": "The episode description identifies Jillian Manus as managing partner of Structure Capital, matching the resolved investor.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jillian Manus is managing partner at Structure Capital, an early stage VC firm that focuses on Zero Waste Economy.",
+        "claim": "The 2022 podcast description identifies Manus as Structure Capital's managing partner and describes the firm as an early-stage investor focused on the Zero Waste Economy.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "She has a podcast herself called The Pitch.",
+        "claim": "The podcast description reports that Manus has a podcast called The Pitch.",
+        "kind": "biography"
+      },
+      {
+        "quote": "She and I go back to when our kids shared a baseball field together and then discovered a similar passion for media, tech, and supporting the startup ecosystem where our paths crossed again @Nasdaq Entrepreneurial Center.",
+        "claim": "Host Keith Newman reports that he and Manus crossed paths again through the Nasdaq Entrepreneurial Center while supporting the startup ecosystem.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Aug 26, 2022 34 min Jillian Manus is managing partner at Structure Capital, an early stage VC firm that focuses on Zero Waste Economy.",
+        "claim": "The supplied Spotify page dates this Jillian Manus episode to August 26, 2022.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "e7265335deebe1c7375be66bb5f24d505eb707c80c47006730eeb9f6a991a5ea"
+  },
+  {
+    "source": "full:67885b52fae7df32556c68d5",
+    "part": 1,
+    "identity": "target",
+    "reason": "The post explicitly identifies the interviewee as Jillian Manus, Managing Partner at Structure Capital, matching the resolved investor.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Adam Torres interviews Jillian Manus, Managing Partner at Structure Capital in this episode.",
+        "claim": "The Facebook post identifies Manus as Structure Capital's managing partner and the interviewee in the linked episode.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "7f89446103adb90a437967bc952d8958f2f81fcf2e78871efed3a6c25bb955f4"
+  },
+  {
+    "source": "full:b6c8d6629324755b9d48a609",
+    "part": 1,
+    "identity": "target",
+    "reason": "Shield Capital's profile identifies Jillian Manus as a venture partner and separately lists her as Managing Partner of Structure Capital, firmly matching the resolved investor.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Position: Venture Partner",
+        "claim": "Shield Capital's profile lists Manus as a venture partner.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Managing Partner, Structure Capital",
+        "claim": "Shield Capital's profile lists Manus as managing partner of Structure Capital.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "U.S. Venture Advisor, European Innovation Council Fund/ European Commission",
+        "claim": "Shield Capital's profile lists Manus as a U.S. venture advisor to the European Innovation Council Fund and European Commission.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Founder and CEO, Broad Strategy",
+        "claim": "Shield Capital's profile lists Manus as founder and CEO of Broad Strategy.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Co-Host Investor, podcast The Pitch",
+        "claim": "Shield Capital's profile lists Manus as an investor co-host of The Pitch podcast.",
+        "kind": "biography"
+      },
+      {
+        "quote": "NASDAQ Entrepreneurial Center, Board Member",
+        "claim": "Shield Capital's profile lists Manus as a Nasdaq Entrepreneurial Center board member.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "7f2aaf0772302e20bbdce3ecad97b09b5a31dec03ef70f5efa791ebed15a79e3"
+  },
+  {
+    "source": "full:edd0e5b80239c5fb7dc2b5cc",
+    "part": 1,
+    "identity": "uncertain",
+    "reason": "Although the page title names Jillian Manus, the supplied body contains only unrelated episode listings and provides no affiliation or substantive passage that resolves which Jillian Manus is intended.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "2787b8ca547a156920f5821558d122750a2c2c31ce6abf4a83efcc2dbc4b8414"
+  },
+  {
+    "source": "full:c390a30e90ebab315542893b",
+    "part": 1,
+    "identity": "target",
+    "reason": "The profile identifies Jillian Manus as managing partner of Structure Capital and describes that firm's early-stage Zero Waste Economy strategy, matching the resolved investor.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jillian Manus is Managing Partner of an early-stage Silicon Valley venture fund, Structure Capital.",
+        "claim": "The Pitch profile identifies Manus as managing partner of the early-stage Silicon Valley venture fund Structure Capital.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Branded “Architects of the Zero Waste Economy,\" they invest in underutilized assets and excess capacity.",
+        "claim": "The Pitch profile reports that Structure Capital invests in businesses involving underutilized assets and excess capacity under its Zero Waste Economy positioning.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "She was named one of the top 25 early-stage Female Investors by Business Insider in 2021.",
+        "claim": "The Pitch profile reports that Business Insider named Manus among its top 25 early-stage female investors in 2021.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Jillian serves on numerous corporate and non-profit boards, these include: Stanford University School of Medicine Board of Fellows, NASDAQ Entrepreneurial Center Board of Directors, Fuqua School of Business at Duke University.",
+        "claim": "The Pitch profile reports that Manus serves on boards associated with Stanford Medicine, the Nasdaq Entrepreneurial Center, and Duke's Fuqua School of Business.",
+        "kind": "biography"
+      }
+    ],
+    "input_fingerprint": "ed944d8c318ebb262c6832f669554afb19702c68fdc4d4af1aa5baa301caa8ad"
+  },
+  {
+    "source": "full:2cfa59a2cd0a8c131933ffd7",
+    "part": 1,
+    "identity": "target",
+    "reason": "The archived episode description identifies Jillian Manus as Structure Capital's managing partner and a technology investor and entrepreneur, matching the resolved investor.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Publication date 2018-02-06",
+        "claim": "Internet Archive metadata dates the episode to February 6, 2018.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Jillian Manus is an experienced banking and media executive, a technology investor and entrepreneur.",
+        "claim": "The episode description characterizes Manus as an experienced banking and media executive, technology investor, and entrepreneur.",
+        "kind": "biography"
+      },
+      {
+        "quote": "She is the Managing Partner of Structure Capital.",
+        "claim": "The episode description identifies Manus as managing partner of Structure Capital.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "In her role with Structure Capital, Jillian provides strategic support to founding teams.",
+        "claim": "The episode description reports that Manus provides strategic support to founding teams through her Structure Capital role.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Prior to Structure Capital, Jillian was founder of Broad Strategy, Manus Media and Global Goal Sports Management.",
+        "claim": "The episode description reports that Manus founded Broad Strategy, Manus Media, and Global Goal Sports Management before Structure Capital.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Jillian thinks the answer is a hybrid.",
+        "claim": "The episode summary attributes to Manus a preference for a hybrid of changing incumbent venture investors and creating a separate funding ecosystem.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Jillian said that we need to create more onramps for other investors and provide women with the ability to invest in small amounts into the Seed round.",
+        "claim": "The episode summary reports Manus advocating more investor onramps and opportunities for women to make small seed-round investments.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Jillian never invests in a woman because she is a woman, but she does give women more opportunity to pitch to her.",
+        "claim": "The episode summary reports that Manus gives women more opportunities to pitch but does not invest solely because a founder is a woman.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Once there, they need to prove themselves at the same level.",
+        "claim": "The episode summary reports that Manus applies the same proof standard after women receive an opportunity to pitch.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Jillian did not become a VC to make money, her mission is to create jobs for people and invest in founders for that reason.",
+        "claim": "The episode summary attributes Manus's venture-capital motivation to job creation and backing founders rather than personal financial gain.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "She is passionate about supporting veterans and has invested in a startup (The Shift) to help veterans translate their military skills into the private sector.",
+        "claim": "The episode description reports that Manus invested in The Shift, a startup intended to help veterans translate military skills into private-sector employment.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "664a53f9de6c9d5d8cc876726d8fc79d74999d580d54f558acb1a4388d9869cf"
+  },
+  {
+    "source": "full:f1bcf718739daaf005c31f14",
+    "part": 1,
+    "identity": "target",
+    "reason": "The episode explicitly introduces Jillian Manus as Managing Partner of Structure Capital and attributes a quoted product principle to her.",
+    "evidence": [
+      {
+        "quote": "It’s a cardinal rule - you never want someone to buy your product, you want someone to own your product. And why (!) would they want to own your product?",
+        "label": "product_adoption",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "She favors products that inspire sustained user ownership and identification rather than a one-time purchase.",
+        "attribution_basis": "The show notes place this quotation immediately above the explicit attribution “- Jillian Manus” in an episode introducing her as Structure Capital’s managing partner."
+      }
+    ],
+    "context": [
+      {
+        "quote": "She wrote the third investment check that Uber raised and has now backed a total of about 71 companies.",
+        "claim": "The episode page reports that Manus wrote Uber’s third investment check and had backed about 71 companies by the time of the episode.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "She is an experienced banking and media executive, a technology investor and entrepreneur. She is Managing Partner of an early stage Silicon Valley venture fund, Structure Capital.",
+        "claim": "The episode biography identifies Manus as a technology investor, entrepreneur, and managing partner of Structure Capital.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Structure Capital has invested more than $100 million over the years, focusing on very early stage investing.",
+        "claim": "The episode page reports that Structure Capital had invested more than $100 million and focused on very-early-stage investments.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "0171f7ab3b86f6f77ddd2a7b3696ce5d93b1539ba95d0166319dff167327a788"
+  },
+  {
+    "source": "full:43bc74468220bf10019533d8",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Communities In Schools profile identifies Jillian Manus through her longtime Structure Capital role and her additional SHIELD Capital and European Innovation Council affiliations.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jillian Manus is a Venture Partner at SHIELD Capital, where she focuses on early-stage, dual-use frontier technologies at the nexus of commercial markets and national security, particularly in cybersecurity, artificial intelligence, autonomy, and space.",
+        "claim": "Communities In Schools identifies Manus as a SHIELD Capital venture partner focused on early-stage dual-use technologies in cybersecurity, AI, autonomy, and space.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "She also serves as the U.S. Venture Advisor to the European Innovation Council Fund, Europe’s largest €30b deep-tech innovation platform, deploying capital into cutting-edge European startups and SMEs.",
+        "claim": "The profile says Manus serves as U.S. Venture Advisor to the European Innovation Council Fund.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Manus is the longtime Managing Partner of Structure Capital; a Silicon Valley early-stage venture fund branded the “Architects of the Zero Waste Economy” for its focus on underutilized assets and excess capacity.",
+        "claim": "The profile identifies Manus as Structure Capital’s longtime managing partner and describes the fund’s focus on underutilized assets and excess capacity.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "4194bcfe59513218c2ac941a72f12d2eb22570c9f13fff1b054390db620fa1bd"
+  },
+  {
+    "source": "full:a08d274eab1acd84e1d6a494",
+    "part": 1,
+    "identity": "target",
+    "reason": "This is the authoritative about.me profile supplied in the resolved identity and it identifies Jillian Manus as Structure Capital’s managing partner.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jillian Manus is an experienced banking and media executive, a technology investor and entrepreneur. She is the Managing Partner of Structure Capital, a Silicon Valley-based venture capital firm that invests in early-stage technology companies.",
+        "claim": "Manus’s authoritative profile describes her as a technology investor, entrepreneur, and managing partner of an early-stage technology venture firm.",
+        "kind": "biography"
+      },
+      {
+        "quote": "In her role with Structure Capital, Jillian provides strategic support to founding teams focused on creating value in underutilized assets and excess capacity.",
+        "claim": "The profile says Manus supports founding teams that create value from underutilized assets and excess capacity.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "She serves on the boards of several of her portfolio companies, including Hyp3r, Iggbo, and Liquiglide.",
+        "claim": "The profile reports that Manus serves on the boards of portfolio companies Hyp3r, Iggbo, and Liquiglide.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "She became interested in technology investing after serving as Associate Publisher of Upside, a San Francisco-based business and technology magazine for venture capitalists.",
+        "claim": "The profile traces Manus’s interest in technology investing to her work as associate publisher of Upside.",
+        "kind": "biography"
+      }
+    ],
+    "input_fingerprint": "c961c5245d91ceb320d785bb34c0fdf945ce6f1c6cb55d5d76358ae6dd8451d4"
+  },
+  {
+    "source": "full:592bcbab6c9bca34bdc4db0d",
+    "part": 1,
+    "identity": "target",
+    "reason": "CNBC explicitly identifies the quoted Jillian Manus as a Structure Capital technology investor and general partner.",
+    "evidence": [
+      {
+        "quote": "It's dangerous, it's very dangerous. On one hand, we want to be supportive of this, because this gives opportunities, definitely, to fuel new companies. But on the other hand, there's a lot of irresponsibilities that go with this. There's a lot of fraud that's being created",
+        "label": "business_viability_concern",
+        "direction": "negative",
+        "support": "explicit",
+        "interpretation": "She views unregulated ICO fundraising as dangerous because it enables irresponsibility and fraud despite providing startup capital.",
+        "attribution_basis": "CNBC directly attributes the quotation to Manus after identifying her as a Structure Capital technology investor."
+      },
+      {
+        "quote": "I think this is the Wild West without a sheriff",
+        "label": "business_viability_concern",
+        "direction": "negative",
+        "support": "explicit",
+        "interpretation": "She considers the then-unregulated ICO environment inadequately governed and therefore risky.",
+        "attribution_basis": "CNBC explicitly introduces this as a later statement by Manus in the same interview."
+      },
+      {
+        "quote": "ICOs — if they're based on just a white paper, and they're just raised on that — then that's a problem and that's a scam",
+        "label": "solution_feasibility_assessment",
+        "direction": "negative",
+        "support": "explicit",
+        "interpretation": "She rejects ICOs raised solely from a white paper as unsupported and potentially fraudulent.",
+        "attribution_basis": "CNBC directly attributes this assessment to Manus."
+      },
+      {
+        "quote": "But on the other hand, if they have SEC filings, if they have [due diligence] packages, if there's some product that we can invest in — then I think that's an interesting opportunity.",
+        "label": "solution_feasibility_assessment",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She considers an ICO more investable when it has regulatory filings, diligence materials, and an actual product.",
+        "attribution_basis": "CNBC directly attributes this assessment to Manus."
+      },
+      {
+        "quote": "There's a danger in these young start-ups with no responsibility",
+        "label": "execution_risk_assessment",
+        "direction": "negative",
+        "support": "explicit",
+        "interpretation": "She treats a lack of demonstrated responsibility in young startups as an execution risk.",
+        "attribution_basis": "CNBC directly attributes the sentence to Manus."
+      },
+      {
+        "quote": "Until we have some sort of understanding of the applications — of course there's going to be volatility. But coming from Silicon Valley, everything that's innovative is criticized at first.",
+        "label": "market_timing",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "She expects volatility while applications remain unclear but cautions that early criticism can accompany genuine innovation.",
+        "attribution_basis": "CNBC directly attributes the quotation to Manus."
+      }
+    ],
+    "context": [
+      {
+        "quote": "Manus is a general partner at Structure Capital and has made an impact in industries including venture capital, marketing, media and philanthropy.",
+        "claim": "CNBC identifies Manus as a Structure Capital general partner with experience spanning venture capital, marketing, media, and philanthropy.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Structure Capital invests in start-ups that take advantage of wasted resources",
+        "claim": "CNBC describes Structure Capital’s thesis as investing in startups that exploit wasted resources.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "There could be \"tremendous\" potential for healthcare applications of blockchain, Manus said, pointing to the growing focus on health technology at Alphabet's Verily and Amazon.",
+        "claim": "CNBC reports that Manus saw potentially substantial healthcare applications for blockchain.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "b58957d5977b2ebcebeb7eef4e7cd35fb4cca7f420262fe448c5885bd1479932"
+  },
+  {
+    "source": "full:328c687ca931eca4b0a8c6e4",
+    "part": 1,
+    "identity": "target",
+    "reason": "The article identifies Jillian Manus as Structure Capital’s managing partner and attributes statements from her October 2025 venture-capital masterclass.",
+    "evidence": [
+      {
+        "quote": "I want founders who have failed, because they know what they should not do again. My own failure enabled me to teach other founders and become a better VC.",
+        "label": "founder_execution",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She favors founders who have learned practical execution lessons from prior failure.",
+        "attribution_basis": "The article prints the quotation with the explicit attribution “Jillian Manus, Structure Capital.”"
+      }
+    ],
+    "context": [
+      {
+        "quote": "During her masterclass at Luxembourg Venture Days in October 2025, Jillian Manus drew a sharp contrast between how Europe and the United States approach venture capital investments.",
+        "claim": "The publication reports that Manus delivered a Luxembourg Venture Days masterclass in October 2025 comparing European and U.S. venture investing.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Based on her experience as Managing Partner of early-stage Silicon Valley venture fund Structure Capital, a US Venture Advisor for the European Innovation Council and a serial tech entrepreneur, she stressed that Europe has distinctive strengths, from strong operators to validated technologies.",
+        "claim": "The article identifies Manus as Structure Capital’s managing partner, a European Innovation Council venture advisor, and a serial technology entrepreneur.",
+        "kind": "biography"
+      },
+      {
+        "quote": "In the United States, however, investors are more willing to bet on execution and vision even when metrics are not yet proven. Exceptional founding teams are often valued above the product itself, since the product will evolve, but the people behind it remain the constant.",
+        "claim": "The article reports Manus’s comparison that U.S. investors more readily back execution, vision, and exceptional teams before metrics are proven.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "d9af47374086adc8adbc71a6e9e2081ee25913cd86a8c48be0e196bec21ba8d1"
+  },
+  {
+    "source": "full:ddb019426ef350728a105f0f",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Luxinnovation article identifies Jillian Manus through Structure Capital and attributes statements from her October 2025 masterclass.",
+    "evidence": [
+      {
+        "quote": "I want founders who have failed, because they know what they should not do again. My own failure enabled me to teach other founders and become a better VC.",
+        "label": "founder_execution",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She favors founders whose prior failures have taught them which execution errors not to repeat.",
+        "attribution_basis": "The quotation is followed by the explicit attribution “Jillian Manus, Structure Capital.”"
+      }
+    ],
+    "context": [
+      {
+        "quote": "During her masterclass at Luxembourg Venture Days in October 2025, Jillian Manus drew a sharp contrast between how Europe and the United States approach venture capital investments.",
+        "claim": "Luxinnovation reports that Manus gave an October 2025 masterclass on differences between European and U.S. venture investing.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Based on her experience as Managing Partner of early-stage Silicon Valley venture fund Structure Capital, a US Venture Advisor for the European Innovation Council and a serial tech entrepreneur, she stressed that Europe has distinctive strengths, from strong operators to validated technologies.",
+        "claim": "Luxinnovation identifies Manus as Structure Capital’s managing partner, a European Innovation Council venture advisor, and a serial technology entrepreneur.",
+        "kind": "biography"
+      },
+      {
+        "quote": "In the United States, however, investors are more willing to bet on execution and vision even when metrics are not yet proven. Exceptional founding teams are often valued above the product itself, since the product will evolve, but the people behind it remain the constant.",
+        "claim": "Luxinnovation reports Manus’s view that U.S. venture investors place comparatively greater weight on execution, vision, and founding teams before metrics are established.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "170a1654ba263f64a7177e07d98c84e5b9e556491bcf27be89f2fbb42c5e7c7b"
+  },
+  {
+    "source": "full:873a8dc8d5607bddc57a32f0",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Startup Intros profile consistently anchors Jillian Manus to Structure Capital and SHIELD Capital, although its claims are aggregator-reported rather than her own words.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jillian Manus is a Managing Partner at Structure Capital and a Venture Partner at SHIELD Capital, based in San Francisco, California.",
+        "claim": "The Startup Intros aggregator reports that Manus is a managing partner at Structure Capital and venture partner at SHIELD Capital.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Since joining Structure Capital in 2013, she has backed early-stage technology companies, including notable early investments in Uber and Salesforce.",
+        "claim": "The aggregator reports that Manus joined Structure Capital in 2013 and backed early-stage technology companies including Uber and Salesforce; this is not independently verified by the packet.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Her focus areas include companies leveraging AI for efficiency and new capabilities, fintech innovations that democratize access or streamline financial services, and consumer technologies that create strong network effects and user engagement.",
+        "claim": "The aggregator describes Manus’s focus areas as AI, fintech, and consumer technologies with strong network effects and engagement.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "13ea2c9c2619cf91276bb87a3c17c87b25aa1f3c0e8d08661f153374b9f643c9"
+  },
+  {
+    "source": "full:5a7a40882c6c34ec56334ce4",
+    "part": 1,
+    "identity": "other",
+    "reason": "The packet is only a minimal Structure Capital landing page and contains no mention of Jillian Manus or attributable material about her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "9868ad6f79ca54c32e6c18e4c9947781935839ce31e9df92d2b05c5d97a6c1cf"
+  },
+  {
+    "source": "full:b684fb74361b04580154d710",
+    "part": 1,
+    "identity": "target",
+    "reason": "The European Commission profile identifies Jillian Manus as Structure Capital’s longtime managing partner as well as a SHIELD Capital venture partner and EIC advisor.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jillian Manus is a Venture Partner at SHIELD Capital, where she focuses on early-stage, dual-use frontier technologies at the nexus of commercial markets and national security, particularly in cybersecurity, artificial intelligence, autonomy, and space.",
+        "claim": "The European Commission identifies Manus as a SHIELD Capital venture partner focused on early-stage dual-use frontier technologies.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "She also serves as the U.S. Venture Advisor to the European Innovation Council Fund, Europe’s largest €30b deep-tech innovation platform, deploying capital into cutting-edge European startups and SMEs.",
+        "claim": "The European Commission says Manus serves as U.S. Venture Advisor to the European Innovation Council Fund.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Manus is the longtime Managing Partner of Structure Capital; a Silicon Valley early-stage venture fund branded the “Architects of the Zero Waste Economy” for its focus on underutilized assets and excess capacity.",
+        "claim": "The profile identifies Manus as Structure Capital’s longtime managing partner and describes its focus on underutilized assets and excess capacity.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Previously, she served as Co-Director of Technology, Media & Telecom at Credit Suisse in Zurich, held senior roles in Media including as Associate Publisher of the national technology publication Upside.",
+        "claim": "The profile reports that Manus previously held technology, media, and telecom roles at Credit Suisse and Upside.",
+        "kind": "biography"
+      }
+    ],
+    "input_fingerprint": "bf2abe78af10ce96f4e49716fbcb7963282b7679253bcd274fc06f78afc3b3b5"
+  },
+  {
+    "source": "full:74a306d49d251653a298b277",
+    "part": 1,
+    "identity": "target",
+    "reason": "Signal’s investing profile identifies Jillian Manus through her Structure Capital history and current SHIELD Capital role, despite including some noisy or duplicated records.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Current Investing Position\nShield Capital Venture Partner\nInvestment Range\n$150K - $1.5M\nSweet Spot\n$400K\nInvestments On Record\n14\nJillian Manus is on these Sector & Stage Rankings\nSocial Networks (Seed)Diverse InvestorsFemale InvestorsSan Francisco Bay AreaMarketplaces (Seed)\nJillian Manus's Investments On Record (12)\nCompanyStageDateRound SizeTotal Raised\nPROTO\nSeries ANov 2021$12M\n$15M\nCo-investors: Tim Draper (Draper Associates), Mike Walsh (Structure Capital), Doug Barry\nBabyQuip\nSeedJul 2021$1M\n$2M\nCo-investors: Adam Cragg (Osney Capital), Brandon Maier (LvlUp Ventures), Glenn Argenbright (Quake Capital), Barrett Parkman (Goodwater Capital), Michael Weiksner (Rostrum Capital), Timothy Dick (Startup Capital Ventures)\nCopia\nSeedJul 2019$1M\nSeedMar 2016$3M\n$4M\nCo-investors: Jake Medwell (8VC), Mitchell Kapor (Kapor Capital), Kim Kolt (For Good Ventures), Jacob Shea (Structure Capital), Joanna Rees (Western Technology Investment), Mike Walsh (Structure Capital), Cynthia Ringo (DBL Investors), Ammar Hanafi (Moment Ventures), Clint Chao (Moment Ventures), Steve Case (Revolution), Hoda Eydgahi\nBounce\nSeedDec 2018$1M\n$240M\nCo-investors: Niko Bonatsos (General Catalyst), Andrew Chen (Andreessen Horowitz), David Hartwig (Sapphire Ventures), Anand Daniel (Accel-KKR), Kabir Narang (Binhai Venture Capital (Tianjin Binhai VC Investment Management Co., Ltd.)), Michael Hyatt (Northleaf Capital Partners), Rico Mallozzi (Sapphire Sport), Keiichi Matsumoto (Kuroneko Innovation Fund at Yamato), Rob Chesnut\nCareGuide\nSeries AJun 2018$6M\n$13M\nCo-investors: Fabrice Grinda (FJ Labs), Sarah Marion (iNovia Capital), Jacob Shea (Structure Capital), Mike Walsh (Structure Capital), Karamdeep Nijjar (iNovia Capital), Rasool Rayani (iNovia Capital), Andrew DSouza (Tokens.com), Patrick Hankinson (Concrete Ventures), Ben Yoskovitz (Highline Beta Inc.), Ameet Shah (Golden Ventures), Christine Aylward (Magnetic Ventures), Frank Barbieri (Cluster Capital), Ryan Holmes (LOI Venture), Ramesh Haridas (McKinsey & Company), Tom Newbold (HT Ventures), Mike Greenfield (Bonafide), Tom Williams (Liqvor Pharmaceutical), Chris Arsenault (iNovia Capital), Dave McClure (Practical Venture Capital), Bernie Li (Antler), Jim Pitkow, Jevon MacDonald, Dharmesh Shah\nShift\nSeedFeb 2018$4M\n$200M\nCo-investors: Jeff Jordan (Andreessen Horowitz), Kyle Lui (Bling Capital), Matthias Hilpert (Impala), Pawel Schapiro (TA Ventures), Garrett Camp (Xtripe Angels), Jason Krikorian (DCM Ventures), Zach Ware (Trust Ventures), Christian Noske (Target Global), Kasper Sage (BMW i Ventures), Brook Porter (G2VP), Nenad Marovac (DN Capital), Panos Papadopoulos (Marathon Venture Capital), Kevin Mahaffey (Lookout), Greg Kidd (globaliD), Lee Linden (Quiet Capital), Tim Ferriss (Angel investor), Konstantin Othmer\nLiquiGlide\nSeries BJan 2017$16M\n$16M\nPogoseat\nSeries UnknownNov 2016$680K\nSeedJul 2014$3M\n$4.5M\nCo-investors: Aamer Abdullah (Manufactured), Jason Seats (Techstars), Jeremie Berrebi (Magical Capital), Keval Desai (InterWest), Carine Magescas (AngelPad), Amir Banifatemi (K5 Ventures), Pietro Dova (XG Ventures), Mike Walsh (Structure Capital), Andrea Zurek (XG Ventures), Richard Chen (Blackrock), Thomas Korte (AngelPad), Joshua Schachter\n",
+        "claim": "Signal reports Manus’s current position as SHIELD Capital venture partner, with a $150,000–$1.5 million investment range, a $400,000 sweet spot, and 14 investments on record. Its visible investment table names PROTO, BabyQuip, Copia, Bounce, CareGuide, Shift, LiquiGlide and Pogoseat. The table heading says 12 investments despite the profile counter saying 14; these are unverified aggregator records, with vehicle and present ownership unresolved.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Managing Partner Structure Capital2013 - 2026",
+        "claim": "Signal lists Manus as a Structure Capital managing partner from 2013 to 2026.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Senior U.S Venture Advisor European Innovation Council and SMEs Executive Agency (EISMEA)2023 - Present",
+        "claim": "Signal lists Manus as a senior U.S. venture advisor to EISMEA beginning in 2023.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "dc63fc953976e18772ce3785676d3364e62fc6b0b1f240736ed4661ca4b5d35a"
+  },
+  {
+    "source": "full:39b01d0a0b9f9fcdbe395530",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Facebook description explicitly identifies a sit-down interview involving Structure Capital’s Jillian Manus, but supplies no attributable remarks.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "A special sit down interview between Structure Capital's Jillian Manus and Lehigh University's Media Fellow.",
+        "claim": "The Nasdaq Entrepreneurial Center description reports a sit-down interview between Structure Capital’s Jillian Manus and a Lehigh University media fellow.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "5e36d9b968ad1c2bf36b568f7bf781ea5166c9a4a2bfce54c36edc6c14d33aa7"
+  },
+  {
+    "source": "full:8d8148c94e603e8e57d02d65",
+    "part": 1,
+    "identity": "target",
+    "reason": "Zander Media identifies the subject as Jillian Manus, Structure Capital’s managing partner and host of The Pitch, but provides no words from the talk.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "We filmed this talk by Jillian Manus, Managing Partner of Structure Capital and host of The Pitch, in 2019 as part of a PR outreach effort.",
+        "claim": "Zander Media reports filming a talk by Manus in 2019 and identifies her as Structure Capital’s managing partner and host of The Pitch.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "This video was desired for and aired on Bloomberg.",
+        "claim": "Zander Media reports that the filmed Manus talk aired on Bloomberg.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "302ff0fab1e9d5cbe2a6d63defcb1de7bcfe14855372a1b2ecde7ef1b40c3892"
+  },
+  {
+    "source": "full:a2ce900468b67bbf952e010e",
+    "part": 1,
+    "identity": "target",
+    "reason": "The article identifies Jillian Manus as Structure Capital’s managing partner and directly attributes her 2025 Luxembourg Venture Days remarks about investment and team values.",
+    "evidence": [
+      {
+        "quote": "It’s rarely products that fail – it’s people.",
+        "label": "founder_qualities",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "She places primary failure risk on people rather than products when evaluating investments.",
+        "attribution_basis": "The article directly attributes the statement to Manus at the 2025 Luxembourg Venture Days and also prints her name and Structure Capital affiliation."
+      },
+      {
+        "quote": "You can’t build a culture of values without trust – and trust can easily be lost.",
+        "label": "founder_qualities",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "She regards trust as foundational to a values-driven company culture and fragile once established.",
+        "attribution_basis": "The statement appears as Manus’s direct quotation under the article’s “Trust” value."
+      },
+      {
+        "quote": "Integrity is twice as important as competence. Do you have integrity? Be honest in your answer – it is crucial.",
+        "label": "founder_qualities",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She weights a team member’s integrity more heavily than competence.",
+        "attribution_basis": "The statement appears as Manus’s direct quotation under the article’s “Integrity” value."
+      },
+      {
+        "quote": "Transparency is not only important when using data – it is essential for people. It’s about how we talk to, and about, others.",
+        "label": "founder_communication_quality",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "She values transparent interpersonal communication as well as transparent data practices.",
+        "attribution_basis": "The article presents the passage as Manus’s direct remarks under “Transparency.”"
+      },
+      {
+        "quote": "Everything that you are building – in particular now in the era of artificial intelligence – is an extension of yourself. You build in your fears, biases and problems.",
+        "label": "product_success_factor_assessment",
+        "direction": "neutral",
+        "support": "inferred",
+        "interpretation": "She believes founders’ personal biases and problems can become embedded in their products, particularly in AI.",
+        "attribution_basis": "The article presents the passage as Manus’s direct remarks under “Empathy.”"
+      },
+      {
+        "quote": "I find humility extremely important, and I don’t see it as much as I would like. Admit it when you are wrong. Own your mistakes and turn them into something good.",
+        "label": "founder_coachability_assessment",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "She values founders who acknowledge mistakes and convert them into learning or improvement.",
+        "attribution_basis": "The article presents the passage as Manus’s direct remarks under “Humility.”"
+      },
+      {
+        "quote": "You can only get your product-market fit right if you really understand the issue that you are trying to solve. You can’t just build a product, you need to immerse yourself in your customers’ world to get a real feel for what they need.",
+        "label": "market_problem_validation",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "She sees deep customer immersion and problem understanding as prerequisites for product-market fit.",
+        "attribution_basis": "The article presents the passage as Manus’s direct remarks under “Inclusion.”"
+      },
+      {
+        "quote": "The key to success is to be a broad-minded, horizontal thinker and a focused, vertical executor. Asking the right questions is essential.",
+        "label": "founder_execution",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "She favors broad thinking combined with focused execution and strong questioning.",
+        "attribution_basis": "The article presents the passage as Manus’s direct remarks under “Curiosity.”"
+      },
+      {
+        "quote": "Failure is fundamental to progress. I invest more in failing founders and companies than in anyone else because they are the ones who know what should not be done. If you never fail, you will never reach your full potential.",
+        "label": "founder_execution",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She explicitly prefers founders and companies with failure experience because they have learned what not to repeat.",
+        "attribution_basis": "The article presents this as Manus’s direct statement about whom she invests in."
+      },
+      {
+        "quote": "I lead with honour. My honour is my word. If I say something, I do it. This is my key professional currency.",
+        "label": "founder_qualities",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "She prizes reliability between stated commitments and subsequent actions.",
+        "attribution_basis": "The article presents the passage as Manus’s direct remarks under “Honour.”"
+      }
+    ],
+    "context": [
+      {
+        "quote": "As Managing Partner of early-stage Silicon Valley venture fund Structure Capital, a US Venture Advisor for the European Innovation Council and a serial tech entrepreneur, Jillian Manus has extensive experience of evaluating ventures and analysing which have good chances of success.",
+        "claim": "The article identifies Manus as Structure Capital’s managing partner, a European Innovation Council venture advisor, and a serial technology entrepreneur experienced in venture evaluation.",
+        "kind": "biography"
+      },
+      {
+        "quote": "“It’s rarely products that fail – it’s people,” she stated when speaking at the 2025 Luxembourg Venture Days.",
+        "claim": "The article reports that Manus delivered these remarks at the 2025 Luxembourg Venture Days.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "0ca2adf5c657bbc384f2cf39e05fe810da8a28ebeee483d65e57eef56eaca40b"
+  },
+  {
+    "source": "full:80788b501c489e57205e0b70",
+    "part": 1,
+    "identity": "target",
+    "reason": "The podcast page identifies its guest as Jillian Manus, Structure Capital’s managing partner, and summarizes her investment approach without supplying a verbatim transcript of her remarks.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jillian Manus is an experienced banking and media executive, a technology investor and entrepreneur. She is the Managing Partner of Structure Capital.",
+        "claim": "The podcast biography identifies Manus as a technology investor, entrepreneur, and managing partner of Structure Capital.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Jillian never invests in a woman because she is a woman, but she does give women more opportunity to pitch to her. Once there, they need to prove themselves at the same level.",
+        "claim": "The episode summary reports that Manus does not lower her investment standard for women but gives women more opportunities to pitch.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Jillian did not become a VC to make money, her mission is to create jobs for people and invest in founders for that reason.",
+        "claim": "The episode summary attributes Manus’s venture investing motivation to job creation rather than personal financial gain.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "She is passionate about supporting veterans and has invested in a startup (The Shift) to help veterans translate their military skills into the private sector.",
+        "claim": "The episode summary reports that Manus invested in The Shift, a startup helping veterans translate military skills to private-sector work.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Jillian said that we need to create more onramps for other investors and provide women with the ability to invest in small amounts into the Seed round. Before doing this, develop the top 10 questions to ask an entrepreneur and get educated on how to run a business.",
+        "claim": "The episode summary reports that Manus supports enabling more women to make small seed investments after learning core diligence questions and business fundamentals.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "bc6a58a4b749c07b015291ced90fea34f879a6b3b91dc5dfb350fc5be72982ce"
+  },
+  {
+    "source": "full:a9af61a9f7dee2aa96679699",
+    "part": 1,
+    "identity": "target",
+    "reason": "Bloomberg identifies the featured guest as Structure Capital partner Jillian Manus discussing startups, the sharing economy, and investment ideas on February 24, 2015.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Feb 24th, 2015 Your Phone Is `The Magic Wand’: Jillian Manus Structure Capital Partner Jillian Manus discusses startups, the sharing economy and her investment ideas.",
+        "claim": "Bloomberg reports that Structure Capital partner Jillian Manus discussed startups, the sharing economy, and investment ideas on February 24, 2015.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "She speaks on “The Pulse. (Source: Bloomberg)",
+        "claim": "Bloomberg identifies the appearance as an interview on “The Pulse.”",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "918d8a190b8569b37177c191e2a4bea7297827ffdb837f8171078e3549a47339"
+  },
+  {
+    "source": "full:7c99120032a58b9c75900127",
+    "part": 1,
+    "identity": "target",
+    "reason": "The article explicitly introduces the interviewee as Jillian Manus, Managing Partner of Structure Capital and a US Venture Advisor for the European Innovation Council, matching the resolved investor.",
+    "evidence": [
+      {
+        "quote": "Founders should first communicate the big problem they are solving. The qualified problem.",
+        "label": "market_problem_validation",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Manus expects founders to begin an investor narrative by defining a substantial, qualified customer problem.",
+        "attribution_basis": "The article explicitly introduces this as an interview with Jillian Manus, and the passage is her displayed answer to a founder-storytelling question."
+      },
+      {
+        "quote": "Followed by why the team is uniquely capable of doing so, and clearly state their UVP.",
+        "label": "founder_market_fit",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She evaluates whether the team can explain why it is particularly suited to solve the identified problem.",
+        "attribution_basis": "The article explicitly introduces this as an interview with Jillian Manus, and the passage appears in her answer to a founder-storytelling question."
+      },
+      {
+        "quote": "Followed by why the team is uniquely capable of doing so, and clearly state their UVP.",
+        "label": "product_differentiation_concern",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She expects founders to articulate a clear unique value proposition.",
+        "attribution_basis": "The article explicitly introduces this as an interview with Jillian Manus, and the passage appears in her answer to a founder-storytelling question."
+      },
+      {
+        "quote": "It is less about emotional intelligence and more about a customer’s (and funders’) emotional connection to the product.",
+        "label": "product_appeal_assessment",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She values products that create an emotional connection with customers and prospective funders.",
+        "attribution_basis": "The article explicitly introduces this as an interview with Jillian Manus, and the passage is part of her displayed response."
+      },
+      {
+        "quote": "The sectors in Europe poised to deliver the highest innovation investment returns over 2025–2030 are artificial intelligence, biotech, climate/clean tech, fintech, healthtech, and deep tech (including quantum computing, advanced robotics, and semiconductors).",
+        "label": "investment_upside_assessment",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She identifies these European technology sectors as offering the strongest prospective innovation-investment returns through 2030.",
+        "attribution_basis": "The article explicitly introduces this as an interview with Jillian Manus, and the passage is her answer about trends and opportunities investors should watch."
+      },
+      {
+        "quote": "I would also add Defence/Dual technology to this list.",
+        "label": "investment_thesis_constraint",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She includes defence and dual-use technology among the European sectors investors should consider.",
+        "attribution_basis": "The article explicitly introduces this as an interview with Jillian Manus, and the first-person passage continues her answer about investment opportunities."
+      },
+      {
+        "quote": "More US investors are looking to join the EU venture community to invest in Europe through this Defence entry point.",
+        "label": "market_entry_path_assessment",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She sees defence as an entry point through which US investors can participate in European venture markets.",
+        "attribution_basis": "The article explicitly introduces this as an interview with Jillian Manus, and the passage continues her answer about European investment opportunities."
+      }
+    ],
+    "context": [
+      {
+        "quote": "Today, we’re excited to share a conversation with Jillian Manus, who is both Managing Partner of Structure Capital (an early-stage Silicon Valley venture fund) and a US Venture Advisor for the European Innovation Council.",
+        "claim": "EU-Startups reported in its November 4, 2025 article that Jillian Manus was Managing Partner of early-stage Silicon Valley fund Structure Capital and a US Venture Advisor for the European Innovation Council.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "She recently spoke at the Ventures.eu Forum 2025, which brought together family offices, LPs, GPs, fund-of-funds, policymakers, and founders to explore this challenge.",
+        "claim": "EU-Startups reported that Manus spoke at the Ventures.eu Forum 2025.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "At Structure Capital, you describe your mission as ‘Investing in entrepreneurs who build smart solutions to waste’.",
+        "claim": "The interviewer characterized Structure Capital's mission as investing in entrepreneurs building smart solutions to waste.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "The EU startup pipeline is robust. On par with the US, but US VCs still invest 7x more and 100x faster.",
+        "claim": "Manus described the EU startup pipeline as comparable to the US pipeline while asserting that US venture investors deploy substantially more capital and do so faster.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "If they dedicate only 2%, €300 billion, to scale up VC funds/entities, this would change the entire competitive innovation landscape of Europe.",
+        "claim": "Manus argued that allocating 2% of European pension-fund capital to venture funds or entities could materially change Europe's innovation landscape.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "1b0c73a86a76c8aa1116c3a0552f488cdf4edb54ecd1c8518850afb910e8de69"
+  },
+  {
+    "source": "full:a040b48f873d4f902405608a",
+    "part": 1,
+    "identity": "target",
+    "reason": "The WBAF document contains a named profile of Jillian Manus that identifies her as Structure Capital's Managing Partner, matching the resolved investor, although it contains no clearly attributed direct investor speech.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Her role(s) at the World Business Angel Investment Forum and its institutes: Board Member, WBAF Office Silicon Valley",
+        "claim": "The WBAF document listed Jillian Manus as a board member of its Silicon Valley office.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Jillian Manus is an experienced banking and media executive, a technology investor and entrepreneur.",
+        "claim": "The WBAF profile described Manus as a banking and media executive, technology investor, and entrepreneur.",
+        "kind": "biography"
+      },
+      {
+        "quote": "She is Managing Partner of an early stage Silicon Valley venture fund, Structure Capital.",
+        "claim": "The WBAF profile reported that Manus was Managing Partner of the early-stage Silicon Valley venture fund Structure Capital.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Branded \"Architects of the Zero Waste Economy\" investing in underutilized assets and excess capacity.",
+        "claim": "The WBAF profile characterized Structure Capital's investment approach as targeting underutilized assets and excess capacity under a zero-waste thesis.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Prior to Structure Capital, Ms. Manus was Founder of Broad Strategy, Global Goal Management, Inc.",
+        "claim": "The WBAF profile reported that Manus founded Broad Strategy, Global Goal Management before Structure Capital.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "She served as Co- Director of TMT for Credit Suisse Zurich, and Director of Development for Universal and Warner Bros and Associate Publisher of the national publication Upside, reporting on the financial strategies of the technology industry.",
+        "claim": "The WBAF profile reported earlier roles for Manus at Credit Suisse Zurich, Universal, Warner Bros, and Upside.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Throughout her careers, she has been a strong advocate for inclusion and diversity, frequently speaking on the topic of \"Investing in Values, not Just Valuations.\"",
+        "claim": "The WBAF profile described Manus as an inclusion and diversity advocate who speaks about investing in values as well as valuations.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "ede7bee0402a62b2725649e59ad7db7873f465e33822a52bbbfb24a1b6e014d8"
+  },
+  {
+    "source": "full:a040b48f873d4f902405608a",
+    "part": 2,
+    "identity": "other",
+    "reason": "This fragment only continues Radhika Iyengar's biography with education and inclusion work and contains no material about Jillian Manus.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "bddae875c324af12920ea1db2d48da94eb5965fd3f2b2f15c496d07bfb62ef39"
+  },
+  {
+    "source": "full:831c5119a4ac281d6b1f12ff",
+    "part": 1,
+    "identity": "other",
+    "reason": "This is a Benson Watch Company Regulation CF offering document and contains no identified reference to Jillian Manus or Structure Capital.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "ad41c0ad53cf51214e695447b61c07fca26c5f82d300ffe58c8e0b9fceeaac77"
+  },
+  {
+    "source": "full:831c5119a4ac281d6b1f12ff",
+    "part": 2,
+    "identity": "other",
+    "reason": "This SEC filing concerns Benson Watch Company, LLC, its CEO B. Marcel Benson, and its crowdfunding offering, with no reference to Jillian Manus or Structure Capital.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "e611f87b7bf7a58a92f49f67ef62267b810950ce18c081716b053fc64111b2af"
+  },
+  {
+    "source": "full:831c5119a4ac281d6b1f12ff",
+    "part": 3,
+    "identity": "other",
+    "reason": "This continuation of Benson Watch Company's SEC filing discusses offering and securities risks without mentioning Jillian Manus, Structure Capital, or another supported identity link to the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "e4e33646a0dafe88c733c4b1f0ebe124fda87fb63d46d007399dacbfc8c2f3c7"
+  },
+  {
+    "source": "full:831c5119a4ac281d6b1f12ff",
+    "part": 4,
+    "identity": "other",
+    "reason": "This SEC filing concerns Benson Watch Company and identifies B. Marcel Benson as its founder, CEO, manager, and sole owner, with no relevant material about Jillian Manus or Structure Capital.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "4aa074a24f3091f6a28a5b993a750402d8cad2f18bd83e71524eb2bb28124e17"
+  },
+  {
+    "source": "full:831c5119a4ac281d6b1f12ff",
+    "part": 5,
+    "identity": "other",
+    "reason": "This portion continues Benson Watch Company’s Crowd SAFE offering and is signed by Barry Marcel Benson as CEO and manager, with no relevant material about Jillian Manus or Structure Capital.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "356252fbc104ff1f0bd39fd0cc1a09f4f12e41601e75a9e2e8882878d34bb9c9"
+  },
+  {
+    "source": "full:831c5119a4ac281d6b1f12ff",
+    "part": 6,
+    "identity": "unusable",
+    "reason": "The packet is dominated by corrupted PDF extraction with control characters and fragmented text, providing no intelligible material attributable to Jillian Manus.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "0cbfbdd7928bd4a187306edf8f9a0bd2bf0b0c1a6dd9951b637df38b18af94ae"
+  },
+  {
+    "source": "full:831c5119a4ac281d6b1f12ff",
+    "part": 7,
+    "identity": "target",
+    "reason": "The Benson Watch offering explicitly identifies Jillian Manus as a technology investor and Managing Partner of Structure Capital VC, matching the resolved investor's name and affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jillian Manus is an experienced entrepreneur, technology investor, and banking and media executive.",
+        "claim": "The offering describes Jillian Manus as an entrepreneur, technology investor, and banking and media executive.",
+        "kind": "biography"
+      },
+      {
+        "quote": "She is currently a Managing Partner of Structure Capital VC, a seed and early-stage venture fund providing capital and marketing strategy to companies exploiting under-utilized assets and excess capacity.",
+        "claim": "The offering reports that Jillian Manus was then a Managing Partner of Structure Capital VC.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "She is currently a Managing Partner of Structure Capital VC, a seed and early-stage venture fund providing capital and marketing strategy to companies exploiting under-utilized assets and excess capacity.",
+        "claim": "The offering characterizes Structure Capital VC as a seed and early-stage fund that provides capital and marketing strategy to companies using under-utilized assets and excess capacity.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Jillian sits on numerous boards including: Stanford University Digital Health, Stanford University School of Medicine Board of Fellows, Advisory Board of Entrepreneurship and Innovation at Fuqua School of Business at Duke University, Nasdaq Entrepreneurial Center Board of Directors, NYU Tisch School of the Arts, and Communities in Schools.",
+        "claim": "The offering reports that Jillian Manus held board or advisory positions with several academic, entrepreneurial, arts, and nonprofit organizations.",
+        "kind": "biography"
+      }
+    ],
+    "input_fingerprint": "206144362ea6c7f8a7d1e73e5a107d0bf5d93ed999fe3f7214eb130fe91fa24f"
+  },
+  {
+    "source": "full:831c5119a4ac281d6b1f12ff",
+    "part": 8,
+    "identity": "other",
+    "reason": "This packet is generic Benson Watch Company Crowd SAFE contract language and contains no mention of Jillian Manus, Structure Capital, or another resolved-identity anchor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "3347a0a639e294facc2020de67fa09758e43d598d02a1007b63007d52f128130"
+  },
+  {
+    "source": "full:831c5119a4ac281d6b1f12ff",
+    "part": 9,
+    "identity": "other",
+    "reason": "This packet continues generic Benson Watch Company investor representations and transfer terms without identifying Jillian Manus or Structure Capital.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "03894cfdf23348749cc359138c488de02f50315e87fa35f166f5f2e976bbd10f"
+  },
+  {
+    "source": "full:831c5119a4ac281d6b1f12ff",
+    "part": 10,
+    "identity": "other",
+    "reason": "This packet identifies Marcel Benson as the Benson Watch Company issuer and contains his founder narrative, with no Jillian Manus or Structure Capital connection.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "00d7376ce70ebc1e1e648bc636c547779ae3e1d8c81a29f5ab10e6904a8d0d76"
+  },
+  {
+    "source": "full:aac3b9596dc4ee770ec77e2a",
+    "part": 1,
+    "identity": "target",
+    "reason": "The profile explicitly identifies Jillian Manus as a Managing Partner at Structure Capital, matching the resolved investor identity.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jillian Manus is a Managing Partner at Structure Capital based in San Francisco, California, United States.",
+        "claim": "The AngelBacked profile reports that Jillian Manus is a Managing Partner at Structure Capital in San Francisco.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Portfolio Companies (8)\nExport CSV\n# Company IndustryStageRaised Website\n1Crowdpac————\n2Copia————\n3PORTL Hologram————\n4Pogoseat————\n5BabyQuip————\n6Bounce————\n7Mavatar————\n8HONK————\nShowing 1–8 of 8",
+        "claim": "AngelBacked lists Crowdpac, Copia, PORTL Hologram, Pogoseat, BabyQuip, Bounce, Mavatar and HONK as eight companies reportedly backed by Manus; investment vehicle and current holding status are unspecified and unverified.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Investment focus areas include Telecommunications, Video Conferencing and Unified Communications.",
+        "claim": "The AngelBacked profile reports telecommunications, video conferencing, and unified communications among Manus's investment focus areas.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "251fb019733d06ff4d6275de2392b0500d6fb5d8c7dee8c26d03581836f595e4"
+  },
+  {
+    "source": "full:fb31bf702b6b545305ce756d",
+    "part": 1,
+    "identity": "target",
+    "reason": "The speaker biography explicitly identifies Jillian Manus as Structure Capital's Managing Partner and describes her venture roles and investment approach.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jillian Manus is Managing Partner of an early-stage Silicon Valley venture fund, Structure Capital.",
+        "claim": "Unternehmertag describes Jillian Manus as Managing Partner of the early-stage Silicon Valley venture fund Structure Capital.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Branded “Architects of the Zero Waste Economy,\" they invest in underutilized assets and excess capacity.",
+        "claim": "Unternehmertag reports that Structure Capital invests around underutilized assets and excess capacity under a zero-waste-economy positioning.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "She is also the U.S Venture Advisor for the European Innovation Council.",
+        "claim": "Unternehmertag reports that Manus also serves as U.S. Venture Advisor for the European Innovation Council.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Manus serves on both corporate and non-profit boards, including: Stanford University School of Medicine Board of Fellows, NASDAQ Entrepreneurial Center Board of Directors, NYU Tisch School of the Arts and Communities in Schools.",
+        "claim": "Unternehmertag reports that Manus serves on several corporate and nonprofit boards, including those named in the passage.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Prior to Structure Capital, Ms. Manus served as Co- Director of TMT for Credit Suisse Zurich, Director of Development for Universal and Warner Bros and Associate Publisher of the national publication Upside, reporting on the financial strategies of the technology industry.",
+        "claim": "Unternehmertag reports earlier roles for Manus at Credit Suisse Zurich, Universal, Warner Bros., and Upside.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Ms. Manus founded two companies, Broad Strategy, and Global Goal Management, Inc.",
+        "claim": "Unternehmertag reports that Manus founded Broad Strategy and Global Goal Management, Inc.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "She also co- hosts the business podcast “The Pitch.\"",
+        "claim": "Unternehmertag reports that Manus co-hosts the business podcast “The Pitch.”",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "f8fb8f5b252fc4856d476798d712bdd6cf4c2e14927b427a703c4d36bd9f7599"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 1,
+    "identity": "other",
+    "reason": "This packet is a U.S. Department of War acquisition directory attributed to Steve Blank and contains no mention of Jillian Manus, Structure Capital, or another resolved-identity anchor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "3ed89406cba09aaf3ecd99d5069efc3409f9d1504297d3a85486d1c49694868d"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 2,
+    "identity": "other",
+    "reason": "This packet consists entirely of a directory table of contents for U.S. military organizations and contains no mention of Jillian Manus, Structure Capital, or another resolved-identity anchor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "748f09d90cf40259adc465b5dc19eaa52774d2ef27c7837a50b29e8d0a2bc2a1"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 3,
+    "identity": "other",
+    "reason": "This packet contains only a Department of War directory table of contents covering military organizations and acquisition offices, with no mention of Jillian Manus, Structure Capital, or attributable material from the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "d07453201e4196f3ce8a279e7f1e21ab9e9bd9e303d5dc36bd3fdc27adf8ae3a"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 4,
+    "identity": "other",
+    "reason": "This packet is general guidance on Department of War procurement pathways, contracts, and startup acquisition programs, with no mention of Jillian Manus, Structure Capital, or text attributed to the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "4b593f8933830f1c1048be3ccb906a6ec9e21e98e895e8051712f8ab5657a759"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 5,
+    "identity": "other",
+    "reason": "This portion is a general Department of War procurement directory covering technology-readiness levels, SBIR programs, laboratories, and contracting pathways, with no mention of Jillian Manus or Structure Capital.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "2fb02d0be840db5f8da331a1ac716b8222b03820d00c2552fe3a5ceaf169c225"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 6,
+    "identity": "other",
+    "reason": "This portion discusses Department of War acquisition structures, startup go-to-market considerations, and defense venture capital generally, but contains no material about Jillian Manus or Structure Capital.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "03c350d5d8c7f4ec58a96471ac9465f07f5735dd9c342085a54fa139f9614486"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 7,
+    "identity": "other",
+    "reason": "This directory excerpt discusses Department of War startup financing, congressional engagement, contracting, and go-to-market strategies, but it contains no mention of Jillian Manus or Structure Capital and attributes no statements to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "de888d6eb7e5be6e054bf3e7d34dfcaa131eab2238d9a445416db215cc4ed486"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 8,
+    "identity": "other",
+    "reason": "This directory excerpt provides general guidance on defense sales, compliance, security clearances, budgeting, and agency titles, but it contains no mention of Jillian Manus or Structure Capital and attributes no statements to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "d8161e22c8c6176c7213307f0485af8cd9e8b5b189f24f54f5f0c21f804a9c1a"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 9,
+    "identity": "other",
+    "reason": "This packet is a Department of War directory covering acquisition terminology and federal personnel, with no mention of Jillian Manus, Structure Capital, or attributable material from the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "d2e43cb1cd94e46d53d46fe474ce2686af46e2d3a8aa1b7dc7f9c4ba7234518a"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 10,
+    "identity": "other",
+    "reason": "This packet lists Joint Staff and Office of the Secretary of War organizations and personnel, with no mention of Jillian Manus, Structure Capital, or attributable material from the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "9d594150eadde159989ff62e319a8b0caaea953dc46d9d60bbd511953eb7109f"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 11,
+    "identity": "other",
+    "reason": "This packet is an Office of the Secretary of War directory covering defense officials and organizations such as OUSD(R&E), CDAO, and DARPA, with no mention of Jillian Manus or Structure Capital.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "225f1d03e52a3c9fa2a5c78255cdf8744f764359d25b60aa3b8b50ad5e2d00e7"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 12,
+    "identity": "other",
+    "reason": "This packet continues the Office of the Secretary of War directory with personnel listings for organizations including DARPA, the Office of Strategic Capital, DIU, and DISA, and contains no material about Jillian Manus or Structure Capital.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "4da70014a6789fb7c07c55bb04f84f5532e1fcd1fd179f490cad504ff4edf17d"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 13,
+    "identity": "other",
+    "reason": "This packet is a U.S. defense and Army organizational directory listing officials and programs, with no mention of Jillian Manus, Structure Capital, or another resolved-identity anchor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "54d18003b420f4c9741e5b48d1b040b510b59f1e591113be5c1c68fe0ca31c23"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 14,
+    "identity": "other",
+    "reason": "This packet continues a U.S. Army acquisition directory covering portfolio executives, program offices, and weapons systems, with no material about Jillian Manus or Structure Capital.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "479431be6c19cb2c3fea80305b8a7e9f95d218677d0296222200fc22e4ce59e0"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 15,
+    "identity": "other",
+    "reason": "This packet is a U.S. Army acquisition directory listing personnel and programs such as PAE Fires and C3N, with no reference to Jillian Manus, Structure Capital, or another resolved-identity anchor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "0d9528fa957453ece948d29afc769be8f5c4306a7b84c34128c3fcc0ba31f433"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 16,
+    "identity": "other",
+    "reason": "This packet continues a U.S. Army acquisition directory covering simulation, cyber, intelligence, and sustainment organizations, with no reference to Jillian Manus, Structure Capital, or another resolved-identity anchor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "b6bb3f1dbdc7aae2c6ef23a7399cee6e99300b9b7491971ac5e26a60a3340980"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 17,
+    "identity": "other",
+    "reason": "This packet is an Army acquisition directory covering sustainment, ammunition, CBRN, and innovation programs and contains no mention of Jillian Manus, Structure Capital, or another resolved-identity anchor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "bc45e347a617550e36aef5bee195d8a633b5d25757f25fd86ffd7b82a7cac62e"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 18,
+    "identity": "other",
+    "reason": "This packet continues an Army organizational directory listing SBIR/STTR, T2COM, and DEVCOM personnel and programs, with no mention of Jillian Manus, Structure Capital, or another resolved-identity anchor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "fd5728f4ed98cfc3894066837b83061d9f9d2d396a29ceca2ac2714ac8753480"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 19,
+    "identity": "other",
+    "reason": "This packet is a U.S. Army and Navy organizational directory listing military and civilian officials, with no mention of Jillian Manus, Structure Capital, or another resolved-identity anchor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "e162cb27896273704da249e392b05a5f7136cd7afab39d494c6120a4c273ff6e"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 20,
+    "identity": "other",
+    "reason": "This packet continues a U.S. Navy organizational and acquisition directory covering fleets, research offices, and program executives, with no mention of Jillian Manus, Structure Capital, or another resolved-identity anchor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "e17e7b529e9c3fab7a3141790c89bae4c890c408000324780b851fa5a160797b"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 21,
+    "identity": "other",
+    "reason": "This packet is a U.S. Navy/NAVSEA organizational directory covering officials and programs such as PEO Integrated Warfare Systems, PEO Ships, and PEO Attack Submarines, with no material about Jillian Manus or Structure Capital.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "055457fe1b0927a97e3cbf23aa77b74a024b33f491e0b7322f9044eb9bcdb743"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 22,
+    "identity": "other",
+    "reason": "This packet is a U.S. Navy directory covering NAVAIR and NAVWAR personnel and programs such as PEO Tactical Aircraft Programs and Project Overmatch, with no material about Jillian Manus or Structure Capital.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "4adbcecfb06881fc8765bb62e867bd19e95cf997a739cd63e0f5862def220883"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 23,
+    "identity": "other",
+    "reason": "This packet is a U.S. defense organization directory covering Navy, Marine Corps, and related officials and programs; it contains no mention of Jillian Manus, Structure Capital, or another resolved-identity anchor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "ead34255a542363f933c2e00caef8726d0c60b6911cf6be73037f2d842b70f8a"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 24,
+    "identity": "other",
+    "reason": "This packet lists Department of the Air Force organizations, personnel, and acquisition programs and contains no mention of Jillian Manus, Structure Capital, or another resolved-identity anchor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "522eac0eb6d8957c6b0287a52f42fe9cbae1ad3a7c1a687b58c2118a94ebb4ba"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 25,
+    "identity": "other",
+    "reason": "This Air Force and Space Force directory segment lists military and civilian program officials and contains no reference to Jillian Manus, Structure Capital, or another resolved-identity anchor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "ab9fa2f20c7324b5144eb7eb35f62dbbe2e3d670c3a5d57e83bd2f4d1b824592"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 26,
+    "identity": "other",
+    "reason": "This directory segment describes U.S. Space Force organizations, missions, and personnel and contains no reference to Jillian Manus, Structure Capital, or another resolved-identity anchor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "e00ed7e0d672a4f05c352edf16bbe7e65375fddf3dc547c740a51e90f854ba16"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 27,
+    "identity": "other",
+    "reason": "This packet is a U.S. defense directory covering Space Force, combatant-command, and SOCOM personnel and programs, with no mention of Jillian Manus, Structure Capital, or another resolved-identity anchor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "abc650f5b0cc054d6c25f95d8014b9df5316ad8cf543fad93402dba71c19a954"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 28,
+    "identity": "other",
+    "reason": "This packet continues a U.S. defense directory covering SOCOM and INDOPACOM personnel, organizations, and programs, with no mention of Jillian Manus, Structure Capital, or another resolved-identity anchor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "336bb5f3fb37bc10ea4a2e34c99b4ad814691cee89d444a7b2f69c71f5cc1f33"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 29,
+    "identity": "other",
+    "reason": "This packet is a U.S. defense directory covering CENTCOM, EUCOM, SOUTHCOM, NORTHCOM, and AFRICOM personnel and contains no material about Jillian Manus or Structure Capital.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "b9caab61877f0027a30b4960233961446174d673fd8d3febf1e1888ab60b548f"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 30,
+    "identity": "other",
+    "reason": "This packet continues a U.S. government directory covering combatant commands and Department of Energy offices and contains no material about Jillian Manus or Structure Capital.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "4d1e398871f64ba0461f96aed7a0bdcae065d78faa191a1769b0e4c9ea9af272"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 31,
+    "identity": "other",
+    "reason": "This portion is a Department of Energy and Department of Commerce personnel directory that does not mention Jillian Manus or Structure Capital.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "a20f06706923e91390c5ae13a068ae7cb1dccd7b685394dbae7dd691b81b1dba"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 32,
+    "identity": "target",
+    "reason": "The defense-investor appendix explicitly lists “Structure Capital” followed by “Jillian Manus - General Partner,” matching the resolved investor and firm.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Structure Capital Jillian Manus - General Partner",
+        "claim": "The directory lists Jillian Manus as a General Partner at Structure Capital.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "f7db0e9a40cef1ab7570da8e9c9c04be7300dfe3e558d96f4916c6d68903573c"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 33,
+    "identity": "other",
+    "reason": "This directory section covers defense investors, SBIR/STTR programs, OTA consortia, government venture organizations, accelerators, and test centers, but contains no reference to Jillian Manus or Structure Capital.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "1a6d76d430bc78f64bf895f1ee1449475fd5e6d6360b556834f6b3e0cbf5e038"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 34,
+    "identity": "other",
+    "reason": "This section lists defense test ranges, Ukraine testing guidance, publications, trade shows, and Army contractors, with no reference to Jillian Manus or Structure Capital.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "211777f28c0ea9b7c1e1ab3118fe4cc4cfc317ad69790e4c5be26314bb91ed08"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 35,
+    "identity": "other",
+    "reason": "This packet is a directory of U.S. Army contractors and congressional defense-committee personnel, with no mention of Jillian Manus, Structure Capital, or any other resolved-identity anchor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "a490a60633fdc69873be83541a00cb79a4cbd72beeca0d7174b185be7858e84e"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 36,
+    "identity": "other",
+    "reason": "This packet contains defense appropriations staff listings and a Department of War directory table of contents, with no mention of Jillian Manus, Structure Capital, or any other resolved-identity anchor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "f6b7e41f9edc409abdaa8852d79605bd091c4fb35142e316864bc5c8973cee90"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 37,
+    "identity": "other",
+    "reason": "This packet is an index of U.S. defense offices and programs and contains no mention of Jillian Manus, Structure Capital, or attributable investor commentary.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "1980ef2f0479717fc3b9d1a68390236589a27b37d6a0cdbf2ac95ef5f8d7d3fc"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 38,
+    "identity": "other",
+    "reason": "This packet continues an index of U.S. defense and Army organizations and contains no mention of Jillian Manus, Structure Capital, or attributable investor commentary.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "5da459322015d2ebfc9f8de5f77533d91ba00e9b49e62d59d6809c9ada089ce1"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 39,
+    "identity": "other",
+    "reason": "This packet is an index of U.S. Army acquisition and capability programs and contains no mention of Jillian Manus, Structure Capital, or another resolved-identity anchor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "2da468763a53ae5d0473f1e97e083af6cd937ce3d1bd8b970d109b8cd6610121"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 40,
+    "identity": "other",
+    "reason": "This packet continues an index of U.S. Army acquisition, logistics, weapons, and innovation programs and contains no mention of Jillian Manus, Structure Capital, or another resolved-identity anchor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "41803ee1ef1d7187cbec5cac929419617c3e650a6be83e8ba8353db873ed7bf0"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 41,
+    "identity": "other",
+    "reason": "This packet is an index of U.S. Army and Navy organizations, offices, and programs and contains no reference to Jillian Manus, Structure Capital, or her investing activity.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "988b3c0ed74654df4af6c078d279488362de7a5dfa879655e46cc98e792d0edf"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 42,
+    "identity": "other",
+    "reason": "This packet is an index of U.S. Navy research, acquisition, warfare, and ship programs and contains no reference to Jillian Manus, Structure Capital, or her investing activity.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "8d7602fc1d3ac2ef01e8238fefb39bad99cb2abb10a1eb2b0948a50e94991ee4"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 43,
+    "identity": "other",
+    "reason": "This packet is an index of U.S. Navy program offices and systems, including NAVSEA and NAVAIR entries, with no mention of Jillian Manus, Structure Capital, or relevant investor material.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "aec623bc0ed4dbc40418e71e6fc0f971757dcc29bc4af876f6c7f186f7da1b28"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 44,
+    "identity": "other",
+    "reason": "This packet continues a U.S. Navy organizational and systems directory covering NAVWAR, NAVFAC, and Marine Corps programs, with no mention of Jillian Manus, Structure Capital, or relevant investor material.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "879c5bbbcbc62e5d4b6ebd71532562fc3d9f9d01da22aa8d54834759567dcc18"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 45,
+    "identity": "other",
+    "reason": "This packet is an index of U.S. Department of Defense and Air Force organizations and programs, with no mention of Jillian Manus, Structure Capital, or any other resolved-identity anchor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "71fc8b7c70349f35d6d631c0ec4b39532186619c4177629886af13b7d14fbfec"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 46,
+    "identity": "other",
+    "reason": "This packet continues an index of Air Force and Space Force organizations, programs, and personnel, with no mention of Jillian Manus, Structure Capital, or any other resolved-identity anchor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "f6561d842d236a16714a9020079ddc9d77fb4b1719d309aa784d0b9959cfec8e"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 47,
+    "identity": "other",
+    "reason": "This packet is an index of U.S. Space Systems Command and combatant-command topics and contains no mention of Jillian Manus, Structure Capital, or attributable investor material.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "e7613e17969fb8c65ced2ab477596eca18eb768a40f025658c02c9836dc5af31"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 48,
+    "identity": "other",
+    "reason": "This packet is an index of SOCOM and geographic combatant-command organizations and contains no mention of Jillian Manus, Structure Capital, or attributable investor material.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "e2238751c8689d49d210cf4ddba30ef2a59e8d08c637f442210ea681546070b8"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 49,
+    "identity": "other",
+    "reason": "This packet is an index of U.S. defense and Department of Energy organizations and contains no mention of Jillian Manus, Structure Capital, or any attributable investor commentary.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "68159d760d8c0ddf0b7a17be56a1e9fcc0f467aa568a9a4d08620ce41dc25182"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 50,
+    "identity": "other",
+    "reason": "This packet continues a government and defense-investor directory index and contains no mention of Jillian Manus, Structure Capital, or any attributable investor commentary.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "4c94eb6c735296546981045ecb934a5145e73c0c7ceec0748377650a8595f5f8"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 51,
+    "identity": "other",
+    "reason": "This directory index merely lists “Structure Capital” among many venture firms and contains no mention of Jillian Manus or material attributable to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "a83734252e12ed1fc153ef14ec952281efc14b293fe9276ffb288cd76a489fbb"
+  },
+  {
+    "source": "full:d851e375d7567704c353ad37",
+    "part": 52,
+    "identity": "other",
+    "reason": "This packet is an index of defense publications, events, contractors, and congressional committees with no mention of Jillian Manus or relevant investor material.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "8468edec6a8a18982250dcfb8245884ee92b4aa9beea9c4a883b5a5987aa4fc5"
+  },
+  {
+    "source": "full:35dc32ef7e7f7ed7afe3055a",
+    "part": 1,
+    "identity": "target",
+    "reason": "The VCDir profile explicitly identifies Jillian Manus as a Managing Partner of Structure Capital VC, matching the resolved investor and affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jillian Manus is an experienced entrepreneur, technology investor, and banking and media executive.",
+        "claim": "VCDir describes Jillian Manus as an entrepreneur, technology investor, and banking and media executive.",
+        "kind": "biography"
+      },
+      {
+        "quote": "She is currently a Managing Partner of Structure Capital VC, a seed and early-stage venture fund providing capital and marketing strategy to companies exploiting under-utilized assets and excess capacity.",
+        "claim": "VCDir reports that Manus is a Managing Partner of Structure Capital VC and characterizes the firm as a seed and early-stage investor focused on businesses exploiting under-utilized assets and excess capacity.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "She also sits on the board of several of her portfolio companies, including Hyp3r, Workpath, Revelar, and Liquiglide.",
+        "claim": "VCDir reports that Manus sits on the boards of portfolio companies Hyp3r, Workpath, Revelar, and Liquiglide.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Prior to Structure Capital, Jillian was the Founder of Broad Strategy, Manus Media, and Global Goal Sports Management.",
+        "claim": "VCDir reports that Manus founded Broad Strategy, Manus Media, and Global Goal Sports Management before Structure Capital.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Earlier in her career, Jillian worked in banking and media, serving as M&A co-director of TMT for Credit Suisse Zurich, and later as Director of Development for Universal and Warner Brothers Studios.",
+        "claim": "VCDir reports that Manus previously held banking and media roles at Credit Suisse Zurich, Universal, and Warner Brothers Studios.",
+        "kind": "biography"
+      }
+    ],
+    "input_fingerprint": "e161826aea192be3a150d5827266493cfff2593dd2f81419663a3feac4609bf3"
+  }
+]

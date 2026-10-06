@@ -1,0 +1,2598 @@
+[
+  {
+    "source": "full:3ba43e2a8e45deeed9e8516f",
+    "part": 1,
+    "identity": "target",
+    "reason": "The episode explicitly identifies Jenny Fielding as a co-founder and Managing Partner of Everywhere Ventures and discusses her book Venture Everywhere.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "In this special episode of Venture Everywhere, co-founders and Managing Partners of Everywhere Ventures, Jenny Fielding and Scott Hartley, turn the tables, as Scott interviews Jenny about her new book, Venture Everywhere.",
+        "claim": "The episode description identifies Jenny Fielding as an Everywhere Ventures co-founder and Managing Partner and as the author of Venture Everywhere.",
+        "kind": "biography"
+      },
+      {
+        "quote": "They share experiences in building Everywhere Ventures and the borderless spirit of entrepreneurship, redefining what it means to adapt and succeed globally.",
+        "claim": "The episode description reports that Fielding and Hartley discuss building Everywhere Ventures and globally distributed entrepreneurship.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "25 mars 2025\nVenture Everywhere and Beyond: Jenny Fielding and Scott Hartley",
+        "claim": "Apple Podcasts dates the Jenny Fielding and Scott Hartley episode to March 25, 2025.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "5106f50f89ccab8eb2ef419219d003e887a3d0e4d2f2f9f10f584f4cd28bd811"
+  },
+  {
+    "source": "full:3698232b2d2d0d701efd1ef6",
+    "part": 1,
+    "identity": "target",
+    "reason": "The episode identifies Jenny Fielding as a founding partner of Everywhere Ventures and describes her global venture-capital approach.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "In this episode Richard Kerby interviews Jenny Fielding, a Partner at Everywhere Ventures, to learn more about their global approach to venture capital.",
+        "claim": "The episode description identifies Fielding as an Everywhere Ventures partner and says the interview concerns the firm's global venture-capital approach.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "The origins of Everywhere Ventures: Jenny shares insights into the mission of Everywhere Ventures and how they built a thesis of investing across the world as \"Innovation is Everywhere.\"",
+        "claim": "The episode description attributes to Fielding an account of Everywhere Ventures' worldwide investment thesis, summarized by the program as \"Innovation is Everywhere.\"",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Everywhere Ventures has 30 Venture Partners spread across geographies which help them source and diligence deals.",
+        "claim": "The episode description reports that Everywhere Ventures used 30 geographically distributed venture partners for sourcing and diligence.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Venture Voices\nOct 10, 2023\n52 min",
+        "claim": "Spotify dates the episode to October 10, 2023.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "5f748440d15f4bce5dc115f6e640d50efdea998c712106d070251a09d2e0a396"
+  },
+  {
+    "source": "full:ef179f895f921e1be4b498a4",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page is hosted on Jenny Fielding's named domain and identifies her personal publication as Venture Everywhere, an established work of the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "2c0d65785f54e4f8c9224b8e91a1c87e4347ce503bc2bee88edba6f34d81bd1e"
+  },
+  {
+    "source": "full:e5226adb03c50499299401f0",
+    "part": 1,
+    "identity": "target",
+    "reason": "The profile attributes investment and startup commentary to Jenny Fielding in an investor panel episode, consistently identifying the resolved venture investor rather than another namesake.",
+    "evidence": [
+      {
+        "quote": "I think that this will be kind of the golden age of entrepreneurship",
+        "label": "market_timing",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "Fielding expects current conditions to be unusually favorable for entrepreneurship.",
+        "attribution_basis": "PodLume places the quotation on its Jenny Fielding profile, attributes the listed statements to the episode speaker, and identifies an episode featuring Jenny Fielding; this is textual aggregator attribution, not acoustic verification."
+      },
+      {
+        "quote": "I think like cyber is going to be just this massive space",
+        "label": "market_size_assessment",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Fielding expects cybersecurity to become a very large opportunity area.",
+        "attribution_basis": "PodLume places the quotation on its Jenny Fielding profile, attributes the listed statements to the episode speaker, and identifies an episode featuring Jenny Fielding; this is textual aggregator attribution, not acoustic verification."
+      },
+      {
+        "quote": "I would be worried about the long term if I was going in at a $10 billion valuation",
+        "label": "stage_valuation_mismatch",
+        "direction": "negative",
+        "support": "explicit",
+        "interpretation": "Fielding sees long-term risk in entering the referenced company at a $10 billion valuation.",
+        "attribution_basis": "PodLume places the quotation on its Jenny Fielding profile, attributes the listed statements to the episode speaker, and identifies an episode featuring Jenny Fielding; this is textual aggregator attribution, not acoustic verification."
+      },
+      {
+        "quote": "your barrier to entry, other barrier to entry goes down as the costs come down as well",
+        "label": "competitive_advantage_assessment",
+        "direction": "negative",
+        "support": "inferred",
+        "interpretation": "Fielding believes falling AI-model costs can erode barriers to entry and make defensibility harder.",
+        "attribution_basis": "PodLume places the quotation on its Jenny Fielding profile, attributes the listed statements to the episode speaker, and identifies an episode featuring Jenny Fielding; this is textual aggregator attribution, not acoustic verification."
+      },
+      {
+        "quote": "I would not advise people to buy right now",
+        "label": "investment_upside_assessment",
+        "direction": "negative",
+        "support": "explicit",
+        "interpretation": "Fielding advises against buying the referenced OpenAI or Anthropic shares at that time.",
+        "attribution_basis": "PodLume places the quotation under its topic heading on OpenAI and Anthropic shares, attributes the listed statements to the episode speaker, and identifies an episode featuring Jenny Fielding; this is textual aggregator attribution, not acoustic verification."
+      },
+      {
+        "quote": "The lesson is timing. They should have raised 18 months ago",
+        "label": "market_timing",
+        "direction": "negative",
+        "support": "explicit",
+        "interpretation": "Fielding believes the referenced startup missed a materially better fundraising window by waiting 18 months.",
+        "attribution_basis": "PodLume places the quotation on its Jenny Fielding profile, attributes the listed statements to the episode speaker, and identifies an episode featuring Jenny Fielding; this is textual aggregator attribution, not acoustic verification."
+      }
+    ],
+    "context": [
+      {
+        "quote": "1 episode featuring Jenny Fielding",
+        "claim": "PodLume reports one indexed podcast appearance featuring Jenny Fielding.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Sep 23, 2026 · 1h 27m",
+        "claim": "PodLume dates the indexed This Week in Startups appearance to September 23, 2026.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "252136c7bc4094cf06273d9eedb7098809d7bb839d7ca1df5323e742687ebc51"
+  },
+  {
+    "source": "full:fd56cc4d137c1222529b4ec9",
+    "part": 1,
+    "identity": "target",
+    "reason": "The episode explicitly identifies Jenny Fielding as Everywhere Ventures' co-founder and Managing Partner and links her established firm and book.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jenny Fielding is the co-founder and Managing Partner of Everywhere Ventures. She is the author of the book, Venture Everywhere",
+        "claim": "The episode description identifies Fielding as co-founder and Managing Partner of Everywhere Ventures and author of Venture Everywhere.",
+        "kind": "biography"
+      },
+      {
+        "quote": "In this episode, Jenny Fielding, co-founder and managing partner of Everywhere Ventures, shares her journey from corporate law and startup founder to becoming a top pre-seed investor.",
+        "claim": "The host describes Fielding's career progression from corporate law and startup founding into pre-seed investing.",
+        "kind": "biography"
+      },
+      {
+        "quote": "She discusses the transition from running startups to venture capital, the challenges of building a micro-fund, and the power of community-driven investing.",
+        "claim": "The episode description reports that Fielding discusses building a micro-fund and community-driven investing.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "6 mars 2025\nVenture Everywhere with Jenny Fielding",
+        "claim": "Apple Podcasts dates the Jenny Fielding episode to March 6, 2025.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "15dfaa919983d491b9e6ff7374010f3462e1b351346e3149f39c4f1df76e7a15"
+  },
+  {
+    "source": "full:19c411618e5a5ef2fbab9f9a",
+    "part": 1,
+    "identity": "target",
+    "reason": "The episode introduces Jenny Fielding as an investor, founder, operator, professor, and Venture Everywhere author while describing her startup investment record.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "In this episode of Redefining AI, host Lauren Hawker Zafer sits down with Jenny Fielding: investor, founder, operator, professor, and author of Venture Everywhere.",
+        "claim": "The episode description identifies Fielding as an investor, founder, operator, professor, and author of Venture Everywhere.",
+        "kind": "biography"
+      },
+      {
+        "quote": "With a career that spans over 300 startup investments, including fintech, healthtech, and edtech disruptors like Alloy, Particle Health, and Pair Eyewear, Jenny offers rare insights into the future of AI startups, founder-first investing, and the changing landscape of early-stage tech innovation.",
+        "claim": "The host reports that Fielding's career includes more than 300 startup investments, naming Alloy, Particle Health, and Pair Eyewear as examples across fintech, healthtech, and edtech.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "20 de mayo de 2025",
+        "claim": "Apple Podcasts dates the episode to May 20, 2025.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "72ed9ce2146b5898742c8c9778dc837fcb2a74d13260e3a2e8fd5f129841bb47"
+  },
+  {
+    "source": "full:cef585cda9593c8bf77d7282",
+    "part": 1,
+    "identity": "target",
+    "reason": "The episode identifies Jenny Fielding as Everywhere Ventures' co-founder, a former Techstars Managing Director, and the author of Venture Everywhere.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "In this energising episode of Authentic Achievements, host Kim-Adele Randall welcomes Jenny Fielding — one of the world’s most active early-stage investors, co-founder of Everywhere Ventures, and author of the new book Venture Everywhere.",
+        "claim": "The host identifies Fielding as an early-stage investor, Everywhere Ventures co-founder, and author of Venture Everywhere.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Jenny Fielding is a globally recognised early-stage investor and co-founder of Everywhere Ventures. She’s backed over 300 startups, built a $10B portfolio, and helped shape the next generation of tech leaders.",
+        "claim": "The episode's biographical section reports that Fielding backed more than 300 startups and built a portfolio valued at $10 billion.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Formerly Managing Director at Techstars, Jenny is also a sought-after speaker and newly published author.",
+        "claim": "The episode's biographical section reports that Fielding formerly served as a Techstars Managing Director.",
+        "kind": "biography"
+      },
+      {
+        "quote": "11 June 2025\nVenture Everywhere: Jenny Fielding on Backing 300+ Startups, Building a $10B Portfolio & Redefining Global VC",
+        "claim": "Apple Podcasts dates the Jenny Fielding episode to June 11, 2025.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "aac681e6c2d5fe75b84e18fe4b546a9d00f0e604c33221b4fd3c47f2408c934d"
+  },
+  {
+    "source": "full:b1f1d8a5993a5f98a257b572",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Everywhere Ventures channel identifies Jenny Fielding as the firm's co-founder and managing partner in an episode she hosted.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "This episode is hosted by Jenny Fielding, co-founder and managing partner of Everywhere Ventures (previously The Fund).",
+        "claim": "The channel identifies Fielding as co-founder and managing partner of Everywhere Ventures, previously called The Fund.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Neha Govindraj is the founder of Bonside, providing tailor-made financing for brick-and-mortar businesses without dilution, guarantees, collateral, or restrictions on spend.",
+        "claim": "The channel describes Bonside, whose founder Fielding interviewed, as a provider of nondilutive financing for brick-and-mortar businesses.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "10/03/2023\nCatch You On The Bonside: Neha Govindraj with Jenny Fielding",
+        "claim": "The channel dates Fielding's Bonside interview to October 3, 2023 as displayed.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "f073a02517662fff8cc7613bf6f8044b991de9cd3f3eb645523e82bef013862f"
+  },
+  {
+    "source": "full:04cb2d3111ff05dee55bbadc",
+    "part": 1,
+    "identity": "target",
+    "reason": "Everywhere Ventures' site explicitly identifies Jenny Fielding as its co-founder and as the interviewer of Cube founder Christina Ross.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jenny Fielding, co-founder of Everywhere Ventures, catches up with Christina Ross, founder and CEO of Cube, on Episode 5: Think Outside the Cube.",
+        "claim": "Everywhere Ventures identifies Fielding as its co-founder and host of an interview with Cube founder and CEO Christina Ross.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Everywhere Ventures is a global pre-seed venture capital firm founded in 2018 and headquartered in New York City. It writes $250,000 first checks into early-stage technology companies and is backed by a community of hundreds of founders and operators who serve as its limited partners and deal flow engine.",
+        "claim": "The firm's site describes Everywhere Ventures as a New York-based global pre-seed firm founded in 2018 that writes $250,000 first checks and uses its founder-and-operator LP community as a deal-flow engine.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "May 16, 2023\n<Everywhere is a pre-seed generalist fund with investments across Fintech, Health, Enterprise AI, Deeptech, Supply Chain, AI Infrastructure, Energy, Vertical AI, Security, and Space.>",
+        "claim": "Everywhere Ventures dates the episode page to May 16, 2023.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "bcb60b9669132864b5fd3688bbb60865345cb8056e1091742c50cc836c7d9e95"
+  },
+  {
+    "source": "full:8281c766fd85a321267faef2",
+    "part": 1,
+    "identity": "target",
+    "reason": "Everywhere Ventures' site identifies Jenny Fielding as its General Partner in a named podcast conversation about New York Tech Week.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Marty Ringlien, co-founder and CEO of Agree chats with Jenny Fielding, General Partner of Everywhere Ventures about New York Tech Week.",
+        "claim": "Everywhere Ventures identifies Fielding as its General Partner and participant in a conversation with Agree co-founder and CEO Marty Ringlien.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Everywhere Ventures is a global pre-seed venture capital firm founded in 2018 and headquartered in New York City. It writes $250,000 first checks into early-stage technology companies and is backed by a community of hundreds of founders and operators who serve as its limited partners and deal flow engine.",
+        "claim": "The firm's site describes Everywhere Ventures as a New York-based global pre-seed firm founded in 2018 that writes $250,000 first checks and uses its founder-and-operator LP community as a deal-flow engine.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "July 3, 2026\nhttps://ideas.everywhere.vc/p/podcast-marty-ringlein-jenny-fielding-highlights-hype-and-hot-takes-on-ny-tech-episode122",
+        "claim": "Everywhere Ventures dates the podcast page to July 3, 2026.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "274f937fbd9fe381294505f514d098b38e160609031840ce12bf82d93c9633d7"
+  },
+  {
+    "source": "full:db368cac40b7b919f4c5bb81",
+    "part": 1,
+    "identity": "other",
+    "reason": "This venture-capital report is authored by Rohit Yadav and attributes its expert views to named contributors such as Sanjay Ramakrishnan, Valerie Bures, and Oliver Oster, with no mention of Jenny Fielding or Everywhere Ventures.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "079a3529c6e79da44a274e85f0801e69ba604c5fbf8369135e2f9481a7227d19"
+  },
+  {
+    "source": "full:db368cac40b7b919f4c5bb81",
+    "part": 2,
+    "identity": "other",
+    "reason": "This continuation attributes expert commentary to figures including Dr. Georg (Juri) Stricker, Joseph Alalou, Fernando Lelo de Larrea H, and Aram Attar and contains no material about Jenny Fielding or Everywhere Ventures.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "b9ba0728f902c610ff40855e4e7b1bd7214f0a0a23518c3201ed262d30b06426"
+  },
+  {
+    "source": "full:db368cac40b7b919f4c5bb81",
+    "part": 3,
+    "identity": "other",
+    "reason": "This packet contains generic venture-fundraising statistics and commentary attributed to sources such as PitchBook, CB Insights, Crunchbase, and KPMG, with no mention of Jenny Fielding or Everywhere Ventures and no words attributed to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "4b1f8b509e0822b3b5a49c9447be13e4c82125c346da3100a259afdc84f754ee"
+  },
+  {
+    "source": "full:db368cac40b7b919f4c5bb81",
+    "part": 4,
+    "identity": "other",
+    "reason": "This packet continues a general venture-capital report covering AI funding, geographic ecosystems, deal dynamics, and valuations, but contains no mention of Jenny Fielding or Everywhere Ventures and no material attributed to her.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "abc548fb72d638c56a1a4620a5e2b6364cb2683c7571fa24e35b00e2e5f5613b"
+  },
+  {
+    "source": "full:db368cac40b7b919f4c5bb81",
+    "part": 5,
+    "identity": "other",
+    "reason": "This portion of The Big Book of Venture Capital presents general valuation, performance, and exit-market trends and contains no mention of Jenny Fielding, Everywhere Ventures, or any attributable remarks from the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "2dea786d66d5a061c91b190116dc5efb7d1049b65628da9425ae6e21368d3d54"
+  },
+  {
+    "source": "full:db368cac40b7b919f4c5bb81",
+    "part": 6,
+    "identity": "other",
+    "reason": "This portion continues general analysis of M&A, IPOs, secondaries, and global exit markets without mentioning Jenny Fielding or Everywhere Ventures or attributing any statements to the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "c2398c115cd156993a3ee30e2af82e9fa4bbc5a8e7d8e83f63e74cdf69791a71"
+  },
+  {
+    "source": "full:db368cac40b7b919f4c5bb81",
+    "part": 7,
+    "identity": "other",
+    "reason": "This packet contains general 2025 IPO, secondary-market, and M&A analysis attributed to sources such as PitchBook, Bloomberg, and SVB, with no mention of Jenny Fielding, Everywhere Ventures, or another identity anchor linking the material to the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "5ff2b02f9090a6e0ea2af153d6b9eb75c847d6a895803a5207290af7f2349936"
+  },
+  {
+    "source": "full:db368cac40b7b919f4c5bb81",
+    "part": 8,
+    "identity": "other",
+    "reason": "This packet continues a general venture-capital report covering acquihires, startup talent, compensation, and VC fundraising, but it neither names Jenny Fielding or Everywhere Ventures nor explicitly attributes any passage to the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "7a53e7ddad8f1e6356e557df77d5ca7138d4e44dccea12f517925942c875c842"
+  },
+  {
+    "source": "full:db368cac40b7b919f4c5bb81",
+    "part": 9,
+    "identity": "other",
+    "reason": "This section of The Big Book of Venture Capital discusses general venture-market trends and contains no mention of Jenny Fielding or Everywhere Ventures.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "49c708131cc1a490abe3675c917c6c2f8177c9faeceaec2d2244910cbd3b7c98"
+  },
+  {
+    "source": "full:db368cac40b7b919f4c5bb81",
+    "part": 10,
+    "identity": "other",
+    "reason": "The material is general venture-capital commentary explicitly ending with “Rohit Yadav Author - The Big Book of VC,” not material about Jenny Fielding.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "11a8d70ea25e813b6d665b1cd614e79271928704e46c47af71c68e78641a68be"
+  },
+  {
+    "source": "full:fa5540dde5cf809f26256ffa",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Everywhere Ventures page explicitly identifies Jenny Fielding as its Managing Partner and as the participant speaking with Burro founder Charlie Andersen.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Charlie Andersen, founder and CEO of Burro chats with Jenny Fielding, Managing Partner of Everywhere Ventures on episode 80: From Burden to Burro.",
+        "claim": "Everywhere Ventures reported that its Managing Partner Jenny Fielding appeared with Burro founder and CEO Charlie Andersen on episode 80 of its podcast.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Everywhere Ventures is a global pre-seed venture capital firm founded in 2018 and headquartered in New York City. It writes $250,000 first checks into early-stage technology companies and is backed by a community of hundreds of founders and operators who serve as its limited partners and deal flow engine.",
+        "claim": "The firm's page describes Everywhere Ventures as a global pre-seed investor writing $250,000 initial checks and using its founder-and-operator LP community as a deal-flow engine.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "From Burden to Burro. July 15, 2025",
+        "claim": "The page dates the Charlie Andersen episode July 15, 2025.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "c64fa7b75959bcae2a837c39d3da9c124d07b9e7792e5c258b1484aa1c846ea0"
+  },
+  {
+    "source": "full:f334ee252ba4ccae612e1569",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Everywhere Ventures page explicitly identifies Jenny Fielding as its Managing Partner and as Ryan Lupberger's podcast counterpart.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Ryan Lupberger, co-founder and CEO of Cleancult chats with Jenny Fielding, Managing Partner of Everywhere Ventures on episdoe 101: Join the Cleancult.",
+        "claim": "Everywhere Ventures reported that its Managing Partner Jenny Fielding appeared with Cleancult co-founder and CEO Ryan Lupberger on episode 101.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "January 13, 2026",
+        "claim": "The page dates the Ryan Lupberger episode January 13, 2026.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "4decffa3b7b3b0fd68f46f213d62b1f022384ec1be2443e38fed6d89fdbfb8e5"
+  },
+  {
+    "source": "full:ce61091b55f4a5e53aa54b7d",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Everywhere Ventures page explicitly identifies Jenny Fielding as its General Partner and as Alfie Pearce-Higgins's podcast counterpart.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Alfie Pearce-Higgins, co-founder and CEO of Rodeo, chats with Jenny Fielding, General Partner of Everywhere Ventures on episode 116: Not My First Rodeo.",
+        "claim": "Everywhere Ventures reported that its General Partner Jenny Fielding appeared with Rodeo co-founder and CEO Alfie Pearce-Higgins on episode 116.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Not My First Rodeo. May 13, 2026",
+        "claim": "The page dates the Alfie Pearce-Higgins episode May 13, 2026.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "82f52490d7be4297a9d547828b928881a17c4b9a7d007c61777c52a067ce69ad"
+  },
+  {
+    "source": "full:121e5cdc50104a47949f434a",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Everywhere Ventures news page names Jenny Fielding and links her to an item about AI volatility and venture discipline, but supplies no direct quotation from her.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jenny Fielding on AI Volatility and Venture Discipline in The Wall Street Journal",
+        "claim": "Everywhere Ventures presented a news item connecting Jenny Fielding with Wall Street Journal coverage of AI volatility and venture discipline.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Investors are reassessing assumptions, moats, and emotional resilience as volatility reshapes the venture landscape.",
+        "claim": "The firm's page summarized the item as concerning investor reassessment of assumptions, moats, and emotional resilience amid volatility.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Investors are reassessing assumptions, moats, and emotional resilience as volatility reshapes the venture landscape. May 13, 2026",
+        "claim": "The page dates this news item May 13, 2026.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "7d6215bc803ce3d27c3245ec771c1ce3ab8bfd71eb77222a0b0e4c0dd044c0f1"
+  },
+  {
+    "source": "full:6e78bf9543b6c63ae421481b",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Everywhere Ventures page explicitly identifies Jenny Fielding as the firm's co-founder and names her as a participant in an episode with Serge Kassardjian.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jenny Fielding, co-founder of Everywhere Ventures, catches up with Serge Kassardjian, co-founder and CEO of StayTuned, on Episode 18: Tune In with…",
+        "claim": "Everywhere Ventures identified Jenny Fielding as its co-founder and reported her appearance with StayTuned co-founder and CEO Serge Kassardjian on episode 18.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "September 29, 2025",
+        "claim": "The page dates the Serge Kassardjian listing September 29, 2025.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "b414bcfc64cb32dfbba8809ab1c6adac273e4dce8116fa408b7c2e5b7aa118b5"
+  },
+  {
+    "source": "full:646449dc59508340494c0428",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Everywhere Ventures page explicitly identifies Jenny Fielding as its Managing Partner and names her as a participant in an episode with Colin Horsford.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jenny Fielding, Managing Partner at Everywhere Ventures chats with Colin Horsford, co-founder and CEO of Muse on episode 83: The Tax Muse.",
+        "claim": "Everywhere Ventures identified Jenny Fielding as its Managing Partner and reported her appearance with Muse co-founder and CEO Colin Horsford on episode 83.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "September 29, 2025",
+        "claim": "The page dates this Colin Horsford listing September 29, 2025.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "8f345edbc9350bf10f80ba627b7ede1489baf112e1c728f098067750fc66a695"
+  },
+  {
+    "source": "full:8b6fdb518b71edff93b0cd48",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Everywhere Ventures page explicitly identifies Jenny Fielding as the firm's co-founder and names her as a participant in an episode with Oban MacTavish.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jenny Fielding, co-founder of Everywhere Ventures, catches up Oban MacTavish, co-founder and CEO of Spade on Episode 20: In the Club with Spade",
+        "claim": "Everywhere Ventures identified Jenny Fielding as its co-founder and reported her appearance with Spade co-founder and CEO Oban MacTavish on episode 20.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "December 13, 2023",
+        "claim": "The page dates the Oban MacTavish episode December 13, 2023.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "c2b0ef4489a6f81d30881558ea6f23b2f6ff1f6bfe3709b77f0ea38764b55637"
+  },
+  {
+    "source": "full:2eb61df3a569fd1b51168af0",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Everywhere Ventures page explicitly identifies Jenny Fielding as the firm's co-founder and names her as a participant in an episode with Mark Straub.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jenny Fielding, co-founder of Everywhere Ventures, catches up with Mark Straub, founder and CEO of Smile ID, on Episode 11: 3,2,1...Smile ID.",
+        "claim": "Everywhere Ventures identified Jenny Fielding as its co-founder and reported her appearance with Smile ID founder and CEO Mark Straub on episode 11.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "September 6, 2023",
+        "claim": "The page dates the Mark Straub episode September 6, 2023.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "a991b1ffc23a10f6034c61f4b2b7f67097b8ca589dc84762d456477b681447df"
+  },
+  {
+    "source": "full:60f6c746575af63a4ef6c415",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Everywhere Ventures page explicitly identifies Jenny Fielding as the firm's co-founder and names her as a participant in an episode with Oban MacTavish.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jenny Fielding, co-founder of Everywhere Ventures, catches up Oban MacTavish, co-founder and CEO of Spade on Episode 20: In the Club with Spade",
+        "claim": "Everywhere Ventures identified Jenny Fielding as its co-founder and reported her appearance with Spade co-founder and CEO Oban MacTavish on episode 20.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "September 29, 2025",
+        "claim": "This page dates its Oban MacTavish listing September 29, 2025.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "d8a11a4283d8925cfdf90a3abc412e375c863894bf8542e6d27971d917f2c7c2"
+  },
+  {
+    "source": "full:e8cc8982fc04fe5144645354",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Everywhere Ventures page explicitly identifies Jenny Fielding as its Managing Partner and as Jason Saltzman's podcast counterpart.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jason Saltzman, co-founder and CEO of Relief chats with Jenny Fielding, Managing Partner of Everywhere Ventures on episode 79: What a Relief!",
+        "claim": "Everywhere Ventures reported that its Managing Partner Jenny Fielding appeared with Relief co-founder and CEO Jason Saltzman on episode 79.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "What a Relief! July 8, 2025",
+        "claim": "The page dates the Jason Saltzman episode July 8, 2025.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "cbf9c492749f9e9196681b6d2895bbb8012f7473d3f75a983da476183e928fb3"
+  },
+  {
+    "source": "full:4c3cede02fe2660ec0e885fd",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Everywhere Ventures page explicitly identifies Jenny Fielding as its Managing Partner and as Nicolas Christiaen's podcast counterpart.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Nicolas Christiaen, co-founder and co-CEO of Donna chats with Jenny Fielding, Managing Partner of Everywhere VC, on episode 71: Hey Donna.",
+        "claim": "Everywhere Ventures reported that its Managing Partner Jenny Fielding appeared with Donna co-founder and co-CEO Nicolas Christiaen on episode 71.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "September 29, 2025",
+        "claim": "The page dates the Nicolas Christiaen listing September 29, 2025.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "22f28c7dae0446e675ad3df09612a794a47ed876fb1ba567943e9b8b817b2dc7"
+  },
+  {
+    "source": "full:b8f11aca524a1dcd71f8017d",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Everywhere Ventures page explicitly identifies Jenny Fielding as its Managing Partner and as Joseph Schneier's podcast counterpart.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Joseph Schneier, co-founder and CEO of Circle chats with Jenny Fielding, Managing Partner of Everywhere Ventures on episode 91: Healthcare Comes Full Circle.",
+        "claim": "Everywhere Ventures reported that its Managing Partner Jenny Fielding appeared with Circle co-founder and CEO Joseph Schneier on episode 91.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "September 30, 2025",
+        "claim": "The page dates the Joseph Schneier episode September 30, 2025.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "d2ea543747ab2cb7186943685f1e94ad0d60ef7c787310d9840b3ae3ba6a0d29"
+  },
+  {
+    "source": "full:0c6afd22c1b9f2257b8b0b9d",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Everywhere Ventures page explicitly identifies Jenny Fielding as its Managing Partner and names her as a participant in an episode with Colin Horsford.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jenny Fielding, Managing Partner at Everywhere Ventures chats with Colin Horsford, co-founder and CEO of Muse on episode 83: The Tax Muse.",
+        "claim": "Everywhere Ventures identified Jenny Fielding as its Managing Partner and reported her appearance with Muse co-founder and CEO Colin Horsford on episode 83.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "The Tax Muse. August 5, 2025",
+        "claim": "The page dates the Colin Horsford episode August 5, 2025.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "627057a75820a3302b17185d0db0cae13181eb4d4d225bd40bc9187f7182cd60"
+  },
+  {
+    "source": "full:3fd08cc5edd96a532b4090b4",
+    "part": 1,
+    "identity": "unusable",
+    "reason": "The supplied body contains only “First Funders Podcast,” with no transcript, attribution, or substantive material available for review.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "9b7b0f39aaa11ef5ada4b55e66cec9031ebab06cb440ed2d340339c845e6060e"
+  },
+  {
+    "source": "full:84259af98f8442f7b13ae98f",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Everywhere Ventures page explicitly identifies Jenny Fielding as its Managing Partner and as Eric Cantor's podcast counterpart.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Eric Cantor, Co-Founder and CEO of Vincent, chats with Jenny Fielding, Managing Partner of Everywhere Ventures on episode 88: Alts with Vincent.",
+        "claim": "Everywhere Ventures reported that its Managing Partner Jenny Fielding appeared with Vincent co-founder and CEO Eric Cantor on episode 88.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "September 9, 2025",
+        "claim": "The page dates the Eric Cantor episode September 9, 2025.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "4a7b2e61a32f7805381c7e77f1424a8d56eda7ff94d1aecf284fcd2f30af35ab"
+  },
+  {
+    "source": "full:4143ae593f2cd30381b809a3",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Everywhere Ventures page explicitly identifies Jenny Fielding as the firm's co-founder and names her as a participant in an episode with Kevin Delaney.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jenny Fielding, co-founder of Everywhere Ventures catches up with Kevin Delaney, co-founder and CEO of Charter on Episode 1: Work in Progress.",
+        "claim": "Everywhere Ventures identified Jenny Fielding as its co-founder and reported her appearance with Charter co-founder and CEO Kevin Delaney on episode 1.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Work in Progress. April 18, 2023",
+        "claim": "The page dates the Kevin Delaney episode April 18, 2023.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "087cff547cae605fa5ad969fce546b34bd4768bccea32ba27d474c0983ac7a13"
+  },
+  {
+    "source": "full:f24ae6753eea3bf630d6a981",
+    "part": 1,
+    "identity": "target",
+    "reason": "The episode description explicitly identifies Jenny Fielding as a co-founder and Managing Partner at Everywhere Ventures and attributes a Series A market observation directly to her.",
+    "evidence": [
+      {
+        "quote": "there’s a huge backlog of seed stage companies with nice traction – just not $3m ARR + 30% MOM growth kinda traction.",
+        "label": "traction_repeatability_concern",
+        "direction": "negative",
+        "support": "inferred",
+        "interpretation": "Fielding observes that many seed companies have some traction but not the revenue and monthly growth metrics currently expected for progression to Series A.",
+        "attribution_basis": "The description identifies Jenny Fielding as an Everywhere Ventures co-founder and Managing Partner, then explicitly says that Fielding made this statement in a post on X."
+      }
+    ],
+    "context": [
+      {
+        "quote": "According to Jenny Fielding, a co-founder and Managing Partner at Everywhere Ventures, startups are facing what she calls “The Series A Chasm.”",
+        "claim": "The episode description identifies Fielding as a co-founder and Managing Partner at Everywhere Ventures and attributes the “Series A Chasm” framing to her.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "b6f7e6b4f75fc166ef7275b823ebfe0fdc01cd055c5b49fc77ce0f1401c57108"
+  },
+  {
+    "source": "full:f24ae6753eea3bf630d6a981",
+    "part": 2,
+    "identity": "other",
+    "reason": "This continuation consists of unrelated Equity episode listings about Meta, robotics, and Stockholm and contains no material about Jenny Fielding.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "479be840d21388dfcea76d3e4d0022c27c7c51e3e0ceada7eba857c426f14411"
+  },
+  {
+    "source": "full:06c7f5f5bcef2cd539f6d105",
+    "part": 1,
+    "identity": "uncertain",
+    "reason": "The page names Jenny Fielding as the author of Venture Everywhere but supplies no Everywhere Ventures affiliation or other resolved-identity anchor, while every substantive quotation is attributed to another founder.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "d3b3e5b4b78de97b421c6a42b5a00a053f76eb6548ed0348cee67a1af2e4bbb1"
+  },
+  {
+    "source": "full:722d9b31d0b342ee85c56d20",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page explicitly identifies Jenny Fielding as a GP of Everywhere Ventures, matching the resolved investor affiliation, and describes her participation in a Maro podcast episode.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Kenzie Butera Davis, founder and CEO of Maro, chats with Jenny Fielding, GP of Everywhere Ventures on episode 113: Maro of the Minds.",
+        "claim": "The source identifies Fielding as a GP of Everywhere Ventures and reports that she appeared in episode 113 with Maro founder and CEO Kenzie Butera Davis.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Everywhere Ventures is a global pre-seed venture capital firm founded in 2018 and headquartered in New York City. It writes $250,000 first checks into early-stage technology companies and is backed by a community of hundreds of founders and operators who serve as its limited partners and deal flow engine.",
+        "claim": "The source describes Fielding's firm as a global pre-seed investor that writes $250,000 initial checks and uses a founder-and-operator LP community as a source of deal flow.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Maro of the Minds: Kenzie Butera Davis with Jenny Fielding Podcasts Kenzie Butera Davis, founder and CEO of Maro, chats with Jenny Fielding, GP of Everywhere Ventures on episode 113: Maro of the Minds. May 13, 2026",
+        "claim": "The page dates its listing of Fielding's Maro of the Minds episode to May 13, 2026.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "58784c6c3757cc2ca6c87233e4ab2eb99a8eb47e0b0e0964a2688c1e0c310ff6"
+  },
+  {
+    "source": "full:7f5de31f2fdaaab28416ef61",
+    "part": 1,
+    "identity": "uncertain",
+    "reason": "The annual report names a Jenny Fielding as a non-executive director of Australian company Live Verdure Ltd but provides no Everywhere Ventures or other resolved-identity anchor sufficient to determine whether she is the target or a namesake.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "e59dd07bcfb6afd0ab93c553c239d8dc8cc5d07cde0ced500030e4525182b63f"
+  },
+  {
+    "source": "full:7f5de31f2fdaaab28416ef61",
+    "part": 2,
+    "identity": "target",
+    "reason": "The Live Verdure directors’ report identifies Jenny Fielding as an Everywhere Ventures co-founder and early-stage investor, matching the resolved investor’s firm affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Name: Ms Jenny Fielding Title: Non-executive Director (appointed 1 August 2024)",
+        "claim": "Live Verdure Ltd reports that Jenny Fielding was appointed as its non-executive director on 1 August 2024.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "After graduating from law school and working in finance, Jenny transitioned to technology as a founder of two mobile software companies.",
+        "claim": "Live Verdure Ltd describes Fielding as a former law and finance professional who founded two mobile software companies.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Jenny is also an adjunct professor at Columbia University and Cornell Tech.",
+        "claim": "Live Verdure Ltd reports that Fielding is an adjunct professor at Columbia University and Cornell Tech.",
+        "kind": "biography"
+      },
+      {
+        "quote": "For 7.5 years, Jenny was the Managing Director at Techstars, where she led investments into companies that now have a market cap of over $10B.",
+        "claim": "Live Verdure Ltd reports that Fielding spent 7.5 years as a Techstars managing director and led investments into companies that subsequently had a combined market capitalization exceeding $10 billion.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "She then co-founded Everywhere Ventures, a global venture capital firm.",
+        "claim": "Live Verdure Ltd reports that Fielding co-founded the global venture-capital firm Everywhere Ventures.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Jenny has been the first investor in over 250 tech-enabled companies, including five companies achieving unicorn (USD$1B+) valuations.",
+        "claim": "Live Verdure Ltd reports that Fielding has been the first investor in more than 250 technology-enabled companies, including five that achieved unicorn valuations.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "45c277ca9aaa5ae744f323d875dfb6bffc1eec03af1be216008a57bc7633ca62"
+  },
+  {
+    "source": "full:7f5de31f2fdaaab28416ef61",
+    "part": 3,
+    "identity": "other",
+    "reason": "This packet contains Live Verdure remuneration, governance, and financial information but no material about Jenny Fielding.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "bdbdc93acd48b2bbb02d743a52f5b923510f6635927b5848dcb56f6be676ac92"
+  },
+  {
+    "source": "full:7f5de31f2fdaaab28416ef61",
+    "part": 4,
+    "identity": "other",
+    "reason": "This packet contains Live Verdure Ltd’s Australian financial-statement accounting policies and no mention of Jenny Fielding or Everywhere Ventures.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "09f6faae82d4f264e92afa9d99f55baf7ab13aae370e1823693c8b3be959ac60"
+  },
+  {
+    "source": "full:7f5de31f2fdaaab28416ef61",
+    "part": 5,
+    "identity": "other",
+    "reason": "This packet continues Live Verdure Ltd’s financial statements, including operating results and its Decidr.AI associate investment, with no material about Jenny Fielding or Everywhere Ventures.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "c2ebacb742d238494b02a38063fc2cc2be71eb0c66d8a3b02e07db3618b065f2"
+  },
+  {
+    "source": "full:7f5de31f2fdaaab28416ef61",
+    "part": 6,
+    "identity": "uncertain",
+    "reason": "The Live Verdure annual report names a Jenny Fielding as a non-executive director appointed on 1 August 2024, but provides no Everywhere Ventures or other resolved-identity anchor establishing that she is the target investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "275530b9abdb1c65e73cc12bb565a18610cc7bcc1c38ed5acf7e24d91f75cead"
+  },
+  {
+    "source": "full:7f5de31f2fdaaab28416ef61",
+    "part": 7,
+    "identity": "other",
+    "reason": "This portion concerns Live Verdure's financial statements, share-based payments, directors' declaration, and audit report without mentioning Jenny Fielding or providing material about the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "9db733f6de303b1fa6a06916728ecfe8490e50c51a9745eac8ca5cf9438d057a"
+  },
+  {
+    "source": "full:7f5de31f2fdaaab28416ef61",
+    "part": 8,
+    "identity": "other",
+    "reason": "This portion consists solely of Live Verdure shareholder and securities information and contains no mention of Jenny Fielding or material about the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "674d0856754fc4022e88aa4a7865056672fcbd3f210da6f5fcca20f2498c352c"
+  },
+  {
+    "source": "full:9c7f3269da6441940026e71a",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page explicitly identifies Jenny Fielding as Co-founder and GP of Everywhere VC, matching the resolved investor's Everywhere Ventures affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jenny Fielding, Co-founder and GP of Everywhere VC, catches up with Brendan Mahony, Co-founder and CEO of Sunset.",
+        "claim": "The page identifies Jenny Fielding as a co-founder and general partner of Everywhere VC and as a participant in a podcast conversation with Sunset co-founder and CEO Brendan Mahony.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Jenny Fielding, Co-founder and GP of Everywhere VC, catches up with Brendan Mahony, Co-founder and CEO of Sunset. May 22, 2024",
+        "claim": "The page dates this podcast item featuring Jenny Fielding and Brendan Mahony to May 22, 2024.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Everywhere is a pre-seed generalist fund with investments across Fintech, Health, Enterprise AI, Deeptech, Supply Chain, AI Infrastructure, Energy, Vertical AI, Security, and Space.",
+        "claim": "The page describes Everywhere as a pre-seed generalist fund investing across a broad set of technology sectors.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "9c54ae8d205c2783b923ed94a49dc8f5f3ab7d6a3c47a4f31c7f40b933026a70"
+  },
+  {
+    "source": "full:633e29367f30c37fc44d6a17",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page explicitly identifies Jenny Fielding as Co-founder and GP of Everywhere VC, matching the resolved investor's Everywhere Ventures affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jenny Fielding, Co-founder and GP of Everywhere VC, chats with Josh Mohrer, LP of Everywhere Ventures, on episode 34: Note to Self.",
+        "claim": "The page identifies Jenny Fielding as a co-founder and general partner of Everywhere VC and Josh Mohrer as an Everywhere Ventures limited partner.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "September 29, 2025",
+        "claim": "The page dates this podcast listing to September 29, 2025.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Everywhere is a pre-seed generalist fund with investments across Fintech, Health, Enterprise AI, Deeptech, Supply Chain, AI Infrastructure, Energy, Vertical AI, Security, and Space.",
+        "claim": "The page describes Everywhere as a pre-seed generalist fund investing across a broad set of technology sectors.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "e420d39f6b95e3305813d887f05432f5587b63b1712871b9cb2e6273cf979dd9"
+  },
+  {
+    "source": "full:cd46fa118086f5c0558f9cae",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page explicitly identifies Jenny Fielding as Managing Partner of Everywhere Ventures, directly matching the resolved investor and affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Joe Essenfeld, founder and CEO of Fora chats with Jenny Fielding, Managing Partner of Everywhere Ventures on episode 69: Fora for Thought.",
+        "claim": "The page identifies Jenny Fielding as Managing Partner of Everywhere Ventures and as a participant in a podcast conversation with Fora founder and CEO Joe Essenfeld.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Joe Essenfeld, founder and CEO of Fora chats with Jenny Fielding, Managing Partner of Everywhere Ventures on episode 69: Fora for Thought. April 22, 2025",
+        "claim": "The page dates this podcast item featuring Jenny Fielding and Joe Essenfeld to April 22, 2025.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Everywhere is a pre-seed generalist fund with investments across Fintech, Health, Enterprise AI, Deeptech, Supply Chain, AI Infrastructure, Energy, Vertical AI, Security, and Space.",
+        "claim": "The page describes Everywhere as a pre-seed generalist fund investing across a broad set of technology sectors.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "8fecaaa56af754d68c611312be1f6875c2e374cb92fd95c7a1c003f571616552"
+  },
+  {
+    "source": "full:f82a4456bf3424b25ff40e33",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page explicitly identifies Jenny Fielding as co-founder of Everywhere Ventures, directly matching the resolved investor and affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jenny Fielding, co-founder of Everywhere Ventures, catches up with Kiaan Pillay co-founder and CEO of Stitch, on Episode 9: A Stitch in Payment Time",
+        "claim": "The page identifies Jenny Fielding as a co-founder of Everywhere Ventures and as a participant in a podcast conversation with Stitch co-founder and CEO Kiaan Pillay.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "September 29, 2025",
+        "claim": "The page dates this podcast listing to September 29, 2025.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Everywhere is a pre-seed generalist fund with investments across Fintech, Health, Enterprise AI, Deeptech, Supply Chain, AI Infrastructure, Energy, Vertical AI, Security, and Space.",
+        "claim": "The page describes Everywhere as a pre-seed generalist fund investing across a broad set of technology sectors.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "c3911b7b88e2d4a793398f8ce1e10fbd6d4ab6306b91c0e04af530ae861c224d"
+  },
+  {
+    "source": "full:7dc8aa416ef84f8afbcdc879",
+    "part": 1,
+    "identity": "target",
+    "reason": "This Everywhere Ventures page names Jenny Fielding in a venture-capital fundraising article, and the site's stated affiliation matches the resolved investor.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Stock market swings, global uncertainty, and a prolonged drought in startup exits have put venture capital in a holding pattern-and Jenny Fielding…",
+        "claim": "The page introduces Jenny Fielding in connection with an article about the venture-capital slowdown and fundraising conditions, but the supplied excerpt truncates her contribution.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Stock market swings, global uncertainty, and a prolonged drought in startup exits have put venture capital in a holding pattern-and Jenny Fielding… April 24, 2025",
+        "claim": "The page dates the fundraising article mentioning Jenny Fielding to April 24, 2025.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Everywhere is a pre-seed generalist fund with investments across Fintech, Health, Enterprise AI, Deeptech, Supply Chain, AI Infrastructure, Energy, Vertical AI, Security, and Space.",
+        "claim": "The page describes Everywhere as a pre-seed generalist fund investing across a broad set of technology sectors.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "64fa69cddcfd581f84e2d868e7227cee4e138afca9ae290e3d0506f2690c03be"
+  },
+  {
+    "source": "full:a57565f054b4f0fcda10765a",
+    "part": 1,
+    "identity": "target",
+    "reason": "The official Everywhere Ventures page names Jenny Fielding among its co-founders and general partners and describes the firm's pre-seed strategy and portfolio.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "We invest $250k into pre-seed rounds.",
+        "claim": "The Everywhere Ventures site states that the firm invests $250,000 in pre-seed rounds.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "co-founders & GENERAL partners Jenny Fielding Scott Hartley Anna Barber",
+        "claim": "The firm site identifies Jenny Fielding, Scott Hartley, and Anna Barber as co-founders and general partners.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "$100M ASSETS UNDER MANAGEMENT 300 Portfolio Companies 500 Founder LPs INVESTED ACROSS 30 COUNTRIES",
+        "claim": "The firm site reports $100 million under management, 300 portfolio companies, 500 founder LPs, and investments across 30 countries.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "02829999f90847d0cb02868d279219b95d2684878dc1337f98e118fcf32d0b4d"
+  },
+  {
+    "source": "full:a57565f054b4f0fcda10765a",
+    "part": 2,
+    "identity": "target",
+    "reason": "This is a continuation of the official Everywhere Ventures portfolio and community page associated with Jenny Fielding, though this part contains no attributable views or additional Jenny-specific facts.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "04a88ab148402581a0e38ab202e6b2d8682591c86a6e5df97ae79b9814746e34"
+  },
+  {
+    "source": "full:aee571e93d028b95cf9017d4",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Everywhere Ventures page explicitly identifies Jenny Fielding as its co-founder in a November 7, 2023 podcast episode with StayTuned CEO Serge Kassardjian.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jenny Fielding, co-founder of Everywhere Ventures, catches up with Serge Kassardjian, co-founder and CEO of StayTuned, on Episode 18: Tune In with… November 7, 2023",
+        "claim": "Everywhere Ventures reports that co-founder Jenny Fielding appeared with StayTuned co-founder and CEO Serge Kassardjian on podcast episode 18 on November 7, 2023.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Everywhere is a pre-seed generalist fund with investments across Fintech, Health, Enterprise AI, Deeptech, Supply Chain, AI Infrastructure, Energy, Vertical AI, Security, and Space.",
+        "claim": "The firm describes itself as a pre-seed generalist investing across the listed technology sectors.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "fe13f48241820b2d24d38099b71eeb369d4888db140b27e7d94696e5c6b6ac68"
+  },
+  {
+    "source": "full:b0ef3f2ac24186c30aa3bd8b",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Everywhere Ventures page explicitly identifies Jenny Fielding as its co-founder in a September 29, 2025 podcast item with She Matters CEO Jade Kearney.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jenny Fielding, Co-founder of Everywhere Ventures, catches up with Jade Kearney, Co-founder and CEO of She Matters on episode 24: Because She Matters. September 29, 2025",
+        "claim": "Everywhere Ventures reports that co-founder Jenny Fielding appeared with She Matters co-founder and CEO Jade Kearney on episode 24, dated September 29, 2025.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Everywhere Ventures is a global pre-seed venture capital firm founded in 2018 and headquartered in New York City. It writes $250,000 first checks into early-stage technology companies and is backed by a community of hundreds of founders and operators who serve as its limited partners and deal flow engine.",
+        "claim": "The firm describes itself as a global pre-seed investor founded in 2018 that writes $250,000 first checks and uses a founder-and-operator LP community as a deal-flow engine.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "c8a1a82b994258f1eebbb0a2340062069f4a034e833990f7f7137cf922f16c92"
+  },
+  {
+    "source": "full:c8c52ec51e31aba21845aa06",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Graham & Walker newsletter identifies Jenny Fielding as Everywhere Ventures' co-founder and managing partner and supplies a detailed biography consistent with the resolved investor.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jenny Fielding is one of the most active pre-seed investors globally, having backed 300+ companies as the first check in.",
+        "claim": "Graham & Walker describes Jenny Fielding as an active pre-seed investor who has backed more than 300 companies as a first-check investor.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "As the co-founder and Managing Partner of Everywhere Ventures, she has built a powerhouse community of 500+ founders and operators investing in the future of money, health, and work.",
+        "claim": "Graham & Walker identifies Fielding as co-founder and managing partner of Everywhere Ventures and describes its community and sector focus.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Before launching her own fund, Jenny spent 7.5 years at Techstars, where she helped shape a portfolio now valued at over $10B. She’s also a 2x founder, a trained lawyer, and an adjunct professor at Columbia University and Cornell Tech.",
+        "claim": "Graham & Walker reports that Fielding spent 7.5 years at Techstars, previously founded two companies, trained as a lawyer, and teaches at Columbia University and Cornell Tech.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Virtual: Join us for an inspiring fireside chat with Jenny Fielding from Everywhere Ventures!",
+        "claim": "The newsletter advertised an upcoming virtual fireside chat with Jenny Fielding of Everywhere Ventures.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "March 12th, 11a PT/ 2p ET 📍 RSVP here.",
+        "claim": "The advertised Fielding fireside chat was scheduled for March 12 at 11 a.m. Pacific/2 p.m. Eastern, in the newsletter's 2025 context.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "ef640cf7234b7cf2c30ee4781e21fe065d375ec20f4b063afe35b159d38d41ce"
+  },
+  {
+    "source": "full:245d4aa63ab30e8f83adbfa4",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Everywhere Ventures page explicitly identifies Jenny Fielding as the firm's general partner in a June 24, 2026 podcast item with Mindstone founder Joshua Wöhle.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Josh Wöhle founder of Mindstone, chats with Jenny Fielding, General Partner of Everywhere Ventures on episode 123: Set in Mindston June 24, 2026",
+        "claim": "Everywhere Ventures reports that general partner Jenny Fielding appeared with Mindstone founder Josh Wöhle on episode 123 on June 24, 2026.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Everywhere is a pre-seed generalist fund with investments across Fintech, Health, Enterprise AI, Deeptech, Supply Chain, AI Infrastructure, Energy, Vertical AI, Security, and Space.",
+        "claim": "The firm describes itself as a pre-seed generalist investing across the listed technology sectors.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "f13a39039c2ed4ac0dade7ac6db9ce72fdf25cba385eb04face525dfa2cf6aef"
+  },
+  {
+    "source": "full:ee8f0b056d797a24f0d56ce3",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Everywhere Ventures page explicitly identifies Jenny Fielding as its managing partner in a September 29, 2025 podcast item with DoWhatWorks CEO Andres Glusman.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Andres Glusman, co-founder and CEO of DoWhatWorks chats with Jenny Fielding, Managing Partner of Everywhere Ventures on episode 90: Do What Works Better. September 29, 2025",
+        "claim": "Everywhere Ventures reports that managing partner Jenny Fielding appeared with DoWhatWorks co-founder and CEO Andres Glusman on episode 90, dated September 29, 2025.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Everywhere is a pre-seed generalist fund with investments across Fintech, Health, Enterprise AI, Deeptech, Supply Chain, AI Infrastructure, Energy, Vertical AI, Security, and Space.",
+        "claim": "The firm describes itself as a pre-seed generalist investing across the listed technology sectors.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "63427d01cf61d84d3f5b3293463df8cdc61c8aef0b95660e50716c83bc93020e"
+  },
+  {
+    "source": "full:061e5895b0cc76619bbf91d0",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Everywhere Ventures page explicitly identifies Jenny Fielding as Everywhere VC's managing partner in a May 20, 2025 podcast episode with Attend CEO Aaron Holland.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Aaron Holland, co-founder and CEO of Attend chats with Jenny Fielding, Managing Partner of Everywhere VC, on episode 73: Swipe, Tap, Attend. May 20, 2025",
+        "claim": "Everywhere Ventures reports that managing partner Jenny Fielding appeared with Attend co-founder and CEO Aaron Holland on episode 73 on May 20, 2025.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Everywhere Ventures is a global pre-seed venture capital firm founded in 2018 and headquartered in New York City. It writes $250,000 first checks into early-stage technology companies and is backed by a community of hundreds of founders and operators who serve as its limited partners and deal flow engine.",
+        "claim": "The firm describes itself as a global pre-seed investor founded in 2018 that writes $250,000 first checks and uses a founder-and-operator LP community as a deal-flow engine.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "23706f81445e6144851a6fc870a73fd93670cd0767f9e19a2b7a662155c81405"
+  },
+  {
+    "source": "full:16374fb67fc3d1f5fdfe9d77",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Everywhere Ventures page explicitly identifies Jenny Fielding as Everywhere VC's managing partner in a September 29, 2025 podcast item with Ideem CEO Toby Rush.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Toby Rush, co-founder and CEO of Ideem chats with Jenny Fielding, Managing Partner of Everywhere VC, on episode 74: Ideem it Secure. September 29, 2025",
+        "claim": "Everywhere Ventures reports that managing partner Jenny Fielding appeared with Ideem co-founder and CEO Toby Rush on episode 74, dated September 29, 2025.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Everywhere is a pre-seed generalist fund with investments across Fintech, Health, Enterprise AI, Deeptech, Supply Chain, AI Infrastructure, Energy, Vertical AI, Security, and Space.",
+        "claim": "The firm describes itself as a pre-seed generalist investing across the listed technology sectors.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "ef87b0ad26625e66e00be8ee69ef0b7473f9560039aa0a847981aa73153bf90f"
+  },
+  {
+    "source": "full:ed85c94c297a89577bf16cf5",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Everywhere Ventures page explicitly identifies Jenny Fielding as Everywhere VC's co-founder and general partner in a September 29, 2025 podcast item with Sunset CEO Brendan Mahony.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jenny Fielding, Co-founder and GP of Everywhere VC, catches up with Brendan Mahony, Co-founder and CEO of Sunset. September 29, 2025",
+        "claim": "Everywhere Ventures reports that co-founder and general partner Jenny Fielding appeared with Sunset co-founder and CEO Brendan Mahony in an item dated September 29, 2025.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Everywhere is a pre-seed generalist fund with investments across Fintech, Health, Enterprise AI, Deeptech, Supply Chain, AI Infrastructure, Energy, Vertical AI, Security, and Space.",
+        "claim": "The firm describes itself as a pre-seed generalist investing across the listed technology sectors.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "50ecb028dfc768307bc82c5ace303eba3092b2d72725b10402dc4b6469445b63"
+  },
+  {
+    "source": "full:86d9e6628da2d8557c6f7cbc",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Everywhere Ventures page explicitly identifies Jenny Fielding as Everywhere VC's co-founder and general partner in an October 22, 2024 podcast episode with North CEO Matt Biringer.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Matt Biringer, co-founder and CEO of North, chats with Jenny Fielding, co-founder and GP of Everywhere VC on episode 50: Cloud Cover. October 22, 2024",
+        "claim": "Everywhere Ventures reports that co-founder and general partner Jenny Fielding appeared with North co-founder and CEO Matt Biringer on episode 50 on October 22, 2024.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Everywhere Ventures is a global pre-seed venture capital firm founded in 2018 and headquartered in New York City. It writes $250,000 first checks into early-stage technology companies and is backed by a community of hundreds of founders and operators who serve as its limited partners and deal flow engine.",
+        "claim": "The firm describes itself as a global pre-seed investor founded in 2018 that writes $250,000 first checks and uses a founder-and-operator LP community as a deal-flow engine.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "3da2e0b8603f8e92702638cfba38cf91f9787c1f3ea1dc8cdc8e350518475042"
+  },
+  {
+    "source": "full:34a2054041c00217e57e10cd",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Everywhere Ventures page explicitly identifies Jenny Fielding as its managing partner in a September 29, 2025 podcast item with Nirvana CEO Kevin Chan.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Kevin Chan, Co-Founder and CEO of Nirvana chats with Jenny Fielding, Managing Partner of Everywhere Ventures. September 29, 2025",
+        "claim": "Everywhere Ventures reports that managing partner Jenny Fielding appeared with Nirvana co-founder and CEO Kevin Chan in an item dated September 29, 2025.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Everywhere is a pre-seed generalist fund with investments across Fintech, Health, Enterprise AI, Deeptech, Supply Chain, AI Infrastructure, Energy, Vertical AI, Security, and Space.",
+        "claim": "The firm describes itself as a pre-seed generalist investing across the listed technology sectors.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "d29bbb4a96ba368d745f2ea7f7051e21ef6f4ca50f3c8616f5b9a83c579d56a4"
+  },
+  {
+    "source": "full:1bcd4c5328cbcce1f33a5202",
+    "part": 1,
+    "identity": "target",
+    "reason": "The episode page identifies Jenny Fielding as an Everywhere Ventures co-founder and general partner and summarizes a discussion of her pre-seed investment strategy.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jenny Fielding is a Cofounder and General Partner of Everywhere Ventures.",
+        "claim": "The episode page identifies Jenny Fielding as a co-founder and general partner of Everywhere Ventures.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "She’s a founder, lawyer by training, has lived in 12 countries, and ran Techstars New York for many years.",
+        "claim": "The episode page describes Fielding as a founder and trained lawyer who lived in 12 countries and formerly ran Techstars New York.",
+        "kind": "biography"
+      },
+      {
+        "quote": "We talked about Jenny’s strategy, why venture doesn’t scale, why everywhere doesn't use follow-on capital in its funds, and how Everywhere is navigating the Seed and AI markets.",
+        "claim": "The publisher says the discussion covered Fielding's strategy, the firm's decision not to use follow-on capital, and its navigation of seed and AI markets.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Pre-seed investment is crucial for helping companies find product-market fit.",
+        "claim": "The episode's takeaways characterize pre-seed investing as important for helping companies reach product-market fit.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Building a strong community of founders and operators enhances deal flow.",
+        "claim": "The episode's takeaways say that a founder-and-operator community strengthens deal flow.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "AI valuations are rising, but we focus on the people behind the companies.",
+        "claim": "The episode's takeaways report a people-focused approach despite rising AI valuations.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Scaling a venture firm doesn't always mean increasing fund size; quality matters more.",
+        "claim": "The episode's takeaways report that venture-firm scaling need not mean a larger fund and emphasize quality.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "fb370388e9f0f18ac5987a5617b2228e83043c19662e484500ca02979f36b498"
+  },
+  {
+    "source": "full:ab08063fc73cb26f1ecaca3e",
+    "part": 1,
+    "identity": "target",
+    "reason": "Jenny Fielding's first-person profile identifies her as an Everywhere Ventures co-founder and early-stage investor and recounts her founder and Techstars background.",
+    "evidence": [
+      {
+        "quote": "Being a founder was the most humbling and challenging work of my life, and I’ve channeled many of the learnings into my investment style.",
+        "label": "investor_experience_bias",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "Fielding explicitly says lessons from founding companies inform her investment style.",
+        "attribution_basis": "The quotation is written in the first person on Jenny Fielding's personal profile, which names her Everywhere Ventures and Techstars roles."
+      }
+    ],
+    "context": [
+      {
+        "quote": "After attending law school and working in finance, I found myself falling in love with technology - first as a founder of two mobile companies and now as an early stage investor.",
+        "claim": "In her first-person profile, Fielding says she attended law school, worked in finance, founded two mobile companies, and became an early-stage investor.",
+        "kind": "biography"
+      },
+      {
+        "quote": "I was the Managing Director at Techstars for 7.5 years where I led investments into companies that now have a market cap of over $10B, prior to co-founding the global venture capital firm, Everywhere Ventures (formerly The Fund.)",
+        "claim": "Fielding says she served as a Techstars managing director for 7.5 years before co-founding Everywhere Ventures, formerly The Fund.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Across these entities, I’ve been the first-money into 300+ tech-enabled companies and have worked with hundreds of founders at the zero to one phase.",
+        "claim": "Fielding says that across Techstars and Everywhere Ventures she has been first money into more than 300 technology-enabled companies and worked with hundreds of founders at the zero-to-one stage.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "When I’m not investing, you can find me catching up with founders around the world or hanging out with my students at Columbia University and Cornell Tech where I’m an Adjunct Professor.",
+        "claim": "Fielding says she is an adjunct professor at Columbia University and Cornell Tech.",
+        "kind": "biography"
+      }
+    ],
+    "input_fingerprint": "6ce96dbda79c5a0351e93d8c4ac723a8529c6bd1bb429c2ffa818b37e4510b1e"
+  },
+  {
+    "source": "full:40845e599a6f4164df44376a",
+    "part": 1,
+    "identity": "target",
+    "reason": "The First Funders episode identifies Jenny Fielding of Everywhere Ventures and describes her pre-seed and angel investing activity, sectors, check sizes, and founder-operator background.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jenny Fielding, a pre-seed investor and angel with 300 early-stage startup investments, discusses investing in FinTech, hard tech, and consumer spaces over the past decade.",
+        "claim": "First Funders describes Fielding as a pre-seed investor and angel with 300 early-stage investments across fintech, hard tech, and consumer companies.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "From studying law to working in finance to leaving it all to found not just one but two startups, Jenny brings a founder-operator mindset to her fund, Everywhere Ventures.",
+        "claim": "First Funders reports that Fielding studied law, worked in finance, founded two startups, and brings that founder-operator background to Everywhere Ventures.",
+        "kind": "biography"
+      },
+      {
+        "quote": "She writes pre-seed and seed-stage checks for $50k to $250k.",
+        "claim": "First Funders reports that Fielding writes pre-seed and seed checks ranging from $50,000 to $250,000.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "02: 300 startup investments, 500 LPs, sharp elbows - Jenny Fielding, Everywhere Ventures Shaherose Charania Feb 14, 2024",
+        "claim": "First Funders published its Jenny Fielding episode on February 14, 2024.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "4672eb91a69ca7d0f2c6a2182ca02050b3b59b4830a31ec6b5cfc35209bbcd85"
+  },
+  {
+    "source": "full:3b6e55cfd8b658200621b95a",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page explicitly identifies Jenny Fielding as Managing Partner of Everywhere Ventures, matching the resolved affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Joe Essenfeld, founder and CEO of Fora chats with Jenny Fielding, Managing Partner of Everywhere Ventures on episode 69: Fora for Thought.",
+        "claim": "The firm page identifies Jenny Fielding as Managing Partner of Everywhere Ventures and as a participant in episode 69 with Fora founder Joe Essenfeld.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "September 29, 2025",
+        "claim": "The page dates the podcast listing to September 29, 2025.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "e5e5639465f13dbba2dbb453ab051be2b5afb06205cc516d8ec02d0d1bbc4bf5"
+  },
+  {
+    "source": "full:36e01608d918a04a3282f504",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page explicitly identifies Jenny Fielding as a co-founder of Everywhere Ventures, matching the resolved investor.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jenny Fielding, co-founder of Everywhere Ventures, catches up with Anthony Dedousis, Co-founder and CEO of Revival Homes on episode 22: Revival of the…",
+        "claim": "The firm page identifies Jenny Fielding as a co-founder of Everywhere Ventures and host of a conversation with Revival Homes co-founder Anthony Dedousis.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "February 6, 2024",
+        "claim": "The page dates the podcast listing to February 6, 2024.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "cd161d07e6e472eb68f2a3d2c9f848410b54dac410927ed180f0442a731c1e13"
+  },
+  {
+    "source": "full:108c9380d08a12717237b0cd",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page identifies Jenny Fielding as Co-founder and GP of Everywhere VC, directly matching the resolved affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jenny Fielding, Co-founder and GP of Everywhere VC, chats with Josh Mohrer, LP of Everywhere Ventures, on episode 34: Note to Self.",
+        "claim": "The firm page identifies Jenny Fielding as Co-founder and GP of Everywhere VC and as a participant in episode 34 with LP Josh Mohrer.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Note to Self. April 30, 2024",
+        "claim": "The page dates the Note to Self podcast listing to April 30, 2024.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "6bb1c7a2b76f3ad3b5006d0c88933a19135b9d85516cb5c93244f02c998dc062"
+  },
+  {
+    "source": "full:bb746f692a4c6c76266253a4",
+    "part": 1,
+    "identity": "target",
+    "reason": "This authoritative investor profile identifies Jenny Fielding as Co-Founder and General Partner at Everywhere Ventures and supplies attributed investment-thesis quotations.",
+    "evidence": [
+      {
+        "quote": "“I invest a lot in FinTech and SaaS.”",
+        "label": "investment_thesis_constraint",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Fielding explicitly identifies FinTech and SaaS as categories in which she invests frequently.",
+        "attribution_basis": "The authoritative Jenny Fielding investor profile places this first-person quotation under “Investment Thesis” and “What Jenny Looks For.”"
+      },
+      {
+        "quote": "“You kind of had me at a 7K burn.”",
+        "label": "capital_intensity_concern",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Fielding reacts favorably to a company operating with a low monthly burn, indicating a preference for capital efficiency in this pitch.",
+        "attribution_basis": "The authoritative Jenny Fielding investor profile attributes this first-person quotation to her under “What Jenny Looks For” and cites S13 · Ep 15."
+      }
+    ],
+    "context": [
+      {
+        "quote": "Jenny Fielding has invested in 2 startups on The Pitch, deploying $100K across categories including Social, Subscription, Badass Female Founders, Live Shows, Fund I Portfolio.",
+        "claim": "The Pitch reports that Fielding invested $100K across two startups presented on the show.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Jenny Fielding is the Co-Founder and General Partner at Everywhere Ventures, a pre-seed fund investing globally.",
+        "claim": "The Pitch identifies Fielding as Co-Founder and General Partner of globally investing pre-seed fund Everywhere Ventures.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Prior to founding Everywhere Ventures, Jenny was the Managing Director at Techstars NYC and a prolific angel investor, backing over 130 startups.",
+        "claim": "The Pitch reports that Fielding previously served as Managing Director at Techstars NYC and backed more than 130 startups as an angel investor.",
+        "kind": "biography"
+      },
+      {
+        "quote": "She is also the author of Venture Everywhere, a book exploring entrepreneurship worldwide.",
+        "claim": "The Pitch reports that Fielding authored Venture Everywhere, a book about entrepreneurship worldwide.",
+        "kind": "biography"
+      }
+    ],
+    "input_fingerprint": "2b98e98d17f36670c41823f62e713698f24b451bc554637ed36a4f5ec378f522"
+  },
+  {
+    "source": "full:2a1c71dfe4a5856b861718dc",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page explicitly identifies Jenny Fielding as General Partner of Everywhere Ventures, matching the resolved affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Mickael Roger, co-founder and co-CEO of PropHero chats with Jenny Fielding, General Partner of Everywhere Ventures on episode 118: Zero to PropHero.",
+        "claim": "The firm page identifies Fielding as General Partner of Everywhere Ventures and as a participant in episode 118 with PropHero co-founder Mickael Roger.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Zero to PropHero. May 19, 2026",
+        "claim": "The page dates the Zero to PropHero founder-spotlight listing to May 19, 2026.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "3f7c4075f3a9025f292b376d10856c67be0eff842cf4b52f23005b8cc53484ac"
+  },
+  {
+    "source": "full:3a741e51bbd87bdae5b9d105",
+    "part": 1,
+    "identity": "other",
+    "reason": "The page is a generic landing page for Syama Bunten's The Wealth Catalyst and contains no mention of Jenny Fielding or Everywhere Ventures.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "5da9c859f06ad81c5ccb0808e29f6d2e326dcb723d01aae271461550e03f93ce"
+  },
+  {
+    "source": "full:7e1ea514df5f6b6d0790b953",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Everywhere VC page names Jenny Fielding in a venture-market article and is anchored to her resolved firm affiliation, although it contains no attributable quotation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Stock market swings, global uncertainty, and a prolonged drought in startup exits have put venture capital in a holding pattern-and Jenny Fielding…",
+        "claim": "The firm page frames a Jenny Fielding article around a venture slowdown associated with market volatility, global uncertainty, and a prolonged lack of startup exits.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Jenny Fielding… July 29, 2026",
+        "claim": "The page dates the Jenny Fielding article listing to July 29, 2026.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "6eeb1f2782145dc4ac0d914a4df17093f019ba346307d3f7c56033cc006a5204"
+  },
+  {
+    "source": "full:07f43f770547590dbdaf0939",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page explicitly identifies Jenny Fielding as Managing Partner of Everywhere Ventures, matching the resolved affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Eric Cantor, Co-Founder and CEO of Vincent, chats with Jenny Fielding, Managing Partner of Everywhere Ventures on episode 88: Alts with Vincent.",
+        "claim": "The firm page identifies Fielding as Managing Partner of Everywhere Ventures and as a participant in episode 88 with Vincent co-founder Eric Cantor.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "September 29, 2025",
+        "claim": "The page dates the podcast listing to September 29, 2025.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "f67f45dbf9f825fe1c3011d49436f55bf6e259e0bb6443c3929410a59175a5b0"
+  },
+  {
+    "source": "full:8b48260da6f9499b3c77fbf4",
+    "part": 1,
+    "identity": "target",
+    "reason": "The episode page explicitly identifies its guest as Jenny Fielding, Co-Founder and Managing Partner at Everywhere Ventures, matching the resolved investor, but provides only host-authored summaries rather than her verbatim words.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "I am joined this week by the incredible Jenny Fielding. Jenny is not only an accomplished venture capitalist and co-founder and managing partner at Everywhere Ventures, but also a published author of the book \"Venture Everywhere,\" an exited founder, and a passionate community builder supporting female founders and investors.",
+        "claim": "Host Syama Bunten identifies Fielding as an exited founder, author of Venture Everywhere, and co-founder and managing partner of Everywhere Ventures who supports female founders and investors.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Jenny shares her traditional career path starting at JP Morgan after law school and how she bootstrapped her first startup while still working full-time.",
+        "claim": "The episode description reports that Fielding attended law school, began her career at JP Morgan, and bootstrapped her first startup while employed full-time.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Listen as Jenny talks about her investment philosophy, balancing high-risk venture investments with conservative personal finance habits, and her commitment to supporting women in tech and venture capital.",
+        "claim": "The episode description reports that Fielding balances a high-risk venture-investment philosophy with conservative personal-finance habits and supports women in technology and venture capital.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "How Jenny discovered unexpected investment opportunities by following founders' visions (including early Bitcoin investments)",
+        "claim": "The episode's topic list reports that Fielding found unexpected investment opportunities by following founders' visions, including early Bitcoin investments.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "The importance of dollar cost averaging and portfolio diversification when investing in venture capital",
+        "claim": "The episode's topic list associates Fielding's discussion with dollar-cost averaging and portfolio diversification in venture investing.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Syama Bunten May 08, 2025",
+        "claim": "The episode page is dated May 8, 2025.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "f2f05854ab745db49578b685cb110e00ce80ae137fbf0c92608c807de13e87f4"
+  },
+  {
+    "source": "full:854916a3fb52d4d7804561dd",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page explicitly identifies Jenny Fielding as Managing Partner of Everywhere Ventures, matching the resolved affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Charlie Andersen, founder and CEO of Burro chats with Jenny Fielding, Managing Partner of Everywhere Ventures on episode 80: From Burden to Burro.",
+        "claim": "The firm page identifies Fielding as Managing Partner of Everywhere Ventures and as a participant in episode 80 with Burro founder Charlie Andersen.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "September 29, 2025",
+        "claim": "The page dates the podcast listing to September 29, 2025.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "7c3add0339afd3a423d54059dd5a3813024f929a8385dec19427f0dd9129cb3f"
+  },
+  {
+    "source": "full:876662ca751c6b8e60c23cb5",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page identifies Jenny Fielding as Co-founder and GP of Everywhere VC, directly matching the resolved affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jenny Fielding, Co-founder and GP of Everywhere VC, chats with Isaac Park, co-founder and CEO of Keebler Health.",
+        "claim": "The firm page identifies Fielding as Co-founder and GP of Everywhere VC and as a participant in a conversation with Keebler Health co-founder Isaac Park.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Keebler Health. June 11, 2024",
+        "claim": "The page dates the Keebler Health podcast listing to June 11, 2024.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "d0f2c909c953619428e21ac1d0f3c88397bbcd7877b18cc04a372d989f4b1316"
+  },
+  {
+    "source": "full:de3e39f204975bcaab4c4b51",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page identifies Jenny Fielding and Scott Hartley as co-founders and Managing Partners of Everywhere Ventures, matching the resolved affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jenny Fielding and Scott Hartley, co-founders and Managing Partners of Everywhere Ventures, chat about Jenny's new book Venture Everywhere.",
+        "claim": "The firm page identifies Fielding and Scott Hartley as co-founders and Managing Partners of Everywhere Ventures and reports that they discussed her book Venture Everywhere.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "September 29, 2025",
+        "claim": "The page dates the podcast listing to September 29, 2025.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "4dcd39bb2a9075f3977ed38ae4a201284196c00f561d82cabbcd336ea7944b2a"
+  },
+  {
+    "source": "full:1ff4c49b3090dc56a032bc50",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page explicitly identifies Jenny Fielding as Co-founder and Managing Partner of Everywhere VC, matching the resolved affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jenny Fielding, Co-founder and Managing Partner of Everywhere VC, chats with Joel Wish, founder and CEO of Bright Harbor.",
+        "claim": "The firm page identifies Fielding as Co-founder and Managing Partner of Everywhere VC and as a participant in a conversation with Bright Harbor founder Joel Wish.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "September 29, 2025",
+        "claim": "The page dates the podcast listing to September 29, 2025.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "3e6cb0eeee37f035280e1191a59053b7d3efe0f1ea89757c336d066e0f5ac8c5"
+  },
+  {
+    "source": "full:a82c7a0fc380e751636e897e",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page explicitly identifies Jenny Fielding as a co-founder of Everywhere Ventures, matching the resolved investor.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jenny Fielding, co-founder of Everywhere Ventures, catches up with Neha Govindraj, founder and CEO of Bonside, on Episode 14: Catch You on the Bonside",
+        "claim": "The firm page identifies Fielding as a co-founder of Everywhere Ventures and as a participant in episode 14 with Bonside founder Neha Govindraj.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "September 29, 2025",
+        "claim": "The page dates the podcast listing to September 29, 2025.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "1c59e5d15f74f1a429265b9ee25cac4f8d65f85c282ba1575242eabe6e8ebd44"
+  },
+  {
+    "source": "full:594540b9300b8b41938bd80f",
+    "part": 1,
+    "identity": "uncertain",
+    "reason": "The annual report names a Jenny Fielding as an Australian company's Non-Executive Director but supplies no Everywhere Ventures or other resolved-identity anchor establishing that she is the target investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "9ab4978a88b2970f6d4a36dbe31162156c2f8f763c6ab7630b9829e6d9afe40f"
+  },
+  {
+    "source": "full:594540b9300b8b41938bd80f",
+    "part": 2,
+    "identity": "target",
+    "reason": "The filing identifies Jenny Fielding as an early-stage investor who co-founded Everywhere Ventures, matching the resolved investor, and reports her appointment to Decidr AI Industries' board.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Name: Jenny Fielding\nTitle: Non-Executive Director (appointed on 1 August 2024)",
+        "claim": "Decidr AI Industries reports that Jenny Fielding was appointed as a Non-Executive Director on 1 August 2024.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "After graduating from law school and working in finance, Jenny transitioned to technology as a founder of two mobile software companies.",
+        "claim": "The filing reports that Fielding worked in law and finance before founding two mobile software companies.",
+        "kind": "biography"
+      },
+      {
+        "quote": "For 7.5 years, Jenny was the Managing Director at Techstars, where she led investments into companies that now have a market cap of over USD10b. She then co-founded Everywhere Ventures, a global venture capital firm.",
+        "claim": "The filing reports that Fielding spent 7.5 years as a Techstars Managing Director, led investments there, and subsequently co-founded Everywhere Ventures.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Jenny has been the first investor in over 250 tech-enabled companies, including five companies achieving unicorn (USD1b+) valuations.",
+        "claim": "The filing reports that Fielding has been the first investor in more than 250 tech-enabled companies, five of which achieved valuations of at least USD1 billion.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Jenny Fielding 1,000,000 18 Dec 2024 18 Dec 2024 18 Dec 2027 $0.75 $0.460",
+        "claim": "The filing's compensation table reports that Fielding received 1,000,000 Decidr AI Industries options on 18 December 2024, exercisable at $0.75 and expiring on 18 December 2027.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "d28df18858f1b12bfa6d0838ab2af7e5616f2220cec30fd25e364f0dd1ff4e8b"
+  },
+  {
+    "source": "full:594540b9300b8b41938bd80f",
+    "part": 3,
+    "identity": "target",
+    "reason": "This continuation of Decidr AI Industries' filing names Jenny Fielding in key-management share and option tables tied to the same board role established in the preceding filing material.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jenny Fielding - - - - -",
+        "claim": "The filing's key-management shareholding table reports no Decidr AI Industries ordinary shares held by Fielding during or at the end of the financial year.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Jenny Fielding - 1,000,000 - - 1,000,000",
+        "claim": "The filing's key-management option table reports that Fielding was granted 1,000,000 Decidr AI Industries options during the financial year and held 1,000,000 at year-end.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "74f9221b016f4db1a6e37efc7706ef24d6538d6898f9ab18ba6d8d60d946aa56"
+  },
+  {
+    "source": "full:594540b9300b8b41938bd80f",
+    "part": 4,
+    "identity": "other",
+    "reason": "This packet contains only Decidr AI Industries Ltd accounting policies and financial-statement notes, with no mention of Jenny Fielding, Everywhere Ventures, or the resolved investor identity.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "930737e22f8a00906ed2331bba4b0e4c85592f5ad2cdf0a51efb0ea9d4088b01"
+  },
+  {
+    "source": "full:594540b9300b8b41938bd80f",
+    "part": 5,
+    "identity": "other",
+    "reason": "This packet continues Decidr AI Industries Ltd's accounting policies, operating-segment disclosures, and financial results, with no mention of Jenny Fielding, Everywhere Ventures, or the resolved investor identity.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "895a078e2f511bf1062b9f280e8c85180b8604a9213b5d5c74bbaa280c7d16fa"
+  },
+  {
+    "source": "full:594540b9300b8b41938bd80f",
+    "part": 6,
+    "identity": "other",
+    "reason": "This financial-statement section concerns Decidr AI Industries and related parties such as Paul Chan, but contains no mention of Jenny Fielding or another anchor connecting it to the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "7327bc7521f76062ae7669a7f844ee14c38fc4a6052e4f604e2a3770519cf292"
+  },
+  {
+    "source": "full:594540b9300b8b41938bd80f",
+    "part": 7,
+    "identity": "uncertain",
+    "reason": "The report names “Jenny Fielding (Director)” as an option recipient, but this part provides no Everywhere Ventures or authoritative-profile anchor establishing that she is the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "2171d707023be7193d1b65ca651826aac5eabce50850ed5b2fc26e9e6935ffad"
+  },
+  {
+    "source": "full:594540b9300b8b41938bd80f",
+    "part": 8,
+    "identity": "uncertain",
+    "reason": "The shareholder list names Jenny Fielding as holding 1,000,000 options, but supplies no affiliation or other anchor that resolves her identity to the Everywhere Ventures investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "f726b368bb768bac7d4a0392f620fc8fecf18ca32a77ebb65c7e8732bde0c5d6"
+  },
+  {
+    "source": "full:adc5711b1ddbb114ecb6ab6c",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page explicitly identifies Jenny Fielding as Managing Partner of Everywhere Ventures, matching the resolved investor and affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Ethan Schwarzbach, co-founder of Flychain chats with Jenny Fielding, Managing Partner of Everywhere Ventures on episode 103: The Flychain Flywheel.",
+        "claim": "Everywhere Ventures reported that Jenny Fielding was its Managing Partner and appeared with Flychain co-founder Ethan Schwarzbach on episode 103 of its podcast.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "February 1, 2026",
+        "claim": "The Everywhere Ventures page dates the Flychain podcast entry to February 1, 2026.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Everywhere Ventures is a global pre-seed venture capital firm founded in 2018 and headquartered in New York City. It writes $250,000 first checks into early-stage technology companies and is backed by a community of hundreds of founders and operators who serve as its limited partners and deal flow engine.",
+        "claim": "The firm page describes Everywhere Ventures as a global pre-seed investor writing $250,000 first checks and using a founder-and-operator LP community as a deal-flow engine.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Everywhere is a pre-seed generalist fund with investments across Fintech, Health, Enterprise AI, Deeptech, Supply Chain, AI Infrastructure, Energy, Vertical AI, Security, and Space.",
+        "claim": "The firm page describes Everywhere Ventures as a pre-seed generalist investing across the listed technology sectors.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "e30eccc9ec5693ffc237c8709d2d05ab1f3c534d0090a7bf5541b099eb6be98d"
+  },
+  {
+    "source": "full:03412959e00ccd60ee9e7efb",
+    "part": 1,
+    "identity": "target",
+    "reason": "Jenny Fielding’s media page repeatedly identifies her with venture capital and explicitly titles an interview “Jenny Fielding Of Everywhere Ventures,” matching the resolved investor.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "The Future Of Venture In The Age Of AI With Jenny Fielding Of Everywhere Ventures",
+        "claim": "Jenny Fielding’s media page identifies her with Everywhere Ventures in the title of an interview about venture capital and AI.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "How Jenny Fielding, the face of Techstars, became the most well-connected investor in New York",
+        "claim": "The media page lists a May 2022 Business Insider profile that described Fielding as associated with Techstars and as a New York investor; this is a listing, not independent verification of the description.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Venture Capital: Jenny Fielding on Leaving Techstars for Her Firm",
+        "claim": "The media page lists a July 2021 Wall Street Journal item about Fielding leaving Techstars for her own firm.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "39bd306fd1db6163e747357f4cf266c08b0bc3fd8d1f6403d4da7d368fc6feb9"
+  },
+  {
+    "source": "full:ed04c3dc800c33e6d04567a2",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page explicitly identifies Jenny Fielding as Co-founder and Managing Partner of Everywhere VC, matching the resolved investor and affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jenny Fielding, Co-founder and Managing Partner of Everywhere VC, chats with Joel Wish, founder and CEO of Bright Harbor.",
+        "claim": "Everywhere Ventures reported that Jenny Fielding was its co-founder and Managing Partner and interviewed Bright Harbor founder Joel Wish.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "August 19, 2025",
+        "claim": "The Everywhere Ventures page dates the Joel Wish podcast entry to August 19, 2025.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Everywhere Ventures is a global pre-seed venture capital firm founded in 2018 and headquartered in New York City. It writes $250,000 first checks into early-stage technology companies and is backed by a community of hundreds of founders and operators who serve as its limited partners and deal flow engine.",
+        "claim": "The firm page describes Everywhere Ventures as a global pre-seed investor writing $250,000 first checks and using a founder-and-operator LP community as a deal-flow engine.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Everywhere is a pre-seed generalist fund with investments across Fintech, Health, Enterprise AI, Deeptech, Supply Chain, AI Infrastructure, Energy, Vertical AI, Security, and Space.",
+        "claim": "The firm page describes Everywhere Ventures as a pre-seed generalist investing across the listed technology sectors.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "448df47a6fa32477d261adac043ff52b51c209ef61662c67f628093dece6276d"
+  },
+  {
+    "source": "full:f2e10f98b169b31567597334",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page explicitly identifies Jenny Fielding as Co-founder of Everywhere Ventures, matching the resolved investor and affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jenny Fielding, Co-founder of Everywhere Ventures, catches up with Jade Kearney, Co-founder and CEO of She Matters on episode 24: Because She Matters.",
+        "claim": "Everywhere Ventures reported that Jenny Fielding was its co-founder and appeared with She Matters co-founder Jade Kearney on episode 24 of its podcast.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "February 23, 2024",
+        "claim": "The Everywhere Ventures page dates the Jade Kearney podcast entry to February 23, 2024.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Everywhere Ventures is a global pre-seed venture capital firm founded in 2018 and headquartered in New York City. It writes $250,000 first checks into early-stage technology companies and is backed by a community of hundreds of founders and operators who serve as its limited partners and deal flow engine.",
+        "claim": "The firm page describes Everywhere Ventures as a global pre-seed investor writing $250,000 first checks and using a founder-and-operator LP community as a deal-flow engine.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Everywhere is a pre-seed generalist fund with investments across Fintech, Health, Enterprise AI, Deeptech, Supply Chain, AI Infrastructure, Energy, Vertical AI, Security, and Space.",
+        "claim": "The firm page describes Everywhere Ventures as a pre-seed generalist investing across the listed technology sectors.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "7bf504a33071320c7227666bed5958e9c6897cf86c48fa9193d059b2d59c83ba"
+  },
+  {
+    "source": "full:2f8d71b79114d87e3e868c97",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page explicitly identifies Jenny Fielding as GP of Everywhere Ventures, matching the resolved investor and affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Allison Lee, founder and CEO of Revive, chats with Jenny Fielding, GP of Everywhere Ventures on episode 112: The Ultimate Revive-al.",
+        "claim": "Everywhere Ventures reported that Jenny Fielding was its GP and appeared with Revive founder Allison Lee on episode 112 of its podcast.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "March 30, 2026 https://ideas.everywhere.vc/p/podcast-allison-lee-jenny-fielding-the-ultimate-revive-al-episode112",
+        "claim": "The Everywhere Ventures page dates the Allison Lee podcast entry to March 30, 2026.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Everywhere Ventures is a global pre-seed venture capital firm founded in 2018 and headquartered in New York City. It writes $250,000 first checks into early-stage technology companies and is backed by a community of hundreds of founders and operators who serve as its limited partners and deal flow engine.",
+        "claim": "The firm page describes Everywhere Ventures as a global pre-seed investor writing $250,000 first checks and using a founder-and-operator LP community as a deal-flow engine.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Everywhere is a pre-seed generalist fund with investments across Fintech, Health, Enterprise AI, Deeptech, Supply Chain, AI Infrastructure, Energy, Vertical AI, Security, and Space.",
+        "claim": "The firm page describes Everywhere Ventures as a pre-seed generalist investing across the listed technology sectors.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "ce8a37c45f8837e6119eabedf9689254b09a715101ab56e5c991ab21fb488775"
+  },
+  {
+    "source": "full:6a43492f106063d7e8cc5437",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page explicitly identifies Jenny Fielding as an Everywhere Ventures co-founder, matching the resolved investor and firm.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Everywhere Ventures co-founders Jenny Fielding and Scott Hartley chat with Anna Barber, a new General Partner at Everywhere Ventures. February 2, 2026",
+        "claim": "Everywhere Ventures reported that co-founder Jenny Fielding participated in a February 2, 2026 conversation with Scott Hartley and new general partner Anna Barber.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Everywhere Ventures is a global pre-seed venture capital firm founded in 2018 and headquartered in New York City. It writes $250,000 first checks into early-stage technology companies and is backed by a community of hundreds of founders and operators who serve as its limited partners and deal flow engine.",
+        "claim": "The firm describes itself as a global pre-seed investor founded in 2018 that writes $250,000 first checks and uses its founder-operator community for backing and deal flow.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "9604e70ef2b7ff246a95ea994158a1c78b8b8c5e8dade08ec63331603125be49"
+  },
+  {
+    "source": "full:fc9ff27ef5b97a82e4899bb0",
+    "part": 1,
+    "identity": "target",
+    "reason": "The episode materials name Jenny Fielding of Everywhere Ventures as a guest, matching the resolved investor, but provide no attributed transcript turns from her.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jason brings on Dave McClure of Practical Venture Capital, Jeff Clavier of Uncork Capital, and Jenny Fielding of Everywhere Ventures to discuss the argument for open-weight models over the frontier labs.",
+        "claim": "The September 24, 2026 episode description reports that Jenny Fielding of Everywhere Ventures joined a venture-capital panel about open-weight versus frontier AI models.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "592901154162ed71aa0760b13c7c00df4739ae37f6c6f815b8823208fce5a94a"
+  },
+  {
+    "source": "full:8aad1176a77136269a9fe47e",
+    "part": 1,
+    "identity": "target",
+    "reason": "The ASX release identifies Jenny Fielding as a DAI director and Everywhere Ventures managing partner, directly matching the resolved investor's affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "DAI Director Jenny Fielding is a Managing Partner of venture capital company Everywhere Ventures. Everywhere Ventures currently has over $USD$100M invested across 300 portfolio companies. Everywhere Ventures is a minority shareholder in Sugarwork (less than 1%). The company believes that this shareholding is immaterial. In an abundance of caution, Ms. Fielding has recused herself from the proposed transaction.",
+        "claim": "In its November 19, 2025 release, DAI reported that director Jenny Fielding was an Everywhere Ventures managing partner and recused herself from DAI's proposed Sugarwork acquisition because Everywhere held a less-than-1% Sugarwork stake.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "bc5673c0399c176daa408c09639197f0d4ce0065129b7700ec99471e78163936"
+  },
+  {
+    "source": "full:35ee1f5a96a8772c30ccb8fc",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page explicitly calls Jenny Fielding the Managing Partner of Everywhere VC, matching the resolved investor.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Aaron Holland, co-founder and CEO of Attend chats with Jenny Fielding, Managing Partner of Everywhere VC, on episode 73: Swipe, Tap, Attend. September 29, 2025",
+        "claim": "Everywhere VC reported that managing partner Jenny Fielding spoke with Attend co-founder and CEO Aaron Holland in an episode dated September 29, 2025.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "79b01cdebe37e44f585382d3139b97cbef964d7b9619a2f709522d1804cb2563"
+  },
+  {
+    "source": "full:d7f27958abcd05e5b0c5c12c",
+    "part": 1,
+    "identity": "other",
+    "reason": "The page contains Japanese entertainment and lifestyle article listings and makes no reference to Jenny Fielding or Everywhere Ventures.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "ab168fd3caf0cd503aea653824d79f61ea7f7af091079f95fb13505127ea2e44"
+  },
+  {
+    "source": "full:63c19734ecf6ce941d322818",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page explicitly identifies Jenny Fielding as Managing Partner of Everywhere Ventures, matching the resolved investor.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jason Saltzman, co-founder and CEO of Relief chats with Jenny Fielding, Managing Partner of Everywhere Ventures on episode 79: What a Relief! September 29, 2025",
+        "claim": "Everywhere Ventures reported that managing partner Jenny Fielding spoke with Relief co-founder and CEO Jason Saltzman in an episode dated September 29, 2025.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "39771794c1b73644094706f04b8ee0f2bfdef576b19a65e81a75118dd39e089c"
+  },
+  {
+    "source": "full:aecbf3fc54181dd324b993b0",
+    "part": 1,
+    "identity": "target",
+    "reason": "The interview explicitly introduces Jenny Fielding as Everywhere Ventures co-founder and general partner, matching the resolved investor, and presents her first-person answers.",
+    "evidence": [
+      {
+        "quote": "The founders I trust most lead with the problem, not the pitch.",
+        "label": "founder_communication_quality",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Fielding favors founders who candidly foreground the underlying problem instead of leading with promotional framing.",
+        "attribution_basis": "The article introduces Jenny Fielding by name and affiliation, then presents this sentence as her answer in a direct Q&A."
+      },
+      {
+        "quote": "If someone walks in and gives me a 20-minute highlight reel before mentioning the thing that keeps them up at night, that’s a flag.",
+        "label": "founder_communication_quality",
+        "direction": "negative",
+        "support": "explicit",
+        "interpretation": "She treats a polished presentation that delays disclosure of the central concern as a negative founder-communication signal.",
+        "attribution_basis": "The sentence appears in Jenny Fielding's answer to the interview question about the first sign that someone meets her standard."
+      },
+      {
+        "quote": "The worst thing that can happen at the early stage isn’t a bad quarter, it’s a founder who’s been second-guessed into paralysis.",
+        "label": "founder_coachability_assessment",
+        "direction": "negative",
+        "support": "inferred",
+        "interpretation": "Her operating philosophy distinguishes productive feedback from investor pressure that undermines a founder's capacity to decide and act.",
+        "attribution_basis": "The named Jenny Fielding interview presents this as her first-person answer about what she protects when tradeoffs are necessary."
+      },
+      {
+        "quote": "Venture has a serious habit of taking shortcuts and relying on surface-level accolades — Stanford, YC, Google, whatever the credential is.",
+        "label": "founder_qualities",
+        "direction": "negative",
+        "support": "explicit",
+        "interpretation": "Fielding rejects elite credentials as a sufficient proxy for founder quality.",
+        "attribution_basis": "The article attributes this first-person response directly to Jenny Fielding in its Q&A."
+      },
+      {
+        "quote": "I’ve backed founders from Lagos and Bogotá and Tallinn who out-executed people with every box checked.",
+        "label": "founder_execution",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "She values demonstrated execution over conventional pedigree and cites globally distributed founders as evidence.",
+        "attribution_basis": "This is part of Jenny Fielding's direct answer about what venture investors mistake for quality."
+      },
+      {
+        "quote": "That conviction and correctness aren’t the same thing. I’ve passed on companies I was certain about and I’ve invested in founders I would have bet anything on.",
+        "label": "investor_experience_bias",
+        "direction": "neutral",
+        "support": "inferred",
+        "interpretation": "Her experience with both passes and investments taught her not to equate strength of conviction with accuracy.",
+        "attribution_basis": "The interview identifies this passage as Jenny Fielding's answer about the hardest lesson learned from her judgment."
+      },
+      {
+        "quote": "The judgment that matters isn’t the one you apply at entry — it’s the one you apply when the story starts to change and you have to decide what you actually believe versus what you want to be true.",
+        "label": "execution_risk_assessment",
+        "direction": "neutral",
+        "support": "inferred",
+        "interpretation": "She emphasizes reassessing an investment as company execution and the underlying narrative evolve, rather than relying only on the entry decision.",
+        "attribution_basis": "The sentence is directly presented as Jenny Fielding's continuation of her answer about lessons from investment judgment."
+      },
+      {
+        "quote": "The risk at this point isn’t that I’m too selective — it’s that I start pattern-matching to what’s worked in the past instead of staying curious about what I haven’t seen yet.",
+        "label": "investor_experience_bias",
+        "direction": "negative",
+        "support": "explicit",
+        "interpretation": "Fielding views overreliance on patterns from prior successes as a risk to identifying unfamiliar opportunities.",
+        "attribution_basis": "The named interview presents this as Jenny Fielding's direct answer about when to raise her standards."
+      },
+      {
+        "quote": "The second I start thinking like a portfolio manager instead of someone who’s felt the weight of making payroll, my standard becomes theoretical.",
+        "label": "investor_value_add_fit",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "She believes retaining an operator's empathy is necessary for her investing standards and founder support to remain practically grounded.",
+        "attribution_basis": "This is Jenny Fielding's first-person answer to the interview's question about responsibility toward people building to her standard."
+      }
+    ],
+    "context": [
+      {
+        "quote": "Here, we spoke to investor Jenny Fielding, who, as co-founder and general partner at Everywhere Ventures, brings an operator’s perspective to the earliest stage of building.",
+        "claim": "Mercury introduced Fielding as an Everywhere Ventures co-founder and general partner whose early-stage investing reflects prior operating experience.",
+        "kind": "biography"
+      },
+      {
+        "quote": "I’ve invested in 300+ companies.",
+        "claim": "Fielding said in the July 29, 2026 interview that she had invested in more than 300 companies.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "4bb7ceed630797d5a91a0d1a1b502a29e7389f59ed4bddb0722002b912c2b157"
+  },
+  {
+    "source": "full:4589574d0bd784934ac6f8b9",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page explicitly names Jenny Fielding as an Everywhere Ventures co-founder, matching the resolved investor.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jenny Fielding, co-founder of Everywhere Ventures, catches up with Anthony Dedousis, Co-founder and CEO of Revival Homes on episode 22: Revival of the… September 29, 2025",
+        "claim": "Everywhere Ventures reported that co-founder Jenny Fielding spoke with Revival Homes co-founder and CEO Anthony Dedousis in an episode dated September 29, 2025.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "ed5526370f30cda80e3fb3ddecaed121884d44df3b8c8113cc08d88cd0335d0c"
+  },
+  {
+    "source": "full:a862b7301259ebfb287a0adc",
+    "part": 1,
+    "identity": "other",
+    "reason": "The page is a profile for Shaherose Charania and contains no reference to Jenny Fielding or Everywhere Ventures.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "85397878e31c9279478803b52f0c932cd50ab7351e9eaa4d2b3a3430b3a98076"
+  },
+  {
+    "source": "full:dfb12b06bede3bbb685cc723",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page explicitly names Jenny Fielding as an Everywhere Ventures co-founder, matching the resolved investor.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jenny Fielding, co-founder of Everywhere Ventures, catches up with Kiaan Pillay co-founder and CEO of Stitch, on Episode 9: A Stitch in Payment Time June 21, 2023",
+        "claim": "Everywhere Ventures reported that co-founder Jenny Fielding spoke with Stitch co-founder and CEO Kiaan Pillay in an episode dated June 21, 2023.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "78296872df635260588b0b4878751b30a3e34372a8bc6278eebbe8169bf77f7d"
+  },
+  {
+    "source": "full:f93bc224e8ca408b2005773b",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page identifies Jenny Fielding as an Everywhere Ventures co-founder and managing partner, directly matching the resolved investor.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jenny Fielding and Scott Hartley, co-founders and Managing Partners of Everywhere Ventures, chat about Jenny's new book Venture Everywhere. March 25, 2025",
+        "claim": "Everywhere Ventures reported that co-founders and managing partners Jenny Fielding and Scott Hartley discussed her book Venture Everywhere on March 25, 2025.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "08a06f711e09fbe8a33c33e61e12155236894d2d86593103a61e80733c44516f"
+  },
+  {
+    "source": "full:751ca074004e9a238709674a",
+    "part": 1,
+    "identity": "target",
+    "reason": "The first-person site identifies its author as a founder-turned-early-stage investor at Everywhere Ventures, matching the resolved Jenny Fielding.",
+    "evidence": [
+      {
+        "quote": "I have seen first-hand how challenging it is to build great products, inspire a team, and keep the lights on. So I spend my time working to surround founders with the resources they need to survive and thrive.",
+        "label": "investor_value_add_fit",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "Fielding frames her investor value-add as supplying founders with practical resources informed by firsthand company-building experience.",
+        "attribution_basis": "The quotation appears on Jenny Fielding's first-person website, which identifies her as an early-stage investor at Everywhere Ventures."
+      },
+      {
+        "quote": "What they all have in common is an Everywhere Mindset —an ethos of resilience, conviction, and cultural curiosity—as a guiding compass for success in business and life.",
+        "label": "founder_qualities",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "Her observations of global entrepreneurs highlight resilience, conviction, and cultural curiosity as qualities associated with success.",
+        "attribution_basis": "Jenny Fielding's first-person website presents this statement in her description of lessons from meeting entrepreneurs worldwide."
+      }
+    ],
+    "context": [
+      {
+        "quote": "After attending law school and working in finance, I found myself falling in love with technology - first as a founder of two mobile software companies and now as an early stage investor at Everywhere Ventures . Being a founder was the most humbling and challenging work of my life, and I’ve channeled many of the learnings into my investment style.",
+        "claim": "On her own site, Fielding says she attended law school, worked in finance, founded two mobile-software companies, and later became an early-stage investor at Everywhere Ventures, applying founder lessons to her investment style.",
+        "kind": "biography"
+      },
+      {
+        "quote": "We are one of the most active pre-seed venture capital funds in the world, supporting founders at the earliest stages of their journey.",
+        "claim": "Fielding's site describes Everywhere Ventures as a highly active pre-seed fund focused on supporting founders at their earliest stages.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "5e738325f08bed1bbd482c38a6671736fb452ac6f4762bb239df502b5d81b894"
+  },
+  {
+    "source": "full:c3f9c2b7e16fe67587089b7c",
+    "part": 1,
+    "identity": "target",
+    "reason": "The episode description explicitly identifies Jenny Fielding as Everywhere Ventures co-founder and general partner, matching the resolved investor, but includes no verbatim speech from her.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "In this episode, I sit down with my longtime friend Jenny Fielding, Cofounder and General Partner of Everywhere Ventures, to explore how venture capital is adapting to a world where competitive advantages can disappear faster than ever.",
+        "claim": "The podcast host introduced Fielding as Everywhere Ventures co-founder and general partner in a discussion about venture adaptation and increasingly short-lived competitive advantages.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Jenny also shares lessons from her time as a Managing Director at Techstars and explains why Everywhere Ventures built a community-driven approach to investing — leveraging founder networks and real-time market insight to identify breakout companies at the earliest stages.",
+        "claim": "The episode description reports that Fielding previously served as a Techstars managing director and discussed Everywhere Ventures' use of founder networks and current market insight to find very early-stage breakout companies.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "7f780dcc366044ef0dc5d9e16153d7e37ba8f27643860e1ca599aeba33c74480"
+  },
+  {
+    "source": "full:fdedda6ef07bef7f1b2af334",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page explicitly identifies Jenny Fielding as an Everywhere Ventures co-founder, matching the resolved investor.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jenny Fielding, co-founder of Everywhere Ventures, catches up with Mark Straub, founder and CEO of Smile ID, on Episode 11: 3,2,1...Smile ID. September 29, 2025",
+        "claim": "Everywhere Ventures reported that co-founder Jenny Fielding spoke with Smile ID founder and CEO Mark Straub in an episode dated September 29, 2025.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "10d65f5bbfceb7de582faeb073b2354885bf3a240b6b90ff851123929a30e73b"
+  },
+  {
+    "source": "full:155ccf105bdc388c5e371231",
+    "part": 1,
+    "identity": "target",
+    "reason": "The AGM notice names Jenny Fielding as a Live Verdure director and proposes director options for her, while the separate resolved identity confirms this is the Everywhere Ventures investor.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "That Jenny Fielding, a Director appointed as an additional Director and holding office until the next general meeting of the Company after his appointment in accordance with the Company’s Constitution and ASX Listing Rule 14.4, be elected as a Director of the Company, effective immediately.",
+        "claim": "Live Verdure's 2024 AGM notice proposed electing Jenny Fielding, who had been appointed as an additional director, as a company director.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "That for the purposes of section 208 of the Corporations Act, ASX Listing Rule 10.14 and for all other purposes, the Shareholders of the Company approve issue and allotment of 1,000,000 unlisted ESOP Options (each exercisable at $0.75 per option, expiring 3 years from the date of issue) under the Incentive Plan to Jenny Fielding (or her Nominee), a Director of the Company, and otherwise on the terms and conditions set out in the Explanatory Statement which accompanies and forms part of this Notice of Meeting.",
+        "claim": "The AGM notice sought shareholder approval to issue director Jenny Fielding or her nominee 1,000,000 unlisted ESOP options exercisable at $0.75 and expiring three years after issuance.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "4d179f78e97da2c4c0c836e46487ff98b076bef64b81261faa64bd62a1da70cf"
+  },
+  {
+    "source": "full:155ccf105bdc388c5e371231",
+    "part": 2,
+    "identity": "target",
+    "reason": "The notice identifies Jenny Fielding through the resolved Everywhere Ventures affiliation and describes her early-stage investing career, while also reporting her appointment to Live Verdure's board.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jenny Fielding was appointed as an additional Director of the Company on 1 August 2024 and has since served as a Director of the Company.",
+        "claim": "Live Verdure reports that Jenny Fielding was appointed as an additional director on August 1, 2024 and subsequently served on its board.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Based out of NYC, Jenny Fielding brings a wealth of experience to LV1, with a background that spans law, finance, technology, and investment. After graduating from law school and working in finance, Jenny transitioned to technology as a founder of two mobi le software companies.",
+        "claim": "Live Verdure describes Fielding as New York City-based, with experience in law, finance, technology, and investment, including founding two mobile software companies.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Jenny is also an adjunct professor at Columbia University and Cornell Tech.",
+        "claim": "Live Verdure reports that Fielding is an adjunct professor at Columbia University and Cornell Tech.",
+        "kind": "biography"
+      },
+      {
+        "quote": "For 7.5 years, Jenny was the Managing Director at Techstars, where she led investments into companies that now have a market cap of over $10B. She then cofounded Everywhere Ventures, a global venture capital firm.",
+        "claim": "Live Verdure reports that Fielding spent 7.5 years as a Techstars managing director and later co-founded the global venture-capital firm Everywhere Ventures.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Jenny has been the first investor in over 250 tech-enabled companies, including five companies achieving unicorn (USD$1B+) valuations.",
+        "claim": "Live Verdure reports that Fielding was the first investor in more than 250 technology-enabled companies, five of which achieved valuations of at least US$1 billion.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Resolution 6 seeks Shareholder approval to issue and allot 1,000,000 unlisted ESOP options (Director Options) under the Incentive Plan to Ms Jenny Fielding (or her nominee), Director of the Company, which was agreed to by the Company (subject to Shareholder approval) as part of Ms Fielding’s appointment to the Board on 1 August 2024.",
+        "claim": "Live Verdure's notice says the company sought shareholder approval to grant Fielding or her nominee 1,000,000 unlisted ESOP options as part of her August 1, 2024 board appointment.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "1fa8d8f20b228cdc4be17b2815a85c25ed07deecebc10620afb4cd0e4bb1ec9e"
+  },
+  {
+    "source": "full:155ccf105bdc388c5e371231",
+    "part": 3,
+    "identity": "target",
+    "reason": "This continuation explicitly identifies Jenny Fielding as Live Verdure's non-executive director and details the remuneration and options associated with that role.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "The name of the person proposed to acquire the Director Options is Ms Jenny Fielding, Non- Executive Director.",
+        "claim": "Live Verdure identifies Fielding as a non-executive director proposed to receive director options.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Details of Ms Fielding’s current total remuneration package (excluding superannuation) is an annual base fee of AUD $48,000.",
+        "claim": "Live Verdure reports that Fielding's director remuneration package, excluding superannuation, included an annual base fee of AUD 48,000.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "The maximum number of Director Options for which Shareholder approval is being sought is 1,000,000 Director Options to Jenny Fielding (or her nominee).",
+        "claim": "Live Verdure reports seeking shareholder approval for up to 1,000,000 director options for Fielding or her nominee.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "The Company has not previously issued securities to Ms Fielding under the Incentive Plan.",
+        "claim": "Live Verdure states that, as of the notice, it had not previously issued Fielding securities under its Incentive Plan.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "The Director Options are proposed to be issued to Ms Fielding as part of her remuneration, which is not uncommon for Directors.",
+        "claim": "Live Verdure describes the proposed director options as part of Fielding's remuneration.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "b5e46e277caddc90f26e69deee9a6efd7046b35972f04f0a3efb70bdba668468"
+  },
+  {
+    "source": "full:155ccf105bdc388c5e371231",
+    "part": 4,
+    "identity": "other",
+    "reason": "This packet contains only Live Verdure's incentive-plan and option terms concerning participants such as David Brudenell, with no reference to Jenny Fielding or Everywhere Ventures.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "3382c20e55b9502b8c8257966c1f48826e506974ed9f40f0d61a26bbe769ed9d"
+  },
+  {
+    "source": "full:155ccf105bdc388c5e371231",
+    "part": 5,
+    "identity": "uncertain",
+    "reason": "The Live Verdure proxy form names Jenny Fielding only in director-election and ESOP resolutions, without an Everywhere Ventures or other supplied identity anchor establishing that she is the resolved investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "f4dbbf2ed7981e61ce9c30b48182ab01b95e0d077c1255c650f32dfa87b00553"
+  },
+  {
+    "source": "full:ee1abee27db52812e1f7f956",
+    "part": 1,
+    "identity": "target",
+    "reason": "The podcast page explicitly identifies Jenny Fielding as Everywhere VC's co-founder and GP, matching the resolved investor's affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jenny Fielding, Co-founder and GP of Everywhere VC, chats with Isaac Park, co-founder and CEO of Keebler Health. September 29, 2025",
+        "claim": "The Everywhere VC page identifies Fielding as its co-founder and GP and dates her podcast conversation with Keebler Health CEO Isaac Park to September 29, 2025.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Everywhere Ventures is a global pre-seed venture capital firm founded in 2018 and headquartered in New York City. It writes $250,000 first checks into early-stage technology companies and is backed by a community of hundreds of founders and operators who serve as its limited partners and deal flow engine.",
+        "claim": "The firm page describes Everywhere Ventures as a global pre-seed investor writing $250,000 first checks and supported by a founder-and-operator community.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "e244060ca17b0f4ff87c0f1394db4a0d8ff1908ebb934bff4e2bbe102e7b5603"
+  },
+  {
+    "source": "full:787cb958ae367faa6ad86489",
+    "part": 1,
+    "identity": "target",
+    "reason": "The podcast page explicitly identifies Jenny Fielding as Managing Partner of Everywhere VC, matching the resolved investor's affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Nicolas Christiaen, co-founder and co-CEO of Donna chats with Jenny Fielding, Managing Partner of Everywhere VC, on episode 71: Hey Donna. May 6, 2025",
+        "claim": "The Everywhere VC page identifies Fielding as Managing Partner and dates her podcast conversation with Donna co-founder Nicolas Christiaen to May 6, 2025.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Everywhere is a pre-seed generalist fund with investments across Fintech, Health, Enterprise AI, Deeptech, Supply Chain, AI Infrastructure, Energy, Vertical AI, Security, and Space.",
+        "claim": "The firm page describes Everywhere as a pre-seed generalist fund investing across the listed technology sectors.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "93c78946fc2e970a140ad67701f2c8b2683bd70647f5144b1d3deac47019446d"
+  },
+  {
+    "source": "full:7858047165b65c054ca3e2df",
+    "part": 1,
+    "identity": "target",
+    "reason": "The podcast page explicitly identifies Jenny Fielding as a co-founder of Everywhere Ventures, matching the resolved investor's affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jenny Fielding, co-founder of Everywhere Ventures, catches up with Christina Ross, founder and CEO of Cube, on Episode 5: Think Outside the Cube. September 29, 2025",
+        "claim": "The Everywhere Ventures page identifies Fielding as a co-founder and dates her podcast conversation with Cube CEO Christina Ross to September 29, 2025.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Everywhere Ventures is a global pre-seed venture capital firm founded in 2018 and headquartered in New York City. It writes $250,000 first checks into early-stage technology companies and is backed by a community of hundreds of founders and operators who serve as its limited partners and deal flow engine.",
+        "claim": "The firm page describes Everywhere Ventures as a global pre-seed investor writing $250,000 first checks and supported by a founder-and-operator community.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "a5adaf5ab242925b8ea67482781790127025d45fc5930060fdfb0929080a20fd"
+  },
+  {
+    "source": "full:3e0dc224a9c468ee8a18eaed",
+    "part": 1,
+    "identity": "target",
+    "reason": "The podcast page explicitly identifies Jenny Fielding as a co-founder of Everywhere Ventures, matching the resolved investor's affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jenny Fielding, co-founder of Everywhere Ventures, catches up with Neha Govindraj, founder and CEO of Bonside, on Episode 14: Catch You on the Bonside October 4, 2023",
+        "claim": "The Everywhere Ventures page identifies Fielding as a co-founder and dates her podcast conversation with Bonside CEO Neha Govindraj to October 4, 2023.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Everywhere is a pre-seed generalist fund with investments across Fintech, Health, Enterprise AI, Deeptech, Supply Chain, AI Infrastructure, Energy, Vertical AI, Security, and Space.",
+        "claim": "The firm page describes Everywhere as a pre-seed generalist fund investing across the listed technology sectors.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "f204d4398adb634f9c254c33291686a674e2ddccaaa95b4d7d6d04821c14e61e"
+  },
+  {
+    "source": "full:c5f1e5cbd9f912c19aaf2b26",
+    "part": 1,
+    "identity": "target",
+    "reason": "The podcast page explicitly identifies Jenny Fielding as Everywhere VC's co-founder and GP, matching the resolved investor's affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Matt Biringer, co-founder and CEO of North, chats with Jenny Fielding, co-founder and GP of Everywhere VC on episode 50: Cloud Cover. September 29, 2025",
+        "claim": "The Everywhere VC page identifies Fielding as its co-founder and GP and dates her podcast conversation with North CEO Matt Biringer to September 29, 2025.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Everywhere Ventures is a global pre-seed venture capital firm founded in 2018 and headquartered in New York City. It writes $250,000 first checks into early-stage technology companies and is backed by a community of hundreds of founders and operators who serve as its limited partners and deal flow engine.",
+        "claim": "The firm page describes Everywhere Ventures as a global pre-seed investor writing $250,000 first checks and supported by a founder-and-operator community.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "613cf94f408f112fd43687ac43cb5ce55058e5a94df2da64e056ba3f7037dc2b"
+  },
+  {
+    "source": "full:49a7858a1c666295acc36b9a",
+    "part": 1,
+    "identity": "target",
+    "reason": "The podcast page explicitly identifies Jenny Fielding as Managing Partner of Everywhere Ventures, matching the resolved investor's affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Ben Parsa, co-founder and CEO of CABA Design chats with Jenny Fielding, Managing Partner of Everywhere Ventures November 18, 2025",
+        "claim": "The Everywhere Ventures page identifies Fielding as Managing Partner and dates her podcast conversation with CABA Design CEO Ben Parsa to November 18, 2025.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Everywhere is a pre-seed generalist fund with investments across Fintech, Health, Enterprise AI, Deeptech, Supply Chain, AI Infrastructure, Energy, Vertical AI, Security, and Space.",
+        "claim": "The firm page describes Everywhere as a pre-seed generalist fund investing across the listed technology sectors.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "a863f2a40ef309b63e5222d61e4d636d6fddd0cbe92c934e00a17c5c3823d273"
+  },
+  {
+    "source": "full:31b538e532500ab656b09205",
+    "part": 1,
+    "identity": "target",
+    "reason": "The podcast page explicitly identifies Jenny Fielding as Managing Partner of Everywhere VC, matching the resolved investor's affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Toby Rush, co-founder and CEO of Ideem chats with Jenny Fielding, Managing Partner of Everywhere VC, on episode 74: Ideem it Secure. May 27, 2025",
+        "claim": "The Everywhere VC page identifies Fielding as Managing Partner and dates her podcast conversation with Ideem CEO Toby Rush to May 27, 2025.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Everywhere is a pre-seed generalist fund with investments across Fintech, Health, Enterprise AI, Deeptech, Supply Chain, AI Infrastructure, Energy, Vertical AI, Security, and Space.",
+        "claim": "The firm page describes Everywhere as a pre-seed generalist fund investing across the listed technology sectors.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "9e56b215f7592227c31b33d909a9528d5507b15f1bd4a94f3ac3c57d19919460"
+  },
+  {
+    "source": "full:aa63a318a83ad4f7106edc81",
+    "part": 1,
+    "identity": "target",
+    "reason": "The official Everywhere Ventures site identifies Jenny Fielding as Managing Partner, directly matching the resolved investor and affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jenny gnidleiF Fielding Managing Partner",
+        "claim": "The Everywhere Ventures website identifies Jenny Fielding as a Managing Partner; the intervening reversed text appears in the supplied page extraction.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "We invest $50-250k into pre-seed companies looking to raise between $500-$2M. We are happy to lead or partner with other investors. We are generalists at heart, but lean into three core areas: money, health, and work. We embrace first-time founders, and founders who may lack traction but have a distinct vision for a world that may not exist…yet.",
+        "claim": "The Everywhere Ventures website says the firm invests $50,000–$250,000 in pre-seed rounds of $500,000–$2 million, may lead or partner, emphasizes money, health, and work, and welcomes first-time or pre-traction founders with a distinct vision.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "It used to be that firms would invest in a 25-mile radius. We added a few zeros to that practice, investing around the world.",
+        "claim": "The firm website describes Everywhere Ventures as investing globally rather than within a narrow geographic radius.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Portfolio\nInvesting\nWithout\nBoundaries\nIt used to be that firms would invest in a 25-mile radius. We added a few zeros to that practice, investing around the world. Check our (growing) global portfolio:\n&you\nManila\nAdd Value Machine (AVM)\nAustin\nAdonis\nNew York\nAera\nAuckland\nAerodome\nNew York\nAgree\nNew York\nAllWork\nNew York\nAriglad\nSan Francisco\nAscend Arc\nPortland\nAsset Reality\nLondon\nAttend\nLos Angeles\nAuditive\nSan Francisco\nAugust\nNew York\nAxis\nCairo\nBehave\nNew York\nBetterleave\nAustin\nBeyondWill\nCincinnati\nBig Leap Health\nNew York\nBiotia\nNew York\nBlakthumb\nSydney\nBlerp\nSalt Lake City\nBonside\nChicago\nBooky\nManila\nBoom\nAustin\nBoomerang\nNew York\nBoost\nLondon\nBops AI\nNew York\nBoutiq\nAustin\nBreeze (Acquired)\nNew York\nBright Harbor\nAustin\nBrooklyn Health\nNew York\nBurro\nPhiladelphia\nCaba Design\nSan Francisco\nCabinet\nMinnesota\nCamu\nMexico City\nCandosa\nAustin\nCascade\nToronto\nCentury Health\nLos Angeles\nCeres Technology\nAustin\nChaiz\nAustin\nChargerhelp\nLos Angeles\nChartable (Acquired)\nNew York\nCircle\nNew York\nClean Cult\nNew York\nCoFertility\nLos Angeles\nCognarus\nLos Angeles\nComplyance\nLondon\nConceive\nNew York\nContra\nNew York\nCovertree\nDetroit\nCube\nNew York\nCurios\nAustin\nCybera\nZurich\nDalinea\nPittsburgh\nDapple Security\nDenver\nDathic\nNew York\nDevo\nLondon\nDollaride\nNew York\nDonna\nBrussels\nDorothy\nNew York\nDoWhatWorks\nNew York\nEcotone Renewables\nPittsburgh\nEfficient Capital Labs\nNew York\nElectric AI\nNew York\nElectric Plant Company\nDetroit\nElektra Health\nNew York\nEngFlow\nNew York\nEqu\nSydney\nEsembly\nNew York\nEudia\nSan Francisco\nEve Vehicles\nAustin\nEvergreen\nChicago\nEverlab\nSydney\nFernish\nLos Angeles\nFiguro\nMexico City\nFillow\nChicago\nFinalis\nSan Francisco\nFishwife\nLos Angeles\nFlaus\nNew York\nFlora\nToronto\nFlossy\nLos Angeles\nFlow Medical\nChicago\nFlume Internet\nNew York\nFlychain\nNew York\nForerunner\nNew York\nFoundation Technology\nSan Francisco\nFud\nLos Angeles\nFusePay\nSeychelles\nGdevelop\nLondon\nGentreo\nBoston\nGiide\nBoulder\nGlaize\nLondon\nGovWorx\nDenver\nGrapefruit Health\nChicago\nGround\nNew York\nGuaranteed\nNew York\nHaekka\nDenver\nHalfdays\nDenver\nHandl Health\nLos Angeles\nHark\nNew York\nHazel\nNew York\nHeadroom\nAspen\nHeadway\nNew York\nHealth Data Atlas\nAtlanta\nHIVED\nLondon\nHound\nDenver\nHuckleberry\nLos Angeles\nHum\nDetroit\nHuman Health\nSydney\nIdeem\nKansas City\nInbanx\nAustin\nIndemn\nBoston\nIONA Drones\nLondon\nJawa\nDenver\nJEFA (Acquired)\nMexico City\nJoe & Bella\nChicago\nJourney\nNew York\nK-ID\nSingapore\nKeebler\nDurham\nKey AI\nSan Francisco\nKhyaal\nMumbai\nKidsy\nChicago\nKinspire\nDenver\nLALO\nNew York\nLeeway Health\nSalt Lake City\nLegal Karma\nAustin\nLena Health\nAustin\nLiti\nSao Paulo\nLootLocker\nLondon\nLou Assist (Acquired)\nAustin\nLuna Vet Care\nPhoenix\nMaggie's Refuel\nLos Angeles\nMagicPort\nSingapore\nMaro\nBozeman\nMartie\nLos Angeles\nMary Technology\nSydney\nMatBook\nSeattle\nme&u\nSydney\nMesta\nSan Francisco\nMindstone\nLondon\nMixus\nSan Francisco\nModern Life\nNew York\nMoksa AI\nDetroit\nMoove AI\nDenver\nMorty\nNew York\nMuse Tax\nNew York\nMustard\nLos Angeles\nNed\nNew York\nNilo Saude\nSao Paulo\nNimble Insurance\nBoston\nNirvana Health\nNew York\nNoise\nSt. Louis\nNorth\nNew York\nNotably\nSt. Petersburg\no\nLondon\nOcto\nCairo\nOffered\nTampa\nOgram\nDubai\nOh Norman\nNew York\nOne Future Football\nMelbourne\nOneAssure\nBangalore\nOneDay\nLondon\nOneLot\nManila\nOnePipe\nLagos\nOPEN\nLos Angeles\nOpenLaw\nMiami\nOperant AI\nSan Francisco\nOrca Fraud\nCape Town\nOtis\nAustin\nOutfox Health\nSan Francisco\nOutmarket AI\nSan Francisco\nOutverse\nLondon\nOwnWell\nAustin\nPacksmith\nLos Angeles\nPair Eyewear\nNew York\nPaloma\nLos Angeles\nParticle Health\nNew York\nPartum Health\nChicago\nPastel\nLagos\nPhase Zero\nBoston\nPhoton Health\nNew York\nPingPong (Acquired)\nProvo\nPlantBaby\nAsheville\nPlaybook\nNew York\nPodcast Network Asia\nSingapore\nPrecium\nCape Town\nPresta\nCleveland\nPropHero\nSydney\nQuadratic\nBoulder\nQuinn\nLos Angeles\nRadar\nMexico City\nRadformation\nNew York\nRadicle Science\nLos Angeles\nRadish Health\nNew York\nRebel Space\nLos Angeles\nRedactable\nNew York\nRego\nPhiladelphia\nRelief\nMiami\nRemotely\nBarcelona\nReply AI (Acquired)\nNew York\nReportwell\nIndianapolis\nRestoke\nMelbourne\nRevive\nNew York\nReza\nDetroit\nRhizome\nSan Francisco\nRide iQ\nBoulder\nRings AI\nNew York\nRipe (Acquired)\nNew York\nRodeo\nLondon\nRubyWell\nNew York\nSalesken\nBangalore\nSalus Cloud\nCape Town\nSami\nSao Paulo\nSana Health\nBoulder\nSATIM\nKrakow\nScape\nMexico City\nSearch Eye\nToronto\nSegwise\nBangalore\nSerenity Engage\nDenver\nShard Secure\nNew York\nSharpei\nSan Francisco\nShopDot\nMissoula\nSideQuestVR\nBelfast\nSkipp Renovation\nNew York\nSmartHop\nMiami\nSmile ID\nLondon\nSourcemap\nLos Angeles\nSpade\nNew York\nStackfix\nLondon\nStarboard\nToronto\nStarcloud\nSeattle\nStitch\nCape Town\nStockpress\nNew York\nStratagen Bio\nBoston\nSubcity (Acquired)\nNew York\nSuite Studios\nBoulder\nSUMA Wealth\nLos Angeles\nSunset\nNew York\nSway\nLos Angeles\nSwiftCX\nAustin\nSwitchboard\nSydney\nTamarix\nMunich\nTana\nOslo\nTangible Markets\nLondon\nTattle\nNew York\nTen Little\nNew York\nTendrel\nBoston\nTesana\nLos Angeles\nTetsuone\nSan Francisco\nThe Block (Acquired)\nNew York\nThe Cru (Acquired)\nNew York\nThe Muse\nNew York\nThimble\nLos Angeles\nThreeV\nLos Angeles\nTitlewise\nLouisville\nTorigen\nNew York\nTough Day\nNew York\nTrace\nSydney\nTrace 3D\nColumbus\nTranscrypts\nSan Francisco\nTrebellar\nSan Francisco\nTurian\nBerlin\nTwice Commerce\nHelsinki\nUmba\nNairobi\nUserGems\nMiami\nVahan\nBangalore\nValence\nNew York\nVAMA\nNew Delhi\nVetraFi\nSan Francisco\nVincent\nNew York\nVitabowl (Acquired)\nLos Angeles\nVitalize Care\nSan Francisco\nViva\nAustin\nVivvi\nNew York\nVouch Insurance\nSan Francisco\nVOW\nNew York\nWagmo\nNew York\nWarp World / Crowd Control\nChicago\nWATS\nNew York\nWellthi\nWashington DC\nWurthy\nSan Francisco\nYumari\nMexico City\nZelt\nLondon\nZenpire Holdings (Fka: Staytuned)\nNew York\nZoven\nBangalore\nZyphe\nMilan",
+        "claim": "The firm’s portfolio page lists 286 company/location pairs in its self-described “growing” global portfolio, with several entries labeled “Acquired”; this reflects the firm’s own listing and does not independently establish current ownership, Jenny’s personal investments, or her leadership of any deal.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "fcb67407e74bccffca4f4a5079ee48575fa427229629e17eb3e4a7b6805d939e"
+  },
+  {
+    "source": "full:b15afad7e000e0f75ee65a76",
+    "part": 1,
+    "identity": "target",
+    "reason": "Anna Barber's post explicitly places Jenny Fielding at Everywhere Ventures alongside Scott Hartley, matching the resolved investor's affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Excited to share the news that after an amazing 5 years at M13, I’ve joined Everywhere Ventures as a GP! Thrilled to be working with Scott Hartley and Jenny Fielding for this next great chapter of building Everywhere!",
+        "claim": "Anna Barber reports that she joined Everywhere Ventures as a GP and would work with Scott Hartley and Jenny Fielding.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "15a0fd639a2e58687cfe9113ebd772365a4284ccf5c45b91d3df4e17afcd09ee"
+  },
+  {
+    "source": "full:c2625d0b8c5c55272f8844d0",
+    "part": 1,
+    "identity": "target",
+    "reason": "The podcast page explicitly identifies Jenny Fielding as a GP of Everywhere Ventures, matching the resolved investor's affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Etienne Louvet, founder and CEO of IONA chats with Jenny Fielding, GP of Everywhere Ventures on episode 109: IONA Drone. March 12, 2026",
+        "claim": "The Everywhere Ventures page identifies Fielding as a GP and dates her podcast conversation with IONA CEO Etienne Louvet to March 12, 2026.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Everywhere Ventures is a global pre-seed venture capital firm founded in 2018 and headquartered in New York City. It writes $250,000 first checks into early-stage technology companies and is backed by a community of hundreds of founders and operators who serve as its limited partners and deal flow engine.",
+        "claim": "The firm page describes Everywhere Ventures as a global pre-seed investor writing $250,000 first checks and supported by a founder-and-operator community.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "1efe4066931ce760f570e8ebf285d030f6c94ab2092fbb6fd6046ab245832697"
+  },
+  {
+    "source": "full:ece284b2722309205f131430",
+    "part": 1,
+    "identity": "target",
+    "reason": "The podcast page explicitly identifies Jenny Fielding as a co-founder of Everywhere Ventures, matching the resolved investor's affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Jenny Fielding, co-founder of Everywhere Ventures catches up with Kevin Delaney, co-founder and CEO of Charter on Episode 1: Work in Progress. September 29, 2025",
+        "claim": "The Everywhere Ventures page identifies Fielding as a co-founder and dates her podcast conversation with Charter CEO Kevin Delaney to September 29, 2025.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Everywhere is a pre-seed generalist fund with investments across Fintech, Health, Enterprise AI, Deeptech, Supply Chain, AI Infrastructure, Energy, Vertical AI, Security, and Space.",
+        "claim": "The firm page describes Everywhere as a pre-seed generalist fund investing across the listed technology sectors.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "9a9f4c6a8296ad0e98d278bf69e72fa30cfa9f6321df3f0c06f9fd3ad9a82e59"
+  },
+  {
+    "source": "full:753c3755352641d048cb2e11",
+    "part": 1,
+    "identity": "target",
+    "reason": "The podcast page explicitly identifies Jenny Fielding as Managing Partner of Everywhere Ventures, matching the resolved investor's affiliation despite the title's Kelvin/Kevin inconsistency concerning the guest.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Kevin Chan, Co-Founder and CEO of Nirvana chats with Jenny Fielding, Managing Partner of Everywhere Ventures. January 28, 2025",
+        "claim": "The Everywhere Ventures page identifies Fielding as Managing Partner and dates her conversation with Nirvana CEO Kevin Chan to January 28, 2025.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Everywhere is a pre-seed generalist fund with investments across Fintech, Health, Enterprise AI, Deeptech, Supply Chain, AI Infrastructure, Energy, Vertical AI, Security, and Space.",
+        "claim": "The firm page describes Everywhere as a pre-seed generalist fund investing across the listed technology sectors.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "87c1ae761658ec580ab50d9e773a224566908c1a10b0430aa63c3e292d7de251"
+  }
+]

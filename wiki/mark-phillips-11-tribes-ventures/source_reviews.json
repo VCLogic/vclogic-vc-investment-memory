@@ -1,0 +1,1970 @@
+[
+  {
+    "source": "full:6997df84449bd24c2e02ed3a",
+    "part": 1,
+    "identity": "target",
+    "reason": "The episode description explicitly identifies its guest as “Mark Phillips, Founder of 11 Tribes Ventures,” matching the resolved investor and describing his firm’s thesis and NQS investment.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Mark Phillips, Founder of 11 Tribes Ventures, joins Impact Investing Roadshow to discuss his firm's founder-first venture capital thesis and their investment in NQS (National Quality Systems), a vertical AI platform transforming trauma registry management for U.S. hospital emergency departments.",
+        "claim": "The Spotify episode description reports that Mark Phillips founded 11 Tribes Ventures and discusses the firm’s founder-first thesis and investment in NQS.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "a49dec27754d4128f9a147956712e8631f34f6a7189583a02129016bf7abb0e9"
+  },
+  {
+    "source": "full:1f35b810b1e8ae2b8199726b",
+    "part": 1,
+    "identity": "target",
+    "reason": "The episode page identifies Mark Phillips as Founder of 11 Tribes Ventures and provides specific source-reported details about the firm’s NQS investment.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Mark Phillips, Founder of 11 Tribes Ventures, joins Impact Investing Roadshow to discuss his firm's founder-first venture capital thesis and their investment in NQS (National Quality Systems), a vertical AI platform transforming trauma registry management for U.S. hospital emergency departments.",
+        "claim": "The episode description reports that Mark Phillips founded 11 Tribes Ventures and discusses its founder-first thesis and NQS investment.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "11 Tribes co-invested alongside lead investor Long Run Capital, committing an initial $750,000 check into a priced seed round at an $8 million post-money valuation, with the total raise of $2 million split between the two firms.",
+        "claim": "The episode page reports that 11 Tribes and lead investor Long Run Capital split NQS’s $2 million priced seed round, with 11 Tribes initially investing $750,000 at an $8 million post-money valuation.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "A defining feature of the investment was NQS's 16 signed hospital contracts at the time of closing—despite the product being six to eight weeks from launch—a rare validation of both market urgency and founder credibility.",
+        "claim": "The episode page reports that NQS had 16 signed hospital contracts at closing while its product was still six to eight weeks from launch, presenting this as validation of market urgency and founder credibility.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Operating partner Carolyn Wilson, former COO of the University of Chicago Health System, provided critical domain expertise during diligence.",
+        "claim": "The episode page reports that 11 Tribes operating partner Carolyn Wilson supplied healthcare-domain expertise during NQS diligence.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "The round closed in March 2025, the product launched within weeks, and NQS has since grown rapidly. 11 Tribes has made two additional investment tranches, including a recent $750,000 follow-on that effectively constitutes a Series A.",
+        "claim": "The episode page reports that the NQS round closed in March 2025 and that 11 Tribes subsequently made two additional tranches, including a $750,000 follow-on characterized as effectively a Series A.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "915daba2265c70690f2738106abd7ebe0ee166a47cbded2e45113ccdf28a3e9a"
+  },
+  {
+    "source": "full:58b9b390dc21102c7d8f5b5b",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Spotify page explicitly identifies the interview subject as Mark Phillips, Managing Partner of 11 Tribes Ventures, matching the resolved investor, but supplies no attributable transcript.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Interview with Mark Phillips, Managing Partner of 11 Tribes Ventures",
+        "claim": "The Spotify episode title identifies Mark Phillips as Managing Partner of 11 Tribes Ventures.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "ATLalts Oct 12, 2021 50 min",
+        "claim": "Spotify dates the interview to October 12, 2021.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "1f55b56b1fdf9b8ff3017f4343e81f2effa9fedec84278469ba58e3ca65592a5"
+  },
+  {
+    "source": "full:e74b5827407751760fc8dbc2",
+    "part": 1,
+    "identity": "target",
+    "reason": "The show description explicitly identifies host Mark Phillips as the founder of 11 Tribes Ventures, matching the resolved investor, while the remaining episode summaries primarily concern his guests.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Host Mark Phillips, founder of 11 Tribes Ventures, sits down with founders and leaders to talk honestly about what it cost to get here, and who they became on the way through.",
+        "claim": "The show description identifies Mark Phillips as founder of 11 Tribes Ventures and host of interviews focused on founders’ and leaders’ difficult formative experiences.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Through the Valley is hosted by Mark Phillips, founder of 11 Tribes Ventures, and explores the seasons of loss, failure, and doubt behind remarkable careers.",
+        "claim": "The page reports that 11 Tribes Ventures founder Mark Phillips hosts Through the Valley, a show about periods of loss, failure, and doubt in notable careers.",
+        "kind": "biography"
+      }
+    ],
+    "input_fingerprint": "264acc34c964b3c905896254dbb45a37e825b3c491a6c73e698ea4939274c3f3"
+  },
+  {
+    "source": "full:89fd4d1e41efab7a0857d61d",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page identifies its guest as 11 Tribes Ventures founder and Managing Partner Mark Phillips and supplies a matching professional biography and investment remit.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "He is the founder of Eleven Tribes Ventures- which invest in start-up companies.",
+        "claim": "The host’s introduction identifies Mark Phillips as founder of Eleven Tribes Ventures and describes it as a startup investor.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "They even put money aside when they invest in companies to put towards the mental health of these founders.",
+        "claim": "The host reports that 11 Tribes reserves money in its investments to support founders’ mental health.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Mark Phillips is the Founder and Managing Partner of 11 Tribes Ventures. In his role with 11 Tribes, he leads the firm's investment team, focusing on early-stage technology companies in industries that are ripe for disruption.",
+        "claim": "The episode biography identifies Phillips as Founder and Managing Partner of 11 Tribes Ventures and says he leads investments in early-stage technology companies in industries considered ripe for disruption.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Prior to launching 11 Tribes, Mark was a strategy consultant, focused on M&A between corporations and growth stage startups. He actively supported clients throughout the due diligence and post-merger integration processes on deals totaling more than $750M.",
+        "claim": "The episode biography reports that before 11 Tribes, Phillips advised on M&A involving corporations and growth-stage startups and supported diligence and integration for deals totaling more than $750 million.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Mark earned his MBA from the University of Chicago Booth School of Business, concentrating on entrepreneurial finance and strategic management. He is also an adjunct professor of finance at Wheaton College.",
+        "claim": "The episode biography reports that Phillips earned an MBA from Chicago Booth with concentrations in entrepreneurial finance and strategic management and served as an adjunct finance professor at Wheaton College.",
+        "kind": "biography"
+      }
+    ],
+    "input_fingerprint": "0f8a6a4bb40553444b8a3efb093b3a13e34ff7864b1d87ccec674f161a97f0c5"
+  },
+  {
+    "source": "full:b9a6be50d877f18c963c6260",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page title explicitly identifies an interview with Mark Phillips as Managing Partner of 11 Tribes Ventures, matching the resolved investor, although the captured body lists unrelated ATLalts episodes.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Interview with Mark Phillips, Managing Partner of 11 Tribes Ventures",
+        "claim": "The page title identifies Mark Phillips as Managing Partner of 11 Tribes Ventures.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "f20d0cdb65d20eb0a0f46bb256cbbaae54526eec67f3f33888bf6b9d5a9c07af"
+  },
+  {
+    "source": "full:b9a6be50d877f18c963c6260",
+    "part": 2,
+    "identity": "other",
+    "reason": "Although the page title names Mark Phillips of 11 Tribes Ventures, this packet contains only unrelated episode listings about BIS Benefits, Sreeni Prabhu, Jay Jackson, Marissa Kim, Alan Strauss, Howard Abrahams, and other guests, with no substantive material about the target investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "d107ddce418005eb381e36400b52bfd260283047a4172275b7ebb8ac153fc783"
+  },
+  {
+    "source": "full:b9a6be50d877f18c963c6260",
+    "part": 3,
+    "identity": "other",
+    "reason": "This continuation consists entirely of unrelated ATLalts listings about Kimberly Ann Flynn, Michael Liss, Robert Swarthout, Mike Shum, and other subjects, without substantive material about Mark Phillips or 11 Tribes Ventures.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "ab04836cd9e95f46dd4a5ee5e65bc0bff70d8a49815ceff0f36e19d9c22cf8d0"
+  },
+  {
+    "source": "full:1b29231d7f1b5914fa342681",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Apple Podcasts page explicitly identifies host Mark Phillips as the founder of 11 Tribes Ventures, matching the resolved investor affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Host Mark Phillips, founder of 11 Tribes Ventures, sits down with founders and leaders to talk honestly about what it cost to get here, and who they became on the way through.",
+        "claim": "The Apple Podcasts description identifies Mark Phillips as the founder of 11 Tribes Ventures and host of the founder-focused interview show Through the Valley.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Años de actividad\n2026\nEpisodios\n6",
+        "claim": "The Apple Podcasts information section reports that Through the Valley was active in 2026 and had six episodes at the time represented by the page.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "db741611cd7fde4e37b8f718beec5df81367e884f16381ed27f0feb34183dfee"
+  },
+  {
+    "source": "full:908857783bcf2dd3af27fa6c",
+    "part": 1,
+    "identity": "target",
+    "reason": "The episode page explicitly identifies its guest as Mark Phillips, founder of 11 Tribes Ventures, and discusses that firm's founder-first thesis and NQS investment.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Mark Phillips, Founder of 11 Tribes Ventures, joins Impact Investing Roadshow to discuss his firm's founder-first venture capital thesis and their investment in NQS (National Quality Systems), a vertical AI platform transforming trauma registry management for U.S. hospital emergency departments.",
+        "claim": "The episode description identifies Mark Phillips as founder of 11 Tribes Ventures and characterizes the firm as pursuing a founder-first venture-capital thesis.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "11 Tribes co-invested alongside lead investor Long Run Capital, committing an initial $750,000 check into a priced seed round at an $8 million post-money valuation, with the total raise of $2 million split between the two firms.",
+        "claim": "The episode notes report that 11 Tribes Ventures co-invested in NQS alongside Long Run Capital, initially committing $750,000 in a $2 million priced seed round at an $8 million post-money valuation.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "A defining feature of the investment was NQS's 16 signed hospital contracts at the time of closing—despite the product being six to eight weeks from launch—a rare validation of both market urgency and founder credibility.",
+        "claim": "The episode notes report that NQS had 16 signed hospital contracts at closing while its product was still six to eight weeks from launch, presenting this as validation of market urgency and founder credibility.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Operating partner Carolyn Wilson, former COO of the University of Chicago Health System, provided critical domain expertise during diligence.",
+        "claim": "The episode notes report that 11 Tribes operating partner Carolyn Wilson contributed healthcare domain expertise to the NQS diligence process.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "The round closed in March 2025, the product launched within weeks, and NQS has since grown rapidly. 11 Tribes has made two additional investment tranches, including a recent $750,000 follow-on that effectively constitutes a Series A.",
+        "claim": "The episode notes report that the NQS round closed in March 2025 and that 11 Tribes subsequently made two additional investments, including a $750,000 follow-on described as effectively a Series A.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Published\nMarch 28, 2026 at 7:00 PM UTC",
+        "claim": "Apple Podcasts reports that this episode was published on March 28, 2026 at 7:00 PM UTC.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "18aa5f522db0dccde54f8b08601a4616ed1d51069f0c62a408caaebcae2d9009"
+  },
+  {
+    "source": "full:d19857ed5db52839268fc890",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Spotify page explicitly identifies its host as “Mark Phillips, founder of 11 Tribes Ventures,” matching the resolved investor, but it provides no verbatim investment commentary attributable to him.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Host Mark Phillips, founder of 11 Tribes Ventures, sits down with founders and leaders to talk honestly about what it cost to get here, and who they became on the way through.",
+        "claim": "The show description identifies Mark Phillips as the founder of 11 Tribes Ventures and host of Through the Valley.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Pro Basketball to 5x Founder: A Masterclass in Resilience | Jordan Fliegel\nThrough The ValleySep 16, 2026",
+        "claim": "The page reports a Through the Valley episode dated September 16, 2026.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "0cbc3d44b879e921f47b3693b66647ad60ed458650173df2cdd1e7ea5e3fc824"
+  },
+  {
+    "source": "full:09464a68bc1e47cd213b282d",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Spotify page identifies Mark Phillips through the exact 11 Tribes Ventures affiliation in the resolved identity, while its episode summaries do not contain his directly quoted investment views.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Through the Valley is a long-form interview show about those chapters. Host Mark Phillips, founder of 11 Tribes Ventures, sits down with founders and leaders to talk honestly about what it cost to get here, and who they became on the way through.",
+        "claim": "The show description identifies Mark Phillips as the founder of 11 Tribes Ventures and the host of a long-form founder interview show.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Cancer at 30, and the Company He Built After It | Founder Brandon Aversano, The Alloy Market\nThrough The ValleySep 09, 2026",
+        "claim": "The page reports the featured Through the Valley episode as dated September 9, 2026.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "1a7d8a544ec49f49001dbfd4e12025c064f340fc6b676e1cbf3b900d3014a189"
+  },
+  {
+    "source": "full:5242bba8f431a91b20f9488f",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Apple Podcasts listing explicitly presents “Mark Phillips from 11 Tribes Capital,” which resolves to the target investor, though the supplied material is an editorial summary rather than his verbatim speech.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Join Mark Phillips from 11 Tribes Capital as he shares his journey from startup failures to founding a unique venture firm.",
+        "claim": "Apple Podcasts describes Mark Phillips as affiliated with 11 Tribes Capital and as having founded a venture firm after startup failures.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Mark offers advice on supporting entrepreneurs beyond capital, differences in fundraising, and the importance of verification.",
+        "claim": "The episode summary reports that Phillips discusses supporting entrepreneurs beyond capital, fundraising differences, and verification.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Gain tips on starting a venture firm, building an LP pipeline, and fostering community.",
+        "claim": "The episode summary reports discussion of venture-firm formation, LP pipeline development, and community building.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Published\nJuly 30, 2025 at 10:00 AM UTC",
+        "claim": "Apple Podcasts reports that the episode was published on July 30, 2025 at 10:00 AM UTC.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "ae0af8e9b70630fcd61e0024ac9e5ce0afb204cb99a61d8af382826f7b0b52ef"
+  },
+  {
+    "source": "full:f808adba8accbfcfc0de6513",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Apple Podcasts show page explicitly names Mark Phillips as creator and identifies him as the founder of 11 Tribes Ventures, directly matching the resolved identity.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Host Mark Phillips, founder of 11 Tribes Ventures, sits down with founders and leaders to talk honestly about what it cost to get here, and who they became on the way through.",
+        "claim": "Apple Podcasts identifies Mark Phillips as the founder of 11 Tribes Ventures and host of Through the Valley.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Creator\nMark Phillips",
+        "claim": "Apple Podcasts lists Mark Phillips as the creator of Through the Valley.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Years Active\n2026",
+        "claim": "Apple Podcasts reports the show's active year as 2026.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "101571367765e197ba0cbc2233695f12ca3a445c19374eb74dd374d2cacba6b1"
+  },
+  {
+    "source": "full:e204d4aac639543085747a8e",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Spotify episode description explicitly identifies its guest as Mark Phillips, Founder and Managing Partner at 11 Tribes Ventures, matching the resolved investor, but supplies only paraphrased topics rather than direct quotations.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "In this episode, we sit down with Mark Phillips, Founder and Managing Partner at 11 Tribes Ventures, to break down venture capital in plain language.",
+        "claim": "The episode description identifies Mark Phillips as Founder and Managing Partner at 11 Tribes Ventures.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Mark explains what venture capital is (and what it isn’t), when raising money makes sense, when it doesn’t, and why giving up ownership too early can be a costly mistake.",
+        "claim": "The episode description reports that Phillips discusses financing suitability and the potential cost of surrendering ownership too early.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Mark Phillips is the Founder and Managing Partner of 11 Tribes Ventures, a venture capital firm that invests in founders and businesses poised for exponential growth.",
+        "claim": "The guest biography describes 11 Tribes Ventures as investing in founders and businesses positioned for exponential growth.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Mark works closely with entrepreneurs to help them scale responsibly and intentionally.",
+        "claim": "The guest biography reports that Phillips works closely with entrepreneurs on responsible, intentional scaling.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "9978d6d44867355c38289e5240d3ea621958db82ba36fb2fd73561ba77decc66"
+  },
+  {
+    "source": "full:0107a9e46940cfb88c42f2dc",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page explicitly identifies host Mark Phillips as the founder of 11 Tribes Ventures, matching the resolved affiliation, but it contains no clearly attributed decision-relevant statements in his own words.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Host Mark Phillips, founder of 11 Tribes Ventures, sits down with founders and leaders to talk honestly about what it cost to get here, and who they became on the way through.",
+        "claim": "The podcast page identifies Mark Phillips as the founder of 11 Tribes Ventures and host of founder and leader interviews.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "573f04f301ced0106e02e807f1473b8dbf42810c8cf01ad7e46d05c912e6034c"
+  },
+  {
+    "source": "full:9a6e8e80cf7a5846673d053f",
+    "part": 1,
+    "identity": "target",
+    "reason": "The episode identifies Mark Phillips with 11 Tribes Capital and describes his venture-firm journey and investor-support approach, matching the resolved investor despite the firm's name being rendered as “Capital.”",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Join Mark Phillips from 11 Tribes Capital as he shares his journey from startup failures to founding a unique venture firm.",
+        "claim": "The Spotify episode description reports that Mark Phillips founded a venture firm after experiencing startup failures.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Mark offers advice on supporting entrepreneurs beyond capital, differences in fundraising, and the importance of verification.",
+        "claim": "The episode description attributes to Phillips an approach involving founder support beyond capital and an emphasis on verification.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Gain tips on starting a venture firm, building an LP pipeline, and fostering community. Learn about skills for VC success, creative fund structuring, and building relationships with major VC firms.",
+        "claim": "The episode description reports that Phillips discusses venture-firm formation, LP development, community, fund structuring, and VC relationships.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "f70d5b0d4146e29a6abcb902815b3a9d6dcedee87d1d24afd3eaacd78b10ebf9"
+  },
+  {
+    "source": "full:2af8f50455df68124611d23c",
+    "part": 1,
+    "identity": "target",
+    "reason": "The title explicitly names Mark Phillips as Managing Partner of 11 Tribes Ventures, matching the resolved identity, while the supplied material provides topic summaries rather than quotations of his speech.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Interview with Mark Phillips, Managing Partner of 11 Tribes Ventures",
+        "claim": "The episode page identifies Mark Phillips as Managing Partner of 11 Tribes Ventures.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "18:35 Investing in founders and their well being\n23:37 Financial, relational, and intellectual capital\n26:48 The focus of 11 Tribes Ventures",
+        "claim": "The episode description reports discussion of investing in founders and their well-being, multiple forms of capital, and 11 Tribes Ventures' focus.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "30:34 The qualities of backable founders\n35:19 11 Tribes Ventures principles of investing\n41:11 Industries and themes we are investing in at 11 Tribes Ventures",
+        "claim": "The episode description reports that Phillips discusses backable-founder qualities, the firm's investing principles, and its target industries and themes.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "436189f24ba5eb3cce228526963b395c48c454bd7b011b947bee4c6c2a44a8f1"
+  },
+  {
+    "source": "full:dc6081a6d57bc3d7cf498684",
+    "part": 1,
+    "identity": "unusable",
+    "reason": "The fetched body contains only “Nous y arrivons,” providing no usable content about the named guest or investor.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "fb258130c5424b14b7393ca7df96f9d23bc844fd7c4f44d616807fc78fa8582f"
+  },
+  {
+    "source": "full:1872619d66b6d84d452f33a4",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page explicitly identifies host Mark Phillips as founder of 11 Tribes Ventures, matching the resolved affiliation, but its investment-related points are attributed to guests or presented only as episode summaries.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Host Mark Phillips, founder of 11 Tribes Ventures, sits down with founders and leaders to talk honestly about what it cost to get here, and who they became on the way through.",
+        "claim": "The podcast page identifies Mark Phillips as the founder of 11 Tribes Ventures and host of founder and leader interviews.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "ed50d34935ac2c97548cf104eeb5caef58623b9231208cd0a477285b919e7353"
+  },
+  {
+    "source": "full:cb881829c42c0724984b898e",
+    "part": 1,
+    "identity": "target",
+    "reason": "The profile repeatedly identifies Mark Phillips as the founder and Managing Partner of 11 Tribes Ventures in Chicago, matching the resolved investor, though it contains third-party profile text rather than his own quotations.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Mark Phillips is the Founder and Managing Partner at 11 Tribes Ventures, an early-stage venture capital firm based in the western suburbs of Chicago.",
+        "claim": "The aggregator profile reports that Mark Phillips is founder and Managing Partner of the Chicago-area early-stage firm 11 Tribes Ventures.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Prior to establishing 11 Tribes Ventures, Phillips began his professional career working as a strategy consultant specializing in mergers and acquisitions before earning his Master of Business Administration from the University of Chicago Booth School of Business.",
+        "claim": "The aggregator reports that Phillips worked in M&A strategy consulting and earned an MBA from the University of Chicago Booth before establishing 11 Tribes Ventures.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Following his graduate studies, he launched his own entrepreneurial venture, and the subsequent failure of this initial startup directly catalyzed his professional transition into the venture capital industry.",
+        "claim": "The aggregator reports that the failure of Phillips's post-MBA startup led to his transition into venture capital.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Today, Phillips focuses on providing early-stage capital alongside comprehensive personal development support to help founders navigate the operational and psychological challenges of building purpose-driven companies.",
+        "claim": "The aggregator characterizes Phillips's investment approach as combining early-stage capital with personal-development support for founders of purpose-driven companies.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "0e925f849c1763762db75aa5f11f0d061615383545fac72923156e3bcc0329a1"
+  },
+  {
+    "source": "full:0a136524cb90a78d86fdae52",
+    "part": 1,
+    "identity": "target",
+    "reason": "The first-person article is published by Mark Phillips on the supplied “markphillips11t” Substack account, linking its author to the resolved 11 Tribes investor.",
+    "evidence": [
+      {
+        "quote": "What remains is everything a machine cannot do. Suffer and yet persist. Love someone you might lose. Choose to move forward in the face of fear.",
+        "label": "founder_qualities",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "Phillips regards persistence, love despite vulnerability, and forward movement under fear as distinctly valuable human qualities in an AI-shaped world.",
+        "attribution_basis": "The passage appears in a first-person article bylined “Mark Phillips” on the supplied markphillips11t Substack account, which anchors the author to 11 Tribes."
+      },
+      {
+        "quote": "The person who has come face to face with their own limitations and the reality of death is the person who understands what it truly means to be human–they are the person who will never be replaced by AI. Not because the information they have collected is rare, but because the formation they have experienced is real.",
+        "label": "founder_qualities",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "Phillips places greater value on personal formation through confronting limitations than on accumulated information alone.",
+        "attribution_basis": "The passage appears in a first-person article bylined “Mark Phillips” on the supplied markphillips11t Substack account, which anchors the author to 11 Tribes."
+      }
+    ],
+    "context": [],
+    "input_fingerprint": "1ae12408cb71c38ba08636f6b8c06aaf77b949b31282283d23fce3b1a32b3bda"
+  },
+  {
+    "source": "full:3c48e265911764b0010b398a",
+    "part": 1,
+    "identity": "target",
+    "reason": "The first-person letter is published by Mark Phillips on the supplied “markphillips11t” Substack account, linking its author to the resolved 11 Tribes investor, but it offers no sufficiently specific investment-evaluation insight.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "a2607b5f94118c22e3fbff3a17dd8a65d7b3f1702c2ff000136b4469688f11b4"
+  },
+  {
+    "source": "full:3d6d05d337ddfa9ac149c355",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page identifies Mark Phillips as a host of “Masters of Resilience,” matching the supplied target profile that lists him as the podcast’s host, but it contains no unambiguously attributed investment commentary from him.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Ryan Seager and Mark Phillips\nMasters of Resilience",
+        "claim": "The podcast page identifies the target as a co-host of Masters of Resilience.",
+        "kind": "biography"
+      }
+    ],
+    "input_fingerprint": "09b1551dee36939f81e4052e5287ac8fe1f668bbeab854f07546defc69bf47df"
+  },
+  {
+    "source": "full:a0d675b55fb4349fc266b127",
+    "part": 1,
+    "identity": "target",
+    "reason": "This first-person annual letter is authored by Mark Phillips and repeatedly identifies his firm as 11 Tribes Ventures, the resolved investor’s confirmed affiliation.",
+    "evidence": [
+      {
+        "quote": "But more importantly, we heard from countless entrepreneurs that our strategy – rejecting a growth at all costs mentality in favor of sustainable, durable, and profitable growth – is deeply needed.",
+        "label": "business_model_assessment",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Phillips favors companies pursuing sustainable, durable, and profitable growth rather than growth at any cost.",
+        "attribution_basis": "The passage appears in a first-person annual letter titled “11 Tribes 2023 Annual Letter” and authored by Mark Phillips."
+      },
+      {
+        "quote": "But as emerging funds like 11 Tribes have begun to compete, participating not as financiers, but as operationally minded, value-additive partners to entrepreneurs, the strategy of remaining small and agile as a fund has become a competitive advantage",
+        "label": "investor_value_add_fit",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Phillips views operational partnership and fund agility as competitive advantages over providing capital alone.",
+        "attribution_basis": "The passage appears in a first-person annual letter titled “11 Tribes 2023 Annual Letter” and authored by Mark Phillips."
+      },
+      {
+        "quote": "The focus on the founder outcome is the bedrock of our thesis and core to every investment.",
+        "label": "investment_thesis_constraint",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Founder outcomes are an explicit requirement in 11 Tribes’ investment thesis.",
+        "attribution_basis": "The passage appears in a first-person annual letter titled “11 Tribes 2023 Annual Letter” and authored by Mark Phillips."
+      },
+      {
+        "quote": "This past year brought more clarity and conviction in our need to optimize for both founder and business outcomes, ensuring that financial returns are not generated at the expense of the founder’s wellbeing.",
+        "label": "mission_alignment_preference",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Phillips seeks investments that combine financial performance with protection of founder wellbeing.",
+        "attribution_basis": "The passage appears in a first-person annual letter titled “11 Tribes 2023 Annual Letter” and authored by Mark Phillips."
+      },
+      {
+        "quote": "Our robust LP-base is steadily becoming a competitive differentiator and value-add to our entire portfolio.",
+        "label": "investor_value_add_fit",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Phillips considers the firm’s LP network a source of practical portfolio value.",
+        "attribution_basis": "The passage appears in a first-person annual letter titled “11 Tribes 2023 Annual Letter” and authored by Mark Phillips."
+      },
+      {
+        "quote": "No one truly knows where the market is headed. We choose to remain disciplined, patient, and opportunistic.",
+        "label": "market_timing",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "Phillips responds to uncertain markets through patient and opportunistic deployment rather than claiming to predict timing.",
+        "attribution_basis": "The passage appears in a first-person annual letter titled “11 Tribes 2023 Annual Letter” and authored by Mark Phillips."
+      },
+      {
+        "quote": "The hype of 2020-2022 was exceptionally damaging to the venture ecosystem, and furthermore, undisciplined investing with outrageous valuations do not predict a strong future outcome or future fundraising success. We have avoided and continue to avoid these inflated rounds.",
+        "label": "stage_valuation_mismatch",
+        "direction": "negative",
+        "support": "explicit",
+        "interpretation": "Phillips avoids financing rounds he regards as inflated because high valuations do not themselves predict strong outcomes or later fundraising.",
+        "attribution_basis": "The passage appears in a first-person annual letter titled “11 Tribes 2023 Annual Letter” and authored by Mark Phillips."
+      },
+      {
+        "quote": "We would prefer an A-team with a B-idea over an A-idea with a B-team every time.",
+        "label": "founder_qualities",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Phillips prioritizes team quality over the apparent quality of the initial idea.",
+        "attribution_basis": "The passage appears in a first-person annual letter titled “11 Tribes 2023 Annual Letter” and authored by Mark Phillips."
+      }
+    ],
+    "context": [
+      {
+        "quote": "Despite the headwinds, we expanded our team, launched 11 Tribes Ventures Fund II, and raised over $20M.",
+        "claim": "In the January 4, 2024 letter, Phillips reported that 11 Tribes had launched Fund II and raised more than $20 million.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "From day one, we prioritized providing access to this dynamic asset class and somewhat inadvertently, built a broad set of investors, many of whom come from entrepreneurial backgrounds.",
+        "claim": "Phillips described 11 Tribes as having deliberately broadened access to venture capital and assembled an investor base containing many entrepreneurs.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "With the addition of our newest partner and head of platform, Jeff Baxter, we are turning this dynamic network into a weapon for growth.",
+        "claim": "Phillips reported that Jeff Baxter had joined 11 Tribes as partner and head of platform to help activate its investor network for growth.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "09f721d157646237d10452d365e03fd92c331548302bedefba1c3f14ceb44f44"
+  },
+  {
+    "source": "full:b6c1f647e19d7922520a6ed7",
+    "part": 1,
+    "identity": "target",
+    "reason": "The article explicitly identifies its subject as Mark Phillips, Managing Partner of 11 Tribes Ventures, matching the resolved investor.",
+    "evidence": [
+      {
+        "quote": "Your worth is not your company.",
+        "label": "founder_qualities",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "Phillips separates a founder’s personal worth from company performance, reflecting his emphasis on psychologically sustainable company building.",
+        "attribution_basis": "The article presents this as a direct quotation followed by “— Mark Phillips” after identifying the interviewee as 11 Tribes’ managing partner."
+      }
+    ],
+    "context": [
+      {
+        "quote": "In this week's episode of Fearful Giants, I sat down with Mark Phillips, Managing Partner of 11 Tribes Ventures - a VC firm doing something most investors won't touch: putting founder resilience at the center of their investment thesis.",
+        "claim": "The interviewer identifies Phillips as Managing Partner of 11 Tribes Ventures and characterizes founder resilience as central to the firm’s thesis.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Before founding 11 Tribes, Mark built a medical device company for type 1 diabetics while in business school.",
+        "claim": "The article reports that Phillips built a medical-device startup for people with type 1 diabetes before founding 11 Tribes.",
+        "kind": "biography"
+      },
+      {
+        "quote": "The company failed. He couldn't raise the capital. He got leapfrogged by competitors.",
+        "claim": "The article reports that Phillips’ medical-device company failed after he could not raise capital and competitors overtook it.",
+        "kind": "biography"
+      },
+      {
+        "quote": "That identity crisis became the foundation for 11 Tribes Ventures, where the tagline is \"capital and care\" and the thesis is simple: founder outcomes matter as much as business outcomes.",
+        "claim": "The article attributes the origin of 11 Tribes’ capital-and-care thesis to Phillips’ identity crisis following his startup failure.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "11 Tribes invests in companies where they believe founder wellbeing will directly correlate with better business outcomes.",
+        "claim": "The article reports that 11 Tribes invests where it believes founder wellbeing will contribute directly to business performance.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "43082d57984020c186d81d3843d167674fd58a4c3cc5883cf89bef289af4c823"
+  },
+  {
+    "source": "full:89b3d06f9afe7d49f466ea2b",
+    "part": 1,
+    "identity": "target",
+    "reason": "The article is authored by Mark Phillips on the markphillips11t publication and discusses how “our team” evaluates businesses, tying it to the resolved 11 Tribes investor.",
+    "evidence": [
+      {
+        "quote": "the winners will be those who recognize that competitive moats are not about data or knowledge, they’re about creating systems that generate, process, and learn from data better than anyone else.",
+        "label": "competitive_advantage_assessment",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Phillips believes defensibility in an AI-rich environment comes from superior systems for generating, processing, and learning from data rather than merely possessing data or knowledge.",
+        "attribution_basis": "The passage is Phillips’ own analysis in an article bearing his byline on the markphillips11t publication."
+      }
+    ],
+    "context": [
+      {
+        "quote": "Personally, it has made me significantly more productive, and it has made a material difference in our team’s ability to remain small while engaging in a level of diligence previously unattainable for a team our size.",
+        "claim": "Phillips reported in October 2025 that AI materially increased his small team’s diligence capacity.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "As we meet and analyze thousands of businesses each year, we are seeing a distinct shift away from the power of knowledge",
+        "claim": "Phillips reported that his team meets and analyzes thousands of businesses annually.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "100c7a29afe9533dac54327fbebe8e0b6999559836824f083a5b4bc7a7aea637"
+  },
+  {
+    "source": "full:e02e3485d5a184c90a123d6d",
+    "part": 1,
+    "identity": "target",
+    "reason": "The post is authored by Mark Phillips on the markphillips11t publication and explicitly refers to his creation of 11 Tribes, matching the resolved investor.",
+    "evidence": [
+      {
+        "quote": "Fear doesn’t disappear before action - it disappears because of action.",
+        "label": "founder_execution",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "Phillips’ operating advice favors acting and experimenting despite fear rather than waiting for confidence first.",
+        "attribution_basis": "The passage is Phillips’ own statement in a bylined post that explicitly discusses his idea for 11 Tribes."
+      },
+      {
+        "quote": "So move forward. Take ground. Action is the antidote to fear.",
+        "label": "founder_execution",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "Phillips encourages decisive forward progress as a response to entrepreneurial fear.",
+        "attribution_basis": "The passage is Phillips’ own statement in a bylined post that explicitly discusses his idea for 11 Tribes."
+      }
+    ],
+    "context": [
+      {
+        "quote": "His words hit home. I remembered that exact feeling when I first shared the idea for 11 Tribes.",
+        "claim": "Phillips says he originated and initially shared the idea for 11 Tribes.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "7784119531c6afd02d4134bbe641b59c1eb130e798e8e42ac309eec3a29ef225"
+  },
+  {
+    "source": "full:a27688b517c1c1114395d11d",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Fundingstack index explicitly identifies Mark Phillips as founder of 11 Tribes Ventures, matching the resolved investor, but provides no direct quotation from him.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Mark Phillips, founder of 11 Tribes Ventures, shares how he raised two VC funds through resilience & relationship-driven LP outreach — offering a candid playbook for emerging managers.",
+        "claim": "Fundingstack identifies Phillips as the founder of 11 Tribes Ventures and reports that he raised two funds using resilience and relationship-driven LP outreach.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "f900477926d2d22d9f840c1e81a4a9caa5cef01492fc72aa6d0f159cc64d688a"
+  },
+  {
+    "source": "full:ef10edcc7b5bc70a462ea2c4",
+    "part": 1,
+    "identity": "target",
+    "reason": "The bylined post explicitly discusses the author’s practices at 11 Tribes, matching the resolved investor and firm.",
+    "evidence": [
+      {
+        "quote": "At 11 Tribes, we have established ourselves as the firm where capital and care converge.",
+        "label": "mission_alignment_preference",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Phillips defines 11 Tribes’ investment posture as combining capital with active care for founders and outcomes.",
+        "attribution_basis": "The passage is Phillips’ own statement in a bylined post and explicitly names 11 Tribes."
+      },
+      {
+        "quote": "Because 11 Tribes is committed to the long-term health of the founder and the company, we name issues early and directly.",
+        "label": "investor_value_add_fit",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Phillips considers early, direct feedback part of the firm’s contribution to founders and companies.",
+        "attribution_basis": "The passage is Phillips’ own statement in a bylined post and explicitly names 11 Tribes."
+      },
+      {
+        "quote": "Care does not avoid hard conversations—it demands them.",
+        "label": "founder_coachability_assessment",
+        "direction": "neutral",
+        "support": "inferred",
+        "interpretation": "Phillips’ support model requires founders to engage with candid and potentially difficult feedback.",
+        "attribution_basis": "The passage is Phillips’ own statement within his explanation of 11 Tribes’ founder relationships."
+      },
+      {
+        "quote": "When relationships are built with care, we can separate performance from identity. That distinction creates the psychological safety required for honest dialogue about leadership gaps, blind spots, or necessary change.",
+        "label": "founder_coachability_assessment",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Phillips believes a caring relationship creates the safety needed for founders to discuss weaknesses and accept necessary change.",
+        "attribution_basis": "The passage is Phillips’ own statement within his explanation of 11 Tribes’ founder relationships."
+      },
+      {
+        "quote": "Because we are not trying to control how we are perceived, we can hold our founders accountable to the outcomes they themselves have chosen.",
+        "label": "founder_execution",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Phillips expects portfolio founders to remain accountable for the outcomes and commitments they select.",
+        "attribution_basis": "The passage is Phillips’ own statement within his explanation of 11 Tribes’ portfolio practices."
+      },
+      {
+        "quote": "Care means we establish commitments, create timelines, assume excellence, and anchor accountability.",
+        "label": "founder_execution",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "Phillips’ founder-support approach emphasizes explicit commitments, timelines, high expectations, and accountability.",
+        "attribution_basis": "The passage is Phillips’ own statement within his explanation of 11 Tribes’ portfolio practices."
+      }
+    ],
+    "context": [
+      {
+        "quote": "Because 11 Tribes is committed to the long-term health of the founder and the company, we name issues early and directly.",
+        "claim": "Phillips describes 11 Tribes as committed to both founder and company health and as providing early, direct feedback.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "52a8836b17460c2f4aab21d248d4da5ea96a850bf474a289c355d03278c0667a"
+  },
+  {
+    "source": "full:f8f02d1ebe246047f0acc221",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Signal profile identifies Mark Phillips as Founder and Managing Partner of 11 Tribes Ventures, exactly matching the resolved investor’s affiliation.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Founder & Managing Partner at 11 Tribes Ventures",
+        "claim": "Signal identifies Phillips as Founder and Managing Partner of 11 Tribes Ventures.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Investment Range\n$100K - $300K\nSweet Spot\n$200K",
+        "claim": "Signal reports an investment range of $100,000–$300,000 and a $200,000 sweet spot for Phillips’ investing profile.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Circadian Risk\nSeries AFeb 2026$6M\n$6M",
+        "claim": "Signal lists Circadian Risk as a Series A investment on Phillips’ profile in February 2026; this is an aggregator report rather than independent verification of a personal holding.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Scheduler AI\nSeedApr 2024$3M\nSeedOct 2022$1M\n$4M",
+        "claim": "Signal lists Scheduler AI seed rounds in October 2022 and April 2024 on Phillips’ profile; this is an aggregator report rather than independent verification of personal holdings.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Attend\nSeedOct 2023\n$7M",
+        "claim": "Signal lists Attend as a seed investment on Phillips’ profile in October 2023; this is an aggregator report rather than independent verification of a personal holding.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "GRID\nSeedJan 2022$1M\n$18M",
+        "claim": "Signal lists GRID as a seed investment on Phillips’ profile in January 2022; this is an aggregator report rather than independent verification of a personal holding.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Podcast Host Masters of ResiliencePresent",
+        "claim": "Signal reports that Phillips hosts the Masters of Resilience podcast.",
+        "kind": "biography"
+      }
+    ],
+    "input_fingerprint": "d70a8eb6bd0d3e8609c911647898e5d512423b04cee78fdf573d85e9eb479167"
+  },
+  {
+    "source": "full:b6d5d6fb33ba5c938e77bc12",
+    "part": 1,
+    "identity": "target",
+    "reason": "The post appears on the same markphillips11t publication as the target’s 11 Tribes writings, but its personal discussion of grief contains no material investment evidence or context.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "17fc9e1afccf3322195817468ab5f2ed3326987565028caf9cbab68be2a65d79"
+  },
+  {
+    "source": "full:5aa456514739862b9d10ec06",
+    "part": 1,
+    "identity": "target",
+    "reason": "The episode description explicitly identifies its guest as Mark Phillips of 11 Tribes, matching the resolved investor, but contains no transcript or direct quotations attributable to him.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "This episode is with with Mark Phillips of 11 Tribes, an early stage VC fund that invests in the care and resilience of its founders.",
+        "claim": "The podcast description identifies Phillips with 11 Tribes and characterizes it as an early-stage fund focused on founder care and resilience.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Another notable difference is that the fund focuses on businesses and founders that are pursuing profitability within their business model and comfortable seeking exit opportunities between $75M-$250M.",
+        "claim": "The podcast description reports that 11 Tribes focuses on profitability-oriented businesses whose founders are comfortable with exit outcomes between $75 million and $250 million.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "11 Tribes most recently raised a $46 million for Fund II from 220 HNW investors and Family Offices.",
+        "claim": "The October 1, 2025 episode description reports that 11 Tribes raised $46 million for Fund II from 220 high-net-worth investors and family offices.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "That follows a Fund I that was $11 million and largely sourced from around 80 HNW LPs.",
+        "claim": "The episode description reports that 11 Tribes’ first fund was $11 million and was sourced largely from approximately 80 high-net-worth limited partners.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "In this episode, we discuss Mark’s journey to getting into VC and how his previous (failed) startup shaped his vision, how he had over 200 Zoom pitches to get to his first yes, why selling the vision and passion worked well for Fund I, how the narrative changed for Fund II, the critical importance of resilience, tips for landing Family Offices, and more.",
+        "claim": "The episode description reports that Phillips’ failed startup shaped his venture vision and that he conducted more than 200 Zoom pitches before securing his first fund commitment.",
+        "kind": "biography"
+      }
+    ],
+    "input_fingerprint": "160c78010a8a679f2880a261196688602d221aa9eb5ec8c72dadefe66e59c272"
+  },
+  {
+    "source": "full:bcf030dc9c272a9f6dc67697",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Mark Phillips byline and repeated first-person references to 11 Tribes, including its funds, founders, and investment strategy, anchor the author to the resolved investor.",
+    "evidence": [
+      {
+        "quote": "Compared to your average venture capital firm, we talk about Artificial Intelligence far less. This is not a result of a lack of interest in the technology itself (we find it fascinating), but rather the undisciplined investing behavior when it comes to the \"next big AI company\".",
+        "label": "competitive_intensity_concern",
+        "direction": "negative",
+        "support": "explicit",
+        "interpretation": "He avoids joining indiscriminate investor enthusiasm around heavily pursued AI opportunities.",
+        "attribution_basis": "The article is bylined Mark Phillips and written in the first person on behalf of 11 Tribes Ventures."
+      },
+      {
+        "quote": "To put it simply, when investing in a pre-revenue, AI company at a $50M valuation, all of the value has been priced out.",
+        "label": "stage_valuation_mismatch",
+        "direction": "negative",
+        "support": "explicit",
+        "interpretation": "He considers a $50 million valuation unattractive for a pre-revenue AI company because it eliminates prospective value.",
+        "attribution_basis": "The article is bylined Mark Phillips and this statement directly expresses the author's investment judgment."
+      },
+      {
+        "quote": "The same technology will also lead to the proliferation of smaller, much more capital efficient businesses that choose to exit on a reasonable timeline for ~$100M.",
+        "label": "capital_intensity_concern",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "He expects AI to enable businesses that require less capital and can produce attractive outcomes through roughly $100 million exits.",
+        "attribution_basis": "The article is bylined Mark Phillips and the passage appears in his first-person discussion of 11 Tribes' AI outlook."
+      },
+      {
+        "quote": "Our goal has always been to stay small so as to meet the needs of our founders (multi-billion dollar funds cannot say the same).",
+        "label": "fund_economics_constraint",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "11 Tribes intentionally keeps its fund small so its capital model remains compatible with founders needing modestly sized financing.",
+        "attribution_basis": "The Mark Phillips-authored update explicitly states 11 Tribes' fund-sizing goal in the first person."
+      },
+      {
+        "quote": "The 11 Tribes Founder Resilience Commitment is a first of its kind allocation of capital that amplifies the amazing potential of our founders and mitigates the risk of a litany of people related issues that can kill companies.",
+        "label": "execution_risk_assessment",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "He views dedicated founder-resilience support as a way to reduce people-related execution risk.",
+        "attribution_basis": "The Mark Phillips-authored update describes his firm's founder-support allocation and its intended risk mitigation."
+      }
+    ],
+    "context": [
+      {
+        "quote": "Fund 1 performance remains very strong with a 2.7X Multiple on Invested Capital (MOIC) and 62.7% IRR across 33 portfolio companies.",
+        "claim": "In this March 4, 2024 first-party update, Phillips reported a 2.7x MOIC and 62.7% IRR across 33 Fund 1 portfolio companies.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "We now have capital commitments of $23.5M (goal of $40M).",
+        "claim": "Phillips reported on March 4, 2024 that Fund 2 had $23.5 million of commitments toward a $40 million goal.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "The large majority of our investments will be qualifying stock held for five years.",
+        "claim": "Phillips said that a large majority of 11 Tribes' investments were expected to be QSBS-qualifying stock held for five years.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "We are excited to announce our inaugural Founder Summit this June in Chicago.",
+        "claim": "Phillips announced that 11 Tribes planned its inaugural Founder Summit for June 2024 in Chicago.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "8ada867c052c81bfdde5100f37fa52c4612d548245be0e534a529ea09bedeb0a"
+  },
+  {
+    "source": "full:f716c0adbdb37957822c2a25",
+    "part": 1,
+    "identity": "target",
+    "reason": "The profile handle is @markphillips11t and its first-person description concerns startups, technology, and business, tying it to the resolved 11 Tribes investor.",
+    "evidence": [
+      {
+        "quote": "The way I see it, success is a function of who, not how.",
+        "label": "founder_qualities",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "He places greater weight on the people involved than on a prescribed method for achieving startup success.",
+        "attribution_basis": "This is the first-person profile statement of the @markphillips11t account associated textually with 11 Tribes."
+      }
+    ],
+    "context": [],
+    "input_fingerprint": "b3666a3a318a80a656270e97152f81224d313ee76fac1a6bb5b007387ab5a000"
+  },
+  {
+    "source": "full:05c0142098100b8437937374",
+    "part": 1,
+    "identity": "target",
+    "reason": "This authoritative investor profile explicitly identifies Mark Phillips as founder and managing partner of 11 Tribes Ventures.",
+    "evidence": [
+      {
+        "quote": "We look for unique founder-market fit, intense capital efficiency, and niche markets where there aren't a ton of people playing.",
+        "label": "founder_market_fit",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "He seeks distinctive alignment between founders and their markets alongside capital efficiency and less crowded niches.",
+        "attribution_basis": "The Pitch places this direct quotation under the resolved investor's “What Mark Looks For” section."
+      },
+      {
+        "quote": "I'm a midwest investor, so we have a different definition of price.",
+        "label": "stage_valuation_mismatch",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "He indicates that his Midwest investment perspective produces a distinct, implicitly more price-sensitive view of valuation.",
+        "attribution_basis": "The Pitch directly attributes this quotation to Mark Phillips in his investor profile."
+      },
+      {
+        "quote": "The cultures we look for are the ones that are highly challenging, but highly supportive.",
+        "label": "founder_qualities",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "He prefers company cultures that combine demanding expectations with strong support.",
+        "attribution_basis": "The Pitch places this direct quotation under the resolved investor's stated investment thesis."
+      }
+    ],
+    "context": [
+      {
+        "quote": "Mark Phillips is the founder and managing partner of 11 Tribes Ventures.",
+        "claim": "The Pitch identifies Phillips as the founder and managing partner of 11 Tribes Ventures.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Prior to that, Mark was a strategy consultant focused on M&A between corporations and growth stage startups.",
+        "claim": "The Pitch reports that Phillips previously worked as a strategy consultant focused on corporate and growth-stage-startup M&A.",
+        "kind": "biography"
+      },
+      {
+        "quote": "He actively supported clients throughout the due-diligence and post-merger integration processes on deals totaling more than $750M.",
+        "claim": "The Pitch reports that Phillips supported due diligence and post-merger integration on deals totaling more than $750 million.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Mark Phillips has invested in 2 startups on The Pitch, deploying $255K across categories including Media, Subscription, E-commerce, Badass Female Founders, B2B SaaS, Fund I Portfolio.",
+        "claim": "The Pitch reports that Phillips deployed $255,000 across two startups through the show.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Typical check size ranges from $5K to $250K.",
+        "claim": "The Pitch reports a typical check-size range of $5,000 to $250,000 for Phillips.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Gemist: The Crown Jewel of Venture $250K·Priced Round · $15.5M post-money",
+        "claim": "The profile reports a $250,000 priced-round investment in Gemist at a $15.5 million post-money valuation.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Josh Pitches The Pitch $5K·SAFE · $5M post-money cap",
+        "claim": "The profile reports a $5,000 SAFE investment at a $5 million post-money cap, associated with the episode title “Josh Pitches The Pitch”; the company identity is unresolved.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "ba2364677caafbed7796ae0ee62f1a0fdae1634178c4e59ad5e844e35dff97b5"
+  },
+  {
+    "source": "full:4f1b88105acb2af36b17dbd4",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Mark Phillips byline is reinforced by first-person references to founders in the 11 Tribes Ventures portfolio and the firm's investment outlook.",
+    "evidence": [
+      {
+        "quote": "There is a clear and tangible shift from a growth at all costs mindset to a durable, sustainable, and profitable growth model.",
+        "label": "business_model_assessment",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "He favors durable, profitable growth over growth pursued without regard to cost.",
+        "attribution_basis": "The article is bylined Mark Phillips and presents this as the author's assessment of startup strategy."
+      },
+      {
+        "quote": "This is an excellent template for what I believe is the next generation of technology companies (Mittlestands or Enduring Companies).",
+        "label": "business_model_assessment",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "He endorses the sustainable-growth enduring-company model as a template for the next generation of technology businesses.",
+        "attribution_basis": "The Mark Phillips-authored article explicitly states what he believes future technology companies should resemble."
+      },
+      {
+        "quote": "How many buyers are there for a $1B outcome? Not a lot. But <$100M? You’ll have a lot more opportunity to exit.",
+        "label": "investment_upside_assessment",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "He sees sub-$100 million outcomes as having a broader and more achievable buyer market than billion-dollar exits.",
+        "attribution_basis": "The bylined author uses these questions to explain his preferred enduring-company return model."
+      },
+      {
+        "quote": "There are $50M businesses out there that can generate the same type of cash-on-cash returns as a hyper-growth startups.",
+        "label": "investment_upside_assessment",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "He believes moderately sized companies can generate cash-on-cash returns comparable to hyper-growth startups.",
+        "attribution_basis": "The Mark Phillips-authored article states this conclusion directly in its forward-looking investment discussion."
+      },
+      {
+        "quote": "A few areas of opportunity: more discipline when it comes to valuations, clarity for founders around timing and prioritization of profitability, and perhaps most important of all - a care for the founder.",
+        "label": "business_viability_concern",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "He favors valuation discipline, appropriately timed profitability, and founder care as improvements to venture investing.",
+        "attribution_basis": "The bylined author explicitly lists these as opportunities for venture capitalists."
+      },
+      {
+        "quote": "Let’s make sure we are investing into companies that truly create value.",
+        "label": "business_viability_concern",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "He states that investment should be directed toward companies that create genuine value.",
+        "attribution_basis": "This is the Mark Phillips-authored article's direct concluding investment prescription."
+      }
+    ],
+    "context": [
+      {
+        "quote": "That conversation alone caught my attention, but it was a catch-up with one of the most experienced, multi-time founders in the 11 Tribes Ventures portfolio that really attuned my focus to this topic of growth mindset.",
+        "claim": "Phillips refers in the first person to working with founders in the 11 Tribes Ventures portfolio.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Mark Phillips Nov 16, 2023",
+        "claim": "The source presents the article as authored by Mark Phillips on November 16, 2023.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "01aca59e02b83d1d5390386a711bfe569dbbbbeaee7727f38ce1261f770663af"
+  },
+  {
+    "source": "full:aba66f8f8f0147a9a9844bae",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Mark Phillips byline and detailed first-person account of starting and scaling 11 Tribes identify the author as the resolved investor.",
+    "evidence": [
+      {
+        "quote": "A young entrepreneur building in an industry that we don’t invest in is hoping for a few minutes to learn about the process of raising capital – should I be present or busy?",
+        "label": "investment_thesis_constraint",
+        "direction": "neutral",
+        "support": "inferred",
+        "interpretation": "His firm has industry boundaries that exclude some otherwise relevant entrepreneurial opportunities.",
+        "attribution_basis": "The Mark Phillips-authored article uses “we” while describing an entrepreneur outside 11 Tribes' investment industries."
+      }
+    ],
+    "context": [
+      {
+        "quote": "We had just hit the one year mark of starting the company and we were beginning to see the early signs of momentum.",
+        "claim": "Phillips recounts the period when the company he helped start had reached its first anniversary.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "But as the responsibilities of life have increased and the influence of my company has grown, I find myself in more situations where remaining distant, disconnected, busy, is the most self-preserving thing that I can do.",
+        "claim": "Phillips describes himself as a leader of a growing company and reflects on the responsibilities accompanying that growth.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Mark Phillips Feb 26, 2026",
+        "claim": "The source presents the article as authored by Mark Phillips on February 26, 2026.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "de1d92efbd570b2770878de1cfbe136d713749bcbb0b0858520a97f4979014be"
+  },
+  {
+    "source": "full:57fa0bb03971b0194bb10658",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page identifies Mark Phillips as founder and managing partner of 11 Tribes Ventures, matching the resolved affiliation, although the profile is marked unverified.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Unverified Mark Phillips Founder & Managing Partner",
+        "claim": "The Org's unverified profile lists Phillips as founder and managing partner.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Location Chicago, United States",
+        "claim": "The Org's unverified profile reports Phillips' location as Chicago, United States.",
+        "kind": "biography"
+      }
+    ],
+    "input_fingerprint": "c46bcc80b56df835ea01a919c7ecbdded0dd6c06f704bb0710276259587f4d15"
+  },
+  {
+    "source": "full:07e67f1df82845779d92fda9",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Mark Phillips byline and first-person reporting about 11 Tribes' funds, investments, and founder-care strategy identify the author as the resolved investor.",
+    "evidence": [
+      {
+        "quote": "our team will provide an update on the performance of Funds 1 & 2, share our outlook on the market (spoiler alert, it is a terrific time to allocate to venture), and highlight the Fund 2 investment opportunity",
+        "label": "market_timing",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "He regarded the period covered by the update as a particularly attractive time to allocate capital to venture.",
+        "attribution_basis": "The Mark Phillips-authored 11 Tribes update states the firm's market outlook in the first person."
+      },
+      {
+        "quote": "When it comes to the entrepreneurial journey, care changes everything. And that's why 11 Tribes is changing the game.",
+        "label": "mission_alignment_preference",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "He treats founder care as a central purpose and differentiator of the firm's investing approach.",
+        "attribution_basis": "The bylined author explicitly connects his founder-care belief to 11 Tribes' approach."
+      }
+    ],
+    "context": [
+      {
+        "quote": "Fund 1 MOIC of 2.7X with a potential unicorn exit in Q1/Q2 2025",
+        "claim": "In this update, Phillips reported Fund 1 at a 2.7x MOIC and described a potential unicorn exit in the first or second quarter of 2025.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Fund 2 has raised $36M of the $40 and will be making a final close on 12/31.",
+        "claim": "Phillips reported that Fund 2 had raised $36 million of a planned $40 million and expected to close on December 31.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Seven investments in Fund 2 including Alloy, NuTrad and GoNanas.",
+        "claim": "Phillips reported seven Fund 2 investments, including Alloy, NuTrad, and GoNanas.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "In June we hosted our inaugural Founder Summit.",
+        "claim": "Phillips reported that 11 Tribes hosted its inaugural Founder Summit in June.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "efe512e34b55ff2678245634f98679c12afbb8b9fb32064950e1b15f5ebe059b"
+  },
+  {
+    "source": "full:31ba72e995bbc7e619462d58",
+    "part": 1,
+    "identity": "target",
+    "reason": "The page explicitly names Mark Phillips alongside Ryan Seager as a host of the Masters of Resilience podcast, but attributes the substantive principles to guest Pete Ochs rather than Phillips.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Pete Ochs was excited to join Ryan Seager and Mark Phillips on the Masters of Resilience podcast to discuss adversity and resilience—two things that have been at the heart of his journey as a faith-driven entrepreneur.",
+        "claim": "Enterprise Stewardship reports that Mark Phillips and Ryan Seager hosted Pete Ochs on the Masters of Resilience podcast.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "cf2f963bb71aedcdd0fd59a83a60703be23b009ad3c877e6da39e31fd38df791"
+  },
+  {
+    "source": "full:ffafe81990fb31c04b4d7c7f",
+    "part": 1,
+    "identity": "unusable",
+    "reason": "The Vimeo page contains only a human-verification interstitial and no accessible profile, video description, or transcript material.",
+    "evidence": [],
+    "context": [],
+    "input_fingerprint": "38f3378b2ea869d376d683c3e1903b799a8095869b5a1fbc5cf3e597aed70a3c"
+  },
+  {
+    "source": "full:31488d1ecb8be3635a46ee86",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Mark Phillips byline and the author's explicit statement that he is an entrepreneur and investor at 11 Tribes identify him as the resolved investor.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "As an entrepreneur and investor, the countless variables that are outside of my control were leading me down one of two paths:",
+        "claim": "Phillips describes himself as both an entrepreneur and an investor.",
+        "kind": "biography"
+      },
+      {
+        "quote": "For me, examining my ambition has led me deeper into my faith.",
+        "claim": "Phillips says his reflection on ambition has deepened his faith.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Mark Phillips Apr 03, 2025",
+        "claim": "The source presents the article as authored by Mark Phillips on April 3, 2025.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "6f020ccd00ab3f0886de009a079611d07b2ba0cfdaaa5d4cb4b1c7379aff96c9"
+  },
+  {
+    "source": "full:349e7fe99d20cb84b63714f6",
+    "part": 1,
+    "identity": "target",
+    "reason": "The third-party profile explicitly identifies Mark Phillips as managing partner of 11 Tribes Ventures and describes an investment approach consistent with the resolved investor.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Mark Phillips, shaped by his own failed-founder experience, prioritizes founder wellbeing—allocating about $20K per founding team via 11 Tribes for therapy, coaching, and personal support—and favors steady, sustainable growth.",
+        "claim": "VC Sheet reports that Phillips' failed-founder experience shaped an emphasis on founder wellbeing, approximately $20,000 of support per founding team, and sustainable growth.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Shaped by his own experience as a founder whose company didn't work out, he built a hands-on approach around founder character and culture, preferring steady, sustainable growth over chasing unicorns.",
+        "claim": "VC Sheet reports that Phillips previously founded an unsuccessful company and now emphasizes founder character, culture, and sustainable growth.",
+        "kind": "biography"
+      },
+      {
+        "quote": "11 Tribes Ventures sets aside 2% of every investment, non-dilutively, for founder coaching, therapy, and other resilience support, an approach that grew out of founder Mark Phillips's own experience with startup failure and its personal toll.",
+        "claim": "VC Sheet reports that 11 Tribes non-dilutively allocates 2% of each investment to founder resilience support, attributing the practice to Phillips' experience with startup failure.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "The firm targets niche, non-coastal markets—such as Chattanooga, Nashville, and Indianapolis—looking for capital-efficient companies that can exit in the $80M–$250M range rather than chasing billion-dollar outcomes",
+        "claim": "VC Sheet reports that 11 Tribes targets capital-efficient companies in niche, non-coastal markets with potential exits of $80 million to $250 million.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "SaaS, Fintech, Health, Consumer, Enterprise",
+        "claim": "VC Sheet lists SaaS, fintech, health, consumer, and enterprise as 11 Tribes' sectors.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Does their fund Lead? No",
+        "claim": "VC Sheet reports that the fund does not lead rounds.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "278130405697c89e84857228099d96031695e61c4282c11be76feb1123dfa131"
+  },
+  {
+    "source": "full:c5776496ca8120f308e38ec9",
+    "part": 1,
+    "identity": "target",
+    "reason": "The first-person article is authored by Mark Phillips and repeatedly identifies his firm as 11 Tribes Ventures, matching the resolved affiliation.",
+    "evidence": [
+      {
+        "quote": "Our firm’s conviction has always been that the “growth at all costs” model of venture capital is broken.",
+        "label": "investment_thesis_constraint",
+        "direction": "negative",
+        "support": "explicit",
+        "interpretation": "He rejects venture strategies that require growth at any cost.",
+        "attribution_basis": "The bylined first-person article identifies the author’s firm as 11 Tribes Ventures."
+      },
+      {
+        "quote": "We allocate 2% of every invested dollar to our Founder Resilience Commitment, reserved for coaching, counseling, organizational health, and other investments that help founders grow faster than their companies.",
+        "label": "founder_qualities",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "His firm formally funds founder development and organizational health alongside company growth.",
+        "attribution_basis": "The bylined first-person article identifies the author’s firm as 11 Tribes Ventures."
+      },
+      {
+        "quote": "At 11 Tribes we are not allergic to billion-dollar outcomes. But we are allergic to requiring them from companies that do not need them to produce exceptional results.",
+        "label": "investment_upside_assessment",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "He considers sub-billion-dollar exits capable of producing exceptional fund outcomes.",
+        "attribution_basis": "The bylined first-person article explicitly attributes this position to 11 Tribes."
+      },
+      {
+        "quote": "We invest in 20 to 25 companies.",
+        "label": "fund_economics_constraint",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "11 Tribes deliberately operates a concentrated portfolio of 20–25 companies.",
+        "attribution_basis": "The bylined first-person article presents this as the portfolio architecture Mark built for 11 Tribes."
+      },
+      {
+        "quote": "We do not chase the hottest deals. We underwrite to value, frequently paying below the prevailing market multiple on revenue.",
+        "label": "stage_valuation_mismatch",
+        "direction": "negative",
+        "support": "explicit",
+        "interpretation": "He applies entry-price discipline and avoids fashionable deals whose valuations exceed his underwriting.",
+        "attribution_basis": "The bylined first-person article presents this as 11 Tribes’ stated investment practice."
+      },
+      {
+        "quote": "We back founders who want to grow profitably and retain ownership.",
+        "label": "founder_investor_vision_alignment",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "He favors founders whose growth plans emphasize profitability and ownership retention.",
+        "attribution_basis": "The bylined first-person article presents this as 11 Tribes’ explicit selection preference."
+      },
+      {
+        "quote": "We look for founders for whom raising one or two more rounds is the option, not the assumption.",
+        "label": "capital_intensity_concern",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "He favors companies that need not depend on repeated follow-on financing.",
+        "attribution_basis": "The bylined first-person article presents this as 11 Tribes’ explicit founder criterion."
+      },
+      {
+        "quote": "A fourth choice makes the first three operational: we lead virtually every round we invest in. A small minority check rarely gives a firm enough influence to shape a founder’s growth philosophy. A lead position and board seat do.",
+        "label": "investor_value_add_fit",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "He prefers leading rounds and taking board influence so the firm can help shape a company’s growth approach.",
+        "attribution_basis": "The bylined first-person article states how Mark’s firm structures its investments."
+      },
+      {
+        "quote": "We use psychometric profiling (Culture Index) at every stage — for hiring our own team, for evaluating portfolio leadership, and as part of investment diligence — because in our view the founder is the asset.",
+        "label": "founder_qualities",
+        "direction": "neutral",
+        "support": "explicit",
+        "interpretation": "He treats founder assessment as central to diligence and uses psychometric profiling to evaluate leadership.",
+        "attribution_basis": "The bylined first-person article explicitly describes 11 Tribes’ diligence process."
+      },
+      {
+        "quote": "Other firms passed because the trauma registry market, about 2,400 U.S. hospitals, looked too small. That ceiling is what makes the company attractive to us.",
+        "label": "market_size_assessment",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "A bounded market can be attractive to him when its attainable outcome fits the fund’s return model.",
+        "attribution_basis": "The bylined first-person article gives this as Mark’s explanation for 11 Tribes’ attraction to National Quality Systems."
+      },
+      {
+        "quote": "The next decade will produce fewer unicorns and more $100 to $250 million acquisitions, particularly in vertical AI software, where domain depth beats scale.",
+        "label": "market_timing",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "He expects acquisition opportunities to shift toward capital-efficient vertical-AI companies with domain depth.",
+        "attribution_basis": "The bylined first-person article states Mark’s forward-looking investment thesis."
+      },
+      {
+        "quote": "There are roughly ten times as many buyers for a $100 million company as for a $1 billion one.",
+        "label": "investment_upside_assessment",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "He views moderately sized exits as benefiting from a materially larger buyer universe.",
+        "attribution_basis": "The bylined first-person article supplies this rationale for 11 Tribes’ model."
+      }
+    ],
+    "context": [
+      {
+        "quote": "We have been building 11 Tribes Ventures to do things differently.",
+        "claim": "In this first-person June 4, 2026 article, Phillips says he has been building 11 Tribes Ventures around a differentiated model.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Our vision is to be the firm where capital and care converge.",
+        "claim": "Phillips describes 11 Tribes’ vision as combining investment capital with founder care.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "National Quality Systems is a SaaS trauma registry platform. $3 million in ARR in year one, on pace for $9 million in 2026.",
+        "claim": "Phillips reports National Quality Systems as a Fund II example with $3 million in first-year ARR and a stated 2026 pace of $9 million.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Alloy Marketplace is a precious-metals platform replacing the opaque cash-for-gold experience with a transparent, brand-driven alternative.",
+        "claim": "Phillips identifies Alloy Marketplace as a Fund II portfolio example.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Kidsy is an off-price e-commerce platform for parents. A digital TJ Maxx for baby gear.",
+        "claim": "Phillips identifies Kidsy as a Fund II portfolio example.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "aa2a9c916aaa068b8ecba760a9b4baf5f083907592fb43838b830ae45db7004d"
+  },
+  {
+    "source": "full:a23a8a8d96b1d94dc942f966",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Mark Phillips-authored 11 Tribes Ventures post uses first-person language about the firm’s inaugural founder summit and founder-care vision.",
+    "evidence": [
+      {
+        "quote": "It has become a true exposition of our unique vision as the firm where capital and care are focused on the founder.",
+        "label": "mission_alignment_preference",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "His firm’s operating and investment identity centers on pairing capital with care for founders.",
+        "attribution_basis": "The bylined first-person 11 Tribes Ventures post attributes the statement to Mark Phillips."
+      }
+    ],
+    "context": [
+      {
+        "quote": "That was the question Kristina Chapple posed to our team when we started planning for our inaugural founder summit. And the north star we focused on as we welcomed our founders to Chicago on June 13 & 14.",
+        "claim": "Phillips reports that Kristina Chapple helped frame 11 Tribes’ inaugural founder summit, held in Chicago on June 13–14; the post is dated June 30, 2024.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Thanks to Keith Hadley and James Felton of The Table Group for sharing their remarkable wisdom and insight into the power of organizational health.",
+        "claim": "Phillips says Keith Hadley and James Felton of The Table Group contributed organizational-health instruction at the summit.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "bfa77319b0ddb801afe0ae8c5116f7348b3a16364f61b7639f20026b221d1b74"
+  },
+  {
+    "source": "full:f79f503c35fee03a2e695250",
+    "part": 1,
+    "identity": "target",
+    "reason": "The first-person article is published under Mark Phillips’s 11 Tribes-branded Substack and identifies him as an entrepreneur and investor.",
+    "evidence": [
+      {
+        "quote": "Are your pursuits aligned with your values?",
+        "label": "mission_alignment_preference",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "His broader evaluative lens asks whether activity is aligned with underlying values.",
+        "attribution_basis": "The bylined first-person article is from Mark Phillips’s 11 Tribes-branded publication and describes his perspective as an investor."
+      },
+      {
+        "quote": "Does your success contribute to a greater purpose?",
+        "label": "mission_alignment_preference",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "He evaluates success partly through its contribution to a larger purpose.",
+        "attribution_basis": "The bylined first-person article is from Mark Phillips’s 11 Tribes-branded publication and describes his perspective as an investor."
+      },
+      {
+        "quote": "Are you living a life that prioritizes relationships, purpose, and impact over mere achievement?",
+        "label": "mission_alignment_preference",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "He places relationships, purpose, and impact above achievement alone, suggesting a mission-oriented investment perspective.",
+        "attribution_basis": "The bylined first-person article is from Mark Phillips’s 11 Tribes-branded publication and describes his perspective as an investor."
+      }
+    ],
+    "context": [
+      {
+        "quote": "As a husband, father, entrepreneur, and investor, I wrestle with this question daily, and I hope you do too",
+        "claim": "In the February 11, 2025 article, Phillips describes himself as an entrepreneur and investor as well as a husband and father.",
+        "kind": "biography"
+      }
+    ],
+    "input_fingerprint": "658ccb9a42b2a12bc208a9cf9924e226f19bc6f4d98a225185032519979ec889"
+  },
+  {
+    "source": "full:daa2bb24982fc07c9abac76d",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Mark Phillips-authored update repeatedly discusses first-person activity and investment strategy at his resolved firm, 11 Tribes Ventures.",
+    "evidence": [
+      {
+        "quote": "Our thesis is maturing well as we continue to target founders with capital efficient mindsets and business models.",
+        "label": "capital_intensity_concern",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "He explicitly targets founders and businesses designed to use capital efficiently.",
+        "attribution_basis": "The bylined first-person 11 Tribes Ventures update states the firm’s investment thesis."
+      },
+      {
+        "quote": "This combined with more reasonable growth expectations is leading to a higher success rate across the portfolio.",
+        "label": "growth_projection_risk",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "He prefers reasonable growth expectations and associates them with better portfolio success.",
+        "attribution_basis": "The bylined first-person 11 Tribes Ventures update explains the firm’s thesis."
+      },
+      {
+        "quote": "our focus on values-aligned, founder-centric investing has created a powerful differentiation in the market and a dynamic, engaged investor base to support our portfolio.",
+        "label": "mission_alignment_preference",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "He defines 11 Tribes’ approach as values-aligned and founder-centric.",
+        "attribution_basis": "The bylined first-person update attributes this investment focus to 11 Tribes."
+      }
+    ],
+    "context": [
+      {
+        "quote": "We closed the fund with $46.4M of commitments.",
+        "claim": "Phillips reports that 11 Tribes closed Fund II with $46.4 million in commitments in the April 21, 2025 update.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "The Fund 2 portfolio is beginning to take shape as we have made 9 investments and have two more expected to close in Q2.",
+        "claim": "Phillips reports nine Fund II investments and two additional investments expected to close in Q2.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Fund 1 has concluded it's investment period and has now entered its harvest period. Performance continues to track in the top-quartile for our vintage.",
+        "claim": "Phillips reports that Fund I had entered its harvest period and was tracking in the top quartile for its vintage.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "c576b16473679cbfe6dde512887e8ea2d1c4e2506e7f43e5211a744e171f8d20"
+  },
+  {
+    "source": "full:c44ddaee6a838bf257cd2808",
+    "part": 1,
+    "identity": "target",
+    "reason": "The article is by Mark Phillips on his 11 Tribes-branded publication and discusses entrepreneurs and leadership in his own voice.",
+    "evidence": [
+      {
+        "quote": "Leadership - and life - is about relationships. And the greatest relationships begin with self-awareness.",
+        "label": "founder_qualities",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "He regards self-awareness and relationship-building as foundational leadership qualities.",
+        "attribution_basis": "The bylined first-person article appears on Mark Phillips’s 11 Tribes-branded publication."
+      },
+      {
+        "quote": "True humility has been described as not thinking less of yourself, but thinking of yourself less.",
+        "label": "founder_qualities",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "He presents humility as a desirable leadership trait.",
+        "attribution_basis": "The bylined first-person article appears on Mark Phillips’s 11 Tribes-branded publication."
+      },
+      {
+        "quote": "Ask deep and meaningful questions. Instead of surface-level small talk, ask about values, beliefs, and experiences.",
+        "label": "founder_coachability_assessment",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "He encourages leaders to seek deeper information about others’ values and experiences.",
+        "attribution_basis": "The bylined first-person article presents this as Mark Phillips’s communication advice."
+      },
+      {
+        "quote": "Prove you’re listening. Use \"Looping for Understanding\"—ask a question, summarize in your own words, and ask, \"Did I get that right?\"",
+        "label": "founder_coachability_assessment",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "He values active listening and verification of understanding, traits relevant to coachable leadership.",
+        "attribution_basis": "The bylined first-person article presents this as Mark Phillips’s communication advice."
+      },
+      {
+        "quote": "Your importance as a leader is determined by who you empower.",
+        "label": "founder_qualities",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "He judges leadership partly by a person’s ability to empower others.",
+        "attribution_basis": "The bylined first-person article states Mark Phillips’s leadership principle."
+      }
+    ],
+    "context": [],
+    "input_fingerprint": "659e0fe21f325d932f89dff87053c1e72ef03a5b6a1cd682ba4e241a6cb3ae1a"
+  },
+  {
+    "source": "full:f1e4024ef52c8aff9d9f73c7",
+    "part": 1,
+    "identity": "target",
+    "reason": "The third-party article explicitly profiles Mark Phillips as founder of 11 Tribes Ventures and attributes several direct quotations to him.",
+    "evidence": [
+      {
+        "quote": "When you invest in the development of the leader — their mental, emotional, physical, and spiritual health — you build a more sustainable and profitable portfolio.",
+        "label": "founder_qualities",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "He believes investing in founders’ holistic development improves portfolio durability and profitability.",
+        "attribution_basis": "The third-party article directly attributes the quotation to “Mark Phillips, 11 Tribes Ventures.”"
+      },
+      {
+        "quote": "The first investor said yes because of the passion, not the idea. I had to lean into founder-led sales — sell who you are.",
+        "label": "founder_qualities",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "His own fundraising experience leads him to emphasize a founder’s passion and personal credibility.",
+        "attribution_basis": "The third-party article directly attributes the quotation to “Mark Phillips, 11 Tribes Ventures.”"
+      },
+      {
+        "quote": "Fund II is really Fund 1B. You have more stories, a refined thesis, and paper markups — but you’re still raising on a vision.",
+        "label": "fundraising_demand_signal",
+        "direction": "neutral",
+        "support": "inferred",
+        "interpretation": "He sees second-fund fundraising as still substantially dependent on vision rather than a fully realized track record.",
+        "attribution_basis": "The third-party article directly attributes the quotation to “Mark Phillips, 11 Tribes Ventures.”"
+      },
+      {
+        "quote": "They don’t want to be found. They want a relationship.",
+        "label": "fundraising_demand_signal",
+        "direction": "neutral",
+        "support": "inferred",
+        "interpretation": "He believes family-office fundraising depends on trusted relationships rather than cold access.",
+        "attribution_basis": "The article introduces this as Mark’s warning about family-office outreach and then quotes him directly."
+      },
+      {
+        "quote": "I believe this is the highest-ROI investment we make.",
+        "label": "founder_qualities",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "He considers 11 Tribes’ founder-development allocation its highest-return investment.",
+        "attribution_basis": "The quotation follows the article’s description of Mark’s founder-development program and is directly attributed to him."
+      }
+    ],
+    "context": [
+      {
+        "quote": "Mark Phillips, founder of 11 Tribes Ventures, shares how he raised two VC funds through resilience & relationship-driven LP outreach — offering a candid playbook for emerging managers.",
+        "claim": "Fundingstack identifies Phillips as the founder of 11 Tribes Ventures and describes his fundraises as relationship-driven.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Instead, the founder of 11 Tribes Ventures came into VC through failure — a three-year hardware startup that ran out of runway and left him questioning his identity as an entrepreneur.",
+        "claim": "Fundingstack reports that Phillips entered venture capital after a three-year hardware startup failed.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Before 11 Tribes, Mark was a startup founder building a diabetes-monitoring device — an early predecessor to today’s continuous glucose monitors.",
+        "claim": "Fundingstack reports that Phillips previously founded a startup developing a diabetes-monitoring device.",
+        "kind": "biography"
+      },
+      {
+        "quote": "Mark incorporated 11 Tribes in 2019.",
+        "claim": "Fundingstack reports that Phillips incorporated 11 Tribes in 2019.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "675 Zoom calls\n82 LPs\n$11M raised\n18 months of nonstop pitching",
+        "claim": "Fundingstack reports that the Fund I effort involved 675 Zoom calls, 82 limited partners, $11 million raised, and 18 months of pitching.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "After finally closing Fund I on December 31, 2021, 11 Tribes moved into deploying capital.",
+        "claim": "Fundingstack reports that 11 Tribes closed Fund I on December 31, 2021 and then began deploying it.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Total raised: $46M\nTotal investors: 220+\nMedian check size: ~$200K…",
+        "claim": "Fundingstack reports that Fund II raised $46 million from more than 220 investors with an approximately $200,000 median check.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Mark also sold 5% of the GP stake to a trusted family office that then became an anchor champion for the raise.",
+        "claim": "Fundingstack reports that Phillips sold a 5% GP stake to a family office that became an anchor supporter of the fundraise.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "It’s this: 11 Tribes allocates 2% of invested capital — non-dilutively — to the founder’s personal development.",
+        "claim": "Fundingstack reports that 11 Tribes allocates 2% of invested capital non-dilutively to founder development.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "Mark hosts a podcast called Masters of Resilience",
+        "claim": "Fundingstack reports that Phillips hosts the Masters of Resilience podcast.",
+        "kind": "biography"
+      }
+    ],
+    "input_fingerprint": "e2d3aba4d5ac46a0d27c1df3993975f1fce08ff0e1d8bddec6279c48a2df01c7"
+  },
+  {
+    "source": "full:1e1363ade22a7756334d902a",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Bloomberg profile identifies Mark Phillips as a partner at the resolved firm, 11 Tribes Ventures LLC.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Mark Phillips\nPartner, 11 Tribes Ventures LLC",
+        "claim": "Bloomberg lists Mark Phillips as a partner at 11 Tribes Ventures LLC.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "c953de8307cb4b78d5a5a4a6d473492bad6e893581c001bcc152506aaad37f78"
+  },
+  {
+    "source": "full:9e96a395dc931a996d4816ee",
+    "part": 1,
+    "identity": "target",
+    "reason": "The episode title explicitly identifies its guest as Mark Phillips, Managing Partner of 11 Tribes Ventures, matching the resolved identity, although no verbatim interview transcript is supplied.",
+    "evidence": [],
+    "context": [
+      {
+        "quote": "Interview with Mark Phillips, Managing Partner of 11 Tribes Ventures - ATLalts",
+        "claim": "ATLalts identifies Phillips as Managing Partner of 11 Tribes Ventures.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Published on:\n12th Oct 2021",
+        "claim": "ATLalts reports that the interview was published on October 12, 2021.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "30:34 The qualities of backable founders\n35:19 11 Tribes Ventures principles of investing\n41:11 Industries and themes we are investing in at 11 Tribes Ventures",
+        "claim": "The episode outline reports discussion of backable-founder qualities, 11 Tribes’ investing principles, and its target industries and themes, without providing the underlying statements.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "1abe27d55a993ac7bdf5b428e52ff850d0ec1a70106b2e6d7ca448990ded55ce"
+  },
+  {
+    "source": "full:02c39ed25aa254b22ba1000e",
+    "part": 1,
+    "identity": "target",
+    "reason": "The bylined first-person update explicitly concerns Phillips’s work and fundraising at 11 Tribes Ventures.",
+    "evidence": [
+      {
+        "quote": "It has become a true exposition of our unique vision as the firm where capital and care are focused on the founder.",
+        "label": "mission_alignment_preference",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "His firm’s vision combines investment capital with direct care for founders.",
+        "attribution_basis": "The Mark Phillips-bylined 11 Tribes update states this as the firm’s vision."
+      },
+      {
+        "quote": "we've been able to triple our assets under management and attack what is shaping up to be the best vintage of venture investing of the next decade.",
+        "label": "market_timing",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "He viewed the then-current vintage as an unusually attractive period for venture investment.",
+        "attribution_basis": "The Mark Phillips-bylined first-person update attributes this assessment to 11 Tribes."
+      }
+    ],
+    "context": [
+      {
+        "quote": "Hosted our inaugural Founder Summit in Chicago\nWe are growing our team - hiring for an Investment Associate\nEclipsed $33M raised for Fund II and invested in three companies in Q2",
+        "claim": "Phillips reports an inaugural Chicago Founder Summit, an Investment Associate search, more than $33 million raised for Fund II, and three Q2 investments.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Last, but not least, we are in the home stretch of our Fund II capital raise.",
+        "claim": "Phillips reports that 11 Tribes was nearing completion of its Fund II raise.",
+        "kind": "dated_event"
+      },
+      {
+        "quote": "Reach out to Jeff Baxter or myself and we will be happy to share more over a call.",
+        "claim": "Phillips identifies himself and Jeff Baxter as contacts for prospective Fund II investors.",
+        "kind": "company_relationship"
+      }
+    ],
+    "input_fingerprint": "ebe5d39e2ee0e676d5aec5400ab1eb2809f86e39c3eb055d511a325df1dbb8be"
+  },
+  {
+    "source": "full:7b058478a35c8e30fa4eefcd",
+    "part": 1,
+    "identity": "target",
+    "reason": "The first-person annual letter is authored by Mark Phillips and explicitly explains leadership and founder-support practices at 11 Tribes Ventures.",
+    "evidence": [
+      {
+        "quote": "Healthy leadership comes with a price that is much steeper than scuffed shoes and tattered pants. It demands the slow, internal work of relinquishing ego.",
+        "label": "founder_qualities",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "He views ego management as a necessary quality of healthy leadership.",
+        "attribution_basis": "The Mark Phillips-bylined first-person annual letter connects this leadership view to his work at 11 Tribes."
+      },
+      {
+        "quote": "We stop optimizing for being right and start taking responsibility for what actually works.",
+        "label": "founder_execution",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "He values leaders who prioritize effective outcomes and accountability over appearing correct.",
+        "attribution_basis": "The Mark Phillips-bylined first-person annual letter states this as part of his control-to-care framework."
+      },
+      {
+        "quote": "Most investors, whether they realize it or not, make decisions to protect their own ego. They soften feedback to preserve relationships. They delay hard conversations to avoid being seen as the bad guy. They protect founders’ egos because doing so protects their own.",
+        "label": "investor_experience_bias",
+        "direction": "negative",
+        "support": "inferred",
+        "interpretation": "He believes investor ego can distort feedback and delay necessary intervention with founders.",
+        "attribution_basis": "The bylined first-person letter explicitly presents Mark’s critique of investor behavior."
+      },
+      {
+        "quote": "Because 11 Tribes is committed to the long-term health of the founder and the company, we name issues early and directly. Care does not avoid hard conversations—it demands them.",
+        "label": "founder_coachability_assessment",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "His firm expects direct, early discussion of founder and company problems.",
+        "attribution_basis": "The bylined first-person letter explicitly describes 11 Tribes’ founder-support practice."
+      },
+      {
+        "quote": "When relationships are built with care, we can separate performance from identity. That distinction creates the psychological safety required for honest dialogue about leadership gaps, blind spots, or necessary change.",
+        "label": "founder_coachability_assessment",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "He believes trusted relationships make candid discussion and correction of leadership weaknesses possible.",
+        "attribution_basis": "The bylined first-person letter presents this as 11 Tribes’ approach to founders."
+      },
+      {
+        "quote": "Care means we establish commitments, create timelines, assume excellence, and anchor accountability.",
+        "label": "founder_execution",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "His founder-support model includes explicit commitments, timelines, high expectations, and accountability.",
+        "attribution_basis": "The bylined first-person letter presents this as 11 Tribes’ operating approach."
+      }
+    ],
+    "context": [
+      {
+        "quote": "At 11 Tribes, we have established ourselves as the firm where capital and care converge.",
+        "claim": "Phillips describes 11 Tribes as a firm combining capital with founder care.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "My executive coach, Jon, loves to say that grace is a gift, but growth is a choice.",
+        "claim": "Phillips reports working with an executive coach named Jon.",
+        "kind": "biography"
+      }
+    ],
+    "input_fingerprint": "1876fcb76da340c71a17c0c01497f40fc4ceeaeadc0277252509f23acdb760e2"
+  },
+  {
+    "source": "full:abd5c6e0e66c812f318c80af",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Mark Phillips-authored first-person article explicitly describes investment judgments and firm strategy at 11 Tribes Ventures.",
+    "evidence": [
+      {
+        "quote": "This is not a result of a lack of interest in the technology itself (we find it fascinating), but rather the undisciplined investing behavior when it comes to the \"next big AI company\".",
+        "label": "competitive_intensity_concern",
+        "direction": "negative",
+        "support": "explicit",
+        "interpretation": "He is wary of investor frenzy and undisciplined competition around fashionable AI companies.",
+        "attribution_basis": "The bylined first-person article states why Mark’s firm discusses AI less than typical venture firms."
+      },
+      {
+        "quote": "As an asset class, venture has become a consensus investing club that has created a frenzy of overpriced deals in AI just as we have seen during the dot com era, the advent of SaaS business models, and most recently with blockchain and crypto.",
+        "label": "stage_valuation_mismatch",
+        "direction": "negative",
+        "support": "explicit",
+        "interpretation": "He sees consensus enthusiasm for AI as producing overpriced venture deals.",
+        "attribution_basis": "The bylined first-person article gives Mark’s assessment of the AI investment market."
+      },
+      {
+        "quote": "To put it simply, when investing in a pre-revenue, AI company at a $50M valuation, all of the value has been priced out.",
+        "label": "stage_valuation_mismatch",
+        "direction": "negative",
+        "support": "explicit",
+        "interpretation": "He considers a $50 million valuation for a pre-revenue AI company too expensive to preserve investment upside.",
+        "attribution_basis": "The bylined first-person article states Mark’s explicit valuation judgment."
+      },
+      {
+        "quote": "The same technology will also lead to the proliferation of smaller, much more capital efficient businesses that choose to exit on a reasonable timeline for ~$100M.",
+        "label": "market_timing",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "He expects AI to enable capital-efficient businesses suited to approximately $100 million exits.",
+        "attribution_basis": "The bylined first-person article states Mark’s AI-era investment thesis."
+      },
+      {
+        "quote": "At 11 Tribes, we've been building for this type of company for several years. We call these enduring companies.",
+        "label": "investment_thesis_constraint",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "11 Tribes is intentionally designed to invest in smaller, capital-efficient companies capable of enduring hardship.",
+        "attribution_basis": "The bylined first-person article explicitly connects this company type to 11 Tribes’ strategy."
+      },
+      {
+        "quote": "Thoughtful, properly sized capital infusions.",
+        "label": "capital_intensity_concern",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "He favors financing amounts calibrated to a company’s actual capital needs.",
+        "attribution_basis": "The bylined first-person article lists this as a need of the enduring companies 11 Tribes targets."
+      },
+      {
+        "quote": "Our goal has always been to stay small so as to meet the needs of our founders (multi-billion dollar funds cannot say the same).",
+        "label": "fund_economics_constraint",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "He deliberately limits fund scale so its capital model remains compatible with founder needs.",
+        "attribution_basis": "The bylined first-person article states 11 Tribes’ fund-size rationale."
+      },
+      {
+        "quote": "The 11 Tribes Founder Resilience Commitment is a first of its kind allocation of capital that amplifies the amazing potential of our founders and mitigates the risk of a litany of people related issues that can kill companies.",
+        "label": "execution_risk_assessment",
+        "direction": "positive",
+        "support": "explicit",
+        "interpretation": "He uses dedicated resilience capital to reduce founder and organizational risks that can cause company failure.",
+        "attribution_basis": "The bylined first-person article explicitly describes 11 Tribes’ risk-mitigation program."
+      }
+    ],
+    "context": [
+      {
+        "quote": "At 11 Tribes, we've been building for this type of company for several years.",
+        "claim": "Phillips says 11 Tribes had spent several years building an investment model for smaller, capital-efficient companies by May 1, 2024.",
+        "kind": "investment_approach"
+      },
+      {
+        "quote": "There has never been a better time to be part of 11 Tribes and to optimize for both founder and financial outcomes.",
+        "claim": "Phillips describes 11 Tribes’ objective as optimizing both founder and financial outcomes.",
+        "kind": "investment_approach"
+      }
+    ],
+    "input_fingerprint": "3eb40c4a95c3e934ec0b0d164edcde5943845a7d443405079506eebfcdf99d1f"
+  },
+  {
+    "source": "full:ede0d7a31a90146872a89171",
+    "part": 1,
+    "identity": "target",
+    "reason": "The Mark Phillips-bylined post explicitly discusses his team’s work at 11 Tribes and introduces the firm’s 2024 annual letter.",
+    "evidence": [
+      {
+        "quote": "Increase your understanding and appreciation for our strategy, approach, and competitive edge",
+        "label": "competitive_advantage_assessment",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "He presents the firm as having a distinct strategy, approach, and competitive edge, though the supplied page does not include the supporting annual-letter detail.",
+        "attribution_basis": "The bylined first-person 11 Tribes post states one of Mark’s purposes for sharing the annual letter."
+      },
+      {
+        "quote": "Energize you by sharing how our mission and motivations are driving incredible growth",
+        "label": "mission_alignment_preference",
+        "direction": "positive",
+        "support": "inferred",
+        "interpretation": "He links 11 Tribes’ growth to its mission and underlying motivations.",
+        "attribution_basis": "The bylined first-person 11 Tribes post states one of Mark’s purposes for sharing the annual letter."
+      }
+    ],
+    "context": [
+      {
+        "quote": "As work at 11 Tribes has continued to accelerate, I have come to cherish the moments of reflection at the end of each year.",
+        "claim": "Phillips describes himself as actively engaged in the accelerating work of 11 Tribes.",
+        "kind": "company_relationship"
+      },
+      {
+        "quote": "Looking back on all that our team accomplished in 2024 made this an especially energizing activity.",
+        "claim": "In the March 4, 2025 post, Phillips frames the linked annual letter as a reflection on 11 Tribes’ 2024 activity.",
+        "kind": "dated_event"
+      }
+    ],
+    "input_fingerprint": "4f41bd8e707a9990af4d704a4bbaa214bad9de56ce2d1b1178bb118836cfaf77"
+  }
+]
