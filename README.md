@@ -8,18 +8,57 @@ The [Mac Conwell memory](wiki/mac-conwell/README.md) covers his supplied collect
 
 The [October 2026 batch report](docs/batch-2026-10-06.md) links the completed text-based memories for 17 additional investors. These exports have untranscribed media, so their memories cover available text and are labelled partial.
 
-## How the two repositories fit together
+## Dependencies across VCLogic repositories
+
+This repository is the investment-memory stage of the [VCLogic](https://github.com/VCLogic) workflow. The arrows below show data flow; package dependencies are described separately.
 
 ```text
-vclogic-vc-trace-collector       Investor data folder       This repository
-Discover and collect sources → Text, transcripts, metadata → Analyze and generate wiki
+vclogic-vc-trace-collector
+  │ Complete investor folder: identity, source text, transcripts, metadata
+  ▼
+vclogic-vc-investment-memory  (this repository)
+  │ Validated, cited wiki in wiki/<investor-slug>/
+  ▼
+vclogic-vc-investor-onboarding
+  │ Investor bundle: wiki, identity, retrieval indexes, assessment configs
+  ▼
+vclogic-vc-agentic-assessment
+  │ Investor-specific pitch assessments and founder rehearsal
+  ▼
+vclogic-web-application
+    Web interface and API for profiles, assessments, comparisons and rehearsal
 ```
 
-**Upstream dependency: [vclogic-vc-trace-collector](https://github.com/VCLogic/vclogic-vc-trace-collector).** Use it to resolve the investor’s identity and collect their articles, interviews, transcripts, and portfolio source pages. Follow its [setup and collection instructions](https://github.com/VCLogic/vclogic-vc-trace-collector#readme).
+| Repository | Relationship to this repository | Handoff / responsibility |
+|---|---|---|
+| [VC Trace Collector](https://github.com/VCLogic/vclogic-vc-trace-collector) | **Upstream data producer.** Its Python package is not imported here. | Resolves investor identity and collects public traces, transcripts and portfolio source pages. Pass the whole `outputs/<slug>/` folder to this repository. |
+| [Investor Onboarding](https://github.com/VCLogic/vclogic-vc-inverstor-onboarding) | **Direct downstream consumer.** Depends on this repository's `vc-investment-memory` package for wiki validation, and on the assessment engine for runtime formats and validation. | Consumes `wiki/<slug>/`, prepares identity/configuration and retrieval indexes, and produces a validated bundle. It can optionally add historical pitches and evidence-linked decisions from The Pitch. |
+| [Agentic Assessment](https://github.com/VCLogic/vclogic-vc-agentic-assessment) | **Downstream assessment engine.** Not required to generate a wiki here. | Uses the prepared investor knowledge and indexes to investigate pitch rationales, synthesize decisions and run rehearsal. Onboarding can install a bundle into this repository's workspace. |
+| [Web Application](https://github.com/VCLogic/vclogic-web-application) | **Downstream application.** Depends on the assessment engine; not required to generate a wiki here. | Provides the React interface and FastAPI API. Discovers prepared investor bundles/installed profiles and executes assessments through the engine. It does not generate wikis or build missing indexes through the browser. |
 
-This repository consumes the collector’s files. It reviews identity and attribution, extracts supporting passages, and writes the investment memory using **gpt-5.6-sol**. Portfolio pages downloaded by the collector are source material; the investment and relationship analysis happens here.
+**For wiki generation only:** install this repository and supply an investor export. If you already have the export, you do not need to run the collector again or install onboarding, assessment or the web application. Portfolio pages from the collector are source material; the investment and relationship analysis happens here. Follow the [collector setup instructions](https://github.com/VCLogic/vclogic-vc-trace-collector#readme) when collecting new material.
 
-The collector is a **data-producing dependency**, not a Python package imported by this application. If you already have its complete investor export, you can use that directly without running collection again. Collection and wiki generation are separate operations.
+### Local checkout layout for the full workflow
+
+Onboarding's `uv` configuration uses editable sibling dependencies on investment-memory and assessment. The web application's `uv` configuration uses an editable sibling dependency on assessment. Use this layout when working across the projects:
+
+```text
+<workspace>/
+├── vclogic-vc-trace-collector/       # Optional once you have the export
+├── vclogic-vc-investment-memory/    # This repository
+├── vclogic-vc-investor-onboarding/
+├── vclogic-vc-agentic-assessment/
+└── vclogic-web-application/
+```
+
+The onboarding repository's current **GitHub name contains `inverstor`**, while its package and expected local directory use `investor`. Clone it with an explicit destination:
+
+```bash
+# Run from the shared parent directory.
+git clone https://github.com/VCLogic/vclogic-vc-inverstor-onboarding.git vclogic-vc-investor-onboarding
+```
+
+A generated wiki is the handoff to onboarding, not yet an indexed assessment bundle. After generating and checking it here, follow the [onboarding workflow](https://github.com/VCLogic/vclogic-vc-inverstor-onboarding#readme) to prepare/check a bundle and install it into the assessment workspace. Then follow the [assessment setup](https://github.com/VCLogic/vclogic-vc-agentic-assessment#readme) and, if needed, the [web application setup](https://github.com/VCLogic/vclogic-web-application#readme). Each repository manages its own environment and credentials; this repository's Sol/Codex setup does not configure downstream model providers.
 
 ## What you need
 
