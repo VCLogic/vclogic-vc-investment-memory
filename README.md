@@ -8,6 +8,8 @@ The [Mac Conwell memory](wiki/mac-conwell/README.md) covers his supplied collect
 
 The [October 2026 batch report](docs/batch-2026-10-06.md) links the completed text-based memories for 17 additional investors. These exports have untranscribed media, so their memories cover available text and are labelled partial.
 
+The [Paige Doherty refresh — October 15, 2026](wiki/paige-doherty-behind-genius-ventures-2026-10-15/README.md) incorporates the newly available transcripts: 423 text sources, 459 reviewed packets, and 455 evidence excerpts. See the [run report and remaining coverage gaps](docs/paige-doherty-refresh-2026-10-15.md).
+
 ## Dependencies across VCLogic repositories
 
 This repository is the investment-memory stage of the [VCLogic](https://github.com/VCLogic) workflow. The arrows below show data flow; package dependencies are described separately.
