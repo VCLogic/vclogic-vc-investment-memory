@@ -18,6 +18,8 @@ The [Paige Doherty refresh — October 15, 2026](wiki/paige-doherty-behind-geniu
 
 The [Beck Bamberger refresh — October 16, 2026](wiki/beck-bamberger-bad-ideas-group-2026-10-16/README.md) incorporates the available transcripts: 242 text sources, 353 reviewed packets, and 238 evidence excerpts. See the [run report, inference limits and remaining coverage gaps](docs/beck-bamberger-refresh-2026-10-16.md).
 
+The [Mark Phillips refresh — October 16, 2026](wiki/mark-phillips-11-tribes-ventures-2026-10-16/README.md) incorporates the updated export: 267 text sources, 434 reviewed packets, and 443 evidence excerpts. See the [run report and remaining coverage gaps](docs/mark-phillips-refresh-2026-10-16.md).
+
 ## Dependencies across VCLogic repositories
 
 This repository is the investment-memory stage of the [VCLogic](https://github.com/VCLogic) workflow. The arrows below show data flow; package dependencies are described separately.
