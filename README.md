@@ -8,6 +8,8 @@ The [Mac Conwell memory](wiki/mac-conwell/README.md) covers his supplied collect
 
 The [October 2026 batch report](docs/batch-2026-10-06.md) links the completed text-based memories for 17 additional investors. These exports have untranscribed media, so their memories cover available text and are labelled partial.
 
+The [Sheel Mohnot refresh — October 16, 2026](wiki/sheel-mohnot-better-tomorrow-ventures-2026-10-16/README.md) incorporates the updated collector export: 459 text sources, 862 reviewed packets, and 1,894 evidence excerpts. See the [run report and remaining coverage gaps](docs/sheel-mohnot-refresh-2026-10-16.md).
+
 The [Paige Doherty refresh — October 15, 2026](wiki/paige-doherty-behind-genius-ventures-2026-10-15/README.md) incorporates the newly available transcripts: 423 text sources, 459 reviewed packets, and 455 evidence excerpts. See the [run report and remaining coverage gaps](docs/paige-doherty-refresh-2026-10-15.md).
 
 ## Dependencies across VCLogic repositories
