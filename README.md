@@ -16,6 +16,8 @@ The [Sheel Mohnot refresh — October 16, 2026](wiki/sheel-mohnot-better-tomorro
 
 The [Paige Doherty refresh — October 15, 2026](wiki/paige-doherty-behind-genius-ventures-2026-10-15/README.md) incorporates the newly available transcripts: 423 text sources, 459 reviewed packets, and 455 evidence excerpts. See the [run report and remaining coverage gaps](docs/paige-doherty-refresh-2026-10-15.md).
 
+The [Beck Bamberger refresh — October 16, 2026](wiki/beck-bamberger-bad-ideas-group-2026-10-16/README.md) incorporates the available transcripts: 242 text sources, 353 reviewed packets, and 238 evidence excerpts. See the [run report, inference limits and remaining coverage gaps](docs/beck-bamberger-refresh-2026-10-16.md).
+
 ## Dependencies across VCLogic repositories
 
 This repository is the investment-memory stage of the [VCLogic](https://github.com/VCLogic) workflow. The arrows below show data flow; package dependencies are described separately.
