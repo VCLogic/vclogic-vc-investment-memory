@@ -105,12 +105,13 @@ def coverage_data(inv,reviews):
 
 
 def indexed_synthesis(data):
-    """Remove repeated field names and source IDs without discarding findings."""
+    """Remove repeated fields, source IDs and categorical strings losslessly."""
     source_index={s['doc_id']:i for i,s in enumerate(data['sources'])}
     packed={k:v for k,v in data.items() if k not in ('sources','evidence','context')}
     packed['encoding']=('Each table has columns and rows; map each row position to its column. '
                         'Evidence/context source values are zero-based row indexes into the sources table. '
                         'When a table has id_prefix, prepend it to each id string to reconstruct its full citation ID. '
+                        'For each column listed in a table\'s dictionaries, decode its cell as a zero-based index into that column\'s dictionary before interpreting it. '
                         'Use full evidence/context IDs for ev/ctx citations, '
                         'never the source indexes. Every finding and source is included.')
     for name in ('sources','evidence','context'):
@@ -130,6 +131,17 @@ def indexed_synthesis(data):
                 position=columns.index('id')
                 for row in rows:
                     row[position]=row[position][len(prefix):]
+        if name!='sources':
+            for column in ('label','direction','support','kind'):
+                if column not in columns or not rows:continue
+                position=columns.index(column)
+                values=list(dict.fromkeys(row[position] for row in rows))
+                indexes={value:i for i,value in enumerate(values)}
+                candidate={**packed[name],
+                           'dictionaries':{**packed[name].get('dictionaries',{}),column:values},
+                           'rows':[[indexes[value] if i==position else value for i,value in enumerate(row)] for row in packed[name]['rows']]}
+                if len(json.dumps(candidate,ensure_ascii=False,separators=(',',':')))<len(json.dumps(packed[name],ensure_ascii=False,separators=(',',':'))):
+                    packed[name]=candidate
     return packed
 
 

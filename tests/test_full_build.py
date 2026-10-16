@@ -49,6 +49,33 @@ class FullBuildTests(unittest.TestCase):
         packed=indexed_synthesis(data)
         self.assertNotIn('id_prefix',packed['evidence'])
 
+    def test_categorical_dictionaries_preserve_all_findings(self):
+        from wiki_build.full_build import indexed_synthesis
+        data={'sources':[{'doc_id':'source','kind':'web'}],
+              'evidence':[{'id':f'long-investor-{i:04d}','source':'source',
+                           'label':'founder_qualities' if i%2 else 'market_size',
+                           'direction':'positive','support':'explicit',
+                           'interpretation':f'Distinct finding {i}'} for i in range(100)],
+              'context':[{'id':f'long-investor-{i:04d}','source':'source',
+                          'kind':'company_relationship','claim':f'Company {i}'} for i in range(50)]}
+        before=json.loads(json.dumps(data));packed=indexed_synthesis(data)
+        self.assertIn('dictionaries',packed['evidence'])
+        self.assertIn('dictionaries',packed['context'])
+        self.assertIn('dictionaries',packed['encoding'])
+        for name in ('evidence','context'):
+            table=packed[name];decoded=[]
+            for row in table['rows']:
+                record=dict(zip(table['columns'],row))
+                for column,values in table['dictionaries'].items():
+                    record[column]=values[record[column]]
+                record['id']=table.get('id_prefix','')+record['id']
+                record['source']='source';decoded.append(record)
+            self.assertEqual(decoded,data[name])
+        self.assertEqual(data,before)
+        # Small tables should not pay more for dictionary metadata than they save.
+        tiny=indexed_synthesis({'sources':data['sources'],'evidence':data['evidence'][:1],'context':[]})
+        self.assertNotIn('dictionaries',tiny['evidence'])
+
     def fixture(self):
         text='I value founders who keep their promises.'
         inv={'vc_slug':'test','identity':{'canonical_name':'Test'},'source_policy':'full_investor_export',
