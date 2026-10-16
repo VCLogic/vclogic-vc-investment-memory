@@ -27,6 +27,28 @@ class FullBuildTests(unittest.TestCase):
         empty=indexed_synthesis({**data,'evidence':[],'context':[]})
         self.assertEqual(empty['evidence'],{'columns':[],'rows':[]})
 
+    def test_indexed_synthesis_compacts_citation_prefix_losslessly(self):
+        from wiki_build.full_build import indexed_synthesis
+        data={'sources':[{'doc_id':'source'}],
+              'evidence':[{'id':'long-investor-name-0001','source':'source'},
+                          {'id':'long-investor-name-10000','source':'source'}],
+              'context':[{'id':'long-investor-name-0001','source':'source'}]}
+        before=json.loads(json.dumps(data))
+        packed=indexed_synthesis(data)
+        for name in ('evidence','context'):
+            table=packed[name]
+            self.assertEqual(table.get('id_prefix'),'long-investor-name-')
+            decoded=[dict(zip(table['columns'],row)) for row in table['rows']]
+            for row in decoded:
+                row['id']=table['id_prefix']+row['id']
+                row['source']='source'
+            self.assertEqual(decoded,data[name])
+        self.assertEqual(data,before)
+        self.assertIn('id_prefix',packed['encoding'])
+        data['evidence'][1]['id']='unrelated'
+        packed=indexed_synthesis(data)
+        self.assertNotIn('id_prefix',packed['evidence'])
+
     def fixture(self):
         text='I value founders who keep their promises.'
         inv={'vc_slug':'test','identity':{'canonical_name':'Test'},'source_policy':'full_investor_export',

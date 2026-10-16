@@ -110,7 +110,8 @@ def indexed_synthesis(data):
     packed={k:v for k,v in data.items() if k not in ('sources','evidence','context')}
     packed['encoding']=('Each table has columns and rows; map each row position to its column. '
                         'Evidence/context source values are zero-based row indexes into the sources table. '
-                        'All id values are unchanged: use evidence/context id values for ev/ctx citations, '
+                        'When a table has id_prefix, prepend it to each id string to reconstruct its full citation ID. '
+                        'Use full evidence/context IDs for ev/ctx citations, '
                         'never the source indexes. Every finding and source is included.')
     for name in ('sources','evidence','context'):
         records=data[name]
@@ -122,6 +123,13 @@ def indexed_synthesis(data):
             rows.append([source_index[record[key]] if key=='source' and name!='sources' else record[key]
                          for key in columns])
         packed[name]={'columns':columns,'rows':rows}
+        if name!='sources' and records and 'id' in columns:
+            prefix=records[0]['id'].rpartition('-')[0]+'-'
+            if prefix!='-' and all(record['id'].startswith(prefix) for record in records):
+                packed[name]['id_prefix']=prefix
+                position=columns.index('id')
+                for row in rows:
+                    row[position]=row[position][len(prefix):]
     return packed
 
 
