@@ -4,6 +4,8 @@ Turn a venture investor’s collected source material into a cited investment wi
 
 **Start with the [Michael Hyatt example](wiki/michael-hyatt/README.md)**: [investment policy](wiki/michael-hyatt/persona.md), [investment themes](wiki/michael-hyatt/theses.md), and [portfolio and relationships](wiki/michael-hyatt/portfolio_and_constraints.md).
 
+The [Michael Hyatt refresh — October 16, 2026](wiki/michael-hyatt-2026-10-16/README.md) incorporates 380 text sources, 516 reviewed packets, and 398 evidence excerpts. See the [run report and remaining coverage gaps](docs/michael-hyatt-refresh-2026-10-16.md).
+
 The [Mac Conwell memory](wiki/mac-conwell/README.md) covers his supplied collector export, with recovered audio and an explicit coverage audit. See its [investment policy](wiki/mac-conwell/persona.md), [reported relationships](wiki/mac-conwell/portfolio_and_constraints.md), and [run report](docs/mac-conwell-full-run.md).
 
 The [Mac Conwell refresh — October 16, 2026](wiki/mac-conwell-2026-10-16/README.md) incorporates the updated export: 549 text sources, 1,092 reviewed packets, and 2,082 evidence excerpts, with all 42 primary firm company listings retained. See the [run report and remaining coverage gaps](docs/mac-conwell-refresh-2026-10-16.md).
