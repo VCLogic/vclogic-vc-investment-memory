@@ -22,6 +22,8 @@ The [Beck Bamberger refresh — October 16, 2026](wiki/beck-bamberger-bad-ideas-
 
 The [Mark Phillips refresh — October 16, 2026](wiki/mark-phillips-11-tribes-ventures-2026-10-16/README.md) incorporates the updated export: 267 text sources, 434 reviewed packets, and 443 evidence excerpts. See the [run report and remaining coverage gaps](docs/mark-phillips-refresh-2026-10-16.md).
 
+The [Nicole Verkindt refresh — October 16, 2026](wiki/nicole-verkindt-2026-10-16/README.md) incorporates 145 text sources, 371 reviewed packets, and 275 evidence excerpts. See the [run report, inference limits and remaining coverage gaps](docs/nicole-verkindt-refresh-2026-10-16.md).
+
 ## Dependencies across VCLogic repositories
 
 This repository is the investment-memory stage of the [VCLogic](https://github.com/VCLogic) workflow. The arrows below show data flow; package dependencies are described separately.
