@@ -68,4 +68,4 @@ Quotes match the supplied transcript, not independently checked audio. Automated
 
 **Partial coverage:** all 267 available text sources / 434 packets were reviewed, but 33 media files lack linked transcripts and 114 packets remain uncertain. One saved HTML file has no visible text. This refresh contains 443 evidence excerpts and 413 context facts from 99 admitted source IDs. No date cutoff was applied.
 
-[Refresh report](../../docs/mark-phillips-refresh-2026-10-16.md) · [Earlier wiki](../mark-phillips-11-tribes-ventures/README.md)
+[Refresh report](../../../docs/mark-phillips-refresh-2026-10-16.md) · [Earlier wiki](../mark-phillips-11-tribes-ventures/README.md)

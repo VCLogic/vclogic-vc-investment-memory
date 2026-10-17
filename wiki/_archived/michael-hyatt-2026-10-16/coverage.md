@@ -1,6 +1,6 @@
 # Full-export coverage
 
-**Partial coverage:** This October 16, 2026 snapshot accounts for 1,951 files and reviews all 516 available text packets across 380 sources. It leaves 53 media files without transcripts and 26 uncertain packets excluded from investor-policy evidence. No date cutoff was applied. Later collector additions are outside the snapshot. See the [refresh report](../../docs/michael-hyatt-refresh-2026-10-16.md).
+**Partial coverage:** This October 16, 2026 snapshot accounts for 1,951 files and reviews all 516 available text packets across 380 sources. It leaves 53 media files without transcripts and 26 uncertain packets excluded from investor-policy evidence. No date cutoff was applied. Later collector additions are outside the snapshot. See the [refresh report](../../../docs/michael-hyatt-refresh-2026-10-16.md).
 
 1951 files inventoried; 380 unique text sources; 516 source packets reviewed.
 

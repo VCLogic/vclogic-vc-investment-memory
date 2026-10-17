@@ -1,6 +1,6 @@
 # Michael Hyatt trial — 2026-09-14
 
-Completed a real end-to-end run with **gpt-5.6-sol**, producing [the wiki](../wiki/michael-hyatt/README.md) and [decision policy](../wiki/michael-hyatt/persona.md).
+Completed a real end-to-end run with **gpt-5.6-sol**, producing [the wiki](../wiki/_archived/michael-hyatt/README.md) and [decision policy](../wiki/_archived/michael-hyatt/persona.md).
 
 ## Result
 

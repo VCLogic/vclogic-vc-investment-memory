@@ -37,4 +37,4 @@ Quotes match the supplied transcript, not independently checked audio. Automated
 
 **Partial coverage:** all 242 available text sources / 353 packets were reviewed, but two media files lack transcripts and 52 packets remain uncertain. This refresh contains 238 evidence excerpts and 187 context facts from 172 admitted source IDs. Of the excerpts, 218 are labelled inferred and 20 explicit; operating lessons are not mandatory investment rules. No date cutoff was applied.
 
-[Refresh report](../../docs/beck-bamberger-refresh-2026-10-16.md) · [Earlier wiki](../beck-bamberger-bad-ideas-group/README.md)
+[Refresh report](../../docs/beck-bamberger-refresh-2026-10-16.md) · [Earlier wiki](../_archived/beck-bamberger-bad-ideas-group/README.md)

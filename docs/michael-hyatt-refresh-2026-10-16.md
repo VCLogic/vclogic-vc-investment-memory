@@ -1,8 +1,8 @@
 # Michael Hyatt — October 16, 2026 refresh
 
-[Open the refreshed wiki](../wiki/michael-hyatt-2026-10-16/README.md) · [Investment policy](../wiki/michael-hyatt-2026-10-16/persona.md) · [Theses](../wiki/michael-hyatt-2026-10-16/theses.md) · [Portfolio](../wiki/michael-hyatt-2026-10-16/portfolio_and_constraints.md) · [Coverage](../wiki/michael-hyatt-2026-10-16/coverage.md)
+[Open the refreshed wiki](../wiki/_archived/michael-hyatt-2026-10-16/README.md) · [Investment policy](../wiki/_archived/michael-hyatt-2026-10-16/persona.md) · [Theses](../wiki/_archived/michael-hyatt-2026-10-16/theses.md) · [Portfolio](../wiki/_archived/michael-hyatt-2026-10-16/portfolio_and_constraints.md) · [Coverage](../wiki/_archived/michael-hyatt-2026-10-16/coverage.md)
 
-Fresh generation with `gpt-5.6-sol` from the Canadian technology investor's current collector export, with no date cutoff. The [earlier wiki](../wiki/michael-hyatt/README.md) remains unchanged. The target is associated with BlueCat and Dyadem, not the US publishing/productivity author or other namesakes.
+Fresh generation with `gpt-5.6-sol` from the Canadian technology investor's current collector export, with no date cutoff. The [earlier wiki](../wiki/_archived/michael-hyatt/README.md) remains unchanged. The target is associated with BlueCat and Dyadem, not the US publishing/productivity author or other namesakes.
 
 ## Scope
 
@@ -33,7 +33,7 @@ The existing Tank Talk supplement's media hash matched its stored content-addres
 python -m wiki_build full-build .wiki-cache/michael-hyatt-2026-10-16/input-snapshot/michael-hyatt \
   --output wiki/michael-hyatt-2026-10-16 \
   --cache-dir .wiki-cache/michael-hyatt-2026-10-16 \
-  --reviews wiki/michael-hyatt/source_reviews.json \
+  --reviews wiki/_archived/michael-hyatt/source_reviews.json \
   --supplements supplements/michael-hyatt.json \
   --identity-resolutions supplements/michael-hyatt-identity.json \
   --model gpt-5.6-sol --workers 8 --timeout 1200

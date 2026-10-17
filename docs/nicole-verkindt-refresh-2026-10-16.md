@@ -2,7 +2,7 @@
 
 [Open the wiki](../wiki/nicole-verkindt-2026-10-16/README.md) · [Investment policy](../wiki/nicole-verkindt-2026-10-16/persona.md) · [Portfolio](../wiki/nicole-verkindt-2026-10-16/portfolio_and_constraints.md) · [Coverage](../wiki/nicole-verkindt-2026-10-16/coverage.md)
 
-Generated with `gpt-5.6-sol`, without a date cutoff. The [earlier wiki](../wiki/nicole-verkindt/README.md) remains unchanged.
+Generated with `gpt-5.6-sol`, without a date cutoff. The [earlier wiki](../wiki/_archived/nicole-verkindt/README.md) remains unchanged.
 
 ## Scope
 

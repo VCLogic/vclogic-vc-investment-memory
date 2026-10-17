@@ -52,4 +52,4 @@ Quotes match the supplied transcript, not independently checked audio. Automated
 
 **Partial coverage:** all 549 available text sources / 1,092 packets were reviewed, but 14 media files lack transcripts and 192 packets remain uncertain. Three recovered Spotify recordings are short previews. This refresh contains 2,082 evidence excerpts and 1,971 context receipts from 310 admitted source IDs. No date cutoff was applied.
 
-[Refresh report](../../docs/mac-conwell-refresh-2026-10-16.md) · [Earlier wiki](../mac-conwell/README.md)
+[Refresh report](../../docs/mac-conwell-refresh-2026-10-16.md) · [Earlier wiki](../_archived/mac-conwell/README.md)

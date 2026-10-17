@@ -1,8 +1,8 @@
 # Mark Phillips — October 16, 2026 refresh
 
-[Open the refreshed wiki](../wiki/mark-phillips-11-tribes-ventures-2026-10-16/README.md) · [Investment policy](../wiki/mark-phillips-11-tribes-ventures-2026-10-16/persona.md) · [Theses](../wiki/mark-phillips-11-tribes-ventures-2026-10-16/theses.md) · [Portfolio](../wiki/mark-phillips-11-tribes-ventures-2026-10-16/portfolio_and_constraints.md) · [Coverage](../wiki/mark-phillips-11-tribes-ventures-2026-10-16/coverage.md)
+[Open the refreshed wiki](../wiki/_archived/mark-phillips-11-tribes-ventures-2026-10-16/README.md) · [Investment policy](../wiki/_archived/mark-phillips-11-tribes-ventures-2026-10-16/persona.md) · [Theses](../wiki/_archived/mark-phillips-11-tribes-ventures-2026-10-16/theses.md) · [Portfolio](../wiki/_archived/mark-phillips-11-tribes-ventures-2026-10-16/portfolio_and_constraints.md) · [Coverage](../wiki/_archived/mark-phillips-11-tribes-ventures-2026-10-16/coverage.md)
 
-Fresh synthesis with `gpt-5.6-sol` from the updated collector export, with no date cutoff. All 56 previous packet reviews passed fingerprint and content revalidation; Sol reviewed 378 additional packets in 110 batches. The [earlier wiki](../wiki/mark-phillips-11-tribes-ventures/README.md) remains unchanged.
+Fresh synthesis with `gpt-5.6-sol` from the updated collector export, with no date cutoff. All 56 previous packet reviews passed fingerprint and content revalidation; Sol reviewed 378 additional packets in 110 batches. The [earlier wiki](../wiki/_archived/mark-phillips-11-tribes-ventures/README.md) remains unchanged.
 
 ## Scope
 
@@ -27,7 +27,7 @@ The inventory adds 213 transcript sources to the previous 54 web sources. Counts
 python -m wiki_build full-build /home/dpasch01/vclogic-vc-trace-collector/outputs/mark-phillips-11-tribes-ventures \
   --output wiki/mark-phillips-11-tribes-ventures-2026-10-16 \
   --cache-dir .wiki-cache/mark-phillips-2026-10-16 \
-  --reviews wiki/mark-phillips-11-tribes-ventures/source_reviews.json \
+  --reviews wiki/_archived/mark-phillips-11-tribes-ventures/source_reviews.json \
   --model gpt-5.6-sol --workers 8 --timeout 1200
 ```
 

@@ -2,7 +2,7 @@
 
 [Open the refreshed wiki](../wiki/jenny-fielding-everywhere-ventures-2026-10-16/README.md) · [Investment policy](../wiki/jenny-fielding-everywhere-ventures-2026-10-16/persona.md) · [Theses](../wiki/jenny-fielding-everywhere-ventures-2026-10-16/theses.md) · [Portfolio](../wiki/jenny-fielding-everywhere-ventures-2026-10-16/portfolio_and_constraints.md) · [Coverage](../wiki/jenny-fielding-everywhere-ventures-2026-10-16/coverage.md)
 
-Fresh synthesis with `gpt-5.6-sol` from the updated collector export, with no date cutoff. All 126 previous packet reviews passed fingerprint and content revalidation; Sol reviewed the additional 647 packets in 209 batches. The [earlier wiki](../wiki/jenny-fielding-everywhere-ventures/README.md) remains unchanged.
+Fresh synthesis with `gpt-5.6-sol` from the updated collector export, with no date cutoff. All 126 previous packet reviews passed fingerprint and content revalidation; Sol reviewed the additional 647 packets in 209 batches. The [earlier wiki](../wiki/_archived/jenny-fielding-everywhere-ventures/README.md) remains unchanged.
 
 ## Scope
 
@@ -29,7 +29,7 @@ Input: `/home/dpasch01/vclogic-vc-trace-collector/outputs/jenny-fielding-everywh
 python -m wiki_build full-build /home/dpasch01/vclogic-vc-trace-collector/outputs/jenny-fielding-everywhere-ventures \
   --output wiki/jenny-fielding-everywhere-ventures-2026-10-16 \
   --cache-dir .wiki-cache/jenny-fielding-2026-10-16 \
-  --reviews wiki/jenny-fielding-everywhere-ventures/source_reviews.json \
+  --reviews wiki/_archived/jenny-fielding-everywhere-ventures/source_reviews.json \
   --model gpt-5.6-sol --workers 8 --timeout 1200
 ```
 

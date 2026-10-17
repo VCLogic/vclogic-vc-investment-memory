@@ -2,7 +2,7 @@
 
 [Open the refreshed wiki](../wiki/mac-conwell-2026-10-16/README.md) · [Investment policy](../wiki/mac-conwell-2026-10-16/persona.md) · [Theses](../wiki/mac-conwell-2026-10-16/theses.md) · [Portfolio](../wiki/mac-conwell-2026-10-16/portfolio_and_constraints.md) · [Coverage](../wiki/mac-conwell-2026-10-16/coverage.md)
 
-Fresh synthesis with `gpt-5.6-sol` from Mac Conwell's updated collector export, with no date cutoff. All 485 earlier packet reviews passed fingerprint and content revalidation; Sol reviewed 607 additional packets in 207 batches. The [earlier wiki](../wiki/mac-conwell/README.md) remains unchanged.
+Fresh synthesis with `gpt-5.6-sol` from Mac Conwell's updated collector export, with no date cutoff. All 485 earlier packet reviews passed fingerprint and content revalidation; Sol reviewed 607 additional packets in 207 batches. The [earlier wiki](../wiki/_archived/mac-conwell/README.md) remains unchanged.
 
 ## Scope
 

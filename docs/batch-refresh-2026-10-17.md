@@ -10,7 +10,7 @@ Each run uses a fixed snapshot of the local collector export: content-addressed 
 
 [Wiki](../wiki/rohit-gupta-future-communities-capital-2026-10-17/README.md) · [Policy](../wiki/rohit-gupta-future-communities-capital-2026-10-17/persona.md) · [Theses](../wiki/rohit-gupta-future-communities-capital-2026-10-17/theses.md) · [Portfolio](../wiki/rohit-gupta-future-communities-capital-2026-10-17/portfolio_and_constraints.md) · [Coverage](../wiki/rohit-gupta-future-communities-capital-2026-10-17/coverage.md)
 
-Snapshot captured **2026-10-17T06:27:58Z** from `/home/dpasch01/vclogic-vc-trace-collector/outputs/rohit-gupta-future-communities-capital`. [Previous wiki](../wiki/rohit-gupta-future-communities-capital/README.md) unchanged.
+Snapshot captured **2026-10-17T06:27:58Z** from `/home/dpasch01/vclogic-vc-trace-collector/outputs/rohit-gupta-future-communities-capital`. [Previous wiki](../wiki/_archived/rohit-gupta-future-communities-capital/README.md) unchanged.
 
 | Measure | Count |
 |---|---:|
@@ -38,7 +38,7 @@ Reproduction: use an absent destination and the saved snapshot, with the applica
 
 [Wiki](../wiki/michael-hyatt-2026-10-17/README.md) · [Policy](../wiki/michael-hyatt-2026-10-17/persona.md) · [Theses](../wiki/michael-hyatt-2026-10-17/theses.md) · [Portfolio](../wiki/michael-hyatt-2026-10-17/portfolio_and_constraints.md) · [Coverage](../wiki/michael-hyatt-2026-10-17/coverage.md)
 
-Snapshot captured **2026-10-17T06:34:49Z** from `/home/dpasch01/vclogic-vc-trace-collector/outputs/michael-hyatt`. [Previous wiki](../wiki/michael-hyatt-2026-10-16/README.md) unchanged.
+Snapshot captured **2026-10-17T06:34:49Z** from `/home/dpasch01/vclogic-vc-trace-collector/outputs/michael-hyatt`. [Previous wiki](../wiki/_archived/michael-hyatt-2026-10-16/README.md) unchanged.
 
 | Measure | Count |
 |---|---:|
@@ -66,7 +66,7 @@ Reproduction: use an absent destination and the saved snapshot, with the applica
 
 [Wiki](../wiki/howie-diamond-pure-ventures-2026-10-17/README.md) · [Policy](../wiki/howie-diamond-pure-ventures-2026-10-17/persona.md) · [Theses](../wiki/howie-diamond-pure-ventures-2026-10-17/theses.md) · [Portfolio](../wiki/howie-diamond-pure-ventures-2026-10-17/portfolio_and_constraints.md) · [Coverage](../wiki/howie-diamond-pure-ventures-2026-10-17/coverage.md)
 
-Snapshot captured **2026-10-17T06:41:35Z** from `/home/dpasch01/vclogic-vc-trace-collector/outputs/howie-diamond-pure-ventures`. [Previous wiki](../wiki/howie-diamond-pure-ventures/README.md) unchanged.
+Snapshot captured **2026-10-17T06:41:35Z** from `/home/dpasch01/vclogic-vc-trace-collector/outputs/howie-diamond-pure-ventures`. [Previous wiki](../wiki/_archived/howie-diamond-pure-ventures/README.md) unchanged.
 
 | Measure | Count |
 |---|---:|
@@ -94,7 +94,7 @@ Reproduction: use an absent destination and the saved snapshot, with the applica
 
 [Wiki](../wiki/mike-ma-sidecut-ventures-2026-10-17/README.md) · [Policy](../wiki/mike-ma-sidecut-ventures-2026-10-17/persona.md) · [Theses](../wiki/mike-ma-sidecut-ventures-2026-10-17/theses.md) · [Portfolio](../wiki/mike-ma-sidecut-ventures-2026-10-17/portfolio_and_constraints.md) · [Coverage](../wiki/mike-ma-sidecut-ventures-2026-10-17/coverage.md)
 
-Snapshot captured **2026-10-17T06:49:20Z** from `/home/dpasch01/vclogic-vc-trace-collector/outputs/mike-ma-sidecut-ventures`. [Previous wiki](../wiki/mike-ma-sidecut-ventures/README.md) unchanged.
+Snapshot captured **2026-10-17T06:49:20Z** from `/home/dpasch01/vclogic-vc-trace-collector/outputs/mike-ma-sidecut-ventures`. [Previous wiki](../wiki/_archived/mike-ma-sidecut-ventures/README.md) unchanged.
 
 | Measure | Count |
 |---|---:|
@@ -124,7 +124,7 @@ Reproduction: use an absent destination and the saved snapshot, with the applica
 
 [Wiki](../wiki/mark-phillips-11-tribes-ventures-2026-10-17/README.md) · [Policy](../wiki/mark-phillips-11-tribes-ventures-2026-10-17/persona.md) · [Theses](../wiki/mark-phillips-11-tribes-ventures-2026-10-17/theses.md) · [Portfolio](../wiki/mark-phillips-11-tribes-ventures-2026-10-17/portfolio_and_constraints.md) · [Coverage](../wiki/mark-phillips-11-tribes-ventures-2026-10-17/coverage.md)
 
-Snapshot captured **2026-10-17T07:00:04Z** from `/home/dpasch01/vclogic-vc-trace-collector/outputs/mark-phillips-11-tribes-ventures`. [Previous wiki](../wiki/mark-phillips-11-tribes-ventures-2026-10-16/README.md) unchanged.
+Snapshot captured **2026-10-17T07:00:04Z** from `/home/dpasch01/vclogic-vc-trace-collector/outputs/mark-phillips-11-tribes-ventures`. [Previous wiki](../wiki/_archived/mark-phillips-11-tribes-ventures-2026-10-16/README.md) unchanged.
 
 | Measure | Count |
 |---|---:|

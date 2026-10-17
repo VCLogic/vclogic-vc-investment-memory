@@ -8,4 +8,4 @@ This is a source-grounded research memory. Read the evidence and uncertainty not
 
 **Partial coverage:** all 459 available text sources / 862 packets were reviewed, but 20 media files have no transcript and 279 packets remain uncertain. This refresh contains 1,894 evidence excerpts and 1,204 context receipts from 184 admitted source IDs. No date cutoff was applied.
 
-[Refresh report](../../docs/sheel-mohnot-refresh-2026-10-16.md) · [Earlier wiki](../sheel-mohnot-better-tomorrow-ventures/README.md)
+[Refresh report](../../docs/sheel-mohnot-refresh-2026-10-16.md) · [Earlier wiki](../_archived/sheel-mohnot-better-tomorrow-ventures/README.md)

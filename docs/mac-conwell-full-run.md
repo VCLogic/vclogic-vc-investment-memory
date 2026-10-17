@@ -1,6 +1,6 @@
 # Mac Conwell: investment memory from the supplied export
 
-[Open the wiki](../wiki/mac-conwell/README.md), [investment policy](../wiki/mac-conwell/persona.md), [themes](../wiki/mac-conwell/theses.md), or [reported investments and relationships](../wiki/mac-conwell/portfolio_and_constraints.md).
+[Open the wiki](../wiki/_archived/mac-conwell/README.md), [investment policy](../wiki/_archived/mac-conwell/persona.md), [themes](../wiki/_archived/mac-conwell/theses.md), or [reported investments and relationships](../wiki/_archived/mac-conwell/portfolio_and_constraints.md).
 
 The investor is **Mac (McKeever) Conwell of RareBreed Ventures**, as confirmed by the user and the collector’s resolved identity. This run uses **gpt-5.6-sol** for source review, textual attribution review, and synthesis, with **no date cutoff**. The input is the collector’s `outputs/mac-conwell/` export. Original input files were preserved.
 
@@ -51,8 +51,8 @@ To regenerate synthesis from this exact snapshot and revalidate its saved review
 
 ```bash
 python -m wiki_build full-build ../vclogic-vc-trace-collector/outputs/mac-conwell \
-  --inventory wiki/mac-conwell/inventory.json \
-  --reviews wiki/mac-conwell/source_reviews.json \
+  --inventory wiki/_archived/mac-conwell/inventory.json \
+  --reviews wiki/_archived/mac-conwell/source_reviews.json \
   --output wiki/mac-conwell-replay \
   --cache-dir .wiki-cache/mac-conwell \
   --model gpt-5.6-sol
