@@ -24,6 +24,8 @@ The [Mark Phillips refresh — October 16, 2026](wiki/mark-phillips-11-tribes-ve
 
 The [Nicole Verkindt refresh — October 16, 2026](wiki/nicole-verkindt-2026-10-16/README.md) incorporates 145 text sources, 371 reviewed packets, and 275 evidence excerpts. See the [run report, inference limits and remaining coverage gaps](docs/nicole-verkindt-refresh-2026-10-16.md).
 
+The [October 17 sequential refresh report](docs/batch-refresh-2026-10-17.md) links the latest completed updates for Rohit Gupta, Michael Hyatt, Howie Diamond, Mike Ma and Mark Phillips, with validation results and remaining coverage gaps.
+
 ## Dependencies across VCLogic repositories
 
 This repository is the investment-memory stage of the [VCLogic](https://github.com/VCLogic) workflow. The arrows below show data flow; package dependencies are described separately.
