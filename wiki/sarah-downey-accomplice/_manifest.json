@@ -1,19 +1,24 @@
 {
   "vc_slug": "sarah-downey-accomplice",
-  "corpus_chars": 720268,
+  "corpus_chars": 1061103,
   "thin_corpus": false,
   "no_pitch_sources": false,
   "sources_consumed": [
-    "full:597c1a83cadc9ac8a73679d7",
+    "full:0c26b04fc5ab1ca6905f30fa",
+    "full:8f8e40e5d879e2fba38fc8b5",
+    "full:ae27d00489941bbebf26dac0",
+    "full:34c8555caed3f55d79703b9d",
+    "full:706faf2f3d690ed625c568f2",
+    "full:2b9d2c59537796715a7d65c9",
+    "full:7b7258ce42a5eef2f11e41e7",
+    "full:337a49fe03f0c5809bd0736e",
     "full:435c6ad9678dcfc88da77123",
     "full:30294fb09aa6a25f42a7f55d",
     "full:b9de07acdcf8d689d904de61",
-    "full:0f5ff121006cb8f71855d45c",
     "full:1e2365717436d25d04a72eeb",
     "full:8815cb49063657c0ced57177",
     "full:3a057e178c14d2225496529c",
     "full:49b0be4de0512ddb3b3bb1bf",
-    "full:8ab87274951a3130334101a6",
     "full:b0a47ad92830e67004ffeeb4",
     "full:e54ead2d07a498764b0f29ea",
     "full:3957dfe3411d6a18f39341dc",
@@ -31,7 +36,10 @@
     "full:54ff325c815162fa78d19527",
     "full:9081cc7a15521136e9898b7b",
     "full:5b4961567078de94cb346512",
+    "full:59828b530eead42f43ed04a8",
+    "full:6d712bfbd60feb75b7d3c6d9",
     "full:e39ebe1be8454d4b9c338c4d",
+    "full:8b81bcf4f7cd1a24c3b79d0b",
     "full:c13c49dde244fec866d2d800",
     "full:f29d705b399c1e6762d2ca22",
     "full:2e4f5ab9cf04f7af9325d0ba",
@@ -54,10 +62,8 @@
     "full:942062a7a443cc7051fcd171",
     "full:aaf883a3bc6d1f73369793aa",
     "full:e40ed4971eacddb900f1969a",
-    "full:8a8574bfe942e9a98325e046",
     "full:e71314c24124beac3577903e",
     "full:ebc3a2bfc96f1fb55dc4650d",
-    "full:0fb32e3ae254075c2755015d",
     "full:99efb33b1e325225fb72f49a",
     "full:8c51cb98cb18442910ca17a0",
     "full:c9baff5ef8b966d136fe5951",
@@ -87,7 +93,6 @@
     "full:b1023b21d1833a54bbafe50b",
     "full:9066137f1021a70a289d4668",
     "full:a24abb47065c10605a208710",
-    "full:7bb1750211d60a633b566186",
     "full:84e52659ad2fdf3375ba5b6a",
     "full:d009c6a4318d9098e1c54a83",
     "full:5bf542e16c0c74998c8f591a",
@@ -102,119 +107,445 @@
     "full:531163f9643cfc1390c46b00",
     "full:572fd873a29323406237a76c",
     "full:e1ee366a6f3c08c36814059f",
-    "full:8501f89ec76e0c2ee5a582f4"
+    "full:8501f89ec76e0c2ee5a582f4",
+    "full:6d86bb6ea44ada848f9923ed",
+    "full:3be33e8866f7feb2adc06735"
   ],
-  "evidence_count": 337,
-  "persona_tokens": 5751,
+  "evidence_count": 387,
+  "persona_tokens": 5068,
   "persona_tokens_method": "ceil_characters_divided_by_4_estimate",
   "taxonomy_version": "v_final",
-  "generated_at": "2026-10-06T08:35:07.612337+00:00",
+  "generated_at": "2026-10-17T14:17:51.816021+00:00",
   "schema_version": "2.0",
   "generation": {
     "model": "gpt-5.6-sol",
     "revision": "full-export-v2",
     "calls": [
       {
-        "key": "cbeb523d2a17e9c20cc297d06928a7194bf78b327f7f84a3dbae2130068f36d6",
+        "key": "744825baea103edd9c8174339a7906028288f92f2d05e02a394164005096626d",
+        "cached": false,
+        "repaired": false,
+        "seconds": 12.42
+      },
+      {
+        "key": "4fe56c676658a99433e7d5581bc6b50f7ac67eff22bf46fe47e73e56f24fbe77",
+        "cached": false,
+        "repaired": false,
+        "seconds": 12.53
+      },
+      {
+        "key": "1f1d4798274bf5f3fbdf553f92953f5e5be9afaec0efd43aee8f81bec00950e0",
+        "cached": false,
+        "repaired": false,
+        "seconds": 13.99
+      },
+      {
+        "key": "3c2639624817d32aaea7a02cf703f00483fa834d419b658c546faac095367352",
+        "cached": false,
+        "repaired": false,
+        "seconds": 15.53
+      },
+      {
+        "key": "8474005abd722a722aff94286dbf78d8cba6cd137aa758c794e883e17271602a",
+        "cached": false,
+        "repaired": false,
+        "seconds": 15.9
+      },
+      {
+        "key": "5951579de92abf7ad82711834ea10de92cca88f9a3b93d4a04bf1da0a881b52f",
+        "cached": false,
+        "repaired": false,
+        "seconds": 27.29
+      },
+      {
+        "key": "dff764740c657c1c21b2381ce5274934f98e858671f9da8e24e7b45e4456b0e6",
+        "cached": false,
+        "repaired": false,
+        "seconds": 14.02
+      },
+      {
+        "key": "72a14b702eb6ec20d3d7122942f5c8ae9e0f2fcb27c918e90f20cd47396d3369",
+        "cached": false,
+        "repaired": false,
+        "seconds": 30.21
+      },
+      {
+        "key": "fdfa005d3db615c227e99a4a81d35315bce749fb649ec5823a49fa748699347c",
+        "cached": false,
+        "repaired": false,
+        "seconds": 21.28
+      },
+      {
+        "key": "f4f28cde082d7d2b01588c3c956fa162d49b89e43e900f978e927a79a76108c2",
+        "cached": false,
+        "repaired": false,
+        "seconds": 11.3
+      },
+      {
+        "key": "8eca62500d1047ce8d3b6c3382bdd7ffcb5e19cb7daa7af6986bcfb46f503bb8",
+        "cached": false,
+        "repaired": false,
+        "seconds": 10.08
+      },
+      {
+        "key": "c0090e34c5c9260ff40d2b31a02b4ac8ff05e877a3cb7c7aeac8674bce2f41ff",
+        "cached": false,
+        "repaired": false,
+        "seconds": 13.7
+      },
+      {
+        "key": "5b070ba52d43872ca7cf533e258ef8000cad0fe0e423a993de67c070b4d2c30a",
         "cached": false,
         "repaired": true,
-        "seconds": 35.74
+        "seconds": 33.78
       },
       {
-        "key": "6256bc03329de94f1d1fe842984db7ac3d2629bae460ade86ac7035edfb2c8cb",
+        "key": "5ed37eb620ed6bd6cf6cce5655c718ec201b551dbcbc18153dccaa60510f192b",
         "cached": false,
         "repaired": false,
-        "seconds": 64.59
+        "seconds": 10.6
       },
       {
-        "key": "67c521a053c9d616c0d7f3423f7b141da74ae24c350f6624465d286f714dfa3a",
+        "key": "61c46c15789a69080cd20b6391c856eb48cf3aedea60fe3b08c14bceb7bbdb01",
+        "cached": false,
+        "repaired": false,
+        "seconds": 37.73
+      },
+      {
+        "key": "fbc11537eef56f39ec3fc592a5598c8efb21112b7df644bbcca4a5494ab2ff7f",
+        "cached": false,
+        "repaired": false,
+        "seconds": 8.53
+      },
+      {
+        "key": "9bf130a44f28803ef32cb882aaa5d8d408798e62dbce8d6be9518f127abfcbba",
+        "cached": false,
+        "repaired": false,
+        "seconds": 7.65
+      },
+      {
+        "key": "656ea1c705b849a7c186d2b2d3fb630115cc2009c8a9f1c669d843a0bbd83a88",
+        "cached": false,
+        "repaired": false,
+        "seconds": 47.64
+      },
+      {
+        "key": "f39f9e249cec9a10e07a0dd3805a2b11759bf0451ec6fa2b0102c2f4ab5f675a",
+        "cached": false,
+        "repaired": false,
+        "seconds": 61.21
+      },
+      {
+        "key": "965247f1270cc765aa4761998b0c0108e0e8d25b54e4b9508d80d520fe5ae7bf",
+        "cached": false,
+        "repaired": false,
+        "seconds": 10.53
+      },
+      {
+        "key": "3be655613082909273840af6beb19691db301f44961da06e31d36f74a1b1442d",
+        "cached": false,
+        "repaired": false,
+        "seconds": 16.13
+      },
+      {
+        "key": "6cc9c135ead34b22af0b5b4fc2792ea83ad81aac3994288676bd3d51e162d372",
+        "cached": false,
+        "repaired": false,
+        "seconds": 15.01
+      },
+      {
+        "key": "4d856e166218cb4496136e857a381e79ae0d7dd55d455f2ba115daa0563379e4",
+        "cached": false,
+        "repaired": false,
+        "seconds": 10.84
+      },
+      {
+        "key": "6db4e54af6440049f1b8a2c32bb8f0a525870a0810a33b2e73178c2412835fb8",
         "cached": false,
         "repaired": true,
-        "seconds": 149.96
+        "seconds": 48.78
       },
       {
-        "key": "e00da8c6a92f263ee65c23ad1c7f49204f66340c2a436253aa4f2d6672d24650",
-        "cached": false,
-        "repaired": false,
-        "seconds": 79.79
-      },
-      {
-        "key": "dd5e6f8d750e4b1a5e86aed4381123148ccc4a67ffdc16cddc1becf6a36aba2d",
-        "cached": false,
-        "repaired": false,
-        "seconds": 81.78
-      },
-      {
-        "key": "8095b07b99a35f29cd1aa1a2238ff91ead13b6b5ce2c52167a9cf2653e1cf1cf",
-        "cached": false,
-        "repaired": false,
-        "seconds": 89.42
-      },
-      {
-        "key": "fc248375e28ed98b6051e1ec0309db9db2509329c6374993e1d6179d1f7c1a85",
-        "cached": false,
-        "repaired": false,
-        "seconds": 84.08
-      },
-      {
-        "key": "b702153a380009015a1f5365c85a0f9c1ec47cc73ca7e7c0bc0c4700ee8f57eb",
-        "cached": false,
-        "repaired": false,
-        "seconds": 85.52
-      },
-      {
-        "key": "ee80368786eb2fa435ba9f2157492dbfa2b927cddd3e26ecae9cdb9449864e73",
-        "cached": false,
-        "repaired": false,
-        "seconds": 83.58
-      },
-      {
-        "key": "a9819a0ce169486a85e2c5f5f642e2c24fc25874fbf907040e425abb8d7fc5e7",
+        "key": "9453c6de82a0ace50c7b27b6b314d20e6361f8c529220447ed190db4b6c2efa5",
         "cached": false,
         "repaired": true,
-        "seconds": 147.43
+        "seconds": 61.92
       },
       {
-        "key": "d87194e883f2bf617e1ba6b0e18b5b9e84e4eeaa9fd9b4d520dd87cb891a3892",
-        "cached": false,
-        "repaired": false,
-        "seconds": 90.62
-      },
-      {
-        "key": "74018c54a205b132175bf8abcf933e22ef9e7026cb24bd342f1d5ae59b8984b1",
-        "cached": false,
-        "repaired": false,
-        "seconds": 118.64
-      },
-      {
-        "key": "2b86cbe6734be6d1326555c689b52952d08c9a519ae6f930f0634a944bf46af0",
-        "cached": false,
-        "repaired": false,
-        "seconds": 82.46
-      },
-      {
-        "key": "d6c131ba38ce66c9d752732dbbad718c49b575bff955862cb7b9b559eac8637c",
+        "key": "3fe4007a0ea740a89790d97ea5f5bcad4a50627e5016bcfd842586766962cf0e",
         "cached": false,
         "repaired": true,
-        "seconds": 167.47
+        "seconds": 47.19
       },
       {
-        "key": "2fd76d45b6f2801b1bd9d9c84fe1bc7a3555cdb353e68ecf92f0fca5ea4e0710",
+        "key": "98ed3e854b7a463598ca3e5a5fb0dbfddb97e14b822c33d59271bd5454fba4c1",
         "cached": false,
         "repaired": false,
-        "seconds": 53.65
+        "seconds": 50.61
       },
       {
-        "key": "a91e740f49a709cad29cd7dc1f44698e369df83d249a4ec48f72a8c8458ebf78",
+        "key": "6546e1929b9af51424133006539dd813c742b02da5a126e4e47da317f8ed5d34",
         "cached": false,
         "repaired": false,
-        "seconds": 102.91
+        "seconds": 67.37
       },
       {
-        "key": "da33e464416b41869b088acad54259426e2c4a4060ce721a166899019b843ed3",
+        "key": "30f3f5c1e62bf0090745f46add6d840b815905b9806a57fcbf47cce345885c29",
+        "cached": false,
+        "repaired": false,
+        "seconds": 61.24
+      },
+      {
+        "key": "e67a72bab7925044eb1a6ba8cd0e8ae382ec3032e0395cca3888f6e86854fd58",
         "cached": false,
         "repaired": true,
-        "seconds": 323.48
+        "seconds": 83.46
+      },
+      {
+        "key": "bdbe86aae3f8ebfebe7b32bf06e21d63858a081f72cb768d0df5da64cbd55d0b",
+        "cached": false,
+        "repaired": false,
+        "seconds": 58.72
+      },
+      {
+        "key": "589f78c9fc6e68897ac7ac11a54475e0f5ceee0b76a09af5376da47431ff9af0",
+        "cached": false,
+        "repaired": true,
+        "seconds": 85.81
+      },
+      {
+        "key": "9adeafb8677f4ab219cd35254cbe1ebf2cbc8fead45dd012d660497dcce48e66",
+        "cached": false,
+        "repaired": false,
+        "seconds": 73.38
+      },
+      {
+        "key": "5dc1eec957a12f954cfa751db67d652357fa970863b0bdde3bbd1059f2d2aefa",
+        "cached": false,
+        "repaired": false,
+        "seconds": 73.43
+      },
+      {
+        "key": "ee7a0de14ffad5016aa21385c8c828b045ccb115a8bfa9811fb7278af273e9e2",
+        "cached": false,
+        "repaired": false,
+        "seconds": 63.32
+      },
+      {
+        "key": "cc72fa289d450753fba1b58fb1ff56034746a3078e9d0ce6fb7dfa2fa7c27d43",
+        "cached": false,
+        "repaired": false,
+        "seconds": 79.69
+      },
+      {
+        "key": "d7c3dcdba721d4b985ff0a6df68329ffb7d571d09a6714f47dfe8d44405fd9d6",
+        "cached": false,
+        "repaired": false,
+        "seconds": 58.17
+      },
+      {
+        "key": "351dbe4f7dc864dac7b908ffc4c48d37e108ce06e897fded55fad5d424473b7d",
+        "cached": false,
+        "repaired": false,
+        "seconds": 11.1
+      },
+      {
+        "key": "117f51c2ad9e57b64c163e29c1ec03858101610985aef62d770a72f04709dcfb",
+        "cached": false,
+        "repaired": false,
+        "seconds": 66.21
+      },
+      {
+        "key": "234a8e88d82b1b9a8f7b6f47f4831b23bc0ea33cdb652e328d234074525b5306",
+        "cached": false,
+        "repaired": false,
+        "seconds": 77.97
+      },
+      {
+        "key": "2fa72c4bb18e23165c8fcfde58a51c180e3287195513c6c423ecd67ea95e9231",
+        "cached": false,
+        "repaired": false,
+        "seconds": 7.44
+      },
+      {
+        "key": "927854dffe0a0f542d04864de2550b5d316c266f2977e4f807c9e6cabe156130",
+        "cached": false,
+        "repaired": false,
+        "seconds": 7.31
+      },
+      {
+        "key": "c24b68312d7f5248e6dca47fd64b70f064ae9499f541b8d399467accd866c682",
+        "cached": false,
+        "repaired": false,
+        "seconds": 13.49
+      },
+      {
+        "key": "1888937af796a1981cd46a863a6172629c127a3283c7e99d832a0cbab31505ce",
+        "cached": false,
+        "repaired": false,
+        "seconds": 11.81
+      },
+      {
+        "key": "ab7fc04ae8a97b9b75d808f23deff24c6fc5f951e6ce4edc9e10feb56238648d",
+        "cached": false,
+        "repaired": false,
+        "seconds": 9.54
+      },
+      {
+        "key": "c1cc21ce8e17f69d5bde2ff4bacecf0ddcc52c2eba661716edff5e808f2700e2",
+        "cached": false,
+        "repaired": true,
+        "seconds": 82.03
+      },
+      {
+        "key": "acd0e0f67f0ba49cfa29e889e3233d6452524d01a1f5081122c082817171c9a5",
+        "cached": false,
+        "repaired": false,
+        "seconds": 13.74
+      },
+      {
+        "key": "cd36385dff0779f8f83b56f1a5ac16c9b5393dbb36284e2ff5852d176d2de79f",
+        "cached": false,
+        "repaired": false,
+        "seconds": 44.18
+      },
+      {
+        "key": "5bd05cc10e886c223d6d4c9459c8666b36ec85a9d5940d5ff1bf016bb0a11fe2",
+        "cached": false,
+        "repaired": false,
+        "seconds": 27.4
+      },
+      {
+        "key": "28fdbdd61e117ee7e7de74c997d592f84a7f15657cdcaefef0aeccde719edad2",
+        "cached": false,
+        "repaired": false,
+        "seconds": 7.6
+      },
+      {
+        "key": "0ea07ea2d40e3c1f3701da81fda9e76bc76e703e65eec79d5ddd2f272916e186",
+        "cached": false,
+        "repaired": false,
+        "seconds": 15.16
+      },
+      {
+        "key": "9583ad5b27ddaf372e45fd3a968271fa434f3de01c7f70f445bdca644f5a9e75",
+        "cached": false,
+        "repaired": false,
+        "seconds": 7.59
+      },
+      {
+        "key": "341f8f5d8e672aa06d7a542bfb69ea7f1212704593f59a15043d5af0dc9985a4",
+        "cached": false,
+        "repaired": false,
+        "seconds": 7.89
+      },
+      {
+        "key": "3adb7a3018ff83d5d00a0d8ab12cddb7fafb0d1ff2042786a8e9991a4962f532",
+        "cached": false,
+        "repaired": false,
+        "seconds": 10.73
+      },
+      {
+        "key": "8f4271b285a82c0d95eb8fe7965c6164bbf54eec7b7e65f36c1aff043e62a373",
+        "cached": false,
+        "repaired": false,
+        "seconds": 14.74
+      },
+      {
+        "key": "403fed612d1e23fbdabc5ae85e034bb56486a1f1768e8f5c291478142210e2cc",
+        "cached": false,
+        "repaired": false,
+        "seconds": 13.1
+      },
+      {
+        "key": "941c4c9c21cb258ce268ee11a877c8652454f8b348858675d2ae5dd95c0b250d",
+        "cached": false,
+        "repaired": false,
+        "seconds": 8.78
+      },
+      {
+        "key": "925443f82040085e4adfb4de25a0c0aff20d6355e203e338d406932d7e7ffd0d",
+        "cached": false,
+        "repaired": false,
+        "seconds": 9.38
+      },
+      {
+        "key": "171886c84199384cee7aae9a04d21e940a321c82bce4ab9dc51c43a1a6488909",
+        "cached": false,
+        "repaired": false,
+        "seconds": 74.57
+      },
+      {
+        "key": "4a59162e23cadbbf076ff6c5358506fa1ffbf8c1df950fd2e051fa8f62ab9e24",
+        "cached": false,
+        "repaired": false,
+        "seconds": 11.35
+      },
+      {
+        "key": "98d0a8d3a88c7fb08e8f3afa8a5b989db6dc913b774329ad5dc6eca65a092c1e",
+        "cached": false,
+        "repaired": true,
+        "seconds": 34.97
+      },
+      {
+        "key": "fef1edd3a8666e554a5466fde1d1d700edd20acc6d50a97aa0fc3c954af9eed8",
+        "cached": false,
+        "repaired": false,
+        "seconds": 84.0
+      },
+      {
+        "key": "f959fb582054aba0ab4db232256f340b8cc6326ebdd135281ce8a9ae3978beec",
+        "cached": false,
+        "repaired": false,
+        "seconds": 6.52
+      },
+      {
+        "key": "6953781ca1a09db3ff43ec41108ed40b9dac8699f1773645bf06ab0d05f9b73c",
+        "cached": false,
+        "repaired": false,
+        "seconds": 7.46
+      },
+      {
+        "key": "c85091e7ec509e6c2c667d17d2861b5c1b6738b8a38c4672a97daa10ae6a69ba",
+        "cached": false,
+        "repaired": false,
+        "seconds": 10.17
+      },
+      {
+        "key": "89448b62353b0eaed72cee551e5092d55370050ef0463cc0a11fa158b4586c39",
+        "cached": false,
+        "repaired": false,
+        "seconds": 7.02
+      },
+      {
+        "key": "6e291ee325b165b0bcac1fbc6895acf134f5bc32aa698686a35a011051408d90",
+        "cached": false,
+        "repaired": false,
+        "seconds": 8.44
+      },
+      {
+        "key": "6e9be94bf3c28b457976af37db7027fe4ace0a8fd0b7a46ce2bdea0922474b03",
+        "cached": false,
+        "repaired": false,
+        "seconds": 9.85
+      },
+      {
+        "key": "b3397302a1d8044a478b74963dddbf103ddf79eb93116a82946c4c8337232d1a",
+        "cached": false,
+        "repaired": false,
+        "seconds": 8.74
+      },
+      {
+        "key": "d4a51fd6ca00c1ee3ecc79a6a73891074f57c4e22e1312a850f66ee707b3a929",
+        "cached": false,
+        "repaired": false,
+        "seconds": 9.28
+      },
+      {
+        "key": "1f5bd81d7bb427dbf24ed5b239c1692d3adb6f8b62d63665576450866c1f4c73",
+        "cached": false,
+        "repaired": false,
+        "seconds": 137.44
       }
     ],
     "synthesis_input": "full_receipts"
@@ -224,12 +555,21 @@
     "Media without transcript: raw/podcast/61/613f636d6873dd8fa7d205ef8da7c46a98f8244bdd3ca7a248c7f1b02d016dff.mp3",
     "Media without transcript: raw/podcast/91/91ec6958dff219c4cf54cd20c52c899b92d5eba867f9e9e15f0de97472513419.mp3",
     "Media without transcript: raw/podcast/cc/cc24752849e80f544abeb93b8c9b237314391f90730678737b3455d9e1615dca.mp3",
+    "Media without transcript: raw/video/05/05b3e4df5de2131acd2e560519b99afa165cdc54b81fc28fabd4a38f1506f8a7.wav",
+    "Media without transcript: raw/video/0e/0ee3d332e17b6987189b48fb77341f098951a32345439ec7b6ba098da69622f4.wav",
+    "Media without transcript: raw/video/28/2855f65162257f81e87f0f8302471c8b20f030d14699ccaf07e557f4165e1787.wav",
+    "Media without transcript: raw/video/35/3504f386bec7cd9fe002b5a40f7b03aa943aca7576b1f87d77cbe94e47736c3b.webm",
+    "Media without transcript: raw/video/83/835e4f6d69f89eccd8021d1df9e4cfe41bc6d7dbdce9be93f201a3b26b935ba1.wav",
+    "Media without transcript: raw/video/aa/aacab25ff86a3ea904372da84ad382235b1f0bd6901fee428690bc81ee8a916d.webm",
+    "Media without transcript: raw/video/c2/c29cde4dfd9994c83933f12491ce7d15cf7022916cffbae813461ee2702e83e9.webm",
+    "Media without transcript: raw/video/ed/edacd3ef6134900ad0334351205f8aef8178d42de8691f6181c8f91b2dee094a.webm",
     "Full-export sources were reviewed for identity and attribution; automated review is not independent verification.",
     "Company relationships are source-reported; founder/adviser roles are not inferred portfolio holdings.",
     "Multiple pages may repeat one interview or report; source count is not independent corroboration.",
     "Some publication dates and speaker identities remain unresolved; read coverage.md."
   ],
   "input_hashes": {
+    "processed/av_attribution_results.jsonl": "6e8dcde98e91df2d25801621105e51454ac07a96776169f0cebcabddb8abae35",
     "raw/podcast/0a/0ac83623ddb5eefc281a356d16c93f8d6d8bbbf7c4e75bd581ca1fd61ebe4c3a.html": "0ac83623ddb5eefc281a356d16c93f8d6d8bbbf7c4e75bd581ca1fd61ebe4c3a",
     "raw/podcast/0a/0ac83623ddb5eefc281a356d16c93f8d6d8bbbf7c4e75bd581ca1fd61ebe4c3a.html.a1bac18eda6080c6.metadata.json": "fe8b8fe122be281fb8acfba81b43bf394a6ed9e97c0e6d47bce15ba090034b46",
     "raw/podcast/12/121edcf00c6d238a988cc0d82f72d5627bb297bdf42f7ac5fb65a60ac0511bd9.html": "121edcf00c6d238a988cc0d82f72d5627bb297bdf42f7ac5fb65a60ac0511bd9",
@@ -472,8 +812,8 @@
     "raw/web/ff/fff12dd7efa58004bd53fdccb4971736f92de22501a2f0ea647a9532abfca6dc.html.4e7717059745707d.metadata.json": "776aa5326a53fc1d99f9a21b8079aceadcf3a6c1ec6b44775b312a4cb30f61fe"
   },
   "source_policy": "full_investor_export",
-  "sources_reviewed": 120,
-  "source_packets_reviewed": 130,
-  "context_count": 172,
-  "files_inventoried": 410
+  "sources_reviewed": 271,
+  "source_packets_reviewed": 354,
+  "context_count": 230,
+  "files_inventoried": 1380
 }

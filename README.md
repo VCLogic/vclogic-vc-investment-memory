@@ -26,7 +26,7 @@ The [Mark Phillips refresh — October 16, 2026](wiki/_archived/mark-phillips-11
 
 The [Nicole Verkindt refresh — October 16, 2026](wiki/nicole-verkindt/README.md) incorporates 145 text sources, 371 reviewed packets, and 275 evidence excerpts. See the [run report, inference limits and remaining coverage gaps](docs/nicole-verkindt-refresh-2026-10-16.md).
 
-The [October 17 sequential refresh report](docs/batch-refresh-2026-10-17.md) links the latest completed updates for Rohit Gupta, Michael Hyatt, Howie Diamond, Mike Ma and Mark Phillips, with validation results and remaining coverage gaps.
+The [October 17 sequential refresh report](docs/batch-refresh-2026-10-17.md) links the latest completed updates for Rohit Gupta, Michael Hyatt, Howie Diamond, Mike Ma, Mark Phillips, Sarah Downey and Jake Chapman, with validation results and remaining coverage gaps.
 
 ## Dependencies across VCLogic repositories
 

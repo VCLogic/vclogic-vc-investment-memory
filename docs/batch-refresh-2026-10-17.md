@@ -1,6 +1,6 @@
 # Investment-memory refreshes — October 17, 2026
 
-Sequential Sol generations for Rohit Gupta, Michael Hyatt, Howie Diamond, Mike Ma and Mark Phillips. Entries below are added only after each wiki is reviewed and validated. No date cutoff. Earlier wikis are preserved.
+Sequential Sol generations for Rohit Gupta, Michael Hyatt, Howie Diamond, Mike Ma, Mark Phillips, Sarah Downey and Jake Chapman. Entries below are added only after each wiki is reviewed and validated. No date cutoff. Earlier wikis are preserved.
 
 Each run uses a fixed snapshot of the local collector export: content-addressed media files are hardlinked; other files are copied with stability checks. Later collector additions are outside that run. No new web collection or transcription is performed. Source counts include repeated and overlapping material. Reviews are automated, not human approval or independent verification of every source assertion.
 
@@ -147,3 +147,33 @@ Editorial review removed an unsupported RYZE spelling, restored the Alloy naming
 Validation: `python -m wiki_build check wiki/mark-phillips-11-tribes-ventures` passed after editorial review. Exact quotes, attribution, source hashes, citation references, ledger consistency and full packet coverage were checked. All three synthesis pages were read; selected claims were checked against receipts and portfolio relationships independently reviewed by a second agent. No engine code changed. Local raw responses, repairs, snapshot provenance and editorial backups remain in the ignored cache. No downstream onboarding bundle or assessment index was rebuilt.
 
 Reproduction: use an absent destination and the saved snapshot, with the applicable original command stored locally at `.wiki-cache/mark-phillips-11-tribes-ventures-2026-10-17/command.json`. Accepted review decisions are in `.wiki-cache/mark-phillips-11-tribes-ventures-2026-10-17/reviews.json`; replay can use `.wiki-cache/mark-phillips-11-tribes-ventures-2026-10-17/inventory.json` intentionally, without applying already-included supplements twice.
+
+<a id="sarah-downey-accomplice"></a>
+
+## Sarah Downey
+
+[Wiki](../wiki/sarah-downey-accomplice/README.md) · [Policy](../wiki/sarah-downey-accomplice/persona.md) · [Theses](../wiki/sarah-downey-accomplice/theses.md) · [Portfolio](../wiki/sarah-downey-accomplice/portfolio_and_constraints.md) · [Coverage](../wiki/sarah-downey-accomplice/coverage.md)
+
+Snapshot captured **2026-10-17T14:11:00Z** from `/home/dpasch01/vclogic-vc-trace-collector/outputs/sarah-downey-accomplice`. [Previous wiki](../wiki/_archived/sarah-downey-accomplice/README.md) unchanged.
+
+| Measure | Count |
+|---|---:|
+| Inventoried files | 1380 |
+| Text sources | 271 |
+| Reviewed packets | 354 |
+| Admitted sources | 106 |
+| Evidence excerpts | 387 |
+| Context facts | 230 |
+
+Packet decisions: {'other': 193, 'target': 122, 'uncertain': 30, 'unusable': 9}. Evidence support: {'explicit': 265, 'inferred': 122}. File dispositions: {'operational_metadata_or_derivative': 838, 'search_discovery_not_collected_evidence': 36, 'source_text_extracted': 241, 'source_text_represented_by_full_transcript': 1, 'media_without_transcript': 12, 'no_visible_text': 1, 'media_represented_by_transcript': 168, 'cached_transcript_represented_by_source': 83}.
+
+**Partial:** 12 media files lack transcripts and 30 packets remain uncertain. The complete census and all review decisions are retained in the wiki.
+
+Sol reviewed all 354 packets in 70 batches; prior reviews did not qualify for fingerprint reuse. All batches passed the normal bounded review/repair flow. Synthesis received all 387 excerpts and the initial 228 context facts with full receipts (354,274 characters).
+
+Review restored two exact source receipts covering Yubari investments in ZOE, Digits and Hedera Hashgraph, and Accomplice Operating Partner work with Ezra, ZOE and Freebird. The structured reviews/context were reassembled and all context citations remapped; final context count is 230. Personal angel, fund, support, founder and board relationships remain distinct. Atrous/Atrus transcript spelling and its unresolved relationship to Blueprint are qualified; the undated Accomplice full-time return note does not establish restored check-writing authority after January 2020. Angel-start timing remains source-reported rather than falsely reconciled. Removed an irrelevant BlueCat template sentence. Added titles to the thesis and portfolio pages.
+
+
+Validation: `python -m wiki_build check wiki/sarah-downey-accomplice` passed after editorial review. Exact quotes, attribution, source hashes, citation references, ledger consistency and full packet coverage were checked. All three synthesis pages were read; selected claims were checked against receipts and portfolio relationships independently reviewed by a second agent. No engine code changed. Local raw responses, repairs, snapshot provenance and editorial backups remain in the ignored cache. No downstream onboarding bundle or assessment index was rebuilt.
+
+Reproduction: use an absent destination and the saved snapshot, with the applicable original command stored locally at `.wiki-cache/sarah-downey-accomplice-2026-10-17/command.json`. Accepted review decisions are in `.wiki-cache/sarah-downey-accomplice-2026-10-17/reviews.json`; replay can use `.wiki-cache/sarah-downey-accomplice-2026-10-17/inventory.json` intentionally, without applying already-included supplements twice.

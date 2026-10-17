@@ -2,17 +2,101 @@
 
 The prepared snapshot retains full admitted text and attribution metadata.
 
-## full:597c1a83cadc9ac8a73679d7
+## full:0c26b04fc5ab1ca6905f30fa
 
-Startup trek episode 24, Conspiracy
+NYC Tech Minute - Sarah Downey of Accomplice Discusses  Ezra's Seed Funding
 
-URL: https://www.sarahadowney.com/post/startup-trek-episode-24-conspiracy
+URL: https://www.youtube.com/watch?v=BC3Rt9uTGO0
 
 Publication date: Unknown
 
-Input: `raw/podcast/0a/0ac83623ddb5eefc281a356d16c93f8d6d8bbbf7c4e75bd581ca1fd61ebe4c3a.html:1`
+Input: `processed/av_attribution_results.jsonl:20`
 
-SHA-256: `c83df2f023a6baee733362c7b59605929e13bbc4171c5f14fcdc564ea53ba130`
+SHA-256: `5270950057c08ce212b13c9b4de6e7c82b57455038e1ef2f730bd099208f622c`
+
+## full:8f8e40e5d879e2fba38fc8b5
+
+How to become a VC & common founder mistakes w/ Sarah Downey
+
+URL: https://www.youtube.com/watch?v=FsDlkeWCFnI
+
+Publication date: Unknown
+
+Input: `processed/av_attribution_results.jsonl:27`
+
+SHA-256: `d5854a18bafcf5973e1e18cf6f5cddf15bfc34b30d21df31827ad52175210fc4`
+
+## full:ae27d00489941bbebf26dac0
+
+Angel Investing 101 for Women
+
+URL: https://www.youtube.com/watch?v=G26hiFeraMk
+
+Publication date: Unknown
+
+Input: `processed/av_attribution_results.jsonl:29`
+
+SHA-256: `e1bdf06bca953681e6aeef28a6f3b46909813b0db72cd9c1f2fdbc16fbbadd3a`
+
+## full:34c8555caed3f55d79703b9d
+
+Boston VRARA presents Midsummer Mixed Reality
+
+URL: https://www.youtube.com/watch?v=IPye-B92O3I
+
+Publication date: Unknown
+
+Input: `processed/av_attribution_results.jsonl:30`
+
+SHA-256: `df36b25bd38e48a12827ded91d274af2051713929ef9684978e3225f02e1c3b7`
+
+## full:706faf2f3d690ed625c568f2
+
+The massive list of AR use cases | Sarah Downey | AR in Action
+
+URL: https://www.youtube.com/watch?v=JrZsmfA56Sw
+
+Publication date: Unknown
+
+Input: `processed/av_attribution_results.jsonl:34`
+
+SHA-256: `b981a4eff3688241828892e596bd54cd88643fcc1905d07cc8e57dfe54959b15`
+
+## full:2b9d2c59537796715a7d65c9
+
+Privacy, Speech, & Capital | with Sarah Downey
+
+URL: https://www.youtube.com/watch?v=XZx9TgoQuFM
+
+Publication date: Unknown
+
+Input: `processed/av_attribution_results.jsonl:48`
+
+SHA-256: `69ce9767aea2fc2778d6c48e22356156564e3c9509ebc6c757b5226039db2e64`
+
+## full:7b7258ce42a5eef2f11e41e7
+
+Sarah Downey on psychology in venture investing and the power of founder to find the investor fit
+
+URL: https://www.youtube.com/watch?v=mt3Z235iC_0
+
+Publication date: Unknown
+
+Input: `processed/av_attribution_results.jsonl:66`
+
+SHA-256: `e39c080f1ab5ca06d188186905fa624da62cc2b584dd099f3803505d8dda7a90`
+
+## full:337a49fe03f0c5809bd0736e
+
+Between 2 Kyles Ep. 1: Tech Madness Brackets with Sarah Downey
+
+URL: https://www.youtube.com/watch?v=yXjtnaUmCec
+
+Publication date: Unknown
+
+Input: `processed/av_attribution_results.jsonl:78`
+
+SHA-256: `b50db444703d7624c9bbc1d9a88f7281123e454716316e20d395fec95bf48741`
 
 ## full:435c6ad9678dcfc88da77123
 
@@ -49,18 +133,6 @@ Publication date: Unknown
 Input: `raw/podcast/13/13dcf4c5a6e7452dc79fb49dbf8c237b090208023d72a165a8896c52eb8f5c39.html:1`
 
 SHA-256: `19e72d38a4d033466d881f741fdd104f6b467b842c79ac825d2f70f372cb2396`
-
-## full:0f5ff121006cb8f71855d45c
-
-The dream high school curriculum to unfuck 2020
-
-URL: https://www.sarahadowney.com/post/the-dream-high-school-curriculum-to-unfuck-2020
-
-Publication date: Unknown
-
-Input: `raw/podcast/27/27dffa3c94842f4724296aa3bbdea8862b5d00e1619c1d14e92c6beca0274e7c.html:1`
-
-SHA-256: `33418d8c098ed2d3d1e06d05c8f8df00afc22bb3dcf8a2b89265f23b19c461b5`
 
 ## full:1e2365717436d25d04a72eeb
 
@@ -109,18 +181,6 @@ Publication date: Unknown
 Input: `raw/podcast/59/598ba9ec567606c3f0b203f29c3745e348e2ccfae50f2b400f1d1d5ccce3bb9d.html:1`
 
 SHA-256: `891ef98abdb46a94ed34e332d849fd8df64a406476d54393d9506a98070c7982`
-
-## full:8ab87274951a3130334101a6
-
-You keep using the word “liberal:” it doesn’t mean what you think it means
-
-URL: https://www.sarahadowney.com/post/you-keep-using-the-word-liberal-it-doesn-t-mean-what-you-think-it-means
-
-Publication date: Unknown
-
-Input: `raw/podcast/59/59a31aa88fd909ea88f36ef4ad1bd44ec98cad61b698a58e9e578e0c3a64b774.html:1`
-
-SHA-256: `809ba9a361c3e20e50924900f0558d9b6eaa31f5c6913ec29c1a05d020524086`
 
 ## full:b0a47ad92830e67004ffeeb4
 
@@ -326,6 +386,30 @@ Input: `raw/web/0e/0ea5855a1203b6660d6cf12f36d9f959abfc3c1d972b2aa4194780b327d9f
 
 SHA-256: `0204a1c0e6de1b4b35ad74df20fe39bbaf87e50ee9d7dfe27a013a648e4eb1e3`
 
+## full:59828b530eead42f43ed04a8
+
+my personal heroes
+
+URL: https://www.sarahadowney.com/post/my-personal-heroes
+
+Publication date: Unknown
+
+Input: `raw/web/0f/0f08676f0567f13d5ba1f7303000832f37d523320a736ecadcc4d5e9ccfad707.html:1`
+
+SHA-256: `fa46b15aed53e54012dfc333289c29554592e3e1e9d371bd2d6e6ad6e77eb39a`
+
+## full:6d712bfbd60feb75b7d3c6d9
+
+startup trek episode 16 when the bough breaks
+
+URL: https://www.sarahadowney.com/post/startup-trek-episode-16-when-the-bough-breaks
+
+Publication date: Unknown
+
+Input: `raw/web/11/11a93b658c1b0c953db7e2d0f561ba17b368506f6bc5d1f99f2b0eef435b5d0a.html:1`
+
+SHA-256: `02305485dd23defa7a68c26c8b4e8dd52d9d0c2afa509c636c53cc602a4c9ecd`
+
 ## full:e39ebe1be8454d4b9c338c4d
 
 how to angel invest part 2 debt equity and terms
@@ -337,6 +421,18 @@ Publication date: Unknown
 Input: `raw/web/14/14287c6ff3faa49c86ba590f5855b465d6b912b4e16ca43b353fe0fdf2f4c241.html:1`
 
 SHA-256: `1e2a8b71a356e70a2def8030a291799fc9cb718f941ae4cf86291d1ef7b6f2bf`
+
+## full:8b81bcf4f7cd1a24c3b79d0b
+
+rupaul s drag race vocabulary guide
+
+URL: https://www.sarahadowney.com/post/rupaul-s-drag-race-vocabulary-guide
+
+Publication date: Unknown
+
+Input: `raw/web/16/16895023951a864a8d9c240a58c8bdd2307d7d32736303c76214db6dfeaf86c2.html:1`
+
+SHA-256: `e21dee06cd478cf91e79f1a4c8b6beea666d60ad948a55227381de815d0b8514`
 
 ## full:c13c49dde244fec866d2d800
 
@@ -602,18 +698,6 @@ Input: `raw/web/59/59841f8a9f00d279af4e443665ec076eaa29982ca2263b5918a50b3f3e78d
 
 SHA-256: `4da6780595e97cc327db90ef62b9610e1bbbd86921a001d24ac7f2d34480292f`
 
-## full:8a8574bfe942e9a98325e046
-
-startup trek episode 13 angel one
-
-URL: https://www.sarahadowney.com/post/startup-trek-episode-13-angel-one
-
-Publication date: Unknown
-
-Input: `raw/web/62/627b4e75ef2d71ec0b8256ae59353e3e1812416d46d5babc603f6be486dbc778.html:1`
-
-SHA-256: `0cda9def1313cac07bd9fd8c902784ad967629551ab5535328ad1e98b484f461`
-
 ## full:e71314c24124beac3577903e
 
 how to angel invest part 9 example exit scenarios glossary and further reading
@@ -637,18 +721,6 @@ Publication date: Unknown
 Input: `raw/web/6a/6a6f542d9eda66e7e8f6920e31dea7cc6da1eb5590a8dd93831636abdd0785b9.html:1`
 
 SHA-256: `186385d9fe8508f3dd9e520c300d39b8a5ed168934b364c190ca424cb2800d86`
-
-## full:0fb32e3ae254075c2755015d
-
-reading list 50 books featuring ar and vr technology
-
-URL: https://www.sarahadowney.com/post/reading-list-50-books-featuring-ar-and-vr-technology
-
-Publication date: Unknown
-
-Input: `raw/web/6b/6be3652e8e5ffb0647c002e40ba5a922810c40421f105bc0a2593d1e3da0e5b5.html:1`
-
-SHA-256: `bd23f38f630f62bbeed69fae802f267a428fb210153c02e90fd980366c2e091a`
 
 ## full:99efb33b1e325225fb72f49a
 
@@ -998,18 +1070,6 @@ Input: `raw/web/db/db1e26da339bb679bd87f79aa65f85d84dd1c6b6aea8d4d854b1c9110219c
 
 SHA-256: `21b29a15e50cc4b35b64cd89d0aab5021d3a81a6599a14ab86714c30a2471ad3`
 
-## full:7bb1750211d60a633b566186
-
-punctate inner choroidopathy the fun retinal disease that s killing my vision
-
-URL: https://www.sarahadowney.com/post/punctate-inner-choroidopathy-the-fun-retinal-disease-that-s-killing-my-vision
-
-Publication date: Unknown
-
-Input: `raw/web/db/db71e69bb7797d1ca461eba08b9dfaed82fe966d27cade5fb8e5c390a07d4bb9.html:1`
-
-SHA-256: `39d53f16b85522cd8bea93ffbf531ffb0a6c476c39f1032a0e1e45033bcefd2c`
-
 ## full:84e52659ad2fdf3375ba5b6a
 
 startup trek episode 2 the naked now
@@ -1189,3 +1249,27 @@ Publication date: Unknown
 Input: `raw/web/ff/fff12dd7efa58004bd53fdccb4971736f92de22501a2f0ea647a9532abfca6dc.html:1`
 
 SHA-256: `238b3b1d7d3973681269110df7208be931344b69e6af635d9793c3e008a131c2`
+
+## full:6d86bb6ea44ada848f9923ed
+
+https://www.youtube.com/watch?v=G26hiFeraMk
+
+URL: https://www.youtube.com/watch?v=G26hiFeraMk
+
+Publication date: Unknown
+
+Input: `state/av_transcripts/4c636cc79976aea32f823a2a43856c694694844c1d97e042249175afe45de6ee.json:1`
+
+SHA-256: `854d18c81dc702bcba5c44a446f5e3309706c930cc70cf6ec25b77cf2c5806ce`
+
+## full:3be33e8866f7feb2adc06735
+
+https://www.youtube.com/watch?v=JrZsmfA56Sw
+
+URL: https://www.youtube.com/watch?v=JrZsmfA56Sw
+
+Publication date: Unknown
+
+Input: `state/av_transcripts/876feb0a53bb5598311a91d244d78cf814694884741cbcc63efb711989a4d9c2.json:1`
+
+SHA-256: `e1122aa31e33a11ec0cb1aee704a316053aecf89f7fb9ef8322a6beb63f945fa`
