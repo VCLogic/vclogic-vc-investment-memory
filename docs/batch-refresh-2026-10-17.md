@@ -117,3 +117,33 @@ Editorial review restored all 15 Sidecut website portfolio examples, the STAG $3
 Validation: `python -m wiki_build check wiki/mike-ma-sidecut-ventures-2026-10-17` passed after editorial review. Exact quotes, attribution, source hashes, citation references, ledger consistency and full packet coverage were checked. All three synthesis pages were read; selected claims were checked against receipts and portfolio relationships independently reviewed by a second agent. No engine code changed. Local raw responses, repairs, snapshot provenance and editorial backups remain in the ignored cache. No downstream onboarding bundle or assessment index was rebuilt.
 
 Reproduction: use an absent destination and the saved snapshot, with the applicable original command stored locally at `.wiki-cache/mike-ma-sidecut-ventures-2026-10-17/command.json`. Accepted review decisions are in `.wiki-cache/mike-ma-sidecut-ventures-2026-10-17/reviews.json`; replay can use `.wiki-cache/mike-ma-sidecut-ventures-2026-10-17/inventory.json` intentionally, without applying already-included supplements twice.
+
+<a id="mark-phillips-11-tribes-ventures"></a>
+
+## Mark Phillips
+
+[Wiki](../wiki/mark-phillips-11-tribes-ventures-2026-10-17/README.md) · [Policy](../wiki/mark-phillips-11-tribes-ventures-2026-10-17/persona.md) · [Theses](../wiki/mark-phillips-11-tribes-ventures-2026-10-17/theses.md) · [Portfolio](../wiki/mark-phillips-11-tribes-ventures-2026-10-17/portfolio_and_constraints.md) · [Coverage](../wiki/mark-phillips-11-tribes-ventures-2026-10-17/coverage.md)
+
+Snapshot captured **2026-10-17T07:00:04Z** from `/home/dpasch01/vclogic-vc-trace-collector/outputs/mark-phillips-11-tribes-ventures`. [Previous wiki](../wiki/mark-phillips-11-tribes-ventures-2026-10-16/README.md) unchanged.
+
+| Measure | Count |
+|---|---:|
+| Inventoried files | 1717 |
+| Text sources | 286 |
+| Reviewed packets | 469 |
+| Admitted sources | 107 |
+| Evidence excerpts | 460 |
+| Context facts | 431 |
+
+Packet decisions: {'other': 171, 'target': 185, 'uncertain': 105, 'unusable': 8}. Evidence support: {'inferred': 139, 'explicit': 321}. File dispositions: {'operational_metadata_or_derivative': 1168, 'search_discovery_not_collected_evidence': 35, 'source_text_extracted': 109, 'source_text_represented_by_full_transcript': 1, 'media_without_transcript': 22, 'no_visible_text': 1, 'media_represented_by_transcript': 255, 'cached_transcript_represented_by_source': 126}.
+
+**Partial:** 22 media files lack transcripts and 105 packets remain uncertain. The complete census and all review decisions are retained in the wiki.
+
+Sol reused 418 validated prior packet reviews and reviewed 51 new or changed packets in 18 batches; all passed their normal bounded review/repair flow. Synthesis received all 460 evidence interpretations and 431 context facts in 279,902 characters; full quotes remain in the output ledgers. One synthesis repair converted an uncited coverage-limit bullet into prose.
+
+Editorial review removed an unsupported RYZE spelling, restored the Alloy naming caveat, Table Group and Ocean partnerships, the historical qualifying-stock/five-year holding orientation, and NQS’s additional $750,000 tranche. Both Pitch transactions and all four lower-confidence aggregator listings remain. The family-office 5% interest remains an outside investment in the management company, not a Phillips holding. An irrelevant BlueCat template paragraph was removed. The sub-$8 million target was correctly attributed to an early Fund II account, and differing committee descriptions remain unresolved. Structured receipts and counts were unchanged.
+
+
+Validation: `python -m wiki_build check wiki/mark-phillips-11-tribes-ventures-2026-10-17` passed after editorial review. Exact quotes, attribution, source hashes, citation references, ledger consistency and full packet coverage were checked. All three synthesis pages were read; selected claims were checked against receipts and portfolio relationships independently reviewed by a second agent. No engine code changed. Local raw responses, repairs, snapshot provenance and editorial backups remain in the ignored cache. No downstream onboarding bundle or assessment index was rebuilt.
+
+Reproduction: use an absent destination and the saved snapshot, with the applicable original command stored locally at `.wiki-cache/mark-phillips-11-tribes-ventures-2026-10-17/command.json`. Accepted review decisions are in `.wiki-cache/mark-phillips-11-tribes-ventures-2026-10-17/reviews.json`; replay can use `.wiki-cache/mark-phillips-11-tribes-ventures-2026-10-17/inventory.json` intentionally, without applying already-included supplements twice.
