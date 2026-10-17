@@ -1,30 +1,55 @@
 {
   "vc_slug": "jake-chapman-marque-ventures",
-  "corpus_chars": 934615,
+  "corpus_chars": 2011987,
   "thin_corpus": false,
   "no_pitch_sources": false,
   "sources_consumed": [
+    "full:80a25bb501ae4ccfa4b37e3c",
+    "full:2b8531e6b4d54fc152520a40",
+    "full:2b3f9f81c6e1044fee76fced",
+    "full:43e8e8cdde529ad8ea826939",
+    "full:0491035acbf39556d5d66a1a",
+    "full:422ac8e4c9dc858f00bdf116",
+    "full:1616b78b1f3f051c6687d419",
+    "full:574b51eb05f430b66bc739ff",
+    "full:09cb0689e1f00e8e11810424",
+    "full:458da859373f056e8d27361b",
+    "full:e664392e7f7901ad90cdd65f",
+    "full:b7d6ef6a2801ce45043718b6",
+    "full:d77b12f89acf4a0e6130b93d",
+    "full:f72a9cbd18b1e1cb48b7110b",
+    "full:932782366ff07f6eac48d961",
+    "full:ca278bc737ceccbda7c93a25",
+    "full:386b59f7742dd03418e74cde",
+    "full:0a4c2be65770887983b48ad4",
+    "full:67532dd382ea6291476f8b60",
+    "full:668938a341592673c910fd06",
+    "full:73f96ac443bd0bd72cf4a882",
+    "full:68ccd8c4cb3bfd5370816817",
+    "full:4f1451fa7bb7ccbe5a82d47b",
+    "full:e89901bfa7076b2cd9587beb",
+    "full:c5204b4d047151a4bacdf710",
     "full:8aea2a28b58ccd6d62815bfd",
+    "full:e8f64ca3d48cd1a0486fdd73",
     "full:18644b3130bc5451dd33303a",
     "full:9de2baac06cc4f6e957480b9",
     "full:7c65b69419fcd4b2d2e9b93b",
-    "full:abb03d1efc425c336368aba4",
-    "full:8430b5dd02131a9dfbe5c31f",
-    "full:5e233ec8a6103f062f335ee1",
-    "full:a286421a1b604842ffbcb40f",
-    "full:adc9aecd2c3ecbbfa6125caa",
+    "full:45c19dda4a3628db508c1e8b",
     "full:104d59d024f0c2d75e17d937",
     "full:15419d6b93ce8526434ff0ec",
     "full:fed95a193cbcf29e890e92a3",
     "full:3a24c5c4f83143e829883351",
     "full:65d5a0ed19941c3a7930de8e",
     "full:132980cd4e481692cb3ef46d",
+    "full:c5293fb6b90c15138192b66a",
     "full:7c93627575b9cf39aa9fb188",
     "full:05d19f64d2171b9b73280052",
     "full:552be1c46b1dee4cd30eb43c",
     "full:da0bf7c4c31fd6d5f5dea390",
+    "full:b4ef370776501ee88c466bc7",
     "full:70cf4d451f1888674ffc58a4",
     "full:ce1d83b3e3525432bba804f5",
+    "full:71f85711a59646a7ad38a006",
     "full:70314c65b0d020c92a7fb9bb",
     "full:78b82af27562204f4fca0a61",
     "full:f102490c8d4aa9fde7d25daf",
@@ -69,191 +94,28 @@
     "full:45c851a7488fc29970086459",
     "full:95d351aa0cd595ccb8078e07",
     "full:a3ef94ec693e51417dbe9bd7",
-    "full:777f9e0d27fb9be069efad3a"
+    "full:777f9e0d27fb9be069efad3a",
+    "full:7dae02dcef917f3b58913782",
+    "full:383408b5aff855dd6d81f6a1",
+    "full:bba95f28352d29e990ce99ab",
+    "full:4a4d342f94e8a7d3bb5fcf4b",
+    "full:239d284bb46f545454739449"
   ],
-  "evidence_count": 121,
-  "persona_tokens": 4473,
+  "evidence_count": 461,
+  "persona_tokens": 7064,
   "persona_tokens_method": "ceil_characters_divided_by_4_estimate",
   "taxonomy_version": "v_final",
-  "generated_at": "2026-10-06T08:48:46.619452+00:00",
+  "generated_at": "2026-10-17T14:36:24.167517+00:00",
   "schema_version": "2.0",
   "generation": {
     "model": "gpt-5.6-sol",
     "revision": "full-export-v2",
     "calls": [
       {
-        "key": "a63d843a90d4b5b791e2554adb4af91cead03574f64daa15f02563331c081fed",
+        "key": "7fc21b033ad76d942a9c8f9d77a9b1d482063570abe7114e2b69a3bc504237d2",
         "cached": false,
         "repaired": false,
-        "seconds": 16.75
-      },
-      {
-        "key": "8c1a8ddb9e1d9337bd3cd316605fb7d146f8aedaf8e9bc92648d0ce887f44a49",
-        "cached": false,
-        "repaired": false,
-        "seconds": 30.76
-      },
-      {
-        "key": "692b496ab017bbaa7a2bc384a29ceebcc2aa0fb401c20ca66af4dc160c5fd40b",
-        "cached": false,
-        "repaired": false,
-        "seconds": 22.17
-      },
-      {
-        "key": "b3ad84dc0891ab964e66645164bbf19ef493b496c84f441ceb622d245c01325f",
-        "cached": false,
-        "repaired": false,
-        "seconds": 18.78
-      },
-      {
-        "key": "08eb963b7c7d74653362673ceb9f1fe0e35611c4d981522b2c8cfdff7caa9124",
-        "cached": false,
-        "repaired": false,
-        "seconds": 27.26
-      },
-      {
-        "key": "8109cacc623b0356d4cd2746bfaefc2d16f3d8ff38cb5c2265e77cf98a9f3912",
-        "cached": false,
-        "repaired": false,
-        "seconds": 37.18
-      },
-      {
-        "key": "4dffcc747370538feaa196c0d56c39db59d861fdb8dd99398eab4d20d5126fe0",
-        "cached": false,
-        "repaired": true,
-        "seconds": 90.13
-      },
-      {
-        "key": "d2c2da47eab53201df3b865d4fd1459020eec448aa32fea3ed2b42d5a704a3ac",
-        "cached": false,
-        "repaired": false,
-        "seconds": 14.52
-      },
-      {
-        "key": "e9e2e4bfeb22332f9f156e9c4e5417598d2da236e015275cd7f23cf3d1e7b88d",
-        "cached": false,
-        "repaired": false,
-        "seconds": 40.96
-      },
-      {
-        "key": "f94517268ac20c19b9c76e98c50a23174d266543b293c91f21d97c023d3d7199",
-        "cached": false,
-        "repaired": false,
-        "seconds": 27.83
-      },
-      {
-        "key": "029e2d5aea7b5597a7c6241f357f118bd3bcf7a9d30ba3df2e8be345a5277491",
-        "cached": false,
-        "repaired": false,
-        "seconds": 22.02
-      },
-      {
-        "key": "cbc1e2ab9c5f809dd1aa69e4494304b8553e4cc5ed2a43a0c88bc1226e95948e",
-        "cached": false,
-        "repaired": false,
-        "seconds": 12.51
-      },
-      {
-        "key": "ee883c432c596b1b9e2de7c1a73a302fabf2c377e4c5dcc5b1455b4301da3916",
-        "cached": false,
-        "repaired": false,
-        "seconds": 50.13
-      },
-      {
-        "key": "59d7be407db2a965c58017af3aefca43743f2ba6e5bea791c7f3813019019cd9",
-        "cached": false,
-        "repaired": false,
-        "seconds": 47.46
-      },
-      {
-        "key": "9a7c8300a8a1d0432983a8166504a56ca876d8b52cacba61a96a6b3e22418f38",
-        "cached": false,
-        "repaired": false,
-        "seconds": 18.44
-      },
-      {
-        "key": "70913df420c0c89e8a5e813c45845fdb1296893e6e34f12c39d795cdf980735f",
-        "cached": false,
-        "repaired": false,
-        "seconds": 42.03
-      },
-      {
-        "key": "2214de9a03f32de9207e93b5c1b83b5675bba90865731d72cabce64ccfc2c672",
-        "cached": false,
-        "repaired": false,
-        "seconds": 18.5
-      },
-      {
-        "key": "38694ab0895fee35932a2a36561c65a93b9084f722914c3448e1a5975ed0c9ec",
-        "cached": false,
-        "repaired": true,
-        "seconds": 74.45
-      },
-      {
-        "key": "16ae1536731203a27a473677eca4ff0639e0f63f9d88f87e4e80b89a08526234",
-        "cached": false,
-        "repaired": false,
-        "seconds": 34.41
-      },
-      {
-        "key": "c09e6e16c249f7819d6b966a28f792bcc9c17434fe6b0e8e2c46df2b875521ee",
-        "cached": false,
-        "repaired": false,
-        "seconds": 8.45
-      },
-      {
-        "key": "34de700e3624dcdd1c54594d7c59f467d1cb65c575a479997bdcc4608af762eb",
-        "cached": false,
-        "repaired": false,
-        "seconds": 10.45
-      },
-      {
-        "key": "b526491e07db1b6a6377262353fa219ca9d7e03efff00c1b3ba55d778fd77c51",
-        "cached": false,
-        "repaired": false,
-        "seconds": 76.71
-      },
-      {
-        "key": "be353899daa0ebbb7854c9ec50b9725730e083a2086c1f24e9992633e56b1aa6",
-        "cached": false,
-        "repaired": false,
-        "seconds": 99.22
-      },
-      {
-        "key": "d8edd60fdfc06ab84a3784f1c27f9c063b7d174f3f00bfbb84c554b6b59a88ab",
-        "cached": false,
-        "repaired": false,
-        "seconds": 93.75
-      },
-      {
-        "key": "765790989e5c1745110a7685a7b7518b394d318f4da482a5e04eef3acc33ae45",
-        "cached": false,
-        "repaired": false,
-        "seconds": 91.89
-      },
-      {
-        "key": "f2d8ec89e3a7a19b29dc9370defad5ee5f748759289d6bbbc6d8a1d3293554bb",
-        "cached": false,
-        "repaired": true,
-        "seconds": 194.13
-      },
-      {
-        "key": "8327046d622dadf1695c3f6beb03537a18c5c60b69d450c3a0a5bdf7830d8f79",
-        "cached": false,
-        "repaired": false,
-        "seconds": 29.52
-      },
-      {
-        "key": "54e00d79b1f1f00445209104f8d3b4bf4b754b67edbada7ce11c0f6918264862",
-        "cached": false,
-        "repaired": false,
-        "seconds": 79.23
-      },
-      {
-        "key": "b258c7d9c78ba341374c61104e820b25be040674f67e3795bcca42616147f447",
-        "cached": false,
-        "repaired": false,
-        "seconds": 139.43
+        "seconds": 179.35
       }
     ],
     "synthesis_input": "full_receipts"
@@ -274,12 +136,43 @@
     "Media without transcript: raw/podcast/e1/e169a397ebfc95cb5ce1a269264e85ab2a318c7def3598e9f1b1034e1e9c2f80.mp3",
     "Media without transcript: raw/podcast/ef/efedad0bea8ff111c4b5dd9cca4dc03d7b3d1e221300f60b79f904b0ed10e82d.mp3",
     "Media without transcript: raw/podcast/f0/f07933f216f7311d6e7a3ae9d99bf07c2b38277aee4fe93fe3a464dc92350632.mp3",
+    "Media without transcript: raw/video/04/04f3637568808278dbde4b3717116d0e8846005099968103668dbfcf64956496.wav",
+    "Media without transcript: raw/video/06/061be657c819fd7f1d2ca31e4f9dd46ccd92b21f3a24f4bfa0617fb4fb65f1c1.wav",
+    "Media without transcript: raw/video/0a/0a1d8d71117e70e2091f9510696ba27779ba8fdba07cbbda52d67c48bee9576f.wav",
+    "Media without transcript: raw/video/13/138490db7acd3147c6c512d6db9c25eb99f819b1e86821d159bd6dd9f6a910bb.webm",
+    "Media without transcript: raw/video/1a/1a1c9c34ed264ebc3d352575af8428949ce642ec7bbb5a90d3e3756d2b8734d8.wav",
+    "Media without transcript: raw/video/1c/1c3a2b286a792e4092d4236ddedb4e4c8c578c6c8d8716e3c9176ebbe90cbcf7.wav",
+    "Media without transcript: raw/video/22/226f4a0df5c6e604446d4b58bfe3cc01ebca2496a8c0c52c619caae8db4160f5.wav",
+    "Media without transcript: raw/video/24/241bc35d8a3ff8bca797e8be40da08c29feea5f6778634e7222ee55647473d74.webm",
+    "Media without transcript: raw/video/2a/2a2c7a49c55d9861bcb7fff39f107c959b77559ce6b912452d68e09ac42fe9e3.webm",
+    "Media without transcript: raw/video/37/37d0fc684e8e07dfba5af3c5ba4576bb29a6af8afc344a9910eda3baad17c055.wav",
+    "Media without transcript: raw/video/43/43f9fca4b5f16558f4506f42deeeb6d3354122443ec2d220b0a72df08ba0a81e.wav",
+    "Media without transcript: raw/video/44/44f13a8c4b5b5475ac53852baa83d6a0988c0999073369962fc32d43bac01c88.webm",
+    "Media without transcript: raw/video/4c/4cd8967d1966bc7c89bab90b55694813916ec731e97c0d14a2d61297fff656fb.wav",
+    "Media without transcript: raw/video/4e/4e84fa4554aeed9e3ad11773af325d2c2e4b48f443152caf3d95a514633d4a7b.webm",
+    "Media without transcript: raw/video/56/56c37b3d5fc757b2e188a59c8b656bba130f01dd19be2609143284079e91b46c.mp4",
+    "Media without transcript: raw/video/74/74f2ad61add75c2b742e0bca34b37ef9a42a9feacb5fed2eda51e0c40d149f2f.wav",
+    "Media without transcript: raw/video/7a/7adccb1add8fdc7c19632d7c3632ab9ea382d0333d8649dd3e2b6d46c29470c3.webm",
+    "Media without transcript: raw/video/82/82775129b8fdf4d6576dba44d0a9f7a5298c72339fa27870123845a9140714ab.webm",
+    "Media without transcript: raw/video/88/88e22b87a5aa2f7e522fbf7d002530860a275936a0cd4a154a23e0b6f399fac0.wav",
+    "Media without transcript: raw/video/89/89805bb9cb154d24d6bc324533639e980b3a43b213b71166febd7267ad522d5b.wav",
+    "Media without transcript: raw/video/97/97af10857a2e93bb39606b574bc837c7c3da53af538a656dcd72db827e1e8469.webm",
+    "Media without transcript: raw/video/a6/a60d60875e7794c6b28f51be36825c32118e5953e13c6aa2b1540bb06d87f474.webm",
+    "Media without transcript: raw/video/a6/a661bff532309f2c0da00ea28d24825763e864b171e7b2e5d4c2c9c56a81396e.webm",
+    "Media without transcript: raw/video/b2/b22f332ca62477af99eba17393c0e3537ffc5753c0ae68e9fd3de98e0824fe7d.webm",
+    "Media without transcript: raw/video/b5/b5f3a38c5df34ade97fe3de7fceb2134701ef498c68e6f8a2559d4f8a4a268b8.wav",
+    "Media without transcript: raw/video/bd/bdce6d032d1ef48257e2976b0eae273cfa3f880f1ce1971d26866af5bf0422f6.wav",
+    "Media without transcript: raw/video/ca/ca8504f602baf528603acf4c6abd31dac13222b52a9ccb2d226315e4885f26bf.webm",
+    "Media without transcript: raw/video/e0/e0c710e6dd6cf881f39e2d36f45b84b57e7a30a3422f8618d75a9e0f0490d91f.webm",
+    "Media without transcript: raw/video/e5/e58246d153ca11479342a89c7e3f21e07fb45b8cd324d54db6acd5ea7c2119eb.webm",
+    "Media without transcript: raw/video/eb/ebde4398dd079d887f112163faa3f3f95dac010f8ed2ca48049bdb500952410d.wav",
     "Full-export sources were reviewed for identity and attribution; automated review is not independent verification.",
     "Company relationships are source-reported; founder/adviser roles are not inferred portfolio holdings.",
     "Multiple pages may repeat one interview or report; source count is not independent corroboration.",
     "Some publication dates and speaker identities remain unresolved; read coverage.md."
   ],
   "input_hashes": {
+    "processed/av_attribution_results.jsonl": "71009179776a8935375ae8d25e9af309c46422d39e97d881b007302300b28fe4",
     "raw/podcast/27/27194e5be1831395339777923eef9f62a4c0338ab61d40f7b4c800a01924f4ef.html": "27194e5be1831395339777923eef9f62a4c0338ab61d40f7b4c800a01924f4ef",
     "raw/podcast/27/27194e5be1831395339777923eef9f62a4c0338ab61d40f7b4c800a01924f4ef.html.be7886ef9d250827.metadata.json": "6a6ef351a43d68ccf86ee3ff1a4be3dab00da029214c36954a0539f769a1958b",
     "raw/podcast/3b/3b7f6f8250bb89d6d72ac33972ae4c9726a8d9eb55750c37a9b1a07ba832b781.html": "3b7f6f8250bb89d6d72ac33972ae4c9726a8d9eb55750c37a9b1a07ba832b781",
@@ -456,8 +349,8 @@
     "raw/web/fd/fd82d53c050a1cd781b138c16ea1a46d7e2875b5a45121e887647400f32f320e.html.e16acc89e4d7fe1f.metadata.json": "4f702946ddd3575e803b0a014c43275f8e33bce7d007e0bd7c492a62664df408"
   },
   "source_policy": "full_investor_export",
-  "sources_reviewed": 86,
-  "source_packets_reviewed": 129,
-  "context_count": 211,
-  "files_inventoried": 338
+  "sources_reviewed": 281,
+  "source_packets_reviewed": 466,
+  "context_count": 333,
+  "files_inventoried": 1692
 }

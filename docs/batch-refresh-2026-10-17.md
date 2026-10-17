@@ -177,3 +177,35 @@ Review restored two exact source receipts covering Yubari investments in ZOE, Di
 Validation: `python -m wiki_build check wiki/sarah-downey-accomplice` passed after editorial review. Exact quotes, attribution, source hashes, citation references, ledger consistency and full packet coverage were checked. All three synthesis pages were read; selected claims were checked against receipts and portfolio relationships independently reviewed by a second agent. No engine code changed. Local raw responses, repairs, snapshot provenance and editorial backups remain in the ignored cache. No downstream onboarding bundle or assessment index was rebuilt.
 
 Reproduction: use an absent destination and the saved snapshot, with the applicable original command stored locally at `.wiki-cache/sarah-downey-accomplice-2026-10-17/command.json`. Accepted review decisions are in `.wiki-cache/sarah-downey-accomplice-2026-10-17/reviews.json`; replay can use `.wiki-cache/sarah-downey-accomplice-2026-10-17/inventory.json` intentionally, without applying already-included supplements twice.
+
+<a id="jake-chapman-marque-ventures"></a>
+
+## Jake Chapman
+
+[Wiki](../wiki/jake-chapman-marque-ventures/README.md) · [Policy](../wiki/jake-chapman-marque-ventures/persona.md) · [Theses](../wiki/jake-chapman-marque-ventures/theses.md) · [Portfolio](../wiki/jake-chapman-marque-ventures/portfolio_and_constraints.md) · [Coverage](../wiki/jake-chapman-marque-ventures/coverage.md)
+
+Snapshot captured **2026-10-17T14:19:41Z** from `/home/dpasch01/vclogic-vc-trace-collector/outputs/jake-chapman-marque-ventures`. [Previous wiki](../wiki/_archived/jake-chapman-marque-ventures/README.md) unchanged.
+
+| Measure | Count |
+|---|---:|
+| Inventoried files | 1692 |
+| Text sources | 281 |
+| Reviewed packets | 466 |
+| Admitted sources | 96 |
+| Evidence excerpts | 461 |
+| Context facts | 333 |
+
+Packet decisions: {'other': 214, 'uncertain': 98, 'target': 145, 'unusable': 9}. Evidence support: {'explicit': 333, 'inferred': 128}. File dispositions: {'operational_metadata_or_derivative': 1113, 'search_discovery_not_collected_evidence': 34, 'source_text_extracted': 175, 'source_text_represented_by_full_transcript': 1, 'media_without_transcript': 45, 'media_represented_by_transcript': 217, 'cached_transcript_represented_by_source': 107}.
+
+**Partial:** 45 media files lack transcripts and 98 packets remain uncertain. The complete census and all review decisions are retained in the wiki.
+
+Sol reviewed all 466 packets in 115 batches; prior fingerprints did not qualify for reuse. One call stalled without a response for over seven minutes; only that call was interrupted and retried, preserving 114 accepted cached batches. The retry passed.
+
+The first review excluded Alpha Bridge’s portfolio page because it did not name Chapman. An exact affiliation receipt from the supplied first-party Alpha Bridge biography was attached as contextual metadata. Sol re-reviewed and admitted that page without changing raw source text, speaker labels, the resolved identity or existing fingerprints. The final build revalidated all 466 reviews and synthesized 461 evidence excerpts and 333 context facts with full receipts (458,549 characters). The replay command is `final-command.json`; use the identity-context inventory intentionally for this snapshot.
+
+Review expanded the Alpha Bridge section-heading receipts to their full exact source passages and added all 22 core and 18 fellowship portfolio entries. Unnamed entries are retained without guessed identities. These are historical firm listings, not personal holdings or verified current positions. The structured context and reviews were regenerated consistently without changing counts or citation IDs. Saze Partners and Demuso are labelled unverified transcript spellings; Shift’s established Alpha Bridge relationship is distinguished from unresolved personal/legal ownership. FightCamp’s $125,000 SAFE/$3 million post-money cap and prior named relationships were retained. The historical $100 million Fund I fundraising target was restored without claiming a close or AUM. Removed an irrelevant BlueCat template sentence and changed “verified speech” to “attributed speech.”
+
+
+Validation: `python -m wiki_build check wiki/jake-chapman-marque-ventures` passed after editorial review. Exact quotes, attribution, source hashes, citation references, ledger consistency and full packet coverage were checked. All three synthesis pages were read; selected claims were checked against receipts and portfolio relationships independently reviewed by a second agent. No engine code changed. Local raw responses, repairs, snapshot provenance and editorial backups remain in the ignored cache. No downstream onboarding bundle or assessment index was rebuilt.
+
+Reproduction: use an absent destination and the saved snapshot, with the applicable original command stored locally at `.wiki-cache/jake-chapman-marque-ventures-2026-10-17/command.json`. Accepted review decisions are in `.wiki-cache/jake-chapman-marque-ventures-2026-10-17/reviews.json`; replay can use `.wiki-cache/jake-chapman-marque-ventures-2026-10-17/inventory.json` intentionally, without applying already-included supplements twice.

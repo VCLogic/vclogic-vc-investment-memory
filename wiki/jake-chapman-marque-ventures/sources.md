@@ -2,6 +2,306 @@
 
 The prepared snapshot retains full admitted text and attribution metadata.
 
+## full:80a25bb501ae4ccfa4b37e3c
+
+Jake Chapman: Marquee Ventures
+
+URL: https://www.youtube.com/watch?v=1FgXfuBfmBI
+
+Publication date: Unknown
+
+Input: `processed/av_attribution_results.jsonl:4`
+
+SHA-256: `ad32182abe4335eafaeb1176784e8ad3fe72982423d3054d73b227ad068695f5`
+
+## full:2b8531e6b4d54fc152520a40
+
+Venture Frontiers: Navigating the New Dynamics of Defense Tech Investing with Jake Chapman of Mar...
+
+URL: https://www.youtube.com/watch?v=5Hma5JRHwNg
+
+Publication date: Unknown
+
+Input: `processed/av_attribution_results.jsonl:11`
+
+SHA-256: `e0d5d30fd48310e25bca3393abb7195e28560eb0280cd32450bba0fa3a457349`
+
+## full:2b3f9f81c6e1044fee76fced
+
+How Private Money Builds Military Technology
+
+URL: https://www.youtube.com/watch?v=6qbQ9wiZtOo
+
+Publication date: Unknown
+
+Input: `processed/av_attribution_results.jsonl:14`
+
+SHA-256: `d71f47ed2d9f060d5cf2f35561f07c4e0d35ca8e718a10e8ff9a1fb143896894`
+
+## full:43e8e8cdde529ad8ea826939
+
+Jake Chapman, GP at Alpha Bridge Ventures | Investor Interview
+
+URL: https://www.youtube.com/watch?v=LVWqVyRUjcc
+
+Publication date: Unknown
+
+Input: `processed/av_attribution_results.jsonl:39`
+
+SHA-256: `3d623db2b95f21663ee021fa003faa5ab80de831e3a55c0506f3d0f00042e9a7`
+
+## full:0491035acbf39556d5d66a1a
+
+Why Every VC Is Suddenly Investing in Defense
+
+URL: https://www.youtube.com/watch?v=NdjIHI7ms2M
+
+Publication date: Unknown
+
+Input: `processed/av_attribution_results.jsonl:41`
+
+SHA-256: `0188a4fd90b7e87ec2d73a887dee12d62da995e8fab35531d7b968209ccf21a9`
+
+## full:422ac8e4c9dc858f00bdf116
+
+US Merchant Mariners & National Security
+
+URL: https://www.youtube.com/watch?v=gCy5wNYEwkU
+
+Publication date: Unknown
+
+Input: `processed/av_attribution_results.jsonl:70`
+
+SHA-256: `564694ae17290a246c4f0a42808bab5a1090b5260f0f3bade9d735b4a53fde8c`
+
+## full:1616b78b1f3f051c6687d419
+
+Varda: Space Drugs & Hypersonics
+
+URL: https://www.youtube.com/watch?v=maGE5dehsS0
+
+Publication date: Unknown
+
+Input: `processed/av_attribution_results.jsonl:80`
+
+SHA-256: `4880d72458e12949a743d038f561802dd6dba6e4230c9fa796ef58e790709ad3`
+
+## full:574b51eb05f430b66bc739ff
+
+Healthy Ambition: Defeating the dark side of audacious goals
+
+URL: https://www.youtube.com/watch?v=5HG7ZzFnKKE
+
+Publication date: Unknown
+
+Input: `processed/av_attribution_results.jsonl:101`
+
+SHA-256: `bc947ee3fcd093ab3ec7ab1934cd83fd495bc3e4b2d465b0bf7520b004a02f9f`
+
+## full:09cb0689e1f00e8e11810424
+
+DARPA, DIU, CDAO, OUSD (R&E) at the Defense Ventures Summit
+
+URL: https://www.youtube.com/watch?v=7AzXh3_tyns
+
+Publication date: Unknown
+
+Input: `processed/av_attribution_results.jsonl:102`
+
+SHA-256: `fd831941d0ddf6113c94ef22f2ab8bcb6f9e12a9672a62558ceca702040118c6`
+
+## full:458da859373f056e8d27361b
+
+Palantir CTO: military innovation and reforming the Pentagon
+
+URL: https://www.youtube.com/watch?v=7n9vhmc8dNY
+
+Publication date: Unknown
+
+Input: `processed/av_attribution_results.jsonl:103`
+
+SHA-256: `4e53e996d25a95265c4d02405e7aa1d2f8a092f3c6000079d0ad531ec9c9e2eb`
+
+## full:e664392e7f7901ad90cdd65f
+
+5 Second Scramble with Jake Chapman, Managing Director at ...
+
+URL: https://www.youtube.com/watch?v=PMQHWJ4FMGk
+
+Publication date: Unknown
+
+Input: `processed/av_attribution_results.jsonl:104`
+
+SHA-256: `999010318e7bf14bd7e123dc7a290276bb9856565ca86733a7d460f9c185f3bc`
+
+## full:b7d6ef6a2801ce45043718b6
+
+Jake Chapman, Founder Gelt Venture Capital #vcquestions
+
+URL: https://www.youtube.com/watch?v=PpJozLk4LhA
+
+Publication date: Unknown
+
+Input: `processed/av_attribution_results.jsonl:105`
+
+SHA-256: `79c1beed1667f2c7f51247ed75e82663323f6504f38d87361344f847be052b7b`
+
+## full:d77b12f89acf4a0e6130b93d
+
+Air Force Chief Weapons Buyer Andrew Hunter
+
+URL: https://www.youtube.com/watch?v=ThyQaNpJM7k
+
+Publication date: Unknown
+
+Input: `processed/av_attribution_results.jsonl:106`
+
+SHA-256: `e03f83eabe05e6d5ba23a1f2ca261f59d5c61c44f4f34259fd17e5a9101a3fdc`
+
+## full:f72a9cbd18b1e1cb48b7110b
+
+Defense VC: "Multiple Sensors Confirmed UFOs. It's Probably Aliens" | Jake Chapman
+
+URL: https://www.youtube.com/watch?v=U9g0YZ_DRvY
+
+Publication date: Unknown
+
+Input: `processed/av_attribution_results.jsonl:107`
+
+SHA-256: `c2fb8783d945ac93a60c815a8a693732f3885df8a928281e6742262114a944b5`
+
+## full:932782366ff07f6eac48d961
+
+ChatGPT, Russian Nukes, Banning TikTok, and a Fusion Breakthrough
+
+URL: https://www.youtube.com/watch?v=aXFcj3ayGAA
+
+Publication date: Unknown
+
+Input: `processed/av_attribution_results.jsonl:108`
+
+SHA-256: `d594750d06468dfca9742df2c49b20256d1a6216de5762ba2d714183e6989146`
+
+## full:ca278bc737ceccbda7c93a25
+
+Jake Chapman on Optimism and the Future of Venture Capital
+
+URL: https://www.youtube.com/watch?v=d1-BBQi7Ayw
+
+Publication date: Unknown
+
+Input: `processed/av_attribution_results.jsonl:109`
+
+SHA-256: `dce54a894d612ea80d9e126b05b8f51f00acc2127f74432edf402a5c3e42518d`
+
+## full:386b59f7742dd03418e74cde
+
+VCs are investing in technologies encouraging healthy behavior and habits
+
+URL: https://www.youtube.com/watch?v=d6dkm_eS7s4
+
+Publication date: Unknown
+
+Input: `processed/av_attribution_results.jsonl:110`
+
+SHA-256: `25e2c917b2952384b28e76c0895710a5ae1dcdcb134337f0ead1905bf9694bca`
+
+## full:0a4c2be65770887983b48ad4
+
+The Dual-Use Debate: Crafting Smarter Startups from the Start | The Pair Program Ep60
+
+URL: https://www.youtube.com/watch?v=eQ3PKEGnxj4
+
+Publication date: Unknown
+
+Input: `processed/av_attribution_results.jsonl:111`
+
+SHA-256: `57aa4dc21e692b88d13781b478fa4f230253ce50109d8cc3eca6d8e768576682`
+
+## full:67532dd382ea6291476f8b60
+
+Drone Swarms Are Coming and America Isn’t Close to Ready
+
+URL: https://www.youtube.com/watch?v=gV5RCOPDnGs
+
+Publication date: Unknown
+
+Input: `processed/av_attribution_results.jsonl:112`
+
+SHA-256: `4820c16c611e5bf611beb636165e48a61e903cfdb8e2ea0d51dac8f665c23570`
+
+## full:668938a341592673c910fd06
+
+VCChat: Questions VCs Ask Hummer Winblad & Gelt Ventures #vcquestions
+
+URL: https://www.youtube.com/watch?v=gxoVqWhrpgE
+
+Publication date: Unknown
+
+Input: `processed/av_attribution_results.jsonl:113`
+
+SHA-256: `4b560052fe1f27486926dffcccc4ad0e98812350f8d3d664d05c0d3d5ddd66f2`
+
+## full:73f96ac443bd0bd72cf4a882
+
+Firestorm
+
+URL: https://www.youtube.com/watch?v=jFfJyVdj-vc
+
+Publication date: Unknown
+
+Input: `processed/av_attribution_results.jsonl:114`
+
+SHA-256: `eca3164a988bb64224ddd7bb95a2bdc7ecc2cc6bf0661824b1da1006f5f3162e`
+
+## full:68ccd8c4cb3bfd5370816817
+
+Delian Asparouhov vs Jake Chapman | Investor Fortnite Battle | Highlights
+
+URL: https://www.youtube.com/watch?v=lhMURr5LADE
+
+Publication date: Unknown
+
+Input: `processed/av_attribution_results.jsonl:115`
+
+SHA-256: `7143799ff9f32e523cd7cb4998be9c9f80b006fcfef8297f1a05d49aa14d0e07`
+
+## full:4f1451fa7bb7ccbe5a82d47b
+
+The Race for Global Dominance in AI, Drones, and Autonomy
+
+URL: https://www.youtube.com/watch?v=ntWlG0aYrAA
+
+Publication date: Unknown
+
+Input: `processed/av_attribution_results.jsonl:116`
+
+SHA-256: `ebc4e438b1221a6533661e8c1a40cbdb7d6b261036f69f452906e61e73b0cdce`
+
+## full:e89901bfa7076b2cd9587beb
+
+Marque Ventures in The Briefing Room – Episode 002 With Jake Chapman and Tip Myers
+
+URL: https://www.youtube.com/watch?v=se4UV7rTy30
+
+Publication date: Unknown
+
+Input: `processed/av_attribution_results.jsonl:117`
+
+SHA-256: `e829c68532f8f49c0d8692562b851d64d7bba9074299ffdbfdb2028203995b31`
+
+## full:c5204b4d047151a4bacdf710
+
+Technology for the Tactical Edge — 2026 Venture In The Capital Summit
+
+URL: https://www.youtube.com/watch?v=z2iy4J2U3to
+
+Publication date: Unknown
+
+Input: `processed/av_attribution_results.jsonl:118`
+
+SHA-256: `02cb3da42c06141ebe8743bb7f68fe1a933ced706b96837631e6433489800111`
+
 ## full:8aea2a28b58ccd6d62815bfd
 
 Jake Chapman: Marquee Ventures - The Investor With Joel ...
@@ -13,6 +313,18 @@ Publication date: Unknown
 Input: `raw/podcast/27/27194e5be1831395339777923eef9f62a4c0338ab61d40f7b4c800a01924f4ef.html:1`
 
 SHA-256: `f0c5edb2f80536d5436e3f0277bf4b21bbbe9ec822cb4429d27226536a9498c3`
+
+## full:e8f64ca3d48cd1a0486fdd73
+
+E40 – Air Force Weapons Czar
+
+URL: https://creators.spotify.com/pod/profile/the--merge/episodes/E40--Air-Force-Weapons-Czar-e2nh9h5
+
+Publication date: Unknown
+
+Input: `raw/podcast/3b/3b7f6f8250bb89d6d72ac33972ae4c9726a8d9eb55750c37a9b1a07ba832b781.html:1`
+
+SHA-256: `02f73285ff7cd1848be4a8034da4e1f7e258a9b2876cc1a7efe99be363732251`
 
 ## full:18644b3130bc5451dd33303a
 
@@ -50,65 +362,17 @@ Input: `raw/podcast/56/566f85255346d3006fe2d25576621e25a8f10c9ce66a5e520961ac339
 
 SHA-256: `72041febecca503bbc9643544b1fa746edbd58c46cdf39e1303472837b4f5548`
 
-## full:abb03d1efc425c336368aba4
+## full:45c19dda4a3628db508c1e8b
 
-E29 – Inside Look on Selling Tech to the Pentagon
+E41 – Firestorm
 
-URL: https://creators.spotify.com/pod/profile/the--merge/episodes/E29--Inside-Look-on-Selling-Tech-to-the-Pentagon-e2fbl9o
-
-Publication date: Unknown
-
-Input: `raw/podcast/70/7042a24aaa150d12b03faf82571e3bf8a2d305b616dddec72e40a923d1c178bf.html:1`
-
-SHA-256: `2c01ca274d6c01c7331380ef79f1b31aa681bf18564eee3263c947a69df9186f`
-
-## full:8430b5dd02131a9dfbe5c31f
-
-E3 - Nukes, Fusion, & ChatGPT
-
-URL: https://creators.spotify.com/pod/profile/the--merge/episodes/E3---Nukes--Fusion---ChatGPT-e25ts12
+URL: https://creators.spotify.com/pod/profile/the--merge/episodes/E41--Firestorm-e2o8d23
 
 Publication date: Unknown
 
-Input: `raw/podcast/7b/7bc55b081b8beb764e6d3ea15211c8ea4fbd5a058e3c51ec427c4b98463eb428.html:1`
+Input: `raw/podcast/7b/7bdefdcaa90da71e5129b88c7dcba71114cef5e121b4b9ba0eba7b119272101e.html:1`
 
-SHA-256: `04f6ab6e8f21537ece99d27a4123ad125df837223f63a49d034fdadaf7fc9d5d`
-
-## full:5e233ec8a6103f062f335ee1
-
-E38 – Palantir CTO Shyam Sankar: REAL defense innovation
-
-URL: https://creators.spotify.com/pod/profile/the--merge/episodes/E38--Palantir-CTO-Shyam-Sankar-REAL-defense-innovation-e2kqpms
-
-Publication date: Unknown
-
-Input: `raw/podcast/a6/a6254b1aefebd5507fd7de0ef51f2139e66e36a7022274c66d294b0fdb361f3b.html:1`
-
-SHA-256: `391e45872cd525b7dcf7e4680e48a87d45e96f1b0f5f1994d2d29b7ace368ebf`
-
-## full:a286421a1b604842ffbcb40f
-
-E35 – US Merchant Marine
-
-URL: https://creators.spotify.com/pod/profile/the--merge/episodes/E35--US-Merchant-Marine-e2jje7i
-
-Publication date: Unknown
-
-Input: `raw/podcast/b6/b693b24cf68f99aac793b729415ce76dc8b2e7e31607fbebfc4a6719e37151f6.html:1`
-
-SHA-256: `6976c5ea09cdbabee0edf8a841e9a99f6f12af5cc332204cef0e1863448ff375`
-
-## full:adc9aecd2c3ecbbfa6125caa
-
-E31 – The plan to fix the US military's industrial base
-
-URL: https://creators.spotify.com/pod/profile/the--merge/episodes/E31--The-plan-to-fix-the-US-militarys-industrial-base-e2gedt0
-
-Publication date: Unknown
-
-Input: `raw/podcast/bf/bf0263ccccadb8333c40c1fadcbac5898d10b55c936122060ad3fc64eca208cd.html:1`
-
-SHA-256: `29870b212fc5f1028a288297a15ce8487840a3b1b9c9bb308c9755391ec910fd`
+SHA-256: `83d1f093df3518e7443d1cbd893c64c48d158bc228747a528c415ee57ca06f60`
 
 ## full:104d59d024f0c2d75e17d937
 
@@ -182,6 +446,18 @@ Input: `raw/web/05/05ce175f33e6320f33737bfd20bcc0630642c03291140db3463f953bc6a30
 
 SHA-256: `34b497075d0270912cefa472c5206e1f0f1b49733f27c1f28bd83b8bd84f5067`
 
+## full:c5293fb6b90c15138192b66a
+
+Read More
+
+URL: https://www.marque.vc/resources/press/usaf-education-with-industry-javon-boyd
+
+Publication date: Unknown
+
+Input: `raw/web/07/078c6a2e125e6884adf73a46119fbe9783ebc91b106963e38d9ec571485f409b.html:1`
+
+SHA-256: `db6b46b4ffeebb447acd29b40fdd775564e7572ad6ce9a68936c3d79808f58b4`
+
 ## full:7c93627575b9cf39aa9fb188
 
 The Merge Podcast: THe Role of the U.S. Merchant Marine
@@ -230,6 +506,18 @@ Input: `raw/web/0d/0d81213b1ccada95648a5dd6dc05d02b3be5433c2284c231d2b8a0a9420ee
 
 SHA-256: `f5e3bcb02715f850ff150cad368365079d9e1c9e711026878b50992ee6f02903`
 
+## full:b4ef370776501ee88c466bc7
+
+Read More
+
+URL: https://www.marque.vc/resources/press/marque-welcomes-2024-fall-cohort-of-fellows
+
+Publication date: Unknown
+
+Input: `raw/web/12/128ee7480490948d226a52fcdcc5d44eb409b6b275babf84a8144e73454fe60b.html:1`
+
+SHA-256: `bfee3a56d4dd7e3b45e3bcbd73796d052fc50dd36d9d061a26ee67c7bf4ef814`
+
 ## full:70cf4d451f1888674ffc58a4
 
 About — Marque Ventures
@@ -253,6 +541,18 @@ Publication date: Unknown
 Input: `raw/web/1a/1aad3a08871f1b95941ae5d2849a38a9c7652afed781e7b48331c558c9dad4bf.html:1`
 
 SHA-256: `6ae4d4a2378a4c800bf24e607bbeaabe398331e539827402611e69b57c1ed138`
+
+## full:71f85711a59646a7ad38a006
+
+Read More
+
+URL: https://www.marque.vc/resources/press/sntwi-fellow-james-baptiste
+
+Publication date: Unknown
+
+Input: `raw/web/25/250918ad2df5693b5035f57fdc4dde61637f88a3824183ae13526187a1573f74.html:1`
+
+SHA-256: `de475e081ffee0c8aff64e1a6e466b8dca4e611095ed22ae1cd4b5e1de665d73`
 
 ## full:70314c65b0d020c92a7fb9bb
 
@@ -793,3 +1093,63 @@ Publication date: Unknown
 Input: `raw/web/f4/f48ed34af16a180553516f5040afb7b70b37e80238213cc56fd5d09e27012bba.html:1`
 
 SHA-256: `a504a6a76beaf61d63345dd07f613c9464f57ecf8291dcf8fef46a5995de3dc5`
+
+## full:7dae02dcef917f3b58913782
+
+Human Powered ROI: Alpha Bridge Ventures and Project Atlas — Alpha Bridge Ventures
+
+URL: https://www.alphabridge.vc/blog/2018/4/12/human-powered-roi-alpha-bridge-ventures-and-projectatlas
+
+Publication date: Unknown
+
+Input: `raw/web/fb/fbb800d1402ad7013eafdc768282647a35f9818972203b9dc0e612eb79876997.html:1`
+
+SHA-256: `2f6abc9fed7575494ef9f050cffcfe89c8cb0bbc444570c859fc847f698a997c`
+
+## full:383408b5aff855dd6d81f6a1
+
+https://www.youtube.com/watch?v=LVWqVyRUjcc
+
+URL: https://www.youtube.com/watch?v=LVWqVyRUjcc
+
+Publication date: Unknown
+
+Input: `state/av_transcripts/270b90786af1f2f45a5c373aa0c6ebc2a0e989a8faa59f2e4914efb32b7b538a.json:1`
+
+SHA-256: `f11232bb2a63680c11f40e2af01744cf4d38e5071cc8b5a52a613a4bf048b8b1`
+
+## full:bba95f28352d29e990ce99ab
+
+https://www.youtube.com/watch?v=eQ3PKEGnxj4
+
+URL: https://www.youtube.com/watch?v=eQ3PKEGnxj4
+
+Publication date: Unknown
+
+Input: `state/av_transcripts/44860add03322acd2c0ed5609b29ecdd70e29a23fd4517e367accbfb65e1e8cb.json:1`
+
+SHA-256: `ca628a65c26ff51ab0dda14c109b09fc2528a0f1343b5c199d02722d091bd9b9`
+
+## full:4a4d342f94e8a7d3bb5fcf4b
+
+https://www.youtube.com/watch?v=gV5RCOPDnGs
+
+URL: https://www.youtube.com/watch?v=gV5RCOPDnGs
+
+Publication date: Unknown
+
+Input: `state/av_transcripts/7cd8724850965708924fc758863510532d666b4c65d2c2069a69b047758cdbea.json:1`
+
+SHA-256: `b37f090a5ae29bcb4eab858628319d0bdfe616a095388416dfe7d797c1106c99`
+
+## full:239d284bb46f545454739449
+
+https://www.youtube.com/watch?v=7AzXh3_tyns
+
+URL: https://www.youtube.com/watch?v=7AzXh3_tyns
+
+Publication date: Unknown
+
+Input: `state/av_transcripts/ad6e503f7701cc2201679cf2dd7a9454c24f35df430176abe66057708bc6a555.json:1`
+
+SHA-256: `7e2914e438c336a52e44dd75a8f05f34e66e4a474791740a04181bbe0869adad`
