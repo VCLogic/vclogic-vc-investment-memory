@@ -1,0 +1,437 @@
+{
+  "vc_slug": "mike-ma-sidecut-ventures",
+  "corpus_chars": 1611188,
+  "thin_corpus": false,
+  "no_pitch_sources": false,
+  "sources_consumed": [
+    "full:4f5c8d2b0834e262bf898c7b",
+    "full:a5112e7ab833ac40ec652c33",
+    "full:d02a7243eb02ae54e1df9e56",
+    "full:689bc86e3156caa3325dc2ac",
+    "full:d6accfcbe31757868a5c0f8a",
+    "full:c9710c8e626430b3770573cd",
+    "full:a9b674718b67f77b2a558b7f",
+    "full:b827a7b5cb94c8fd17ece9ef",
+    "full:8ee3bb9648aa67a51954ea5f",
+    "full:16aea5fca142ca82aea02e05",
+    "full:ea1ce0c48aab35f71f0b05a9",
+    "full:862d57c91b3dff54c5698a33",
+    "full:fa5e8e2beeb997a561eb487e",
+    "full:b7d800bc95862ed53e5f3f48",
+    "full:b20247e07f2e5f142146fa4c",
+    "full:37da56fe70c142980beae453",
+    "full:5a81b46699af825bc1060242",
+    "full:6f3871bc37a2bd98b15292d7",
+    "full:f760a7dd2f7ff6f4a223eed0",
+    "full:b6ecbeff4df222271c54f96c",
+    "full:1040666c1fd0ab2863236a1b",
+    "full:e88c0e3560e2585d70fd90d3",
+    "full:46f342aa4bb0b99886007f10",
+    "full:7f4f0f287de14eaf42c8cae9",
+    "full:ec688c4f773cb41acc712f4e",
+    "full:a940227c79e709430644d259",
+    "full:9dd584eac094ed32de038d8a",
+    "full:108a7266ba72235b7bbec138",
+    "full:621cc5e7038df719145ca825",
+    "full:e60324b4ed75c883ed6fb4b7",
+    "full:46a5265a3a076ac5a7bed30e",
+    "full:e1d3a3785370093daeb2be22",
+    "full:a1726c9f9618857803af1542",
+    "full:cc1bb664b511f8201aecd970",
+    "full:48b5ae7232d94d6b4d59101a",
+    "full:1dd1e23193f9d5c1724f95dc",
+    "full:560ddf28405db3b06bdc87a1",
+    "full:d1faaf548d5292ae88a17fdc",
+    "full:4bf6f5151c7032c74d3ed10b",
+    "full:701e8abe3ac3034b76203cdc",
+    "full:d367c42345a9ad091919799b",
+    "full:abe414497de01e3424e7205a",
+    "full:df6ed975fa56f250ceeb575c",
+    "full:d0a9e2e5f2c55f40c35ff239",
+    "full:c68fc7ebe724ed0e82003d0a",
+    "full:a9bddd3ab483adb7140f4b73"
+  ],
+  "evidence_count": 667,
+  "persona_tokens": 6143,
+  "persona_tokens_method": "ceil_characters_divided_by_4_estimate",
+  "taxonomy_version": "v_final",
+  "generated_at": "2026-10-17T06:58:37.275409+00:00",
+  "schema_version": "2.0",
+  "generation": {
+    "model": "gpt-5.6-sol",
+    "revision": "full-export-v2",
+    "calls": [
+      {
+        "key": "d8d648524709ab7c6cd6208a31561859f0f6e9ae64046bf398720fb17327c1cf",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.01
+      },
+      {
+        "key": "65cae62744626fc5d1a77320aacd26433de577443fe8e170fb7f0f7d1c887972",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.02
+      },
+      {
+        "key": "59801b12a392a866d1ba61de61b912f2749adc27d14dde066731ca19e517a89e",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.02
+      },
+      {
+        "key": "25e7d4249c6b32715f5f110766401abd5f5e0a6a324ffae4c33c5662f29f35c0",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.16
+      },
+      {
+        "key": "1eeb8e2ddeabe219e8a328df2def534d6d0ff2f9ce6485387f2fd107e6d899c1",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.16
+      },
+      {
+        "key": "389e15d14b044b4ed4fc13e5a191dd7bc8e2835438990a44cd6456a63d67c716",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.17
+      },
+      {
+        "key": "7f313647f823e05c1d9099a2ebd984aef6308d6537daf1b78c00e758f209a6ce",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.22
+      },
+      {
+        "key": "9ce803ea66d6e3126f3e2d21126f7f453db307fdf23c6ceef8049501555dd5cf",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.23
+      },
+      {
+        "key": "6a3b974f946557690b21bfee65b5e54d985de9840c808094f23e7c0772ae780d",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.4
+      },
+      {
+        "key": "316218f7a4f1256a8e365c8acdb95838fef3f7cde77cb7ed22e51a36f972c98a",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.35
+      },
+      {
+        "key": "67e58016038c4e44cb9409c5d9ef8c6bd65116e13596b2715cb03cb1e516afc5",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.21
+      },
+      {
+        "key": "9c8669e58ad016bcbb44ef55f4d71bdab90bbea304efd574412dac80b093e1c0",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.45
+      },
+      {
+        "key": "bb84bae2be3b349548c0c2e10c86cb7498650ee18c9f75ae5267e5ac7f669916",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.06
+      },
+      {
+        "key": "f751138370bae74097abce2b68d868d77a16accf7f114499ffbb2af6f2fcb924",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.08
+      },
+      {
+        "key": "5c79dcdf48f4e5125a7dfe99a5313a7092c6956d9cf3621dbbf969ae86d67704",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.08
+      },
+      {
+        "key": "b540fbbffad01b27576eafab60263584696b077d0e9d87a92450a2786f686158",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.1
+      },
+      {
+        "key": "ec03e0be6c1e735e3fe068b7804336f8b0eefd2520bc17ed011118dd1f7f73a0",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.1
+      },
+      {
+        "key": "ecaae27ca8422b8949c36ca240f89a7faf05d5b59482827b694397d75bc44383",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.05
+      },
+      {
+        "key": "7cbf74912a747743749405cf63d43e5173edf02c3ad9e9df0a1b652bb2ea81a4",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.16
+      },
+      {
+        "key": "6014535fc616102f8bee05b837c808f5df3bdd28eb0d88ffd2684facb7f2ae2d",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.04
+      },
+      {
+        "key": "73cf2c28f9d3bdfa77425bbfef1982fd64dc939dafbbaba58f95d4363aeec6f6",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.2
+      },
+      {
+        "key": "7295a11f3762a7ef527b4b3738cc985cb746e8dd4138bbae75509a5d6e9ad388",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.07
+      },
+      {
+        "key": "48542f8fff722e78d43c8cfdbd6b17fcbf7df6cba3cbc886093b2821bb84f741",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.26
+      },
+      {
+        "key": "03f77896e255e1df6e3e98c1deb0605728fe965994927f344f7e9cfb0ca6f471",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.35
+      },
+      {
+        "key": "27db394ecc156b500bba826a054443f3902a5d3edf6f3f1f7d57bfe694d8be63",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.16
+      },
+      {
+        "key": "b6f7abf0b77fa1e4160d6680f7900bb3e70d9bcebb5c6db82aadfc7284323c6a",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.58
+      },
+      {
+        "key": "c16543ed54586768d3234e1c4b7ba46819b6637be2b28a643d39c40c47f3b12b",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.46
+      },
+      {
+        "key": "ed8bc751c596cdffa7a74e65fe4c3630234293453fb8b4ac6d511b2cf00e1d41",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.49
+      },
+      {
+        "key": "5b6f75532b3572858f98cb1da236e4827b5dad6b7370abb9327a53546cff63a9",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.09
+      },
+      {
+        "key": "43c6199e77a2f76407c4e22ec77e94fe4cb95721238c54ff9ba8b2855155bb9e",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.6
+      },
+      {
+        "key": "efbe1cc72128d437ff527e51ae8570bcf05843cea020ce0eb55dd245fad478d4",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.6
+      },
+      {
+        "key": "3a002d03ca9e70c9d7620027d0666608e1b66b56541cb7e58d0c05dc90035b9a",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.33
+      },
+      {
+        "key": "85453a12fcf46980beca4407cbff49783c9d0c9269085c48f43b0449381562ed",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.8
+      },
+      {
+        "key": "b78c0a4086a8b086dccd6349631a73475517eb49bdb26f4a267c9f8e60f13881",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.41
+      },
+      {
+        "key": "445de40d3929d375da37861425a4b81dc490de6c7f77f44edb9bb0992863b57f",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.73
+      },
+      {
+        "key": "3496b79a52566df249756b870a030dfda0bc60bb8c1497def57591f565380efc",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.49
+      },
+      {
+        "key": "9ee76c0546adb4eec5253cf8bdff35776a1cced155513e932699b8d42c6fe95a",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.02
+      },
+      {
+        "key": "98b29b883c3dbf66929e29a336d19cb7a8d0efa8e3668813b48d2b41ea8f0f2f",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.36
+      },
+      {
+        "key": "70d00239912fd5d4d4140a599d0438e679e94e90b47470c5f08b5b34f5a81aa1",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.52
+      },
+      {
+        "key": "59d451be570a540f40175371ca8fce7fbd5e9a8d52aabff8120bb92962f46d08",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.11
+      },
+      {
+        "key": "35d295b506d5279eedfb84973ab8cff6fef80bc8bc585bcd3d66d692358ff440",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.36
+      },
+      {
+        "key": "e8dcb111c03ab506338615e3791daf6e1612b4c2391d2082efa6fc4b7212e01a",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.11
+      },
+      {
+        "key": "053836bb959398d9f5f838b493b851107f3bfd96c452b77b08ed691c6f389ae8",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.49
+      },
+      {
+        "key": "7d71237e2196e1b0bda393b03fe9dc91af0abb32ca2ec5cc7da7ac94ed153c2a",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.04
+      },
+      {
+        "key": "4b9f07965e4287a6c2aa6976a2b64156b1f3b6804d169689aa7b30ebab47ab2a",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.36
+      },
+      {
+        "key": "d64a31ff27ba006ff226335742a3cd93f815048666280cfa5a54f01e990c92b4",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.06
+      },
+      {
+        "key": "91186dcfd6c8e73fded2fab6cb916279d90493c9d30e0a05dfeb3ae9490d2ac3",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.39
+      },
+      {
+        "key": "05176df949a59e6d830401611f2d2541e7b7ce4cb172a6eec8d77d77668d5957",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.4
+      },
+      {
+        "key": "a307b241b92cf9e500860af0c5074e62a4ccba13ac83df40b0b3682e9d190b01",
+        "cached": true,
+        "repaired": false,
+        "seconds": 0.48
+      },
+      {
+        "key": "a6b2fe611b87127fcb2f3dc555783b16ee048c3b5fe59ba3bb17a34226ae03b1",
+        "cached": false,
+        "repaired": false,
+        "seconds": 149.07
+      }
+    ],
+    "synthesis_input": "all_interpretations_and_context_claims"
+  },
+  "warnings": [
+    "Media without transcript: raw/podcast/56/56e4ff11ebf97f38d3cb9490001a9f987de0316e2f81ea6d810668ae611e4955.mp3",
+    "Media without transcript: raw/podcast/5f/5fde578cabafbd496ba2cf5b8be463b1e5f2aa589d39f5e4d1b3e9daa035da1b.mp3",
+    "Media without transcript: raw/podcast/79/799de320b993484f7fe3b3b82cfaaf987a493c9da790091d4f165bbda22abe27.mp3",
+    "Media without transcript: raw/podcast/d5/d5512316e1df4b48dca783ce1841e52897a45b17b2a091fa43c1dd31a7892d27.mp3",
+    "Media without transcript: raw/podcast/e0/e0cc055cc3c87470e684a1942c7f2a34d756303a0f1d9a94334396249ec30ca3.mp3",
+    "Media without transcript: raw/podcast/fe/fe064b47135bf6dfc76c0e8d492a605da755078e936f7f8edf8625ecada88c32.mp3",
+    "Full-export sources were reviewed for identity and attribution; automated review is not independent verification.",
+    "Company relationships are source-reported; founder/adviser roles are not inferred portfolio holdings.",
+    "Multiple pages may repeat one interview or report; source count is not independent corroboration.",
+    "Some publication dates and speaker identities remain unresolved; read coverage.md."
+  ],
+  "input_hashes": {
+    "processed/av_attribution_results.jsonl": "9012a947f36a4281abecd5299af6178aa915b43dbe4692fc232ed6b8f9fedb77",
+    "raw/podcast/09/095ec286f8b104ebd81ea425aa4904aa0837d92146bfca365f9a47262c8b27d1.html": "095ec286f8b104ebd81ea425aa4904aa0837d92146bfca365f9a47262c8b27d1",
+    "raw/podcast/09/095ec286f8b104ebd81ea425aa4904aa0837d92146bfca365f9a47262c8b27d1.html.ae9615e94cfbb49d.metadata.json": "2256f603b0ecff7371e31b394f1a87d75f7cca28549735b94154784edc9a4493",
+    "raw/podcast/87/87213849ccf1963433d2c04ee6c861b0c6ce5a00adc49115f47b0502d29fdc6b.html": "87213849ccf1963433d2c04ee6c861b0c6ce5a00adc49115f47b0502d29fdc6b",
+    "raw/podcast/87/87213849ccf1963433d2c04ee6c861b0c6ce5a00adc49115f47b0502d29fdc6b.html.406e40cba37991ad.metadata.json": "7f72c9f5b758836a89a209be4d9e99fcc270d5b8358cbebc337227f9967a862d",
+    "raw/podcast/ba/baf3a66d5399b2ae2509e1d3473be86ba6c1c0f3f2310926e434282cfa7feef8.html": "baf3a66d5399b2ae2509e1d3473be86ba6c1c0f3f2310926e434282cfa7feef8",
+    "raw/podcast/ba/baf3a66d5399b2ae2509e1d3473be86ba6c1c0f3f2310926e434282cfa7feef8.html.012964e7883ede78.metadata.json": "2897ab9da9f4469cecd1022a5c8e5d32bdcb91d45094524584f3ada760af2cb9",
+    "raw/podcast/c7/c736b6a57207fe2e0b52bd4b4a25703db490b45006177e50f4649ad029ff9343.html": "c736b6a57207fe2e0b52bd4b4a25703db490b45006177e50f4649ad029ff9343",
+    "raw/podcast/c7/c736b6a57207fe2e0b52bd4b4a25703db490b45006177e50f4649ad029ff9343.html.553c3e67f05fceb9.metadata.json": "78aefd9f982c8a2781d8f5f8e8e0607b8403f814b4a37492034e7534e716f0c4",
+    "raw/podcast/d6/d6ef9567e6c41e6ac8eb416138ef80d9397c6abf4fe7374a7fd901858b59fcf2.html": "d6ef9567e6c41e6ac8eb416138ef80d9397c6abf4fe7374a7fd901858b59fcf2",
+    "raw/podcast/d6/d6ef9567e6c41e6ac8eb416138ef80d9397c6abf4fe7374a7fd901858b59fcf2.html.cdb519088313b6cc.metadata.json": "7288994ea13427b34ab3f2aa86db00e9a7f4358262cc2d71d5bc5483a596eb80",
+    "raw/podcast/f3/f309bc9137b5c8c4815d8d84a08df7fe5dfe10070fcdbf00f7186c05a1313aa7.html": "f309bc9137b5c8c4815d8d84a08df7fe5dfe10070fcdbf00f7186c05a1313aa7",
+    "raw/podcast/f3/f309bc9137b5c8c4815d8d84a08df7fe5dfe10070fcdbf00f7186c05a1313aa7.html.36dce2ac3060ce8e.metadata.json": "7711d1379e40abd76765471a642530781e1c350227eb4bf24b83b767ffa46f05",
+    "raw/podcast/f6/f6864c79107406c390b75a19ef0060e2c66893c9789c6f6ac1349b59d1b0c6fb.html": "f6864c79107406c390b75a19ef0060e2c66893c9789c6f6ac1349b59d1b0c6fb",
+    "raw/podcast/f6/f6864c79107406c390b75a19ef0060e2c66893c9789c6f6ac1349b59d1b0c6fb.html.dd610850aee3069e.metadata.json": "0cbe6bbb8a816030212e1153187259f3cc1e7be9fb4bd1a66956ed1a2a3f3872",
+    "raw/podcast/fc/fc276476778a4fd009f6d7e949d4c1658aca20c1f9c90935ea2ce4178b23301e.html": "fc276476778a4fd009f6d7e949d4c1658aca20c1f9c90935ea2ce4178b23301e",
+    "raw/podcast/fc/fc276476778a4fd009f6d7e949d4c1658aca20c1f9c90935ea2ce4178b23301e.html.d5108a5c4817e719.metadata.json": "54937fc0c6e7bffa8c873d9438675dd72dc12d57f3b11ca1c5fb18fce1d24840",
+    "raw/web/0a/0ae3f802f2e9d3be23db7440ff746668f3fd4b5f575251281d92b0e0bb1f9fe8.html": "0ae3f802f2e9d3be23db7440ff746668f3fd4b5f575251281d92b0e0bb1f9fe8",
+    "raw/web/0a/0ae3f802f2e9d3be23db7440ff746668f3fd4b5f575251281d92b0e0bb1f9fe8.html.43a0e1714ab96f1d.metadata.json": "29913a36f8b758936002cb3d2ba9a1e7e1a07587d8b56865c3918431144a805c",
+    "raw/web/13/138d1bdd3245f241c85636ac79430231c76b2bfbfc4cbdbfe9808bc35ff234eb.html": "138d1bdd3245f241c85636ac79430231c76b2bfbfc4cbdbfe9808bc35ff234eb",
+    "raw/web/13/138d1bdd3245f241c85636ac79430231c76b2bfbfc4cbdbfe9808bc35ff234eb.html.53871e381e234b2e.metadata.json": "576635e28ca83acada9872d5702048446824dd753c29d9c53b9676af0ec8eeb4",
+    "raw/web/17/170b946a217c0c32cb01d3baf70329fae8d79f3ef3439d4a798c4de1e8fad82e.html": "170b946a217c0c32cb01d3baf70329fae8d79f3ef3439d4a798c4de1e8fad82e",
+    "raw/web/17/170b946a217c0c32cb01d3baf70329fae8d79f3ef3439d4a798c4de1e8fad82e.html.7a5870aa2d109637.metadata.json": "95d4c7d24ccfb37649957867497987b8caf2150430b7c28eff9ad4c176589a09",
+    "raw/web/19/19792e03fcc65a6d1adc68c712c867a6567b1a2a8bfb293cc7f83a4776bc2afe.html": "19792e03fcc65a6d1adc68c712c867a6567b1a2a8bfb293cc7f83a4776bc2afe",
+    "raw/web/19/19792e03fcc65a6d1adc68c712c867a6567b1a2a8bfb293cc7f83a4776bc2afe.html.8fe2506e55ab4d51.metadata.json": "cc8de5a1f3430337d8f066a839bb93d72ff5d9a0258393f9a2a8db5a9accb391",
+    "raw/web/2f/2fd6751a4c9d1cb12a330dca603a93c7bc245b68088345e4edf5fd5d1b71d635.html": "2fd6751a4c9d1cb12a330dca603a93c7bc245b68088345e4edf5fd5d1b71d635",
+    "raw/web/2f/2fd6751a4c9d1cb12a330dca603a93c7bc245b68088345e4edf5fd5d1b71d635.html.1e5c98a934095329.metadata.json": "30f09dff1b723a21c514de3b70db0870becba395550a9f73d9b090ed1c764853",
+    "raw/web/33/33a627bf59179cbca6a7275a32f9d879bc41dc2f62db2e5a8c9bdd473862073f.html": "61753593833ce6087c481e62b27d9c8f716e0d9750f1e4b9594c75b80abc8239",
+    "raw/web/33/33a627bf59179cbca6a7275a32f9d879bc41dc2f62db2e5a8c9bdd473862073f.html.733208b136befa31.metadata.json": "e5052ab5628d25b3ad3fc3ffbf2c12197c83b057324c6153ec2a674924d29341",
+    "raw/web/51/51eca021349d894775e2ae858a15e21859f1fd7199b6819191757af9d51c1207.html": "51eca021349d894775e2ae858a15e21859f1fd7199b6819191757af9d51c1207",
+    "raw/web/51/51eca021349d894775e2ae858a15e21859f1fd7199b6819191757af9d51c1207.html.ce6e86100958b045.metadata.json": "c1bf53ed702d50cd7f982f79d86589dcf858db65807afb013079f07f7e2dff5e",
+    "raw/web/64/64a7af2c2bc6bcd19a2540e469cd4246049427d35cd4129dc2fd9cc998d137ba.pdf": "64a7af2c2bc6bcd19a2540e469cd4246049427d35cd4129dc2fd9cc998d137ba",
+    "raw/web/64/64a7af2c2bc6bcd19a2540e469cd4246049427d35cd4129dc2fd9cc998d137ba.pdf.fc8e55ef3589f3c8.metadata.json": "71dfb849dc684abecbc471c9e70b63a735c7fe549cae0b19d17bb125d6502f7d",
+    "raw/web/94/94caa60050216f2986b001d634876ebc276fc815287377a9170f88022eade248.html": "94caa60050216f2986b001d634876ebc276fc815287377a9170f88022eade248",
+    "raw/web/94/94caa60050216f2986b001d634876ebc276fc815287377a9170f88022eade248.html.6a0fc8eefa1f782f.metadata.json": "161122624b0b17feb5fe38f90f3efa6bbb6f5be7cef8d0647e83d0a36b5334bf",
+    "raw/web/a1/a1387053f75a5a3e1eeca1375a0cca7c25fe8cae4b08e022af65f6f8aaf5d8c2.html": "a1387053f75a5a3e1eeca1375a0cca7c25fe8cae4b08e022af65f6f8aaf5d8c2",
+    "raw/web/a1/a1387053f75a5a3e1eeca1375a0cca7c25fe8cae4b08e022af65f6f8aaf5d8c2.html.055d383f5c586406.metadata.json": "6e18a97d8a6e903ceee47aba0e5e53ae40da4c353c4c6237826390c490ed3124",
+    "raw/web/a2/a2409aedd73414f346ea3a9de581dc6b3f23fff7cd9239c747a8bb9532803877.html": "a2409aedd73414f346ea3a9de581dc6b3f23fff7cd9239c747a8bb9532803877",
+    "raw/web/a2/a2409aedd73414f346ea3a9de581dc6b3f23fff7cd9239c747a8bb9532803877.html.24751c65cb6ccd9f.metadata.json": "299ca868237090f53bebc4bad2f16cba21d09af06eef9a361104536a189a7666",
+    "raw/web/ce/ce203b82bbbfea5d1301031981f0db97093af5b5e6136c3992df6c762efd918c.html": "ce203b82bbbfea5d1301031981f0db97093af5b5e6136c3992df6c762efd918c",
+    "raw/web/ce/ce203b82bbbfea5d1301031981f0db97093af5b5e6136c3992df6c762efd918c.html.de2b144063485180.metadata.json": "37bb5ae57c9642e2f4b2c667cdeb02b1e4ff0ee960bbce217e8d862c7f64b3e1",
+    "raw/web/e2/e236d56ac25bef3cda444815276666d06811aff9ddf075a6c28e7d2bf35d4c9c.html": "e236d56ac25bef3cda444815276666d06811aff9ddf075a6c28e7d2bf35d4c9c",
+    "raw/web/e2/e236d56ac25bef3cda444815276666d06811aff9ddf075a6c28e7d2bf35d4c9c.html.9064b95f3051f1e2.metadata.json": "31cffac1362e568e8d71a11cded63783c81fd8639c7e959b6f03d0ee5e389c93",
+    "raw/web/f8/f8ca3b048b0f77f7bd9c8ae81e5fdb189d845305aaca0f1b65f619268a0e4295.pdf": "f8ca3b048b0f77f7bd9c8ae81e5fdb189d845305aaca0f1b65f619268a0e4295",
+    "raw/web/f8/f8ca3b048b0f77f7bd9c8ae81e5fdb189d845305aaca0f1b65f619268a0e4295.pdf.df0846d2612565d2.metadata.json": "36579e4b5e5d312db0bdb75395326460cb4689560c34bbcf13f3514c35d4dea6",
+    "raw/web/fe/fe24f198485e98650602b0ff2e22808b5f59bec853aa1b888fba5bd36f7de5ba.html": "fe24f198485e98650602b0ff2e22808b5f59bec853aa1b888fba5bd36f7de5ba",
+    "raw/web/fe/fe24f198485e98650602b0ff2e22808b5f59bec853aa1b888fba5bd36f7de5ba.html.80d1609ed3639e6a.metadata.json": "925a87d3416343557be7073bc37efcfca085ff312aed8d13f8d32a5504333aa5",
+    "raw/web/ff/ffba7a54b8a4137d55353b4cd3067941746ec07c1895295f7fb2bc6c1f986069.html": "ffba7a54b8a4137d55353b4cd3067941746ec07c1895295f7fb2bc6c1f986069",
+    "raw/web/ff/ffba7a54b8a4137d55353b4cd3067941746ec07c1895295f7fb2bc6c1f986069.html.ca4757c713ac6814.metadata.json": "4a8c7305248196eff4d6ce3ea1c6fc0bd5c7b8b2460fba7bd111b2a77177478d",
+    "raw/web/ff/ffd5d8cea7bc3db7c25d3ec408baf65121db2e91db37916ffc8e62ab32eefcbf.html": "ffd5d8cea7bc3db7c25d3ec408baf65121db2e91db37916ffc8e62ab32eefcbf",
+    "raw/web/ff/ffd5d8cea7bc3db7c25d3ec408baf65121db2e91db37916ffc8e62ab32eefcbf.html.b40fc55553222382.metadata.json": "367959c39acabaf7760e9ab1cc6844a1217012c015b3d2c8da9d4801a78757fb"
+  },
+  "source_policy": "full_investor_export",
+  "sources_reviewed": 101,
+  "source_packets_reviewed": 193,
+  "context_count": 327,
+  "files_inventoried": 1000
+}

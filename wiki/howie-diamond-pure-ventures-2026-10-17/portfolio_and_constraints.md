@@ -63,4 +63,3 @@ The relationships below are source-reported and do not constitute a complete, in
 - The Pitch’s three investments are stronger source-reported relationships than generic aggregator listings, but only Teamable is named. The two other episode titles cannot safely be converted into company identities. [ctx:howie-diamond-pure-ventures-0152]
 
 - Patreon is a documented missed opportunity; Gelt Ventures belongs to a future partner’s history; Sloth House is a direct operating role; and Lo-Fi Music, Sparkart, Atlas, Pilea, and Heartwood founder/adviser/operator roles are not themselves venture holdings. [ev:howie-diamond-pure-ventures-0039] [ctx:howie-diamond-pure-ventures-0013] [ctx:howie-diamond-pure-ventures-0059] [ctx:howie-diamond-pure-ventures-0154] [ctx:howie-diamond-pure-ventures-0203]
-

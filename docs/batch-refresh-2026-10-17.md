@@ -87,3 +87,33 @@ Revalidated 28 prior packet decisions and reviewed 139 new or changed packets in
 Validation: `python -m wiki_build check wiki/howie-diamond-pure-ventures-2026-10-17` passed after editorial review. Exact quotes, attribution, source hashes, citation references, ledger consistency and full packet coverage were checked. All three synthesis pages were read; selected claims were checked against receipts and portfolio relationships independently reviewed by a second agent. No engine code changed. Local raw responses, repairs, snapshot provenance and editorial backups remain in the ignored cache. No downstream onboarding bundle or assessment index was rebuilt.
 
 Reproduction: use an absent destination and the saved snapshot, with the applicable original command stored locally at `.wiki-cache/howie-diamond-pure-ventures-2026-10-17/command.json`. Accepted review decisions are in `.wiki-cache/howie-diamond-pure-ventures-2026-10-17/reviews.json`; replay can use `.wiki-cache/howie-diamond-pure-ventures-2026-10-17/inventory.json` intentionally, without applying already-included supplements twice.
+
+<a id="mike-ma-sidecut-ventures"></a>
+
+## Mike Ma
+
+[Wiki](../wiki/mike-ma-sidecut-ventures-2026-10-17/README.md) · [Policy](../wiki/mike-ma-sidecut-ventures-2026-10-17/persona.md) · [Theses](../wiki/mike-ma-sidecut-ventures-2026-10-17/theses.md) · [Portfolio](../wiki/mike-ma-sidecut-ventures-2026-10-17/portfolio_and_constraints.md) · [Coverage](../wiki/mike-ma-sidecut-ventures-2026-10-17/coverage.md)
+
+Snapshot captured **2026-10-17T06:49:20Z** from `/home/dpasch01/vclogic-vc-trace-collector/outputs/mike-ma-sidecut-ventures`. [Previous wiki](../wiki/mike-ma-sidecut-ventures/README.md) unchanged.
+
+| Measure | Count |
+|---|---:|
+| Inventoried files | 1000 |
+| Text sources | 101 |
+| Reviewed packets | 193 |
+| Admitted sources | 46 |
+| Evidence excerpts | 667 |
+| Context facts | 327 |
+
+Packet decisions: {'other': 93, 'target': 97, 'uncertain': 2, 'unusable': 1}. Evidence support: {'explicit': 501, 'inferred': 166}. File dispositions: {'operational_metadata_or_derivative': 684, 'search_discovery_not_collected_evidence': 25, 'source_text_extracted': 51, 'source_text_represented_by_full_transcript': 1, 'media_without_transcript': 6, 'no_visible_text': 2, 'media_represented_by_transcript': 155, 'cached_transcript_represented_by_source': 76}.
+
+**Partial:** 6 media files lack transcripts and 2 packets remain uncertain. The complete census and all review decisions are retained in the wiki.
+
+Sol reused 40 validated prior packet reviews and reviewed 153 new or changed packets in 49 batches. One batch failed its normal speaker-boundary repair; a targeted Sol re-review removed that fragment. Its remaining one-word quote mismatch was corrected to the exact supplied transcription ("You want a check" → "You want to check"), with the full quote and attribution validator passing. Original responses and correction provenance remain cached. Synthesis received 667 evidence interpretations and 327 context facts in 290,727 characters; the complete quote ledgers remain in the output.
+
+Editorial review restored all 15 Sidecut website portfolio examples, the STAG $375,000 SAFE at a $3.3 million post-money cap, the three-deal $580,000 Pitch total, and the PSIA-AASI role. Unnamed website examples remain separate from possible named matches. Personal angel, prior-employer, Sway, LP and Sidecut relationships are distinguished. Unsupported earlier/later wording was removed where dates do not establish a chronology. Structured receipt counts and quotes were unchanged during synthesis review.
+
+
+Validation: `python -m wiki_build check wiki/mike-ma-sidecut-ventures-2026-10-17` passed after editorial review. Exact quotes, attribution, source hashes, citation references, ledger consistency and full packet coverage were checked. All three synthesis pages were read; selected claims were checked against receipts and portfolio relationships independently reviewed by a second agent. No engine code changed. Local raw responses, repairs, snapshot provenance and editorial backups remain in the ignored cache. No downstream onboarding bundle or assessment index was rebuilt.
+
+Reproduction: use an absent destination and the saved snapshot, with the applicable original command stored locally at `.wiki-cache/mike-ma-sidecut-ventures-2026-10-17/command.json`. Accepted review decisions are in `.wiki-cache/mike-ma-sidecut-ventures-2026-10-17/reviews.json`; replay can use `.wiki-cache/mike-ma-sidecut-ventures-2026-10-17/inventory.json` intentionally, without applying already-included supplements twice.
