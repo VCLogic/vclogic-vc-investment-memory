@@ -1,6 +1,6 @@
 # Mac Conwell — October 16, 2026 refresh
 
-[Open the refreshed wiki](../wiki/mac-conwell-2026-10-16/README.md) · [Investment policy](../wiki/mac-conwell-2026-10-16/persona.md) · [Theses](../wiki/mac-conwell-2026-10-16/theses.md) · [Portfolio](../wiki/mac-conwell-2026-10-16/portfolio_and_constraints.md) · [Coverage](../wiki/mac-conwell-2026-10-16/coverage.md)
+[Open the refreshed wiki](../wiki/mac-conwell/README.md) · [Investment policy](../wiki/mac-conwell/persona.md) · [Theses](../wiki/mac-conwell/theses.md) · [Portfolio](../wiki/mac-conwell/portfolio_and_constraints.md) · [Coverage](../wiki/mac-conwell/coverage.md)
 
 Fresh synthesis with `gpt-5.6-sol` from Mac Conwell's updated collector export, with no date cutoff. All 485 earlier packet reviews passed fingerprint and content revalidation; Sol reviewed 607 additional packets in 207 batches. The [earlier wiki](../wiki/_archived/mac-conwell/README.md) remains unchanged.
 
@@ -33,7 +33,7 @@ Final synthesis resumed with the complete validated review ledger:
 
 ```bash
 python -m wiki_build full-build /home/dpasch01/vclogic-vc-trace-collector/outputs/mac-conwell \
-  --output wiki/mac-conwell-2026-10-16 \
+  --output wiki/mac-conwell \
   --cache-dir .wiki-cache/mac-conwell-2026-10-16 \
   --inventory .wiki-cache/mac-conwell-2026-10-16/inventory.json \
   --reviews .wiki-cache/mac-conwell-2026-10-16/reviews.json \

@@ -1,6 +1,6 @@
 # Nicole Verkindt — October 16, 2026 refresh
 
-[Open the wiki](../wiki/nicole-verkindt-2026-10-16/README.md) · [Investment policy](../wiki/nicole-verkindt-2026-10-16/persona.md) · [Portfolio](../wiki/nicole-verkindt-2026-10-16/portfolio_and_constraints.md) · [Coverage](../wiki/nicole-verkindt-2026-10-16/coverage.md)
+[Open the wiki](../wiki/nicole-verkindt/README.md) · [Investment policy](../wiki/nicole-verkindt/persona.md) · [Portfolio](../wiki/nicole-verkindt/portfolio_and_constraints.md) · [Coverage](../wiki/nicole-verkindt/coverage.md)
 
 Generated with `gpt-5.6-sol`, without a date cutoff. The [earlier wiki](../wiki/_archived/nicole-verkindt/README.md) remains unchanged.
 
@@ -52,7 +52,7 @@ Use an absent destination. For a fresh collector export, omit `--inventory` and 
 
 ## Validation and claim review
 
-`python -m wiki_build check wiki/nicole-verkindt-2026-10-16` passed after editorial corrections. Exact quotations, attribution, source hashes, citations, ledger consistency and full packet coverage passed mechanical validation. No engine code changed.
+`python -m wiki_build check wiki/nicole-verkindt` passed after editorial corrections. Exact quotations, attribution, source hashes, citations, ledger consistency and full packet coverage passed mechanical validation. No engine code changed.
 
 One agent read all three synthesis pages and checked selected claims against their receipts; another independently reviewed the portfolio and its continuity with the earlier wiki. This is automated claim review, not human approval or independent verification of every source assertion.
 

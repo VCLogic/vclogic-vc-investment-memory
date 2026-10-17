@@ -1,6 +1,6 @@
 # Beck Bamberger — October 16, 2026 refresh
 
-[Open the refreshed wiki](../wiki/beck-bamberger-bad-ideas-group-2026-10-16/README.md) · [Investment policy](../wiki/beck-bamberger-bad-ideas-group-2026-10-16/persona.md) · [Theses](../wiki/beck-bamberger-bad-ideas-group-2026-10-16/theses.md) · [Portfolio](../wiki/beck-bamberger-bad-ideas-group-2026-10-16/portfolio_and_constraints.md) · [Coverage](../wiki/beck-bamberger-bad-ideas-group-2026-10-16/coverage.md)
+[Open the refreshed wiki](../wiki/beck-bamberger-bad-ideas-group/README.md) · [Investment policy](../wiki/beck-bamberger-bad-ideas-group/persona.md) · [Theses](../wiki/beck-bamberger-bad-ideas-group/theses.md) · [Portfolio](../wiki/beck-bamberger-bad-ideas-group/portfolio_and_constraints.md) · [Coverage](../wiki/beck-bamberger-bad-ideas-group/coverage.md)
 
 Fresh generation with `gpt-5.6-sol` from the updated collector export, with no date cutoff. The [earlier wiki](../wiki/_archived/beck-bamberger-bad-ideas-group/README.md) remains unchanged.
 
@@ -25,7 +25,7 @@ The snapshot contains 163 transcript and 79 web sources. Source counts include o
 
 ```bash
 python -m wiki_build full-build /home/dpasch01/vclogic-vc-trace-collector/outputs/beck-bamberger-bad-ideas-group \
-  --output wiki/beck-bamberger-bad-ideas-group-2026-10-16 \
+  --output wiki/beck-bamberger-bad-ideas-group \
   --cache-dir .wiki-cache/beck-bamberger-2026-10-16 \
   --reviews wiki/_archived/beck-bamberger-bad-ideas-group/source_reviews.json \
   --model gpt-5.6-sol --workers 8 --timeout 1200

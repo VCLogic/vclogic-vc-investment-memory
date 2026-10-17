@@ -1,6 +1,6 @@
 # Sheel Mohnot — October 16, 2026 refresh
 
-[Open the refreshed wiki](../wiki/sheel-mohnot-better-tomorrow-ventures-2026-10-16/README.md) · [Investment policy](../wiki/sheel-mohnot-better-tomorrow-ventures-2026-10-16/persona.md) · [Theses](../wiki/sheel-mohnot-better-tomorrow-ventures-2026-10-16/theses.md) · [Portfolio](../wiki/sheel-mohnot-better-tomorrow-ventures-2026-10-16/portfolio_and_constraints.md) · [Coverage](../wiki/sheel-mohnot-better-tomorrow-ventures-2026-10-16/coverage.md)
+[Open the refreshed wiki](../wiki/sheel-mohnot-better-tomorrow-ventures/README.md) · [Investment policy](../wiki/sheel-mohnot-better-tomorrow-ventures/persona.md) · [Theses](../wiki/sheel-mohnot-better-tomorrow-ventures/theses.md) · [Portfolio](../wiki/sheel-mohnot-better-tomorrow-ventures/portfolio_and_constraints.md) · [Coverage](../wiki/sheel-mohnot-better-tomorrow-ventures/coverage.md)
 
 Fresh synthesis with `gpt-5.6-sol` from the updated collector export, with no date cutoff. All 60 previous packet reviews passed fingerprint and content revalidation; Sol reviewed the additional 802 packets in 249 batches. The [earlier wiki](../wiki/_archived/sheel-mohnot-better-tomorrow-ventures/README.md) remains unchanged.
 
@@ -33,7 +33,7 @@ The synthesis resume command was:
 
 ```bash
 python -m wiki_build full-build /home/dpasch01/vclogic-vc-trace-collector/outputs/sheel-mohnot-better-tomorrow-ventures \
-  --output wiki/sheel-mohnot-better-tomorrow-ventures-2026-10-16 \
+  --output wiki/sheel-mohnot-better-tomorrow-ventures \
   --cache-dir .wiki-cache/sheel-mohnot-2026-10-16 \
   --reviews .wiki-cache/sheel-mohnot-2026-10-16/reviews.json \
   --inventory .wiki-cache/sheel-mohnot-2026-10-16/inventory.json \

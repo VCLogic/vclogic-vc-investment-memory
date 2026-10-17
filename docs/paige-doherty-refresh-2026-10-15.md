@@ -1,6 +1,6 @@
 # Paige Doherty — October 15, 2026 refresh
 
-[Open the refreshed wiki](../wiki/paige-doherty-behind-genius-ventures-2026-10-15/README.md) · [Investment policy](../wiki/paige-doherty-behind-genius-ventures-2026-10-15/persona.md) · [Theses](../wiki/paige-doherty-behind-genius-ventures-2026-10-15/theses.md) · [Portfolio](../wiki/paige-doherty-behind-genius-ventures-2026-10-15/portfolio_and_constraints.md) · [Coverage](../wiki/paige-doherty-behind-genius-ventures-2026-10-15/coverage.md)
+[Open the refreshed wiki](../wiki/paige-doherty-behind-genius-ventures/README.md) · [Investment policy](../wiki/paige-doherty-behind-genius-ventures/persona.md) · [Theses](../wiki/paige-doherty-behind-genius-ventures/theses.md) · [Portfolio](../wiki/paige-doherty-behind-genius-ventures/portfolio_and_constraints.md) · [Coverage](../wiki/paige-doherty-behind-genius-ventures/coverage.md)
 
 This is a fresh synthesis with `gpt-5.6-sol` from the updated Paige Doherty collector export. All 87 previous packet reviews passed fingerprint and content revalidation; Sol reviewed the additional 372 packets in 26 batches. No date cutoff was applied. The [earlier wiki](../wiki/_archived/paige-doherty-behind-genius-ventures/README.md) remains unchanged.
 
@@ -47,7 +47,7 @@ The run used this command from the investment-memory checkout:
 
 ```bash
 python -m wiki_build full-build /home/dpasch01/vclogic-vc-trace-collector/outputs/paige-doherty-behind-genius-ventures \
-  --output wiki/paige-doherty-behind-genius-ventures-2026-10-15 \
+  --output wiki/paige-doherty-behind-genius-ventures \
   --cache-dir .wiki-cache/paige-doherty-2026-10-15 \
   --reviews wiki/_archived/paige-doherty-behind-genius-ventures/source_reviews.json \
   --model gpt-5.6-sol --workers 4 --timeout 1200
