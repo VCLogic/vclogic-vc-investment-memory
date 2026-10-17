@@ -59,3 +59,31 @@ Revalidated 504 prior packet decisions and reviewed 145 new or changed packets i
 Validation: `python -m wiki_build check wiki/michael-hyatt-2026-10-17` passed after editorial review. Exact quotes, attribution, source hashes, citation references, ledger consistency and full packet coverage were checked. All three synthesis pages were read; selected claims were checked against receipts and portfolio relationships independently reviewed by a second agent. No engine code changed. Local raw responses, repairs, snapshot provenance and editorial backups remain in the ignored cache. No downstream onboarding bundle or assessment index was rebuilt.
 
 Reproduction: use an absent destination and the saved snapshot, with the applicable original command stored locally at `.wiki-cache/michael-hyatt-2026-10-17/command.json`. Accepted review decisions are in `.wiki-cache/michael-hyatt-2026-10-17/reviews.json`; replay can use `.wiki-cache/michael-hyatt-2026-10-17/inventory.json` intentionally, without applying already-included supplements twice.
+
+<a id="howie-diamond-pure-ventures"></a>
+
+## Howie Diamond
+
+[Wiki](../wiki/howie-diamond-pure-ventures-2026-10-17/README.md) · [Policy](../wiki/howie-diamond-pure-ventures-2026-10-17/persona.md) · [Theses](../wiki/howie-diamond-pure-ventures-2026-10-17/theses.md) · [Portfolio](../wiki/howie-diamond-pure-ventures-2026-10-17/portfolio_and_constraints.md) · [Coverage](../wiki/howie-diamond-pure-ventures-2026-10-17/coverage.md)
+
+Snapshot captured **2026-10-17T06:41:35Z** from `/home/dpasch01/vclogic-vc-trace-collector/outputs/howie-diamond-pure-ventures`. [Previous wiki](../wiki/howie-diamond-pure-ventures/README.md) unchanged.
+
+| Measure | Count |
+|---|---:|
+| Inventoried files | 675 |
+| Text sources | 113 |
+| Reviewed packets | 167 |
+| Admitted sources | 38 |
+| Evidence excerpts | 198 |
+| Context facts | 213 |
+
+Packet decisions: {'other': 61, 'target': 50, 'uncertain': 47, 'unusable': 9}. Evidence support: {'explicit': 136, 'inferred': 62}. File dispositions: {'operational_metadata_or_derivative': 437, 'search_discovery_not_collected_evidence': 31, 'source_text_extracted': 57, 'source_text_represented_by_full_transcript': 1, 'media_without_transcript': 2, 'media_represented_by_transcript': 98, 'reference_voice_sample': 1, 'cached_transcript_represented_by_source': 48}.
+
+**Partial:** 2 media files lack transcripts and 47 packets remain uncertain. The complete census and all review decisions are retained in the wiki.
+
+Revalidated 28 prior packet decisions and reviewed 139 new or changed packets in 30 batches. All passed, including bounded quote repairs; synthesis received all 198 excerpts and 213 context facts with full receipts (217,988 characters). Read the three synthesis pages and retained the distinct consumer/frontier evidence thresholds, differing ownership targets and historical fund parameters. Portfolio review preserved all three Pitch transactions, primary versus aggregator attribution, Oats Overnight and Twelve disclosures, and separate founder-support roles. Qualified uncertain transcript company/founder names in structured context and prose; retained the Patreon account as a missed investment; removed an irrelevant BlueCat reference.
+
+
+Validation: `python -m wiki_build check wiki/howie-diamond-pure-ventures-2026-10-17` passed after editorial review. Exact quotes, attribution, source hashes, citation references, ledger consistency and full packet coverage were checked. All three synthesis pages were read; selected claims were checked against receipts and portfolio relationships independently reviewed by a second agent. No engine code changed. Local raw responses, repairs, snapshot provenance and editorial backups remain in the ignored cache. No downstream onboarding bundle or assessment index was rebuilt.
+
+Reproduction: use an absent destination and the saved snapshot, with the applicable original command stored locally at `.wiki-cache/howie-diamond-pure-ventures-2026-10-17/command.json`. Accepted review decisions are in `.wiki-cache/howie-diamond-pure-ventures-2026-10-17/reviews.json`; replay can use `.wiki-cache/howie-diamond-pure-ventures-2026-10-17/inventory.json` intentionally, without applying already-included supplements twice.
