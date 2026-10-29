@@ -5,7 +5,7 @@ description: Use when asked to generate, rebuild, resume, or validate an investo
 
 # Investor investment memory
 
-Turn the supplied investor collection into a complete, cited Markdown investment memory using this repository's Python pipeline and **gpt-5.6-sol**. The calling harness orchestrates the work; the generator backend is the authenticated Codex CLI, even when the harness is Claude Code.
+Turn the supplied investor collection into a complete, cited Markdown investment memory using this repository's Python pipeline and the user's chosen local CLI (Codex or Claude Code). The Python pipeline invokes the selected CLI directly; it does not wrap generation in a second agent.
 
 ## Scope and defaults
 
@@ -23,7 +23,8 @@ Read the engine's `README.md` and `wiki_build/README.md`; run commands from that
 
 - Python 3.10+ and the full dependency set. Prefer a project virtual environment; install with `python -m pip install -e '.[full]'` if needed.
 - The input is one collector export, with `identity/resolved_identity.json` confirming the identity and matching the folder slug. Do not manufacture confirmation from a name. Report missing identity information and ask for the actual identity resolution when necessary.
-- `codex` exists and is authenticated, with support for the generator's `exec`, `--ignore-user-config`, and `--output-schema` flags. Check CLI help/status without exposing credentials. Missing authentication blocks generation, not offline inventory or validation. Report that prerequisite; do not silently substitute the calling model or handwrite a replacement wiki.
+- Run `python -m wiki_build harnesses --json` to discover installed CLIs without model calls. If both are installed and no preference was provided, ask the user to choose Codex or Claude Code. If one is installed, state which will be used. If neither is installed, report an installed and authenticated Codex CLI or Claude Code as a requirement; offline inventory and validation remain available. Do not install or authenticate on the user's behalf.
+- Pass the choice explicitly with `--harness codex` or `--harness claude` because harness-driven shell calls are usually non-interactive. The engine checks required CLI flags; installation does not establish authentication or model access. Codex defaults to `gpt-5.6-sol`; Claude defaults to `sonnet`. Preserve an explicit model preference or explain incompatibility instead of silently switching models/providers. Do not handwrite a replacement wiki.
 
 Raw `data/` is ignored by Git and must be supplied separately. Only fictional test fixtures are committed; they are not investor inputs.
 
@@ -38,12 +39,12 @@ python -m wiki_build inventory /path/to/collector/investor-slug \
 python -m wiki_build full-build /path/to/collector/investor-slug \
   --output wiki/investor-slug-new \
   --cache-dir .wiki-cache/investor-slug \
-  --model gpt-5.6-sol
+  --harness codex
 
 python -m wiki_build check wiki/investor-slug-new
 ```
 
-Substitute actual paths and quote shell arguments, especially those containing spaces. The inventory output must also be absent. Read its file dispositions and warnings, not just the source count. Inspect the full-build help for current supported options rather than guessing flags.
+The example selects Codex; use `--harness claude` when that is the user's choice. Substitute actual paths and quote shell arguments, especially those containing spaces. The inventory output must also be absent. Read its file dispositions and warnings, not just the source count. Inspect the full-build help for current supported options rather than guessing flags.
 
 Use supplied transcript supplements or identity resolutions only when they belong to this investor and match this export. Read [references/operations.md](references/operations.md) for export-specific supplements, missing material, resume commands, and cache behavior.
 

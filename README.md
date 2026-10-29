@@ -56,7 +56,7 @@ The onboarding repository's current **GitHub name contains `inverstor`**, while 
 git clone https://github.com/VCLogic/vclogic-vc-inverstor-onboarding.git vclogic-vc-investor-onboarding
 ```
 
-A generated wiki is the handoff to onboarding, not yet an indexed assessment bundle. After generating and checking it here, follow the [onboarding workflow](https://github.com/VCLogic/vclogic-vc-inverstor-onboarding#readme) to prepare/check a bundle and install it into the assessment workspace. Then follow the [assessment setup](https://github.com/VCLogic/vclogic-vc-agentic-assessment#readme) and, if needed, the [web application setup](https://github.com/VCLogic/vclogic-web-application#readme). Each repository manages its own environment and credentials; this repository's Sol/Codex setup does not configure downstream model providers.
+A generated wiki is the handoff to onboarding, not yet an indexed assessment bundle. After generating and checking it here, follow the [onboarding workflow](https://github.com/VCLogic/vclogic-vc-inverstor-onboarding#readme) to prepare/check a bundle and install it into the assessment workspace. Then follow the [assessment setup](https://github.com/VCLogic/vclogic-vc-agentic-assessment#readme) and, if needed, the [web application setup](https://github.com/VCLogic/vclogic-web-application#readme). Each repository manages its own environment and credentials; this repository's generation CLI setup does not configure downstream model providers.
 
 ## What you need
 
@@ -65,9 +65,30 @@ A generated wiki is the handoff to onboarding, not yet an indexed assessment bun
 | An investor export from [vc-trace-collector](https://github.com/VCLogic/vclogic-vc-trace-collector) | Input source material and resolved identity |
 | Python 3.10+ | Run this repository’s preparation and validation tools |
 | This package with its `full` dependencies | Extract saved HTML/PDF and transcript content |
-| An installed, authenticated Codex CLI with access to `gpt-5.6-sol` | Generate the source reviews and wiki pages |
+| An installed, authenticated Codex CLI or Claude Code CLI with model access | Generate source reviews and wiki pages |
 
-Claude Code or Codex can orchestrate the workflow through the included skill. **Both use the Codex CLI for Sol generation**; Claude authentication alone does not provide that backend. The CLI must support `exec`, `--ignore-user-config`, and `--output-schema`.
+The generator invokes your selected CLI directly. Codex defaults to `gpt-5.6-sol`; Claude Code defaults to `sonnet`. Override the model with `--model` using a model supported by the chosen backend. The calling suite does not need another agent layer.
+
+### Choose your local generation harness
+
+```bash
+# Offline discovery: checks executables on PATH, makes no model calls.
+investor-memory harnesses
+investor-memory harnesses --json
+
+# In an interactive terminal, ask which installed harness to use.
+investor-memory full-build /path/to/investor-slug --output wiki/investor-slug-new
+
+# For scripts or a calling suite, pass the user's selection explicitly.
+investor-memory full-build /path/to/investor-slug --output wiki/investor-slug-new --harness codex
+investor-memory full-build /path/to/investor-slug --output wiki/investor-slug-new --harness claude --model sonnet
+```
+
+`--harness auto` is the default. With both installed, a terminal prompts for a preference; a non-interactive run stops and requests an explicit `--harness`. With one installed, it selects that CLI and reports the selection. With neither, generation stops with an installation/authentication requirement. An explicitly requested missing CLI never silently falls back to the other one.
+
+For a suite UI, read `harnesses --json`, present entries whose `installed` value is true, then pass the selection to `full-build --harness ...`. No harness returns discovery exit code 1 with a valid JSON result. Discovery does not prove authentication or model access; the selected CLI's required flags are checked before processing sources, and invocation errors point to local logs. Install/authenticate the selected tool using the [Codex setup](https://developers.openai.com/codex/cli/) or [Claude Code setup](https://code.claude.com/docs/en/setup). Inventory, preparation and validation remain available without either tool.
+
+Claude uses the [documented structured print output](https://code.claude.com/docs/en/headless) in an isolated temporary directory, with tools disabled, strict MCP configuration, safe mode and session persistence disabled. A CLI release lacking the required flags must be updated. The generator never installs tools, logs in, switches providers after a failure or makes a paid discovery probe. Local caches contain source material and remain ignored by Git.
 
 ## 1. Install this repository
 
@@ -128,10 +149,11 @@ Run from this repository. Replace the example input path with your collector exp
 # Inspect available material; no model calls.
 python -m wiki_build inventory ../vclogic-vc-trace-collector/outputs/investor-slug
 
-# Generate with Sol. The output directory must not already exist.
+# Generate with the selected CLI. The output directory must not already exist.
 python -m wiki_build full-build ../vclogic-vc-trace-collector/outputs/investor-slug \
   --output wiki/investor-slug-new \
-  --cache-dir .wiki-cache/investor-slug
+  --cache-dir .wiki-cache/investor-slug \
+  --harness codex
 
 # Check the generated result offline.
 python -m wiki_build check wiki/investor-slug-new
@@ -162,7 +184,7 @@ The portfolio is a cited relationship inventory, not an independently verified r
 
 ## Operations and development
 
-Model calls are cached. Keep the cache after an interruption and rerun the same command to reuse accepted work. Inventory and validation are offline; generation sends source text to Sol through the authenticated CLI. Generated snapshots also contain source text.
+Model calls are cached. Keep the cache after an interruption and rerun the same command to reuse accepted work. Inventory and validation are offline; generation sends source text through the selected authenticated CLI to its model provider. Generated snapshots also contain source text.
 
 - [Resume runs, use supplements, and handle missing material](.agents/skills/investor-memory/references/operations.md)
 - [Pipeline components and developer entry points](wiki_build/README.md)

@@ -170,7 +170,7 @@ def full_build(inv,reviews,output,generator):
     synthesis,policies=finish_synthesis(synthesis,entries,context,inv['vc_slug'])
     output.parent.mkdir(parents=True,exist_ok=True)
     stage=Path(tempfile.mkdtemp(prefix=f'.{output.name}-build-',dir=output.parent))/'wiki'
-    render(stage,prepared,entries,synthesis,{'model':generator.model,'revision':'full-export-v2','calls':generator.calls,'synthesis_input':input_mode},policies=policies)
+    render(stage,prepared,entries,synthesis,{'model':generator.model,'revision':'full-export-v2','harness':getattr(generator,'harness','codex'),'calls':generator.calls,'synthesis_input':input_mode},policies=policies)
     write_json(stage/'context.json',context);(stage/'context.md').write_text(context_page(context))
     write_json(stage/'inventory.json',inv);write_json(stage/'source_reviews.json',reviews)
     coverage=coverage_data(inv,reviews);write_json(stage/'coverage.json',coverage)

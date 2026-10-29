@@ -58,14 +58,19 @@ def finish_synthesis(result, entries, context, slug):
     return synthesis, policies
 
 
-class SolGenerator:
-    def __init__(self, cache_dir, model=MODEL, timeout=900):
+class HarnessGenerator:
+    def __init__(self, cache_dir, model=None, timeout=900, harness="codex"):
+        if harness not in ("codex", "claude"):
+            raise ValueError("Unsupported generation harness: " + harness)
+        self.harness = harness
+        model = model or (MODEL if harness == "codex" else "sonnet")
         self.cache_dir = Path(cache_dir).resolve()
         self.cache_dir.mkdir(parents=True, exist_ok=True)
         self.model, self.timeout, self.calls = model, timeout, []
 
     def call(self, prompt, schema, check=None):
-        key = digest(json.dumps([REVISION, self.model, prompt, schema], sort_keys=True))
+        cache_revision = REVISION if self.harness == "codex" else REVISION + ":claude-v1"
+        key = digest(json.dumps([cache_revision, self.model, prompt, schema], sort_keys=True))
         directory = self.cache_dir / key
         directory.mkdir(exist_ok=True)
         response_path = directory / 'response.json'
@@ -113,9 +118,13 @@ class SolGenerator:
                    '-c', 'model_reasoning_effort="medium"',
                    '--output-schema', str(directory / 'schema.json'),
                    '--output-last-message', str(directory / 'raw-response.json'), '-']
-        write_json(directory / 'invocation.json', {'command': command, 'model': self.model})
+        if self.harness == 'claude':
+            command = ['claude', '--print', '--model', self.model, '--output-format', 'json',
+                       '--json-schema', json.dumps(schema), '--tools', '', '--safe-mode',
+                       '--strict-mcp-config', '--disable-slash-commands', '--no-session-persistence']
+        write_json(directory / 'invocation.json', {'command': command, 'model': self.model, 'harness': self.harness})
         # Isolated cwd contains no project source; prompt supplies all inputs.
-        with tempfile.TemporaryDirectory(prefix='investor-memory-sol-') as cwd:
+        with tempfile.TemporaryDirectory(prefix='investor-memory-harness-') as cwd:
             with (directory / 'events.jsonl').open('w') as stdout, (directory / 'stderr.log').open('w') as stderr:
                 proc = subprocess.Popen(command, stdin=subprocess.PIPE, stdout=stdout, stderr=stderr,
                                         text=True, cwd=cwd, start_new_session=True)
@@ -124,13 +133,25 @@ class SolGenerator:
                 except subprocess.TimeoutExpired as exc:
                     os.killpg(proc.pid, signal.SIGKILL)
                     proc.communicate()
-                    raise RuntimeError(f'Sol timed out after {self.timeout}s; see {directory}') from exc
+                    raise RuntimeError(f'{self.harness} timed out after {self.timeout}s; see {directory}') from exc
         if proc.returncode:
-            raise RuntimeError(f'Sol exited {proc.returncode}; see {directory}/stderr.log and events.jsonl')
+            raise RuntimeError(f'{self.harness} exited {proc.returncode}; verify CLI authentication and model access; see {directory}/stderr.log and events.jsonl')
+        if self.harness == 'claude':
+            try:
+                envelope = json.loads((directory / 'events.jsonl').read_text(encoding='utf-8'))
+                if not isinstance(envelope, dict) or envelope.get('is_error') or not isinstance(envelope.get('structured_output'), dict):
+                    raise ValueError('missing successful structured output')
+                write_json(directory / 'raw-response.json', envelope['structured_output'])
+            except (OSError, ValueError) as exc:
+                raise ValueError(f'Claude Code did not return successful structured JSON; check authentication/model access and {directory}/events.jsonl') from exc
         try:
             return json.loads((directory / 'raw-response.json').read_text(encoding='utf-8'))
         except (OSError, ValueError) as exc:
-            raise ValueError(f'Sol did not return valid JSON; see {directory}') from exc
+            raise ValueError(f'{self.harness} did not return valid JSON; see {directory}') from exc
+
+
+# Preserve the original programmatic API and Codex cache keys.
+SolGenerator = HarnessGenerator
 
 
 def chunks(documents, limit=BATCH_CHARS):
@@ -204,7 +225,7 @@ def build(prepared, output, generator, batch_chars=BATCH_CHARS):
     # Retain failed staging artifact for diagnosis, never expose it as the requested wiki.
     stage = Path(tempfile.mkdtemp(prefix=f'.{output.name}-build-', dir=output.parent)) / 'wiki'
     render(stage, prepared, entries, synthesis, {'model': generator.model,
-           'revision': REVISION, 'calls': generator.calls, 'source_chunks': len(parts)}, policies=policies)
+           'revision': REVISION, 'harness': getattr(generator, 'harness', 'codex'), 'calls': generator.calls, 'source_chunks': len(parts)}, policies=policies)
     errors = validate(stage)
     write_json(stage / 'validation.json', {'valid': not errors, 'errors': errors})
     if errors:

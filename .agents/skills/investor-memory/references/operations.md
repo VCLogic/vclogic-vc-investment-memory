@@ -14,7 +14,7 @@ A raw `inventory` command does not apply these supplements. Read the supplemente
 
 ## Failure and resumption
 
-Accepted model batches are cached; a rejected response receives one bounded Sol repair attempt. Keep the cache on failure. Inspect the reported directory's response, prompt, validation feedback, event log, and stderr to distinguish quote errors from unavailable models, authentication, timeouts, or malformed input. Do not print credentials or dump the entire corpus into the user-facing report.
+Accepted model batches are cached; a rejected response receives one bounded repair attempt using the selected harness. Keep the cache on failure. Inspect the reported directory's response, prompt, validation feedback, event log, and stderr to distinguish quote errors from unavailable models, authentication, timeouts, or malformed input. Do not print credentials or dump the entire corpus into the user-facing report.
 
 An identical rerun reuses accepted calls. When a transient failure is resolved, rerun the original command. Increase `--timeout` for demonstrated timeouts if appropriate; do not endlessly retry an unchanged deterministic failure. If two unchanged retries fail for the same reason, diagnose and fix the cause or report the specific blocker.
 
@@ -25,10 +25,10 @@ python -m wiki_build full-build /path/to/collector/investor-slug \
   --output wiki/investor-slug-resumed \
   --cache-dir .wiki-cache/investor-slug \
   --reviews .wiki-cache/investor-slug/reviews.json \
-  --model gpt-5.6-sol
+  --harness codex
 ```
 
-Retain the same applicable supplement and identity-resolution arguments. Reviews are revalidated and reused only when their identity, packet metadata/text, taxonomy, and review-policy fingerprints match. Do not rewrite fingerprints to make old decisions appear current. If only some batches succeeded, consolidated `reviews.json` may not exist; rerun using the cache rather than inventing that file or discarding accepted work.
+Use the originally selected harness/model when resuming; the example uses Codex. Codex and Claude response caches are separate. Retain the same applicable supplement and identity-resolution arguments. Reviews are revalidated and reused only when their identity, packet metadata/text, taxonomy, and review-policy fingerprints match. Do not rewrite fingerprints to make old decisions appear current. If only some batches succeeded, consolidated `reviews.json` may not exist; rerun using the cache rather than inventing that file or discarding accepted work.
 
 `--inventory snapshot.json` deliberately reuses a saved snapshot instead of rescanning the input. Use it only for an intentional snapshot replay after establishing which material it represents. For a changed collection, rescan. Do not call an old snapshot a complete review of newly supplied files.
 

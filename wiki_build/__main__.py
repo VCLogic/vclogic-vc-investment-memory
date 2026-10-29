@@ -4,23 +4,25 @@ import json
 import sys
 from pathlib import Path
 
-from .config import MODEL, BATCH_CHARS
+from .config import BATCH_CHARS
 from .prep_corpus import prepare
-from .generator import SolGenerator, build
+from .generator import HarnessGenerator, build
+from .harnesses import discover, select_harness, check_compatibility
 from .check_wiki import validate
 
 
 def main():
-    parser = argparse.ArgumentParser(description='Build a cited investor investment memory with Sol')
+    parser = argparse.ArgumentParser(description='Build a cited investor investment memory with a local generation harness')
     commands = parser.add_subparsers(dest='command', required=True)
     prep = commands.add_parser('prepare', help='inspect curated sources without calling a model')
     prep.add_argument('investor_dir', type=Path)
     prep.add_argument('--output', type=Path)
-    run = commands.add_parser('build', help='prepare, generate with Sol, validate, publish')
+    run = commands.add_parser('build', help='prepare, generate with a local harness, validate, publish')
     run.add_argument('investor_dir', type=Path)
     run.add_argument('--output', type=Path, required=True)
     run.add_argument('--cache-dir', type=Path, default=Path('.wiki-cache'))
-    run.add_argument('--model', default=MODEL)
+    run.add_argument('--model', help='Backend model; defaults to gpt-5.6-sol for Codex or sonnet for Claude')
+    run.add_argument('--harness', choices=('auto', 'codex', 'claude'), default='auto')
     run.add_argument('--timeout', type=int, default=900, help='seconds per model call')
     run.add_argument('--batch-chars', type=int, default=BATCH_CHARS)
     inventory_parser = commands.add_parser('inventory', help='inventory all collected material without model calls')
@@ -30,7 +32,8 @@ def main():
     full.add_argument('investor_dir', type=Path)
     full.add_argument('--output', type=Path, required=True)
     full.add_argument('--cache-dir', type=Path, default=Path('.wiki-cache/full-review'))
-    full.add_argument('--model', default=MODEL)
+    full.add_argument('--model', help='Backend model; defaults to gpt-5.6-sol for Codex or sonnet for Claude')
+    full.add_argument('--harness', choices=('auto', 'codex', 'claude'), default='auto')
     full.add_argument('--timeout', type=int, default=1200)
     full.add_argument('--workers', type=int, default=3)
     full.add_argument('--reviews', type=Path, help='revalidate and reuse prior source reviews')
@@ -39,8 +42,20 @@ def main():
     full.add_argument('--supplements', type=Path, help='additional recovered transcript sources')
     check = commands.add_parser('check', help='validate an existing generated wiki offline')
     check.add_argument('wiki_dir', type=Path)
+    harnesses = commands.add_parser('harnesses', help='detect installed generation CLIs without model calls')
+    harnesses.add_argument('--json', action='store_true', help='machine-readable discovery for calling suites')
     args = parser.parse_args()
     try:
+        if args.command == 'harnesses':
+            installed = discover()
+            if args.json:
+                print(json.dumps({'harnesses': [{'name': name, 'path': path, 'installed': bool(path)} for name, path in installed.items()],
+                                  'authentication': 'not_checked', 'compatibility': 'checked_when_selected'}, indent=2))
+            else:
+                for name, path in installed.items():
+                    print(f'{name}: {path or "not installed"}')
+                print('Generation requires an installed, authenticated CLI with compatible flags and model access.')
+            return 0 if any(installed.values()) else 1
         if args.command == 'check':
             errors = validate(args.wiki_dir)
             print(json.dumps({'valid': not errors, 'errors': errors}, indent=2))
@@ -59,6 +74,10 @@ def main():
                 raise ValueError('Cache must be outside the output directory')
             if args.timeout <= 0:
                 raise ValueError('Timeout must be positive')
+            selected = select_harness(args.harness)
+            check_compatibility(selected)
+            generator = HarnessGenerator(args.cache_dir, args.model, args.timeout, harness=selected)
+            print(f'Generation harness: {selected}; model: {generator.model}. Authentication/model access checked at invocation.', file=sys.stderr)
         if args.command in ('inventory', 'full-build'):
             from .inventory import inventory, apply_supplements, apply_resolutions
             from .full_review import review_all
@@ -77,7 +96,6 @@ def main():
                 print(json.dumps({'files':len(inv['files']), 'sources':len(inv['sources']), 'characters':sum(len(s['text']) for s in inv['sources']), 'warnings':inv['warnings']}, indent=2))
                 return 0
             if not 1 <= args.workers <= 8: raise ValueError('Workers must be between 1 and 8')
-            generator = SolGenerator(args.cache_dir, args.model, args.timeout)
             write_json(args.cache_dir / 'inventory.json', inv)
             prior=json.loads(args.reviews.read_text()) if args.reviews else []
             if isinstance(prior,dict): prior=prior['reviews']
@@ -95,7 +113,6 @@ def main():
                            portfolio_records=len(prepared['portfolio']))
             print(json.dumps(summary, indent=2))
         else:
-            generator = SolGenerator(args.cache_dir, args.model, args.timeout)
             print(build(prepared, args.output, generator, args.batch_chars))
         return 0
     except (ValueError, OSError, RuntimeError) as exc:

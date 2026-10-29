@@ -128,7 +128,7 @@ def review_all(inv, generator, workers=3, batch_chars=60000, existing_reviews=No
         errors = review_errors(response,group)
         if errors: raise ValueError('; '.join(errors))
         return response['reviews']
-    print(f'Reviewing {len(inv["sources"])} sources / {len(packets)} packets: {len(known)} revalidated prior reviews; {len(batches)} pending batches using {workers} Sol workers',flush=True)
+    print(f'Reviewing {len(inv["sources"])} sources / {len(packets)} packets: {len(known)} revalidated prior reviews; {len(batches)} pending batches using {workers} generation workers',flush=True)
     with ThreadPoolExecutor(max_workers=workers) as pool:
         pending = {pool.submit(run,i,group):i for i,group in enumerate(batches)}
         for future in as_completed(pending):
