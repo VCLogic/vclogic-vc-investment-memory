@@ -3,7 +3,7 @@ from pathlib import Path
 from wiki_build.full_build import assemble, full_build
 from wiki_build.check_wiki import validate
 from wiki_build.prep_corpus import digest
-from test_check_wiki import synthesis
+from test_policies import new_synthesis as synthesis
 
 
 class FullBuildTests(unittest.TestCase):

@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.0",
+  "policies": [
+    {
+      "statement": "Values founders who keep their promises.",
+      "taxonomy_labels": [
+        "founder_qualities"
+      ],
+      "type": "preference",
+      "decision_effect": "supports_investment",
+      "support": "explicit",
+      "evidence_refs": [
+        "ev:test-0001"
+      ],
+      "applicability": {
+        "investor": {
+          "status": "not_stated",
+          "value": "not_stated"
+        },
+        "vehicle": {
+          "status": "not_stated",
+          "value": "not_stated"
+        },
+        "period": {
+          "status": "not_stated",
+          "value": "not_stated"
+        },
+        "stage": {
+          "status": "not_stated",
+          "value": "not_stated"
+        },
+        "sector": {
+          "status": "not_stated",
+          "value": "not_stated"
+        },
+        "geography": {
+          "status": "not_stated",
+          "value": "not_stated"
+        },
+        "decision_setting": {
+          "status": "not_stated",
+          "value": "not_stated"
+        }
+      },
+      "preconditions": [],
+      "applicability_evidence_needed": "Evidence of founder reliability; investor vehicle and period remain unestablished.",
+      "missing_information_effect": "unresolved",
+      "exceptions_status": "not_stated",
+      "exceptions": [],
+      "uncertainty": "The source does not establish a requirement or a rejection rule.",
+      "conflicting_evidence_refs": [],
+      "unresolved_applicability": [
+        "investor",
+        "vehicle",
+        "period",
+        "stage",
+        "sector",
+        "geography",
+        "decision_setting"
+      ],
+      "id": "pol-3a37569b759a7913d7c3cc65"
+    }
+  ],
+  "relationships": [],
+  "limitations": "Fictional example for contract testing only. No real investor or investment is represented. Priorities and applicability remain unestablished.",
+  "investor_slug": "test"
+}

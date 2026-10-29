@@ -1,0 +1,28 @@
+{
+  "fictional": true,
+  "vc_slug": "test",
+  "identity": {
+    "canonical_name": "Fictional Test Investor"
+  },
+  "document": {
+    "doc_id": "source:one",
+    "text": "I value founders who keep their promises.",
+    "sha256": "52db3aa5a80766c608b4919634dbd77b56639135e9eb9e83b42349cd572964aa",
+    "url": "https://example.com",
+    "title": "Interview",
+    "published_at": null,
+    "input_path": "corpus/all_documents.jsonl",
+    "input_line": 1
+  },
+  "evidence": [
+    {
+      "id": "test-0001",
+      "source": "source:one",
+      "quote": "I value founders who keep their promises.",
+      "label": "founder_qualities",
+      "direction": "positive",
+      "support": "explicit",
+      "interpretation": "Value reliable founders."
+    }
+  ]
+}

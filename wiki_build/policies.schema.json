@@ -1,0 +1,907 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "enum": [
+        "1.0"
+      ]
+    },
+    "investor_slug": {
+      "type": "string",
+      "minLength": 1
+    },
+    "policies": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "statement": {
+            "type": "string",
+            "minLength": 1
+          },
+          "taxonomy_labels": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "business_model_assessment",
+                "business_viability_concern",
+                "capital_intensity_concern",
+                "competitive_advantage_assessment",
+                "competitive_intensity_concern",
+                "competitive_landscape_inertia",
+                "deal_terms_complexity_concern",
+                "decision_context_constraint",
+                "dilution_concern",
+                "execution_risk_assessment",
+                "founder_equity_incentive_alignment",
+                "founder_execution",
+                "founder_market_fit",
+                "founder_qualities",
+                "founder_skillset",
+                "fund_economics_constraint",
+                "fundraising_demand_signal",
+                "growth_projection_risk",
+                "investment_thesis_constraint",
+                "investment_upside_assessment",
+                "investor_domain_knowledge_constraint",
+                "investor_experience_bias",
+                "market_entry_path_assessment",
+                "market_problem_validation",
+                "market_size_assessment",
+                "market_timing",
+                "mission_alignment_preference",
+                "portfolio_conflict_constraint",
+                "product_adoption",
+                "product_appeal_assessment",
+                "product_differentiation_concern",
+                "product_success_factor_assessment",
+                "solution_feasibility_assessment",
+                "stage_valuation_mismatch",
+                "traction_repeatability_concern",
+                "unit_economics_assessment",
+                "venture_scale_concern",
+                "investor_value_add_fit",
+                "founder_coachability_assessment",
+                "founder_communication_quality",
+                "founder_motivation_authenticity",
+                "go_to_market_strategy_assessment",
+                "founder_investor_vision_alignment",
+                "corporate_structure_constraint"
+              ]
+            },
+            "minItems": 1,
+            "uniqueItems": true
+          },
+          "type": {
+            "type": "string",
+            "enum": [
+              "hard_requirement",
+              "preference",
+              "conditional_rule",
+              "descriptive_context"
+            ]
+          },
+          "decision_effect": {
+            "type": "string",
+            "enum": [
+              "supports_investment",
+              "opposes_investment",
+              "context_dependent"
+            ]
+          },
+          "support": {
+            "type": "string",
+            "enum": [
+              "explicit",
+              "inferred"
+            ]
+          },
+          "evidence_refs": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            },
+            "minItems": 1,
+            "uniqueItems": true
+          },
+          "applicability": {
+            "type": "object",
+            "properties": {
+              "investor": {
+                "type": "object",
+                "properties": {
+                  "status": {
+                    "type": "string",
+                    "enum": [
+                      "stated",
+                      "unknown",
+                      "not_stated"
+                    ]
+                  },
+                  "value": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                },
+                "required": [
+                  "status",
+                  "value"
+                ],
+                "additionalProperties": false
+              },
+              "vehicle": {
+                "type": "object",
+                "properties": {
+                  "status": {
+                    "type": "string",
+                    "enum": [
+                      "stated",
+                      "unknown",
+                      "not_stated"
+                    ]
+                  },
+                  "value": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                },
+                "required": [
+                  "status",
+                  "value"
+                ],
+                "additionalProperties": false
+              },
+              "period": {
+                "type": "object",
+                "properties": {
+                  "status": {
+                    "type": "string",
+                    "enum": [
+                      "stated",
+                      "unknown",
+                      "not_stated"
+                    ]
+                  },
+                  "value": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                },
+                "required": [
+                  "status",
+                  "value"
+                ],
+                "additionalProperties": false
+              },
+              "stage": {
+                "type": "object",
+                "properties": {
+                  "status": {
+                    "type": "string",
+                    "enum": [
+                      "stated",
+                      "unknown",
+                      "not_stated"
+                    ]
+                  },
+                  "value": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                },
+                "required": [
+                  "status",
+                  "value"
+                ],
+                "additionalProperties": false
+              },
+              "sector": {
+                "type": "object",
+                "properties": {
+                  "status": {
+                    "type": "string",
+                    "enum": [
+                      "stated",
+                      "unknown",
+                      "not_stated"
+                    ]
+                  },
+                  "value": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                },
+                "required": [
+                  "status",
+                  "value"
+                ],
+                "additionalProperties": false
+              },
+              "geography": {
+                "type": "object",
+                "properties": {
+                  "status": {
+                    "type": "string",
+                    "enum": [
+                      "stated",
+                      "unknown",
+                      "not_stated"
+                    ]
+                  },
+                  "value": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                },
+                "required": [
+                  "status",
+                  "value"
+                ],
+                "additionalProperties": false
+              },
+              "decision_setting": {
+                "type": "object",
+                "properties": {
+                  "status": {
+                    "type": "string",
+                    "enum": [
+                      "stated",
+                      "unknown",
+                      "not_stated"
+                    ]
+                  },
+                  "value": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                },
+                "required": [
+                  "status",
+                  "value"
+                ],
+                "additionalProperties": false
+              }
+            },
+            "required": [
+              "investor",
+              "vehicle",
+              "period",
+              "stage",
+              "sector",
+              "geography",
+              "decision_setting"
+            ],
+            "additionalProperties": false
+          },
+          "preconditions": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "condition": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "evidence_needed": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "on_false": {
+                  "type": "string",
+                  "enum": [
+                    "not_applicable"
+                  ]
+                },
+                "on_unknown": {
+                  "type": "string",
+                  "enum": [
+                    "unresolved"
+                  ]
+                }
+              },
+              "required": [
+                "condition",
+                "evidence_needed",
+                "on_false",
+                "on_unknown"
+              ],
+              "additionalProperties": false
+            }
+          },
+          "applicability_evidence_needed": {
+            "type": "string",
+            "minLength": 1
+          },
+          "missing_information_effect": {
+            "type": "string",
+            "enum": [
+              "unresolved"
+            ]
+          },
+          "exceptions_status": {
+            "type": "string",
+            "enum": [
+              "supported",
+              "unknown",
+              "not_stated"
+            ]
+          },
+          "exceptions": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "statement": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "conditions": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "condition": {
+                        "type": "string",
+                        "minLength": 1
+                      },
+                      "evidence_needed": {
+                        "type": "string",
+                        "minLength": 1
+                      },
+                      "on_false": {
+                        "type": "string",
+                        "enum": [
+                          "not_applicable"
+                        ]
+                      },
+                      "on_unknown": {
+                        "type": "string",
+                        "enum": [
+                          "unresolved"
+                        ]
+                      }
+                    },
+                    "required": [
+                      "condition",
+                      "evidence_needed",
+                      "on_false",
+                      "on_unknown"
+                    ],
+                    "additionalProperties": false
+                  },
+                  "minItems": 1
+                },
+                "evidence_refs": {
+                  "type": "array",
+                  "items": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "minItems": 1,
+                  "uniqueItems": true
+                },
+                "applicability": {
+                  "type": "object",
+                  "properties": {
+                    "investor": {
+                      "type": "object",
+                      "properties": {
+                        "status": {
+                          "type": "string",
+                          "enum": [
+                            "stated",
+                            "unknown",
+                            "not_stated"
+                          ]
+                        },
+                        "value": {
+                          "type": "string",
+                          "minLength": 1
+                        }
+                      },
+                      "required": [
+                        "status",
+                        "value"
+                      ],
+                      "additionalProperties": false
+                    },
+                    "vehicle": {
+                      "type": "object",
+                      "properties": {
+                        "status": {
+                          "type": "string",
+                          "enum": [
+                            "stated",
+                            "unknown",
+                            "not_stated"
+                          ]
+                        },
+                        "value": {
+                          "type": "string",
+                          "minLength": 1
+                        }
+                      },
+                      "required": [
+                        "status",
+                        "value"
+                      ],
+                      "additionalProperties": false
+                    },
+                    "period": {
+                      "type": "object",
+                      "properties": {
+                        "status": {
+                          "type": "string",
+                          "enum": [
+                            "stated",
+                            "unknown",
+                            "not_stated"
+                          ]
+                        },
+                        "value": {
+                          "type": "string",
+                          "minLength": 1
+                        }
+                      },
+                      "required": [
+                        "status",
+                        "value"
+                      ],
+                      "additionalProperties": false
+                    },
+                    "stage": {
+                      "type": "object",
+                      "properties": {
+                        "status": {
+                          "type": "string",
+                          "enum": [
+                            "stated",
+                            "unknown",
+                            "not_stated"
+                          ]
+                        },
+                        "value": {
+                          "type": "string",
+                          "minLength": 1
+                        }
+                      },
+                      "required": [
+                        "status",
+                        "value"
+                      ],
+                      "additionalProperties": false
+                    },
+                    "sector": {
+                      "type": "object",
+                      "properties": {
+                        "status": {
+                          "type": "string",
+                          "enum": [
+                            "stated",
+                            "unknown",
+                            "not_stated"
+                          ]
+                        },
+                        "value": {
+                          "type": "string",
+                          "minLength": 1
+                        }
+                      },
+                      "required": [
+                        "status",
+                        "value"
+                      ],
+                      "additionalProperties": false
+                    },
+                    "geography": {
+                      "type": "object",
+                      "properties": {
+                        "status": {
+                          "type": "string",
+                          "enum": [
+                            "stated",
+                            "unknown",
+                            "not_stated"
+                          ]
+                        },
+                        "value": {
+                          "type": "string",
+                          "minLength": 1
+                        }
+                      },
+                      "required": [
+                        "status",
+                        "value"
+                      ],
+                      "additionalProperties": false
+                    },
+                    "decision_setting": {
+                      "type": "object",
+                      "properties": {
+                        "status": {
+                          "type": "string",
+                          "enum": [
+                            "stated",
+                            "unknown",
+                            "not_stated"
+                          ]
+                        },
+                        "value": {
+                          "type": "string",
+                          "minLength": 1
+                        }
+                      },
+                      "required": [
+                        "status",
+                        "value"
+                      ],
+                      "additionalProperties": false
+                    }
+                  },
+                  "required": [
+                    "investor",
+                    "vehicle",
+                    "period",
+                    "stage",
+                    "sector",
+                    "geography",
+                    "decision_setting"
+                  ],
+                  "additionalProperties": false
+                }
+              },
+              "required": [
+                "statement",
+                "conditions",
+                "evidence_refs",
+                "applicability"
+              ],
+              "additionalProperties": false
+            }
+          },
+          "uncertainty": {
+            "type": "string",
+            "minLength": 1
+          },
+          "conflicting_evidence_refs": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            },
+            "minItems": 0,
+            "uniqueItems": true
+          },
+          "unresolved_applicability": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "investor",
+                "vehicle",
+                "period",
+                "stage",
+                "sector",
+                "geography",
+                "decision_setting"
+              ]
+            },
+            "uniqueItems": true
+          }
+        },
+        "required": [
+          "id",
+          "statement",
+          "taxonomy_labels",
+          "type",
+          "decision_effect",
+          "support",
+          "evidence_refs",
+          "applicability",
+          "preconditions",
+          "applicability_evidence_needed",
+          "missing_information_effect",
+          "exceptions_status",
+          "exceptions",
+          "uncertainty",
+          "conflicting_evidence_refs",
+          "unresolved_applicability"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "relationships": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "from_policy": {
+            "type": "string",
+            "minLength": 1
+          },
+          "to_policy": {
+            "type": "string",
+            "minLength": 1
+          },
+          "kind": {
+            "type": "string",
+            "enum": [
+              "priority",
+              "qualification",
+              "exception",
+              "contradiction"
+            ]
+          },
+          "statement": {
+            "type": "string",
+            "minLength": 1
+          },
+          "support": {
+            "type": "string",
+            "enum": [
+              "explicit",
+              "inferred"
+            ]
+          },
+          "evidence_refs": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            },
+            "minItems": 1,
+            "uniqueItems": true
+          },
+          "conditions": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "condition": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "evidence_needed": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "on_false": {
+                  "type": "string",
+                  "enum": [
+                    "not_applicable"
+                  ]
+                },
+                "on_unknown": {
+                  "type": "string",
+                  "enum": [
+                    "unresolved"
+                  ]
+                }
+              },
+              "required": [
+                "condition",
+                "evidence_needed",
+                "on_false",
+                "on_unknown"
+              ],
+              "additionalProperties": false
+            }
+          },
+          "applicability": {
+            "type": "object",
+            "properties": {
+              "investor": {
+                "type": "object",
+                "properties": {
+                  "status": {
+                    "type": "string",
+                    "enum": [
+                      "stated",
+                      "unknown",
+                      "not_stated"
+                    ]
+                  },
+                  "value": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                },
+                "required": [
+                  "status",
+                  "value"
+                ],
+                "additionalProperties": false
+              },
+              "vehicle": {
+                "type": "object",
+                "properties": {
+                  "status": {
+                    "type": "string",
+                    "enum": [
+                      "stated",
+                      "unknown",
+                      "not_stated"
+                    ]
+                  },
+                  "value": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                },
+                "required": [
+                  "status",
+                  "value"
+                ],
+                "additionalProperties": false
+              },
+              "period": {
+                "type": "object",
+                "properties": {
+                  "status": {
+                    "type": "string",
+                    "enum": [
+                      "stated",
+                      "unknown",
+                      "not_stated"
+                    ]
+                  },
+                  "value": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                },
+                "required": [
+                  "status",
+                  "value"
+                ],
+                "additionalProperties": false
+              },
+              "stage": {
+                "type": "object",
+                "properties": {
+                  "status": {
+                    "type": "string",
+                    "enum": [
+                      "stated",
+                      "unknown",
+                      "not_stated"
+                    ]
+                  },
+                  "value": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                },
+                "required": [
+                  "status",
+                  "value"
+                ],
+                "additionalProperties": false
+              },
+              "sector": {
+                "type": "object",
+                "properties": {
+                  "status": {
+                    "type": "string",
+                    "enum": [
+                      "stated",
+                      "unknown",
+                      "not_stated"
+                    ]
+                  },
+                  "value": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                },
+                "required": [
+                  "status",
+                  "value"
+                ],
+                "additionalProperties": false
+              },
+              "geography": {
+                "type": "object",
+                "properties": {
+                  "status": {
+                    "type": "string",
+                    "enum": [
+                      "stated",
+                      "unknown",
+                      "not_stated"
+                    ]
+                  },
+                  "value": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                },
+                "required": [
+                  "status",
+                  "value"
+                ],
+                "additionalProperties": false
+              },
+              "decision_setting": {
+                "type": "object",
+                "properties": {
+                  "status": {
+                    "type": "string",
+                    "enum": [
+                      "stated",
+                      "unknown",
+                      "not_stated"
+                    ]
+                  },
+                  "value": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                },
+                "required": [
+                  "status",
+                  "value"
+                ],
+                "additionalProperties": false
+              }
+            },
+            "required": [
+              "investor",
+              "vehicle",
+              "period",
+              "stage",
+              "sector",
+              "geography",
+              "decision_setting"
+            ],
+            "additionalProperties": false
+          },
+          "resolution": {
+            "type": "string",
+            "enum": [
+              "supported",
+              "unresolved"
+            ]
+          }
+        },
+        "required": [
+          "id",
+          "from_policy",
+          "to_policy",
+          "kind",
+          "statement",
+          "support",
+          "evidence_refs",
+          "conditions",
+          "applicability",
+          "resolution"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "limitations": {
+      "type": "string",
+      "minLength": 1
+    }
+  },
+  "required": [
+    "schema_version",
+    "investor_slug",
+    "policies",
+    "relationships",
+    "limitations"
+  ],
+  "additionalProperties": false
+}

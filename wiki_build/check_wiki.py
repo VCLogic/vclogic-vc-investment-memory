@@ -6,6 +6,7 @@ from pathlib import Path
 from .config import DIMENSIONS, LABELS
 from .prep_corpus import normalized, digest
 from .render import evidence_page
+from .policies import basis_errors, validate_policies, validate_guidance, VERSION
 
 CITATION = re.compile(r'\[ev:([^\]\s]+)\]')
 
@@ -32,6 +33,10 @@ def validate_evidence(entries, prepared):
             errors.append(f'{eid}: invalid support')
         if not isinstance(e.get('interpretation'), str) or not e['interpretation'].strip():
             errors.append(f'{eid}: missing interpretation')
+        if 'policy_basis' in e:
+            errors.extend(f'{eid}: {error}' for error in basis_errors(e['policy_basis']))
+            if isinstance(e['policy_basis'], dict) and e['policy_basis'].get('kind') == 'operating_advice' and e.get('support') != 'inferred':
+                errors.append(f'{eid}: operating advice must be inferred when extracted as investment evidence')
         doc = docs.get(e.get('source'))
         if not doc:
             errors.append(f'{eid}: unknown source {e.get("source")}')
@@ -108,6 +113,17 @@ def validate(wiki_dir, codebook_labels=None):
                                             ('portfolio_and_constraints', 'portfolio_and_constraints.md')]}
         context = json.loads((path / 'context.json').read_text()) if (path / 'context.json').exists() else []
         errors.extend(validate_synthesis(synthesis, entries, prepared.get('portfolio', []), context))
+        policy_path = path / 'policies.json'
+        if manifest.get('policies_schema_version') is not None and not policy_path.is_file():
+            errors.append('missing policies.json declared by manifest')
+        if policy_path.is_file():
+            policies = json.loads(policy_path.read_text(encoding='utf-8'))
+            policy_errors = validate_policies(policies, entries, context, prepared['vc_slug'])
+            errors.extend(policy_errors)
+            if manifest.get('policies_schema_version') != VERSION:
+                errors.append('manifest policies_schema_version mismatch')
+            if not policy_errors:
+                errors.extend(validate_guidance(synthesis, policies))
         if codebook_labels:
             errors.extend(f'{e["id"]}: label not in supplied codebook' for e in entries if e['label'] not in codebook_labels)
         if not evidence_errors:

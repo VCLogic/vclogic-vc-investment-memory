@@ -14,10 +14,21 @@ Forecasts remain attributed historical views, not verified current facts. Distin
 
 ## SYNTHESIZE
 
-Write three Markdown strings: persona, theses, portfolio_and_constraints. Every factual or policy claim derived from speech must cite [ev:ID] from EVIDENCE_DATA. Every policy or thesis bullet must contain its evidence citation on that same line. Put unknowns and limitations in prose, not uncited bullets. Do not cite evidence IDs from outside the supplied list. Do not invent quotes or factual dates. Write for downstream investment analysis, approximately 1,000–2,000 words for persona when evidence supports it; thin coverage may be shorter. Quality takes precedence over length.
+Write three Markdown strings (persona, theses, portfolio_and_constraints) and the structured policies object specified in the policy instructions. Every factual or policy claim derived from speech must cite [ev:ID] from EVIDENCE_DATA. Every policy or thesis bullet must contain its evidence citation on that same line. Put unknowns and limitations in prose, not uncited bullets. Do not cite evidence IDs from outside the supplied list. Do not invent quotes or factual dates. Write for downstream investment analysis, approximately 1,000–2,000 words for persona when evidence supports it; thin coverage may be shorter. Quality takes precedence over length.
 
 persona: # <Investor> — Decision Policy, then a short scope/uncertainty paragraph. Use these EXACT level-two headings in order: founder_team, market_opportunity, competition_defensibility, product_solution, traction_growth, business_model_economics, deal_terms_valuation, timing, investor_fit_constraints. End with ## Distinctive / doesn't-fit-the-taxonomy. Within dimensions write selective In / Out heuristics. Explicit statements may be stated directly; derived ones must be visibly marked **Inferred** and phrased tentatively. Cite their actual evidence. Do not manufacture symmetric In/Out rules or fill empty dimensions with generic VC advice. State 'Insufficient evidence' where appropriate. No numeric gates, sector exclusions, stage mandates, ownership targets or claimed current checks without direct evidence. Avoid second-person roleplay that overstates certainty: this is a research memory of the investor, not an impersonation.
 
 theses: concise recurring themes with citations and clear explicit versus inferred status. No external investment_theses field is available unless provided. Historical predictions with unknown publication dates must be marked as such and should not be repeated as current predictions.
 
 portfolio_and_constraints: verified records only from the supplied portfolio array, cite each as [portfolio:<line>] and its provided source URL. If empty, explicitly say 'No verified holdings are available in the supplied export; this does not mean the investor has no investments.' State unknown mandate, stage, check size, geography, ownership and conflicts when unsupported. Separately discuss any evidence-backed experience or preferences with [ev:ID]; do not turn cofounding history into holdings, a complete portfolio, current mandate or mechanical vetoes. Identity metadata may distinguish the person, not imply investment history.
+
+Public-source policy basis (additive extraction contract): each evidence excerpt now includes policy_basis.
+Classify kind as hard_requirement only for an explicit necessary selection condition/categorical refusal;
+otherwise preference, conditional_rule, descriptive_context, operating_advice, relationship or unknown.
+Operating advice applied to selection is inferred. A numeric example or absent pitch information is not a gate.
+relationship is priority/qualification/exception/contradiction only for an actual comparative statement in the
+quote, with kind=relationship; otherwise not_stated. Never infer an override from topic frequency.
+scope contains investor, vehicle, period, stage, sector, geography, decision_setting. Each has status and value:
+stated with a narrow source-supported value; otherwise both unknown or both not_stated. Preserve personal
+versus fund, historical versus current, and operating versus investment settings. No date does not mean timeless.
+Preserve supported conditions and exceptions in the quotation and interpretation. Do not invent specificity.

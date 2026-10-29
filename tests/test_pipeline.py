@@ -4,7 +4,8 @@ import unittest
 from pathlib import Path
 from unittest.mock import patch
 from wiki_build.generator import SolGenerator, chunks, build
-from test_check_wiki import fixture, evidence, synthesis
+from test_check_wiki import fixture, evidence
+from test_policies import new_synthesis as synthesis
 
 
 class PipelineTests(unittest.TestCase):

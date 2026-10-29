@@ -25,7 +25,7 @@ def evidence_page(dimension, entries):
     return '\n\n'.join(blocks) + '\n'
 
 
-def render(path, prepared, entries, synthesis, generation):
+def render(path, prepared, entries, synthesis, generation, policies=None):
     path = Path(path)
     path.mkdir(parents=True, exist_ok=False)
     (path / 'evidence').mkdir()
@@ -55,6 +55,9 @@ def render(path, prepared, entries, synthesis, generation):
                     generated_at=datetime.now(timezone.utc).isoformat(), schema_version='1.0',
                     generation=generation, warnings=prepared['warnings'],
                     input_hashes=prepared['input_hashes'])
+    if policies is not None:
+        write_json(path / 'policies.json', policies)
+        manifest['policies_schema_version'] = policies['schema_version']
     write_json(path / '_manifest.json', manifest)
     lines = ['# Build report', f"Investor: {prepared['vc_slug']}",
              f"Generator: {generation.get('model', 'unknown')}",
@@ -75,3 +78,7 @@ def render(path, prepared, entries, synthesis, generation):
         '[Build report](BUILD_REPORT.md)\n\n'
         'This is a source-grounded research memory. Read the evidence and uncertainty notes before treating '
         'an inferred heuristic as an investment rule.\n', encoding='utf-8')
+
+    if policies is not None:
+        with (path / 'README.md').open('a', encoding='utf-8') as stream:
+            stream.write('\n[Structured policies](policies.json): source-grounded, uncalibrated guidance; applicability and conflicts may be unresolved.\n')

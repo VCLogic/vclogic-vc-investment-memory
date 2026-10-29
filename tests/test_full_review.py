@@ -4,10 +4,10 @@ from wiki_build.full_review import review_errors, review_packets
 
 class FullReviewTests(unittest.TestCase):
     def setUp(self):
-        self.packet={'doc_id':'full:one','part':1,'text':'Hyatt said I favor patient founders.', 'kind':'web','metadata':{}}
+        self.packet={'doc_id':'full:one','part':1,'text':'Example Investor said I favor patient founders.', 'kind':'web','metadata':{}}
         self.result={'reviews':[{'source':'full:one','part':1,'identity':'target','reason':'Named investor',
             'evidence':[{'quote':'I favor patient founders.','label':'founder_qualities','direction':'positive','support':'explicit',
-                         'interpretation':'Favors patience','attribution_basis':'The sentence explicitly credits Hyatt'}], 'context':[]}]}
+                         'interpretation':'Favors patience','attribution_basis':'The sentence explicitly credits Example Investor'}], 'context':[]}]}
 
     def test_complete_attributed_review_passes(self):
         self.assertEqual(review_errors(self.result,[self.packet]),[])
@@ -41,7 +41,7 @@ class FullReviewTests(unittest.TestCase):
     def test_review_fingerprint_changes_with_identity_attribution_and_rules(self):
         import copy
         from wiki_build.full_review import review_fingerprint
-        inv={'identity':{'canonical_name':'Hyatt'}}
+        inv={'identity':{'canonical_name':'Example Investor'}}
         original=review_fingerprint(inv,self.packet)
         packet=copy.deepcopy(self.packet);packet['metadata']['accepted_speaker']='SPEAKER_1'
         self.assertNotEqual(original,review_fingerprint(inv,packet))
@@ -50,7 +50,7 @@ class FullReviewTests(unittest.TestCase):
     def test_stale_prior_review_is_reprocessed(self):
         from wiki_build.full_review import review_all,review_fingerprint
         source={**self.packet,'title':'x','url':'x','published_at':None}
-        inv={'identity':{'canonical_name':'Hyatt'},'sources':[source]}
+        inv={'identity':{'canonical_name':'Example Investor'},'sources':[source]}
         stale={**self.result['reviews'][0],'identity':'uncertain','evidence':[],'input_fingerprint':'old'}
         result=self.result
         class Fake:

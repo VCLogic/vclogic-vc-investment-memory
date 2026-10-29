@@ -7,3 +7,13 @@ dist/
 .wiki-cache/
 # Source exports contain large media/raw artifacts; kept locally, not auto-committed.
 data/
+
+# Investor source material, generated memories, supplements and local run reports.
+/wiki/
+/supplements/
+/local-data/
+/outputs/
+# Never commit credentials or model invocation logs.
+.env
+.env.*
+!.env.example

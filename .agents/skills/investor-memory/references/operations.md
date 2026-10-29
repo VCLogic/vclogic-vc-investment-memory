@@ -6,16 +6,9 @@ The engine extracts saved text, HTML/PDF, and existing transcripts. It does **no
 
 First inspect existing collector transcript artifacts and any supplied supplements. If a suitable transcription tool is available within the task scope, use it to recover missing speech into a separate supplement, keeping the original media unchanged. Preserve media references, transcript method, source hashes, and speaker-attribution evidence. Do not label textual speaker identification as an acoustic match. If recovery cannot be completed, retain the gap in the report and describe the wiki as partial.
 
-Supplement adapters and receipt verification are implemented in `wiki_build/inventory.py` (`apply_supplements`, `apply_resolutions`). Inspect these functions before authoring a new supplement; the existing JSON examples are not a universal schema for arbitrary collector outputs. Incorrectly attributed material should remain uncertain until actual source evidence resolves it.
+Supplement adapters and receipt verification are implemented in `wiki_build/inventory.py` (`apply_supplements`, `apply_resolutions`). Inspect these functions before authoring a new supplement; do not assume an arbitrary collector export matches a supplement schema. Incorrectly attributed material should remain uncertain until actual source evidence resolves it.
 
-For the repository's existing **Michael Hyatt export only**, append these arguments to `full-build`:
-
-```bash
---supplements supplements/michael-hyatt.json \
---identity-resolutions supplements/michael-hyatt-identity.json
-```
-
-The transcript supplement recovers a Tank Talk interview. The identity file contains profile links, explicit textual speaker confirmation, and saved HTML/JSON-LD identity receipts. Identity receipts are checked against actual source files and hashes; if they do not match a new export, investigate the mismatch rather than disabling validation. Do not attach these files to another investor.
+Supply export-specific local files with `--supplements supplements/investor-slug.json` and `--identity-resolutions supplements/investor-slug-identity.json` only when they belong to the resolved investor. Identity receipts are checked against actual source files and hashes. Investigate mismatches instead of disabling validation. These files and generated outputs must remain untracked.
 
 A raw `inventory` command does not apply these supplements. Read the supplemented inventory saved by `full-build` before interpreting final media coverage.
 

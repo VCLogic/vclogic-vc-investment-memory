@@ -9,6 +9,7 @@ See the root [README](../README.md) for complete-run commands and limitations.
 - `config.py`, `taxonomy.json`: Sol defaults and compatible nine-dimension taxonomy.
 - `generator.py`: structured Codex calls, cache, bounded repair and curated builds.
 - `render.py`: deterministic evidence pages, source index and manifests.
+- `policies.py`, `policies.schema.json`, `POLICIES.md`: additive versioned policy contract, grounding checks, stable IDs and deterministic persona guidance. See the [contract, semantic-review checklist and onboarding handoff](../docs/policies.md).
 - `check_wiki.py`: offline validation of both source policies.
 - `__main__.py`: `inventory`, `full-build`, `prepare`, `build`, `check` commands.
 

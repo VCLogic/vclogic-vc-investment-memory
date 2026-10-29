@@ -19,4 +19,4 @@ investor-memory = "wiki_build.__main__:main"
 packages = ["wiki_build"]
 
 [tool.setuptools.package-data]
-wiki_build = ["taxonomy.json", "AGENT.md", "FULL_AGENT.md"]
+wiki_build = ["taxonomy.json", "AGENT.md", "FULL_AGENT.md", "POLICIES.md", "policies.schema.json"]

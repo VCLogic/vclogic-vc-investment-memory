@@ -82,8 +82,8 @@ class InventoryTests(unittest.TestCase):
     def test_confirmed_textual_resolution_keeps_acoustic_uncertainty(self):
         from wiki_build.inventory import apply_resolutions
         p=self.root/'resolutions.json'
-        p.write_text(json.dumps({'speaker_resolutions':[{'confirmed':True,'source':'s','speaker_label':'SPEAKER_1','quotes':['Hello Michael Hyatt.']}]}))
-        source={'doc_id':'s','text':'[SPEAKER_1] Hello Michael Hyatt.','metadata':{'attribution_status':'uncertain'}}
+        p.write_text(json.dumps({'speaker_resolutions':[{'confirmed':True,'source':'s','speaker_label':'SPEAKER_1','quotes':['Hello Example Investor.']}]}))
+        source={'doc_id':'s','text':'[SPEAKER_1] Hello Example Investor.','metadata':{'attribution_status':'uncertain'}}
         result=apply_resolutions({'identity':{},'sources':[source]},p,self.root)
         metadata=result['sources'][0]['metadata']
         self.assertEqual(metadata['attribution_status'],'accepted_textual_review')

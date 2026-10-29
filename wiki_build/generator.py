@@ -1,6 +1,7 @@
 """Bounded Sol map/reduce with auditable, content-addressed response caching."""
 import json
 import os
+import re
 import signal
 import subprocess
 import tempfile
@@ -11,6 +12,7 @@ from .config import MODEL, BATCH_CHARS, TAXONOMY
 from .prep_corpus import digest, normalized
 from .check_wiki import validate, validate_evidence, validate_synthesis
 from .render import render, write_json
+from .policies import BASIS_SCHEMA, DRAFT_SCHEMA, finalize, guidance, validate_policies, MARKER
 
 REVISION = 'investor-memory-v1'
 INSTRUCTIONS = Path(__file__).with_name('AGENT.md').read_text(encoding='utf-8')
@@ -24,8 +26,36 @@ STRING = {'type': 'string'}
 EVIDENCE_SCHEMA = object_schema({'evidence': {'type': 'array', 'items': object_schema({
     'source': STRING, 'quote': STRING, 'label': {'type': 'string', 'enum': [e['label'] for e in TAXONOMY]},
     'direction': {'type': 'string', 'enum': ['positive', 'negative', 'neutral']},
-    'support': {'type': 'string', 'enum': ['explicit', 'inferred']}, 'interpretation': STRING})}})
-SYNTHESIS_SCHEMA = object_schema({k: STRING for k in ('persona', 'theses', 'portfolio_and_constraints')})
+    'support': {'type': 'string', 'enum': ['explicit', 'inferred']}, 'interpretation': STRING,
+    'policy_basis': BASIS_SCHEMA})}})
+SYNTHESIS_SCHEMA = object_schema({**{k: STRING for k in ('persona', 'theses', 'portfolio_and_constraints')},
+                                  'policies': DRAFT_SCHEMA})
+POLICY_RULES = Path(__file__).with_name('POLICIES.md').read_text(encoding='utf-8')
+
+
+def check_synthesis(result, entries, context=(), portfolio=None):
+    errors = validate_synthesis(result, entries, portfolio, context)
+    policy_errors = validate_policies(result.get('policies') if isinstance(result, dict) else None, entries, context, draft=True)
+    errors += policy_errors
+    if not policy_errors:
+        valid = {'policy': {p['key'] for p in result['policies']['policies']},
+                 'relationship': {r['key'] for r in result['policies']['relationships']}}
+        for page in ('persona', 'theses', 'portfolio_and_constraints'):
+            for kind, key in re.findall(r'\[(policy|relationship):([^\]]+)\]', str(result.get(page, ''))):
+                if key not in valid[kind]:
+                    errors.append(f'{page}: unknown {kind} reference {key}')
+    if isinstance(result, dict) and MARKER in str(result.get('persona', '')):
+        errors.append('persona: policy guidance section is reserved for deterministic rendering')
+    return errors
+
+
+def finish_synthesis(result, entries, context, slug):
+    policies, mapping = finalize(result['policies'], entries, context, slug)
+    synthesis = {k: re.sub(r'\[(policy|relationship):([^\]]+)\]',
+                 lambda m: '[' + m[1] + ':' + mapping.get(m[2], m[2]) + ']', result[k])
+                 for k in ('persona', 'theses', 'portfolio_and_constraints')}
+    synthesis['persona'] = synthesis['persona'].rstrip() + '\n\n' + guidance(policies)
+    return synthesis, policies
 
 
 class SolGenerator:
@@ -164,16 +194,17 @@ def build(prepared, output, generator, batch_chars=BATCH_CHARS):
     if len(payload) > 240_000:
         raise ValueError('Evidence exceeds v1 synthesis limit (240,000 characters); use a narrower curated corpus')
     print(f'Synthesizing {len(entries)} verified excerpts with {generator.model}', flush=True)
-    prompt = INSTRUCTIONS + '\n\nTASK: SYNTHESIZE\nEVIDENCE_DATA:\n' + payload
-    synthesis = generator.call(prompt, SYNTHESIS_SCHEMA, lambda r: validate_synthesis(r, entries, prepared['portfolio']))
-    errors = validate_synthesis(synthesis, entries, prepared['portfolio'])
+    prompt = INSTRUCTIONS + POLICY_RULES + '\n\nTASK: SYNTHESIZE\nEVIDENCE_DATA:\n' + payload
+    synthesis = generator.call(prompt, SYNTHESIS_SCHEMA, lambda r: check_synthesis(r, entries, portfolio=prepared['portfolio']))
+    errors = check_synthesis(synthesis, entries, portfolio=prepared['portfolio'])
     if errors:
         raise ValueError('; '.join(errors))
+    synthesis, policies = finish_synthesis(synthesis, entries, [], prepared['vc_slug'])
     output.parent.mkdir(parents=True, exist_ok=True)
     # Retain failed staging artifact for diagnosis, never expose it as the requested wiki.
     stage = Path(tempfile.mkdtemp(prefix=f'.{output.name}-build-', dir=output.parent)) / 'wiki'
     render(stage, prepared, entries, synthesis, {'model': generator.model,
-           'revision': REVISION, 'calls': generator.calls, 'source_chunks': len(parts)})
+           'revision': REVISION, 'calls': generator.calls, 'source_chunks': len(parts)}, policies=policies)
     errors = validate(stage)
     write_json(stage / 'validation.json', {'valid': not errors, 'errors': errors})
     if errors:
