@@ -57,7 +57,7 @@ def inventory(root):
     files = {}
     for p in sorted(root.rglob('*')):
         if not p.is_file(): continue
-        rel = str(p.relative_to(root))
+        rel = p.relative_to(root).as_posix()
         disposition = ('raw_media_derivative' if p.suffix in ('.wav', '.webm', '.m4a', '.mp3', '.mp4') else
                        'search_discovery_not_collected_evidence' if rel.startswith(('discovery/', 'state/source_search/')) else
                        'operational_metadata_or_derivative')
@@ -94,7 +94,7 @@ def inventory(root):
         result = row['result']; attr = result.get('attribution', {})
         text = aligned_text(result.get('aligned_segments', []))
         add(text, candidate.get('canonical_url', candidate.get('url')), candidate.get('title'), 'transcript',
-            [{'path': str(avpath.relative_to(root)), 'line': line}],
+            [{'path': avpath.relative_to(root).as_posix(), 'line': line}],
             {'attribution_status': attr.get('status'), 'accepted_speaker': attr.get('speaker_label') if attr.get('status') in ('accepted_model', 'accepted_manual') else None,
              'candidate_id': row['candidate_id'], 'artifact_id': row.get('artifact_id'),
              'identity_confidence': candidate.get('identity_confidence'), 'channel': candidate.get('channel')})
@@ -115,7 +115,7 @@ def inventory(root):
                  'accepted_speaker': (row.get('speaker_attribution') or {}).get('speaker_label')}, published_at=row.get('published_at'))
     # Saved collected articles, including profiles and third-party reports, are evidence candidates.
     for p in sorted(root.rglob('*.json')):
-        rel = str(p.relative_to(root))
+        rel = p.relative_to(root).as_posix()
         if rel.startswith(('discovery/', 'state/', 'audit/', 'identity/')): continue
         try: row = json.loads(p.read_text())
         except (ValueError, UnicodeError): continue
@@ -129,7 +129,7 @@ def inventory(root):
                 files[rel]['disposition'] = 'unsafe_sidecar_path'; continue
             if not target.is_file():
                 files[rel]['disposition'] = 'missing_sidecar_target'; continue
-            target_rel = str(target.relative_to(root))
+            target_rel = target.relative_to(root).as_posix()
             if target.suffix not in ('.html', '.htm', '.pdf'): continue
             if files[target_rel]['source_ids']: continue
             try:
@@ -181,7 +181,7 @@ def complete_media_inventory(inv, root):
             artifacts[meta['artifact_id']] = meta
     for p in sorted((root / 'state/av_transcripts').glob('*.json')):
         row = json.loads(p.read_text()); meta = artifacts.get(row.get('artifact_id'), {})
-        url = meta.get('source_url'); rel = str(p.relative_to(root))
+        url = meta.get('source_url'); rel = p.relative_to(root).as_posix()
         if not url:
             files[rel]['disposition'] = 'unlinked_cached_transcript_requires_review'
             inv['warnings'].append(f'Unlinked cached transcript: {rel}'); continue

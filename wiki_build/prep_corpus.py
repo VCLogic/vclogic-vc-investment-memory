@@ -69,7 +69,7 @@ def prepare(root):
     input_hashes = {}
     for path in paths:
         if path.exists():
-            input_hashes[str(path.relative_to(root))] = hashlib.sha256(path.read_bytes()).hexdigest()
+            input_hashes[path.relative_to(root).as_posix()] = hashlib.sha256(path.read_bytes()).hexdigest()
         for line, row in read_rows(path):
             doc_id = row.get('source_item_id') or row.get('doc_id')
             text = row.get('text')
@@ -100,7 +100,7 @@ def prepare(root):
                 seen_ids[doc_id] = sha
                 seen_text.add(sha)
             if reason:
-                excluded.append({'doc_id': doc_id, 'input_path': str(path.relative_to(root)),
+                excluded.append({'doc_id': doc_id, 'input_path': path.relative_to(root).as_posix(),
                                  'input_line': line, 'reason': reason})
                 continue
             documents.append({
@@ -110,7 +110,7 @@ def prepare(root):
                 'material_role': row.get('material_role', 'curated_legacy'),
                 'speaker_attribution': row.get('speaker_attribution'),
                 'identity_confidence': row.get('identity_confidence'),
-                'input_path': str(path.relative_to(root)), 'input_line': line,
+                'input_path': path.relative_to(root).as_posix(), 'input_line': line,
                 'document_version_id': row.get('document_version_id'),
             })
     if not documents:
@@ -125,7 +125,7 @@ def prepare(root):
             portfolio_excluded.append({'input_line': line, 'reason': 'unsupported_portfolio_record_schema_or_verification'})
     for path in (identity_path, portfolio_path):
         if path.exists():
-            input_hashes[str(path.relative_to(root))] = hashlib.sha256(path.read_bytes()).hexdigest()
+            input_hashes[path.relative_to(root).as_posix()] = hashlib.sha256(path.read_bytes()).hexdigest()
     chars = sum(len(d['text']) for d in documents)
     if chars < THIN_CORPUS_CHARS:
         warnings.append('Thin corpus: fewer than 600,000 characters; avoid extrapolating hard investment rules.')
