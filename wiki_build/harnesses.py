@@ -3,6 +3,8 @@ import shutil
 import subprocess
 import sys
 
+import questionary
+
 REQUIRED_FLAGS = {
     'codex': ('--ignore-user-config', '--ephemeral', '--output-schema', '--output-last-message', '--sandbox', '--json'),
     'claude': ('--print', '--json-schema', '--output-format', '--tools', '--strict-mcp-config',
@@ -27,26 +29,19 @@ def select_harness(requested='auto', interactive=None):
     if len(available) == 1:
         return available[0]
     if interactive is None:
-        interactive = sys.stdin.isatty()
+        interactive = sys.stdin.isatty() and sys.stdout.isatty()
     if not interactive:
         raise ValueError('Both Codex and Claude Code are installed. Select --harness codex or --harness claude '
                          'for a non-interactive run; use investor-memory harnesses --json to discover choices.')
-    print('Available generation harnesses (authentication/model access not checked):', file=sys.stderr)
-    for i, name in enumerate(available, 1):
-        print(f'  {i}. {name}: {installed[name]}', file=sys.stderr)
-    while True:
-        try:
-            print('Which harness do you prefer? Enter a name or number (q to cancel): ', end='', file=sys.stderr, flush=True)
-            choice = input().strip().lower()
-        except (EOFError, KeyboardInterrupt) as exc:
-            raise ValueError('Harness selection cancelled; pass --harness explicitly to run later.') from exc
-        if choice in available:
-            return choice
-        if choice.isdigit() and 1 <= int(choice) <= len(available):
-            return available[int(choice)-1]
-        if choice in ('q', 'quit', 'cancel'):
-            raise ValueError('Harness selection cancelled.')
-        print('Choose one of the listed harnesses.', file=sys.stderr)
+    # Same arrow-key menu as the collector wizard; authentication is checked at invocation.
+    choice = questionary.select(
+        'Which generation harness?',
+        choices=[questionary.Choice(f'{name}  ({installed[name]})', value=name) for name in available],
+        use_jk_keys=False,
+    ).ask()
+    if choice is None:
+        raise ValueError('Harness selection cancelled; pass --harness explicitly to run later.')
+    return choice
 
 
 def check_compatibility(name):

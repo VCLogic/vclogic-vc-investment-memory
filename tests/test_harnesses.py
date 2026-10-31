@@ -35,9 +35,12 @@ class HarnessTests(unittest.TestCase):
 
     def test_interactive_choice_and_cancel(self):
         with patch('wiki_build.harnesses.discover', return_value={'codex': '/bin/codex', 'claude': '/bin/claude'}):
-            with patch('builtins.input', side_effect=['invalid', '2']):
+            with patch('questionary.select') as select:
+                select.return_value.ask.return_value = 'claude'
                 self.assertEqual(select_harness('auto', interactive=True), 'claude')
-            with patch('builtins.input', side_effect=EOFError):
+                offered = [c.value for c in select.call_args.kwargs['choices']]
+                self.assertEqual(offered, ['codex', 'claude'])
+                select.return_value.ask.return_value = None  # Ctrl+C or Esc
                 with self.assertRaisesRegex(ValueError, 'cancelled'):
                     select_harness('auto', interactive=True)
 
