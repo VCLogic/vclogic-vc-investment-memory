@@ -102,6 +102,21 @@ class HarnessTests(unittest.TestCase):
             with patch('wiki_build.generator.subprocess.Popen', side_effect=popen):
                 self.assertEqual(g._invoke(Path(tmp), 'Founders’ café', {'type': 'object'}), {'ok': True})
 
+    def test_codex_schema_omits_uniqueitems_but_check_still_enforces_it(self):
+        from wiki_build.policies import DRAFT_SCHEMA, schema_errors
+        self.assertIn('"uniqueItems"', json.dumps(DRAFT_SCHEMA))
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            g = HarnessGenerator(tmp)
+            def popen(command, **kwargs):
+                (root / 'raw-response.json').write_text('{"ok": true}')
+                return unittest.mock.Mock(returncode=0)
+            with patch('wiki_build.generator.subprocess.Popen', side_effect=popen):
+                g._invoke(root, 'prompt', DRAFT_SCHEMA)
+            self.assertNotIn('uniqueItems', (root / 'schema.json').read_text())
+        labels = {'type': 'array', 'items': {'type': 'string'}, 'uniqueItems': True}
+        self.assertTrue(schema_errors(['a', 'a'], labels))
+
     def test_claude_failure_or_missing_structure_not_accepted(self):
         for payload in ({'is_error': True, 'structured_output': {'ok': True}}, {'result': 'plain prose'}):
             with self.subTest(payload=payload), tempfile.TemporaryDirectory() as tmp:

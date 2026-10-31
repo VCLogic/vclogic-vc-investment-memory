@@ -110,7 +110,7 @@ class HarnessGenerator:
         return response
 
     def _invoke(self, directory, prompt, schema):
-        write_json(directory / 'schema.json', schema)
+        write_json(directory / 'schema.json', strict_schema(schema) if self.harness == 'codex' else schema)
         (directory / 'prompt.txt').write_text(prompt, encoding='utf-8')
         # Use authenticated installed CLI. No shell interpolation; source text goes through stdin.
         command = ['codex', 'exec', '--ignore-user-config', '--ephemeral', '--skip-git-repo-check',
@@ -153,6 +153,15 @@ class HarnessGenerator:
             return json.loads((directory / 'raw-response.json').read_text(encoding='utf-8'))
         except (OSError, ValueError) as exc:
             raise ValueError(f'{self.harness} did not return valid JSON; see {directory}') from exc
+
+
+def strict_schema(schema):
+    """Codex's strict structured output rejects uniqueItems; check() still enforces it locally."""
+    if isinstance(schema, dict):
+        return {k: strict_schema(v) for k, v in schema.items() if k != 'uniqueItems'}
+    if isinstance(schema, list):
+        return [strict_schema(v) for v in schema]
+    return schema
 
 
 # Preserve the original programmatic API and Codex cache keys.
