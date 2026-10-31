@@ -7,7 +7,7 @@ from pathlib import Path
 from .config import BATCH_CHARS
 from .prep_corpus import prepare
 from .generator import HarnessGenerator, build
-from .harnesses import discover, select_harness, check_compatibility
+from .harnesses import discover, select_harness, select_model, check_compatibility
 from .check_wiki import validate
 
 
@@ -76,7 +76,8 @@ def main():
                 raise ValueError('Timeout must be positive')
             selected = select_harness(args.harness)
             check_compatibility(selected)
-            generator = HarnessGenerator(args.cache_dir, args.model, args.timeout, harness=selected)
+            model = select_model(selected, args.model)
+            generator = HarnessGenerator(args.cache_dir, model, args.timeout, harness=selected)
             print(f'Generation harness: {selected}; model: {generator.model}. Authentication/model access checked at invocation.', file=sys.stderr)
         if args.command in ('inventory', 'full-build'):
             from .inventory import inventory, apply_supplements, apply_resolutions

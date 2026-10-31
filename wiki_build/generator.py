@@ -124,14 +124,19 @@ class HarnessGenerator:
                        '--strict-mcp-config', '--disable-slash-commands', '--no-session-persistence']
         write_json(directory / 'invocation.json', {'command': command, 'model': self.model, 'harness': self.harness})
         # Isolated cwd contains no project source; prompt supplies all inputs.
-        with tempfile.TemporaryDirectory(prefix='investor-memory-harness-') as cwd:
+        # Windows cannot delete a directory a just-exited CLI still holds; leftovers stay in temp.
+        with tempfile.TemporaryDirectory(prefix='investor-memory-harness-', ignore_cleanup_errors=True) as cwd:
             with (directory / 'events.jsonl').open('w') as stdout, (directory / 'stderr.log').open('w') as stderr:
+                # Explicit UTF-8: Windows would otherwise encode the prompt with the ANSI code page.
                 proc = subprocess.Popen(command, stdin=subprocess.PIPE, stdout=stdout, stderr=stderr,
-                                        text=True, cwd=cwd, start_new_session=True)
+                                        text=True, encoding='utf-8', cwd=cwd, start_new_session=True)
                 try:
                     proc.communicate(prompt, timeout=self.timeout)
                 except subprocess.TimeoutExpired as exc:
-                    os.killpg(proc.pid, signal.SIGKILL)
+                    if hasattr(os, 'killpg'):
+                        os.killpg(proc.pid, signal.SIGKILL)
+                    else:  # Windows has no process groups here; stop the CLI itself.
+                        proc.kill()
                     proc.communicate()
                     raise RuntimeError(f'{self.harness} timed out after {self.timeout}s; see {directory}') from exc
         if proc.returncode:

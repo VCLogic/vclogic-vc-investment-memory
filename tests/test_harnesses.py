@@ -1,11 +1,12 @@
 import json
 import subprocess
+import sys
 import tempfile
 import unittest
 from pathlib import Path
 from unittest.mock import patch
 
-from wiki_build.harnesses import discover, select_harness, check_compatibility
+from wiki_build.harnesses import discover, select_harness, select_model, check_compatibility
 from wiki_build.generator import HarnessGenerator
 
 
@@ -44,6 +45,22 @@ class HarnessTests(unittest.TestCase):
                 with self.assertRaisesRegex(ValueError, 'cancelled'):
                     select_harness('auto', interactive=True)
 
+    def test_model_choice_explicit_default_menu_and_typed(self):
+        self.assertEqual(select_model('codex', 'gpt-x', interactive=True), 'gpt-x')
+        self.assertEqual(select_model('codex', interactive=False), 'gpt-5.6-sol')
+        self.assertEqual(select_model('claude', interactive=False), 'sonnet')
+        with patch('questionary.select') as select, patch('questionary.text') as text:
+            select.return_value.ask.return_value = 'opus'
+            self.assertEqual(select_model('claude', interactive=True), 'opus')
+            offered = [c.value for c in select.call_args.kwargs['choices']]
+            self.assertEqual(offered, ['sonnet', 'opus', 'haiku', ''])
+            select.return_value.ask.return_value = ''
+            text.return_value.ask.return_value = ' gpt-custom '
+            self.assertEqual(select_model('codex', interactive=True), 'gpt-custom')
+            text.return_value.ask.return_value = None
+            with self.assertRaisesRegex(ValueError, 'cancelled'):
+                select_model('codex', interactive=True)
+
     def test_harness_models_and_caches_are_separate(self):
         with tempfile.TemporaryDirectory() as tmp:
             codex = HarnessGenerator(tmp)
@@ -71,6 +88,19 @@ class HarnessTests(unittest.TestCase):
             with patch('wiki_build.generator.subprocess.Popen', side_effect=popen):
                 self.assertEqual(g._invoke(root, 'private source', {'type': 'object'}), {'ok': True})
             self.assertEqual(json.loads((root/'raw-response.json').read_text()), {'ok': True})
+
+    def test_prompt_reaches_the_cli_as_utf8(self):
+        # A real child process checks the bytes; Windows would otherwise send the ANSI code page.
+        check = ("import sys, json; data = sys.stdin.buffer.read(); "
+                 "print(json.dumps({'is_error': False, 'structured_output': "
+                 "{'ok': data.decode('utf-8') == 'Founders’ café'}}))")
+        real_popen = subprocess.Popen
+        with tempfile.TemporaryDirectory() as tmp:
+            g = HarnessGenerator(tmp, harness='claude')
+            def popen(command, **kwargs):
+                return real_popen([sys.executable, '-c', check], **kwargs)
+            with patch('wiki_build.generator.subprocess.Popen', side_effect=popen):
+                self.assertEqual(g._invoke(Path(tmp), 'Founders’ café', {'type': 'object'}), {'ok': True})
 
     def test_claude_failure_or_missing_structure_not_accepted(self):
         for payload in ({'is_error': True, 'structured_output': {'ok': True}}, {'result': 'plain prose'}):

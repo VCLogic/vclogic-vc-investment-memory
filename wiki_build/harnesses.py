@@ -5,6 +5,8 @@ import sys
 
 import questionary
 
+from .config import MODEL
+
 REQUIRED_FLAGS = {
     'codex': ('--ignore-user-config', '--ephemeral', '--output-schema', '--output-last-message', '--sandbox', '--json'),
     'claude': ('--print', '--json-schema', '--output-format', '--tools', '--strict-mcp-config',
@@ -44,10 +46,35 @@ def select_harness(requested='auto', interactive=None):
     return choice
 
 
+def select_model(harness, requested=None, interactive=None):
+    """The --model value if given; otherwise ask in a terminal, else the harness default."""
+    if requested:
+        return requested
+    default = MODEL if harness == 'codex' else 'sonnet'
+    if interactive is None:
+        interactive = sys.stdin.isatty() and sys.stdout.isatty()
+    if not interactive:
+        return default
+    # Claude Code accepts these aliases; other Codex or Claude models are typed in.
+    names = [default] + (['opus', 'haiku'] if harness == 'claude' else [])
+    choice = questionary.select(
+        f'Which {harness} model?',
+        choices=[questionary.Choice(f'{name} (default)' if name == default else name, value=name) for name in names]
+        + [questionary.Choice('Other: type a model name', value='')],
+        use_jk_keys=False,
+    ).ask()
+    if choice == '':
+        choice = questionary.text('Model name').ask()
+    if not choice:
+        raise ValueError('Model selection cancelled; pass --model explicitly to run later.')
+    return choice.strip()
+
+
 def check_compatibility(name):
     command = [name, 'exec', '--help'] if name == 'codex' else [name, '--help']
     try:
-        result = subprocess.run(command, capture_output=True, text=True, timeout=15)
+        result = subprocess.run(command, capture_output=True, text=True, encoding='utf-8',
+                                errors='replace', timeout=15)
     except (OSError, subprocess.TimeoutExpired) as exc:
         raise ValueError(f'Cannot inspect {name} CLI; repair its installation before generation.') from exc
     missing = [flag for flag in REQUIRED_FLAGS[name] if flag not in result.stdout]
