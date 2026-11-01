@@ -11,7 +11,7 @@ from .generator import object_schema, STRING, EVIDENCE_SCHEMA, chunks
 from .check_wiki import validate_evidence
 from .prep_corpus import normalized
 
-RULES = Path(__file__).with_name('FULL_AGENT.md').read_text()
+RULES = Path(__file__).with_name('FULL_AGENT.md').read_text(encoding='utf-8')
 evidence_properties = dict(EVIDENCE_SCHEMA['properties']['evidence']['items']['properties'])
 evidence_properties.pop('source')
 evidence_properties['attribution_basis'] = STRING

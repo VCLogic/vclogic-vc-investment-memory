@@ -51,7 +51,7 @@ def aligned_text(segments):
 
 def inventory(root):
     root = Path(root).resolve()
-    identity = json.loads((root / 'identity/resolved_identity.json').read_text())
+    identity = json.loads((root / 'identity/resolved_identity.json').read_text(encoding='utf-8'))
     if identity.get('resolution_status') != 'confirmed' or identity.get('slug') != root.name:
         raise ValueError('Full export requires a confirmed matching identity')
     files = {}
@@ -117,7 +117,7 @@ def inventory(root):
     for p in sorted(root.rglob('*.json')):
         rel = p.relative_to(root).as_posix()
         if rel.startswith(('discovery/', 'state/', 'audit/', 'identity/')): continue
-        try: row = json.loads(p.read_text())
+        try: row = json.loads(p.read_text(encoding='utf-8'))
         except (ValueError, UnicodeError): continue
         if not isinstance(row, dict): continue
         if rel.startswith('portfolio/sources/'):
@@ -175,12 +175,12 @@ def complete_media_inventory(inv, root):
     transcript_urls = {url_key(s['url']): s for s in inv['sources'] if s['kind'] == 'transcript'}
     artifacts = {}
     for p in sorted((root / 'raw').rglob('*.json')):
-        try: meta = json.loads(p.read_text())
+        try: meta = json.loads(p.read_text(encoding='utf-8'))
         except (ValueError, UnicodeError): continue
         if isinstance(meta,dict) and meta.get('artifact_id') and meta.get('relative_path'):
             artifacts[meta['artifact_id']] = meta
     for p in sorted((root / 'state/av_transcripts').glob('*.json')):
-        row = json.loads(p.read_text()); meta = artifacts.get(row.get('artifact_id'), {})
+        row = json.loads(p.read_text(encoding='utf-8')); meta = artifacts.get(row.get('artifact_id'), {})
         url = meta.get('source_url'); rel = p.relative_to(root).as_posix()
         if not url:
             files[rel]['disposition'] = 'unlinked_cached_transcript_requires_review'
@@ -216,7 +216,7 @@ def complete_media_inventory(inv, root):
 
 def apply_supplements(inv, path):
     """Merge separately generated transcripts without modifying source exports."""
-    rows = json.loads(Path(path).read_text())
+    rows = json.loads(Path(path).read_text(encoding='utf-8'))
     for source in rows:
         if source['sha256'] != digest(source['text']): raise ValueError('Supplement text hash mismatch')
         if source['doc_id'] not in {s['doc_id'] for s in inv['sources']}:
@@ -233,7 +233,7 @@ def apply_supplements(inv, path):
 def apply_resolutions(inv, path, root):
     """Apply source-backed identity links and explicitly labelled textual speaker reviews."""
     import hashlib
-    data=json.loads(Path(path).read_text());root=Path(root).resolve()
+    data=json.loads(Path(path).read_text(encoding='utf-8'));root=Path(root).resolve()
     context=data.get('identity_context',{})
     account=context.get('verified_social_account')
     if account:

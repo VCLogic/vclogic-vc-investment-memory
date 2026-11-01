@@ -85,7 +85,7 @@ def main():
             from .full_build import full_build
             from .render import write_json
             snapshot = getattr(args, 'inventory', None)
-            inv = json.loads(snapshot.read_text()) if snapshot else inventory(args.investor_dir)
+            inv = json.loads(snapshot.read_text(encoding='utf-8')) if snapshot else inventory(args.investor_dir)
             if inv['vc_slug'] != args.investor_dir.name:
                 raise ValueError('Inventory investor mismatch')
             supplemental = getattr(args, 'supplements', None)
@@ -98,7 +98,7 @@ def main():
                 return 0
             if not 1 <= args.workers <= 8: raise ValueError('Workers must be between 1 and 8')
             write_json(args.cache_dir / 'inventory.json', inv)
-            prior=json.loads(args.reviews.read_text()) if args.reviews else []
+            prior=json.loads(args.reviews.read_text(encoding='utf-8')) if args.reviews else []
             if isinstance(prior,dict): prior=prior['reviews']
             reviews = review_all(inv, generator, args.workers, existing_reviews=prior)
             write_json(args.cache_dir / 'reviews.json', reviews)
@@ -108,7 +108,7 @@ def main():
         if args.command == 'prepare':
             if args.output:
                 args.output.parent.mkdir(parents=True, exist_ok=True)
-                args.output.write_text(json.dumps(prepared, indent=2, ensure_ascii=False) + '\n')
+                args.output.write_text(json.dumps(prepared, indent=2, ensure_ascii=False) + '\n', encoding='utf-8')
             summary = {k: prepared[k] for k in ('vc_slug', 'corpus_chars', 'thin_corpus', 'warnings')}
             summary.update(documents=len(prepared['documents']), excluded=len(prepared['excluded']),
                            portfolio_records=len(prepared['portfolio']))

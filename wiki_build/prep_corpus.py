@@ -45,7 +45,7 @@ def prepare(root):
         raise ValueError(f'Investor directory not found: {root}')
     slug = root.name
     identity_path = root / 'identity/resolved_identity.json'
-    identity = json.loads(identity_path.read_text()) if identity_path.exists() else {
+    identity = json.loads(identity_path.read_text(encoding='utf-8')) if identity_path.exists() else {
         'slug': slug, 'canonical_name': slug.replace('-', ' ').title(), 'resolution_status': 'unavailable'}
     if identity_path.exists() and (identity.get('resolution_status') != 'confirmed'
                                   or identity.get('slug', slug) != slug):
@@ -60,7 +60,7 @@ def prepare(root):
     else:
         base = root / 'corpus' if (root / 'corpus/_manifest.json').exists() else root
         manifest = base / '_manifest.json'
-        if not manifest.exists() or json.loads(manifest.read_text()).get('no_pitch_sources') is not True:
+        if not manifest.exists() or json.loads(manifest.read_text(encoding='utf-8')).get('no_pitch_sources') is not True:
             raise ValueError('Legacy exports require an explicit no_pitch_sources=true manifest')
         paths = [base / 'blog.jsonl', base / 'talks.jsonl']
         warnings.append('Legacy export: speaker attribution and source metadata cannot be independently checked.')

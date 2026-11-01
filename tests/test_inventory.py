@@ -34,6 +34,13 @@ class InventoryTests(unittest.TestCase):
         self.assertEqual(len(result['sources']),1)
         self.assertEqual(len(result['sources'][0]['origins']),2)
 
+    def test_utf8_collected_text_is_read_on_every_platform(self):
+        # Windows' default code page cannot decode ” (0x9d); such files were skipped silently.
+        p=self.root/'portfolio/sources';p.mkdir(parents=True)
+        (p/'quote.json').write_bytes(json.dumps({'text':'She said “hustle” first.','source_url':'https://example.com/q'},ensure_ascii=False).encode('utf-8'))
+        result=inventory(self.root)
+        self.assertEqual([s['text'] for s in result['sources']],['She said “hustle” first.'])
+
     def test_mp3_saved_as_html_is_media_not_source_text(self):
         raw=self.root/'raw';raw.mkdir()
         (raw/'audio.html').write_bytes(b'ID3\x03\x00\x00\x00\x00\x00\x10binary audio')

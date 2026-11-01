@@ -171,10 +171,10 @@ def full_build(inv,reviews,output,generator):
     output.parent.mkdir(parents=True,exist_ok=True)
     stage=Path(tempfile.mkdtemp(prefix=f'.{output.name}-build-',dir=output.parent))/'wiki'
     render(stage,prepared,entries,synthesis,{'model':generator.model,'revision':'full-export-v2','harness':getattr(generator,'harness','codex'),'calls':generator.calls,'synthesis_input':input_mode},policies=policies)
-    write_json(stage/'context.json',context);(stage/'context.md').write_text(context_page(context))
+    write_json(stage/'context.json',context);(stage/'context.md').write_text(context_page(context), encoding='utf-8')
     write_json(stage/'inventory.json',inv);write_json(stage/'source_reviews.json',reviews)
     coverage=coverage_data(inv,reviews);write_json(stage/'coverage.json',coverage)
-    manifest=json.loads((stage/'_manifest.json').read_text())
+    manifest=json.loads((stage/'_manifest.json').read_text(encoding='utf-8'))
     manifest.update(schema_version='2.0',source_policy='full_investor_export',sources_reviewed=len(inv['sources']),
                     source_packets_reviewed=len(reviews),context_count=len(context),files_inventoried=len(inv['files']))
     write_json(stage/'_manifest.json',manifest)
@@ -187,9 +187,9 @@ def full_build(inv,reviews,output,generator):
     for r in reviews:
         title=(titles[r['source']] or r['source']).replace('|','\\|').replace('\n',' ')
         lines.append(f"| {title} (`{r['source']}`) | {r['part']} | {r['identity']} | {r['reason'].replace('|','/').replace(chr(10),' ')} |")
-    (stage/'coverage.md').write_text('\n\n'.join(lines[:3])+'\n\n'+'\n'.join(lines[3:])+'\n')
-    with (stage/'README.md').open('a') as f:f.write('\n[Full source coverage](coverage.md) · [Source-reported context](context.md)\n')
-    with (stage/'BUILD_REPORT.md').open('a') as f:f.write(f'\n## Full-source review\n\n{len(inv["sources"])} text sources reviewed in {len(reviews)} packets. {len(context)} context receipts. See [coverage](coverage.md) for all decisions.\n')
+    (stage/'coverage.md').write_text('\n\n'.join(lines[:3])+'\n\n'+'\n'.join(lines[3:])+'\n',encoding='utf-8')
+    with (stage/'README.md').open('a', encoding='utf-8') as f:f.write('\n[Full source coverage](coverage.md) · [Source-reported context](context.md)\n')
+    with (stage/'BUILD_REPORT.md').open('a', encoding='utf-8') as f:f.write(f'\n## Full-source review\n\n{len(inv["sources"])} text sources reviewed in {len(reviews)} packets. {len(context)} context receipts. See [coverage](coverage.md) for all decisions.\n')
     errors=validate(stage);write_json(stage/'validation.json',{'valid':not errors,'errors':errors})
     if errors:raise ValueError(f'Full wiki validation failed; retained {stage}: '+ '; '.join(errors))
     if output.exists():raise FileExistsError(f'Output appeared during build: {output}')
@@ -200,15 +200,15 @@ def full_build(inv,reviews,output,generator):
 def validate_full_artifacts(path,prepared,entries,context):
     errors=[]
     try:
-        inv=json.loads((path/'inventory.json').read_text());reviews=json.loads((path/'source_reviews.json').read_text())
-        cov=json.loads((path/'coverage.json').read_text())
+        inv=json.loads((path/'inventory.json').read_text(encoding='utf-8'));reviews=json.loads((path/'source_reviews.json').read_text(encoding='utf-8'))
+        cov=json.loads((path/'coverage.json').read_text(encoding='utf-8'))
         source_ids=[s['doc_id'] for s in inv['sources']]
         if len(source_ids)!=len(set(source_ids)):errors.append('duplicate inventory source IDs')
         for source in inv['sources']:
             if source.get('sha256')!=digest(source['text']):errors.append('inventory source text hash mismatch: '+source['doc_id'])
         if any(sid not in source_ids for file in inv['files'] for sid in file['source_ids']):
             errors.append('file ledger references unknown inventory sources')
-        manifest=json.loads((path/'_manifest.json').read_text())
+        manifest=json.loads((path/'_manifest.json').read_text(encoding='utf-8'))
         for key,value in {'sources_reviewed':len(inv['sources']),'source_packets_reviewed':len(reviews),
                           'context_count':len(context),'files_inventoried':len(inv['files'])}.items():
             if manifest.get(key)!=value:errors.append('full manifest count mismatch: '+key)
@@ -216,7 +216,7 @@ def validate_full_artifacts(path,prepared,entries,context):
         if cov!=coverage_data(inv,reviews):errors.append('coverage ledger differs from complete inventory/reviews')
         expected_p,expected_e,expected_c=assemble(inv,reviews)
         if context!=expected_c:errors.append('context receipts differ from admitted source reviews')
-        if (path/'context.md').read_text()!=context_page(context):errors.append('context page differs from source receipts')
+        if (path/'context.md').read_text(encoding='utf-8')!=context_page(context):errors.append('context page differs from source receipts')
         for e,expected in zip(entries,expected_e):
             if {k:v for k,v in e.items() if k not in ('normalized_char_start','normalized_char_end')} != expected:
                 errors.append('evidence differs from admitted source reviews');break

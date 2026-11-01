@@ -111,7 +111,7 @@ def validate(wiki_dir, codebook_labels=None):
         synthesis = {key: (path / filename).read_text(encoding='utf-8') if (path / filename).exists() else ''
                      for key, filename in [('persona', 'persona.md'), ('theses', 'theses.md'),
                                             ('portfolio_and_constraints', 'portfolio_and_constraints.md')]}
-        context = json.loads((path / 'context.json').read_text()) if (path / 'context.json').exists() else []
+        context = json.loads((path / 'context.json').read_text(encoding='utf-8')) if (path / 'context.json').exists() else []
         errors.extend(validate_synthesis(synthesis, entries, prepared.get('portfolio', []), context))
         policy_path = path / 'policies.json'
         if manifest.get('policies_schema_version') is not None and not policy_path.is_file():
