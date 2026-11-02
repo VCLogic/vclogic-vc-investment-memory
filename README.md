@@ -1,5 +1,7 @@
 # VC Investment Memory
 
+> **Part of the [VCLogic suite](https://github.com/VCLogic/vclogic-suite).** To install and run all five components together (collection, memory generation, onboarding, assessment and the web interface), follow the [suite README](https://github.com/VCLogic/vclogic-suite#contents). This README covers using this repository on its own.
+
 Turn a venture investor’s collected source material into a cited investment wiki: how they evaluate companies, what themes they follow, and which investments and company relationships sources report.
 
 New builds also produce **`policies.json`**: evidence-linked requirements, preferences, applicability, exceptions and unresolved trade-offs. See the [policy contract and onboarding handoff](docs/policies.md), [JSON Schema](wiki_build/policies.schema.json) and [fictional example](docs/examples/policies.json). Existing wikis without this additive artifact remain valid; they have not been regenerated. These are public-source policies, not calibrated predictions.
